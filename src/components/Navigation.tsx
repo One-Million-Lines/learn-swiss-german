@@ -1,9 +1,17 @@
-import { Link, useLocation } from "react-router-dom";
-import { Home, BookOpen, RefreshCw, Trophy, Youtube, Info } from "lucide-react";
+import { Link, useLocation, useNavigate } from "react-router-dom";
+import { Home, BookOpen, RefreshCw, Trophy, Youtube, Info, LogOut, User } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import { useAuth } from "@/contexts/AuthContext";
 
 const Navigation = () => {
   const location = useLocation();
+  const navigate = useNavigate();
+  const { user, logout } = useAuth();
+  
+  const handleLogout = () => {
+    logout();
+    navigate('/auth');
+  };
   
   const navItems = [
     { path: "/", label: "Home", icon: Home },
@@ -43,6 +51,34 @@ const Navigation = () => {
                 </Link>
               );
             })}
+          </div>
+
+          <div className="flex items-center gap-3">
+            {user ? (
+              <>
+                <div className="hidden md:flex items-center gap-2 text-sm text-muted-foreground">
+                  <User className="w-4 h-4" />
+                  <span>{user.displayName}</span>
+                </div>
+                <Button 
+                  variant="ghost" 
+                  size="sm" 
+                  onClick={handleLogout}
+                  className="gap-2"
+                >
+                  <LogOut className="w-4 h-4" />
+                  <span className="hidden md:inline">Logout</span>
+                </Button>
+              </>
+            ) : (
+              <Button 
+                variant="default" 
+                size="sm" 
+                onClick={() => navigate('/auth')}
+              >
+                Sign In
+              </Button>
+            )}
           </div>
 
           <div className="md:hidden flex items-center space-x-1 overflow-x-auto">

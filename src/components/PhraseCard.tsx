@@ -1,21 +1,49 @@
 import { Volume2, Heart } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
-import { useState } from "react";
+import { useProgress } from "@/contexts/ProgressContext";
+import { useAuth } from "@/contexts/AuthContext";
+import { useToast } from "@/hooks/use-toast";
 
 interface PhraseCardProps {
+  phraseId: string;
   swissGerman: string;
   german: string;
   english: string;
-  topic?: string;
+  topic: string;
 }
 
-const PhraseCard = ({ swissGerman, german, english, topic }: PhraseCardProps) => {
-  const [isFavorite, setIsFavorite] = useState(false);
+const PhraseCard = ({ phraseId, swissGerman, german, english, topic }: PhraseCardProps) => {
+  const { user } = useAuth();
+  const { progress, toggleFavorite, markPracticed } = useProgress();
+  const { toast } = useToast();
+  
+  const key = `${topic}_${phraseId}`;
+  const isFavorite = progress[key]?.isFavorite || false;
 
   const handlePlay = () => {
-    // Audio playback would be implemented here
+    if (!user) {
+      toast({
+        title: "Sign in required",
+        description: "Please sign in to practice phrases",
+        variant: "destructive",
+      });
+      return;
+    }
+    markPracticed(phraseId, topic);
     console.log("Playing audio for:", swissGerman);
+  };
+
+  const handleToggleFavorite = () => {
+    if (!user) {
+      toast({
+        title: "Sign in required",
+        description: "Please sign in to save favorites",
+        variant: "destructive",
+      });
+      return;
+    }
+    toggleFavorite(phraseId, topic);
   };
 
   return (
@@ -52,7 +80,7 @@ const PhraseCard = ({ swissGerman, german, english, topic }: PhraseCardProps) =>
             <Button
               size="icon"
               variant="outline"
-              onClick={() => setIsFavorite(!isFavorite)}
+              onClick={handleToggleFavorite}
               className={`rounded-full ${
                 isFavorite
                   ? "bg-primary text-primary-foreground hover:bg-primary/90"

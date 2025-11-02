@@ -1,8 +1,22 @@
 import PhraseCard from "@/components/PhraseCard";
 import { Button } from "@/components/ui/button";
 import { ChevronRight } from "lucide-react";
+import { useAuth } from "@/contexts/AuthContext";
+import { useNavigate } from "react-router-dom";
+import { useEffect } from "react";
 
 const Learn = () => {
+  const { user } = useAuth();
+  const navigate = useNavigate();
+
+  useEffect(() => {
+    if (!user) {
+      navigate('/auth');
+    }
+  }, [user, navigate]);
+
+  if (!user) return null;
+
   const lessons = [
     {
       title: "Greetings",
@@ -64,6 +78,7 @@ const Learn = () => {
                   {lesson.phrases.map((phrase, phraseIndex) => (
                     <PhraseCard
                       key={phraseIndex}
+                      phraseId={`${lesson.title.toLowerCase().replace(/\s+/g, '_')}_${phraseIndex}`}
                       swissGerman={phrase.swissGerman}
                       german={phrase.german}
                       english={phrase.english}

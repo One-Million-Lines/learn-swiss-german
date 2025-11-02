@@ -61,6 +61,7 @@ const Home = () => {
             </div>
             
             <PhraseCard
+              phraseId="daily_phrase"
               swissGerman="Wie gaht's dir?"
               german="Wie geht es dir?"
               english="How are you?"

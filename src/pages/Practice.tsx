@@ -1,12 +1,26 @@
-import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { Progress } from "@/components/ui/progress";
 import { Trophy, Target, Flame, Star } from "lucide-react";
+import { useAuth } from "@/contexts/AuthContext";
+import { useProgress } from "@/contexts/ProgressContext";
+import { useNavigate } from "react-router-dom";
+import { useEffect } from "react";
 
 const Practice = () => {
-  const [score, setScore] = useState(0);
-  const totalPhrases = 23;
+  const { user } = useAuth();
+  const navigate = useNavigate();
+  const { getTotalPhrasesPracticed, getStreak, getAccuracy, getTopicProgress, quizResults } = useProgress();
+
+  useEffect(() => {
+    if (!user) {
+      navigate('/auth');
+    }
+  }, [user, navigate]);
+
+  if (!user) return null;
+
+  const totalLessons = quizResults.length;
 
   return (
     <div className="min-h-screen py-12">
@@ -25,25 +39,25 @@ const Practice = () => {
           <div className="grid md:grid-cols-4 gap-4 mb-12">
             <Card className="p-6 text-center">
               <div className="text-3xl mb-2">🎯</div>
-              <div className="text-2xl font-bold text-primary mb-1">{totalPhrases}</div>
+              <div className="text-2xl font-bold text-primary mb-1">{getTotalPhrasesPracticed()}</div>
               <div className="text-sm text-muted-foreground">Phrases Learned</div>
             </Card>
 
             <Card className="p-6 text-center">
               <div className="text-3xl mb-2">🔥</div>
-              <div className="text-2xl font-bold text-primary mb-1">7</div>
+              <div className="text-2xl font-bold text-primary mb-1">{getStreak()}</div>
               <div className="text-sm text-muted-foreground">Day Streak</div>
             </Card>
 
             <Card className="p-6 text-center">
               <div className="text-3xl mb-2">⭐</div>
-              <div className="text-2xl font-bold text-primary mb-1">85%</div>
+              <div className="text-2xl font-bold text-primary mb-1">{getAccuracy()}%</div>
               <div className="text-sm text-muted-foreground">Accuracy</div>
             </Card>
 
             <Card className="p-6 text-center">
               <div className="text-3xl mb-2">🏆</div>
-              <div className="text-2xl font-bold text-primary mb-1">5</div>
+              <div className="text-2xl font-bold text-primary mb-1">{totalLessons}</div>
               <div className="text-sm text-muted-foreground">Lessons Done</div>
             </Card>
           </div>
@@ -55,25 +69,25 @@ const Practice = () => {
               <div>
                 <div className="flex justify-between mb-2">
                   <span className="font-semibold">Greetings</span>
-                  <span className="text-muted-foreground">100%</span>
+                  <span className="text-muted-foreground">{getTopicProgress("Greetings")}/3</span>
                 </div>
-                <Progress value={100} className="h-2" />
+                <Progress value={(getTopicProgress("Greetings") / 3) * 100} className="h-2" />
               </div>
               
               <div>
                 <div className="flex justify-between mb-2">
                   <span className="font-semibold">Food & Drink</span>
-                  <span className="text-muted-foreground">75%</span>
+                  <span className="text-muted-foreground">{getTopicProgress("Food & Drink")}/3</span>
                 </div>
-                <Progress value={75} className="h-2" />
+                <Progress value={(getTopicProgress("Food & Drink") / 3) * 100} className="h-2" />
               </div>
               
               <div>
                 <div className="flex justify-between mb-2">
                   <span className="font-semibold">Daily Life</span>
-                  <span className="text-muted-foreground">40%</span>
+                  <span className="text-muted-foreground">{getTopicProgress("Daily Life")}/3</span>
                 </div>
-                <Progress value={40} className="h-2" />
+                <Progress value={(getTopicProgress("Daily Life") / 3) * 100} className="h-2" />
               </div>
             </div>
           </Card>
