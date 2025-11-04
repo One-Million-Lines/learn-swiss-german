@@ -28,6 +28,8 @@ interface ProgressContextType {
   getTotalPhrasesPracticed: () => number;
   getStreak: () => number;
   getAccuracy: () => number;
+  getLevelProgress: (level: string) => { completed: number; total: number };
+  isLevelUnlocked: (level: string) => boolean;
 }
 
 const ProgressContext = createContext<ProgressContextType | undefined>(undefined);
@@ -164,6 +166,36 @@ export const ProgressProvider = ({ children }: { children: React.ReactNode }) =>
     return totalQuestions > 0 ? Math.round((totalScore / totalQuestions) * 100) : 0;
   };
 
+  const getLevelProgress = (level: string) => {
+    const levelPhrases = Object.values(progress).filter(p => p.topic.startsWith(level));
+    const completed = levelPhrases.filter(p => p.timesPracticed > 0).length;
+    
+    // Define total phrases per level
+    const totals: Record<string, number> = {
+      'Level 1': 9,
+      'Level 2': 9,
+      'Level 3': 6,
+    };
+    
+    return { completed, total: totals[level] || 0 };
+  };
+
+  const isLevelUnlocked = (level: string) => {
+    if (level === 'Level 1') return true;
+    
+    if (level === 'Level 2') {
+      const level1Progress = getLevelProgress('Level 1');
+      return level1Progress.completed >= level1Progress.total;
+    }
+    
+    if (level === 'Level 3') {
+      const level2Progress = getLevelProgress('Level 2');
+      return level2Progress.completed >= level2Progress.total;
+    }
+    
+    return false;
+  };
+
   return (
     <ProgressContext.Provider value={{
       progress,
@@ -176,6 +208,8 @@ export const ProgressProvider = ({ children }: { children: React.ReactNode }) =>
       getTotalPhrasesPracticed,
       getStreak,
       getAccuracy,
+      getLevelProgress,
+      isLevelUnlocked,
     }}>
       {children}
     </ProgressContext.Provider>
