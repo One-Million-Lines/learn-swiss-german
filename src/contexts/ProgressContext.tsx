@@ -1,4 +1,4 @@
-import React, { createContext, useContext, useState, useEffect } from 'react';
+import React, { createContext, useContext, useState } from 'react';
 import { useAuth } from './AuthContext';
 
 interface PhraseProgress {
@@ -34,35 +34,45 @@ interface ProgressContextType {
 
 const ProgressContext = createContext<ProgressContextType | undefined>(undefined);
 
+const loadUserProgress = (userId: string): Record<string, PhraseProgress> => {
+  const storedProgress = localStorage.getItem(`progress_${userId}`);
+  return storedProgress ? JSON.parse(storedProgress) : {};
+};
+
+const loadUserQuizResults = (userId: string): QuizResult[] => {
+  const storedQuizResults = localStorage.getItem(`quizResults_${userId}`);
+  return storedQuizResults ? JSON.parse(storedQuizResults) : [];
+};
+
 export const ProgressProvider = ({ children }: { children: React.ReactNode }) => {
   const { user } = useAuth();
-  const [progress, setProgress] = useState<Record<string, PhraseProgress>>({});
-  const [quizResults, setQuizResults] = useState<QuizResult[]>([]);
+  const [progressByUser, setProgressByUser] = useState<Record<string, Record<string, PhraseProgress>>>(() =>
+    user ? { [user.id]: loadUserProgress(user.id) } : {},
+  );
+  const [quizResultsByUser, setQuizResultsByUser] = useState<Record<string, QuizResult[]>>(() =>
+    user ? { [user.id]: loadUserQuizResults(user.id) } : {},
+  );
 
-  useEffect(() => {
-    if (user) {
-      const userProgress = localStorage.getItem(`progress_${user.id}`);
-      const userQuizResults = localStorage.getItem(`quizResults_${user.id}`);
-      
-      if (userProgress) setProgress(JSON.parse(userProgress));
-      if (userQuizResults) setQuizResults(JSON.parse(userQuizResults));
-    } else {
-      setProgress({});
-      setQuizResults([]);
-    }
-  }, [user]);
+  const progress = user ? (progressByUser[user.id] ?? loadUserProgress(user.id)) : {};
+  const quizResults = user ? (quizResultsByUser[user.id] ?? loadUserQuizResults(user.id)) : [];
 
   const saveProgress = (newProgress: Record<string, PhraseProgress>) => {
     if (user) {
       localStorage.setItem(`progress_${user.id}`, JSON.stringify(newProgress));
-      setProgress(newProgress);
+      setProgressByUser((current) => ({
+        ...current,
+        [user.id]: newProgress,
+      }));
     }
   };
 
   const saveQuizResults = (results: QuizResult[]) => {
     if (user) {
       localStorage.setItem(`quizResults_${user.id}`, JSON.stringify(results));
-      setQuizResults(results);
+      setQuizResultsByUser((current) => ({
+        ...current,
+        [user.id]: results,
+      }));
     }
   };
 

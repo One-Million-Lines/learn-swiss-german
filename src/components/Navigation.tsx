@@ -1,5 +1,5 @@
 import { Link, useLocation, useNavigate } from "react-router-dom";
-import { Home, BookOpen, RefreshCw, Trophy, Youtube, Info, LogOut, User } from "lucide-react";
+import { Home, BookOpen, RefreshCw, Trophy, Video, Info, LogOut, User } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { useAuth } from "@/contexts/AuthContext";
 
@@ -18,7 +18,7 @@ const Navigation = () => {
     { path: "/learn", label: "Learn", icon: BookOpen },
     { path: "/compare", label: "Compare", icon: RefreshCw },
     { path: "/practice", label: "Practice", icon: Trophy },
-    { path: "/resources", label: "Resources", icon: Youtube },
+    { path: "/resources", label: "Resources", icon: Video },
     { path: "/about", label: "About", icon: Info },
   ];
 

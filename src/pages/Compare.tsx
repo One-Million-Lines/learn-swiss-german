@@ -11,7 +11,7 @@ const Compare = () => {
 
   const handleConvert = () => {
     // Simple transformation rules (in production, this would use a proper API)
-    let converted = germanText
+    const converted = germanText
       .replace(/geht/g, "gaht")
       .replace(/geh/g, "gang")
       .replace(/Guten/g, "Guete")
