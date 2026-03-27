@@ -64,6 +64,21 @@ from data.subtopic_talking_to_parents import SUBTOPIC_TALKING_TO_PARENTS
 from data.subtopic_at_the_doctor import SUBTOPIC_AT_THE_DOCTOR
 from data.subtopic_making_appointment import SUBTOPIC_MAKING_APPOINTMENT
 from data.subtopic_landlord_repair import SUBTOPIC_LANDLORD_REPAIR
+from data.subtopic_job_interview import SUBTOPIC_JOB_INTERVIEW
+from data.subtopic_office_it_problems import SUBTOPIC_OFFICE_IT_PROBLEMS
+from data.subtopic_presenting_meeting import SUBTOPIC_PRESENTING_MEETING
+from data.subtopic_hr_salary_talk import SUBTOPIC_HR_SALARY_TALK
+from data.subtopic_client_call import SUBTOPIC_CLIENT_CALL
+from data.subtopic_onboarding_new_employee import SUBTOPIC_ONBOARDING_NEW_EMPLOYEE
+from data.subtopic_working_from_home import SUBTOPIC_WORKING_FROM_HOME
+from data.subtopic_bank_office import SUBTOPIC_BANK_OFFICE
+from data.subtopic_construction_site import SUBTOPIC_CONSTRUCTION_SITE
+from data.subtopic_restaurant_kitchen import SUBTOPIC_RESTAURANT_KITCHEN
+from data.subtopic_retail_shop import SUBTOPIC_RETAIL_SHOP
+from data.subtopic_warehouse_logistics import SUBTOPIC_WAREHOUSE_LOGISTICS
+from data.subtopic_farming import SUBTOPIC_FARMING
+from data.subtopic_hairdresser import SUBTOPIC_HAIRDRESSER
+from data.subtopic_cleaning_job import SUBTOPIC_CLEANING_JOB
 
 SUBTOPICS = [
     SUBTOPIC_SAYING_HELLO,
@@ -78,6 +93,21 @@ SUBTOPICS = [
     SUBTOPIC_AT_THE_DOCTOR,
     SUBTOPIC_MAKING_APPOINTMENT,
     SUBTOPIC_LANDLORD_REPAIR,
+    SUBTOPIC_JOB_INTERVIEW,
+    SUBTOPIC_OFFICE_IT_PROBLEMS,
+    SUBTOPIC_PRESENTING_MEETING,
+    SUBTOPIC_HR_SALARY_TALK,
+    SUBTOPIC_CLIENT_CALL,
+    SUBTOPIC_ONBOARDING_NEW_EMPLOYEE,
+    SUBTOPIC_WORKING_FROM_HOME,
+    SUBTOPIC_BANK_OFFICE,
+    SUBTOPIC_CONSTRUCTION_SITE,
+    SUBTOPIC_RESTAURANT_KITCHEN,
+    SUBTOPIC_RETAIL_SHOP,
+    SUBTOPIC_WAREHOUSE_LOGISTICS,
+    SUBTOPIC_FARMING,
+    SUBTOPIC_HAIRDRESSER,
+    SUBTOPIC_CLEANING_JOB,
 ]
 
 
@@ -282,16 +312,82 @@ VOCABULARY = [
 
 
 DAILY_PHRASES = [
+    # --- Greetings ---
     {"swissGerman": "Wie gaht's dir?", "german": "Wie geht es dir?", "english": "How are you?", "topic": "Greetings"},
+    {"swissGerman": "Schöne Tag no!", "german": "Schönen Tag noch!", "english": "Have a nice day!", "topic": "Greetings"},
+    {"swissGerman": "Merci vilmal!", "german": "Vielen Dank!", "english": "Thank you very much!", "topic": "Greetings"},
+    {"swissGerman": "Grüezi mitenand!", "german": "Guten Tag zusammen!", "english": "Hello everyone!", "topic": "Greetings"},
+    {"swissGerman": "Schöne Aabig!", "german": "Schönen Abend!", "english": "Have a nice evening!", "topic": "Greetings"},
+    {"swissGerman": "Bis bald!", "german": "Bis bald!", "english": "See you soon!", "topic": "Greetings"},
+    {"swissGerman": "Bis spöter!", "german": "Bis später!", "english": "See you later!", "topic": "Greetings"},
+    {"swissGerman": "Tschau zäme!", "german": "Tschüss zusammen!", "english": "Bye everyone!", "topic": "Greetings"},
+    {"swissGerman": "Mir gaht's guet, merci!", "german": "Mir geht es gut, danke!", "english": "I'm fine, thanks!", "topic": "Greetings"},
+    {"swissGerman": "Sali, wie lauft's?", "german": "Hallo, wie läuft's?", "english": "Hi, how's it going?", "topic": "Greetings"},
+    {"swissGerman": "Schöns Wuchenänd!", "german": "Schönes Wochenende!", "english": "Have a nice weekend!", "topic": "Greetings"},
+    # --- Daily Life ---
     {"swissGerman": "Ich hätt gern en Kafi", "german": "Ich hätte gern einen Kaffee", "english": "I'd like a coffee", "topic": "Daily Life"},
+    {"swissGerman": "Exgüsi, wo isch de Bahnhof?", "german": "Entschuldigung, wo ist der Bahnhof?", "english": "Excuse me, where is the train station?", "topic": "Daily Life"},
+    {"swissGerman": "Was chostet das?", "german": "Was kostet das?", "english": "How much does that cost?", "topic": "Daily Life"},
+    {"swissGerman": "Ich muess go poschte", "german": "Ich muss einkaufen gehen", "english": "I need to go shopping", "topic": "Daily Life"},
+    {"swissGerman": "Wänn fahrt de nächscht Zug?", "german": "Wann fährt der nächste Zug?", "english": "When does the next train leave?", "topic": "Daily Life"},
+    {"swissGerman": "Ich nimm es Gipfeli, bitte", "german": "Ich nehme ein Croissant, bitte", "english": "I'll have a croissant, please", "topic": "Daily Life"},
+    {"swissGerman": "Chann ich mit Charte zahle?", "german": "Kann ich mit Karte zahlen?", "english": "Can I pay by card?", "topic": "Daily Life"},
+    {"swissGerman": "Wo isch de nächscht Coop?", "german": "Wo ist der nächste Coop?", "english": "Where is the nearest Coop?", "topic": "Daily Life"},
+    {"swissGerman": "D'Rächnig, bitte!", "german": "Die Rechnung, bitte!", "english": "The bill, please!", "topic": "Daily Life"},
+    {"swissGerman": "Ich ha Hunger", "german": "Ich habe Hunger", "english": "I'm hungry", "topic": "Daily Life"},
+    {"swissGerman": "Ich ha Durscht", "german": "Ich habe Durst", "english": "I'm thirsty", "topic": "Daily Life"},
+    {"swissGerman": "Isch de Platz no frei?", "german": "Ist der Platz noch frei?", "english": "Is this seat still free?", "topic": "Daily Life"},
+    {"swissGerman": "Händ Sie no Brot?", "german": "Haben Sie noch Brot?", "english": "Do you still have bread?", "topic": "Daily Life"},
+    {"swissGerman": "En Retour uf Züri, bitte", "german": "Eine Rückfahrkarte nach Zürich, bitte", "english": "A return ticket to Zurich, please", "topic": "Daily Life"},
+    {"swissGerman": "Wo muess ich umstiige?", "german": "Wo muss ich umsteigen?", "english": "Where do I need to change?", "topic": "Daily Life"},
+    # --- Social ---
     {"swissGerman": "Hesch Ziit?", "german": "Hast du Zeit?", "english": "Do you have time?", "topic": "Social"},
     {"swissGerman": "Das isch mega guet!", "german": "Das ist mega gut!", "english": "That's really great!", "topic": "Social"},
-    {"swissGerman": "Exgüsi, wo isch de Bahnhof?", "german": "Entschuldigung, wo ist der Bahnhof?", "english": "Excuse me, where is the train station?", "topic": "Daily Life"},
-    {"swissGerman": "Schöne Tag no!", "german": "Schönen Tag noch!", "english": "Have a nice day!", "topic": "Greetings"},
-    {"swissGerman": "Was chostet das?", "german": "Was kostet das?", "english": "How much does that cost?", "topic": "Daily Life"},
-    {"swissGerman": "Merci vilmal!", "german": "Vielen Dank!", "english": "Thank you very much!", "topic": "Greetings"},
-    {"swissGerman": "Ich verstah nöd", "german": "Ich verstehe nicht", "english": "I don't understand", "topic": "Everyday Basics"},
     {"swissGerman": "Mir chönnted go wandere", "german": "Wir könnten wandern gehen", "english": "We could go hiking", "topic": "Social"},
+    {"swissGerman": "Wämmer öppis go trinke?", "german": "Wollen wir etwas trinken gehen?", "english": "Shall we go for a drink?", "topic": "Social"},
+    {"swissGerman": "Das isch luschtig!", "german": "Das ist lustig!", "english": "That's funny!", "topic": "Social"},
+    {"swissGerman": "Mir händ's mega cool gha!", "german": "Wir hatten es mega cool!", "english": "We had a great time!", "topic": "Social"},
+    {"swissGerman": "Woher chunsch du?", "german": "Woher kommst du?", "english": "Where are you from?", "topic": "Social"},
+    {"swissGerman": "Wie lang bisch scho i de Schwiiz?", "german": "Wie lange bist du schon in der Schweiz?", "english": "How long have you been in Switzerland?", "topic": "Social"},
+    {"swissGerman": "Gömmer is Kino?", "german": "Gehen wir ins Kino?", "english": "Shall we go to the cinema?", "topic": "Social"},
+    {"swissGerman": "Ich find das super!", "german": "Ich finde das super!", "english": "I think that's great!", "topic": "Social"},
+    {"swissGerman": "Häsch Luscht uf en Kafi?", "german": "Hast du Lust auf einen Kaffee?", "english": "Do you feel like a coffee?", "topic": "Social"},
+    {"swissGerman": "Mir gsehn eus am Samschtig!", "german": "Wir sehen uns am Samstag!", "english": "See you on Saturday!", "topic": "Social"},
+    {"swissGerman": "Ich freu mi druf!", "german": "Ich freue mich darauf!", "english": "I'm looking forward to it!", "topic": "Social"},
+    {"swissGerman": "Was machsch am Wuchenänd?", "german": "Was machst du am Wochenende?", "english": "What are you doing on the weekend?", "topic": "Social"},
+    # --- Everyday Basics ---
+    {"swissGerman": "Ich verstah nöd", "german": "Ich verstehe nicht", "english": "I don't understand", "topic": "Everyday Basics"},
+    {"swissGerman": "Chönd Sie das bitte wiederhole?", "german": "Können Sie das bitte wiederholen?", "english": "Can you please repeat that?", "topic": "Everyday Basics"},
+    {"swissGerman": "Wie säit me das uf Schwizerdütsch?", "german": "Wie sagt man das auf Schweizerdeutsch?", "english": "How do you say that in Swiss German?", "topic": "Everyday Basics"},
+    {"swissGerman": "Ich lerne Schwizerdütsch", "german": "Ich lerne Schweizerdeutsch", "english": "I'm learning Swiss German", "topic": "Everyday Basics"},
+    {"swissGerman": "Chönd Sie bitte langsamer rede?", "german": "Können Sie bitte langsamer sprechen?", "english": "Can you please speak slower?", "topic": "Everyday Basics"},
+    {"swissGerman": "Ja, genau!", "german": "Ja, genau!", "english": "Yes, exactly!", "topic": "Everyday Basics"},
+    {"swissGerman": "Nei, danke!", "german": "Nein, danke!", "english": "No, thanks!", "topic": "Everyday Basics"},
+    {"swissGerman": "Kei Ahnig!", "german": "Keine Ahnung!", "english": "No idea!", "topic": "Everyday Basics"},
+    {"swissGerman": "Das isch egal", "german": "Das ist egal", "english": "It doesn't matter", "topic": "Everyday Basics"},
+    {"swissGerman": "Gopfriedstutz!", "german": "Ach du meine Güte!", "english": "Oh my goodness!", "topic": "Everyday Basics"},
+    # --- Family ---
     {"swissGerman": "Ich bi müed", "german": "Ich bin müde", "english": "I'm tired", "topic": "Family"},
+    {"swissGerman": "D'Chind sind id Schuel", "german": "Die Kinder sind in der Schule", "english": "The kids are at school", "topic": "Family"},
+    {"swissGerman": "Mir ässe zäme z'Nacht", "german": "Wir essen zusammen zu Abend", "english": "We're having dinner together", "topic": "Family"},
+    {"swissGerman": "De Bueb macht Ufgabe", "german": "Der Junge macht Hausaufgaben", "english": "The boy is doing homework", "topic": "Family"},
+    {"swissGerman": "Ich hol d'Chind vo de Schuel ab", "german": "Ich hole die Kinder von der Schule ab", "english": "I'm picking the kids up from school", "topic": "Family"},
+    {"swissGerman": "Mir gönd am Suntig go spaziere", "german": "Wir gehen am Sonntag spazieren", "english": "We're going for a walk on Sunday", "topic": "Family"},
+    {"swissGerman": "S'Meitli schlaft scho", "german": "Das Mädchen schläft schon", "english": "The girl is already sleeping", "topic": "Family"},
+    # --- Work ---
     {"swissGerman": "Guete Morge, zäme!", "german": "Guten Morgen, zusammen!", "english": "Good morning, everyone!", "topic": "Work"},
+    {"swissGerman": "Ich bi im Büro", "german": "Ich bin im Büro", "english": "I'm at the office", "topic": "Work"},
+    {"swissGerman": "Wänn isch d'Sitzig?", "german": "Wann ist das Meeting?", "english": "When is the meeting?", "topic": "Work"},
+    {"swissGerman": "Ich schick der s'Mail", "german": "Ich schicke dir die E-Mail", "english": "I'll send you the email", "topic": "Work"},
+    {"swissGerman": "Ich ha hüt frei", "german": "Ich habe heute frei", "english": "I have the day off today", "topic": "Work"},
+    {"swissGerman": "Ich schaff vo dihei", "german": "Ich arbeite von zu Hause", "english": "I'm working from home", "topic": "Work"},
+    {"swissGerman": "De Chef isch nöd da", "german": "Der Chef ist nicht da", "english": "The boss isn't here", "topic": "Work"},
+    {"swissGerman": "Mir händ viel z'tue", "german": "Wir haben viel zu tun", "english": "We have a lot to do", "topic": "Work"},
+    # --- Practical Swiss Life ---
+    {"swissGerman": "Ich bruuch en Termin bim Dokter", "german": "Ich brauche einen Termin beim Arzt", "english": "I need a doctor's appointment", "topic": "Practical Swiss Life"},
+    {"swissGerman": "Wo isch d'Apothek?", "german": "Wo ist die Apotheke?", "english": "Where is the pharmacy?", "topic": "Practical Swiss Life"},
+    {"swissGerman": "Ich ha Chopfweh", "german": "Ich habe Kopfschmerzen", "english": "I have a headache", "topic": "Practical Swiss Life"},
+    {"swissGerman": "Ich muess uf d'Gmeind", "german": "Ich muss zur Gemeinde", "english": "I need to go to the municipality office", "topic": "Practical Swiss Life"},
+    {"swissGerman": "Chönd Sie mir hälfe?", "german": "Können Sie mir helfen?", "english": "Can you help me?", "topic": "Practical Swiss Life"},
+    {"swissGerman": "Ich ha mi aagmeldet", "german": "Ich habe mich angemeldet", "english": "I've registered", "topic": "Practical Swiss Life"},
 ]
