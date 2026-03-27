@@ -79,6 +79,41 @@ from data.subtopic_warehouse_logistics import SUBTOPIC_WAREHOUSE_LOGISTICS
 from data.subtopic_farming import SUBTOPIC_FARMING
 from data.subtopic_hairdresser import SUBTOPIC_HAIRDRESSER
 from data.subtopic_cleaning_job import SUBTOPIC_CLEANING_JOB
+from data.subtopic_newborn_baby import SUBTOPIC_NEWBORN_BABY
+from data.subtopic_baby_toddler import SUBTOPIC_BABY_TODDLER
+from data.subtopic_kita_daycare import SUBTOPIC_KITA_DAYCARE
+from data.subtopic_kindergarten import SUBTOPIC_KINDERGARTEN
+from data.subtopic_primarschule import SUBTOPIC_PRIMARSCHULE
+from data.subtopic_elternabend import SUBTOPIC_ELTERNABEND
+from data.subtopic_homework_studying import SUBTOPIC_HOMEWORK_STUDYING
+from data.subtopic_sekundarschule import SUBTOPIC_SEKUNDARSCHULE
+from data.subtopic_gymnasium import SUBTOPIC_GYMNASIUM
+from data.subtopic_berufslehre import SUBTOPIC_BERUFSLEHRE
+from data.subtopic_schulreise import SUBTOPIC_SCHULREISE
+from data.subtopic_zeugnis_day import SUBTOPIC_ZEUGNIS_DAY
+from data.subtopic_spielplatz import SUBTOPIC_SPIELPLATZ
+from data.subtopic_park_family import SUBTOPIC_PARK_FAMILY
+from data.subtopic_pausenplatz import SUBTOPIC_PAUSENPLATZ
+from data.subtopic_family_vacation import SUBTOPIC_FAMILY_VACATION
+from data.subtopic_morning_routine_family import SUBTOPIC_MORNING_ROUTINE_FAMILY
+from data.subtopic_bedtime_routine import SUBTOPIC_BEDTIME_ROUTINE
+from data.subtopic_family_meals import SUBTOPIC_FAMILY_MEALS
+from data.subtopic_weekend_family import SUBTOPIC_WEEKEND_FAMILY
+from data.subtopic_kids_birthday import SUBTOPIC_KIDS_BIRTHDAY
+from data.subtopic_visiting_grandparents import SUBTOPIC_VISITING_GRANDPARENTS
+from data.subtopic_first_contact import SUBTOPIC_FIRST_CONTACT
+from data.subtopic_breaking_the_ice import SUBTOPIC_BREAKING_THE_ICE
+from data.subtopic_talking_about_yourself import SUBTOPIC_TALKING_ABOUT_YOURSELF
+from data.subtopic_asking_about_others import SUBTOPIC_ASKING_ABOUT_OTHERS
+from data.subtopic_reacting_naturally import SUBTOPIC_REACTING_NATURALLY
+from data.subtopic_casual_opinions import SUBTOPIC_CASUAL_OPINIONS
+from data.subtopic_humor_light_tone import SUBTOPIC_HUMOR_LIGHT_TONE
+from data.subtopic_making_plans_social import SUBTOPIC_MAKING_PLANS_SOCIAL
+from data.subtopic_invitations import SUBTOPIC_INVITATIONS
+from data.subtopic_social_flow import SUBTOPIC_SOCIAL_FLOW
+from data.subtopic_social_etiquette import SUBTOPIC_SOCIAL_ETIQUETTE
+from data.subtopic_ending_interactions import SUBTOPIC_ENDING_INTERACTIONS
+from data.subtopic_staying_in_touch import SUBTOPIC_STAYING_IN_TOUCH
 
 SUBTOPICS = [
     SUBTOPIC_SAYING_HELLO,
@@ -108,6 +143,41 @@ SUBTOPICS = [
     SUBTOPIC_FARMING,
     SUBTOPIC_HAIRDRESSER,
     SUBTOPIC_CLEANING_JOB,
+    SUBTOPIC_NEWBORN_BABY,
+    SUBTOPIC_BABY_TODDLER,
+    SUBTOPIC_KITA_DAYCARE,
+    SUBTOPIC_KINDERGARTEN,
+    SUBTOPIC_PRIMARSCHULE,
+    SUBTOPIC_ELTERNABEND,
+    SUBTOPIC_HOMEWORK_STUDYING,
+    SUBTOPIC_SEKUNDARSCHULE,
+    SUBTOPIC_GYMNASIUM,
+    SUBTOPIC_BERUFSLEHRE,
+    SUBTOPIC_SCHULREISE,
+    SUBTOPIC_ZEUGNIS_DAY,
+    SUBTOPIC_SPIELPLATZ,
+    SUBTOPIC_PARK_FAMILY,
+    SUBTOPIC_PAUSENPLATZ,
+    SUBTOPIC_FAMILY_VACATION,
+    SUBTOPIC_MORNING_ROUTINE_FAMILY,
+    SUBTOPIC_BEDTIME_ROUTINE,
+    SUBTOPIC_FAMILY_MEALS,
+    SUBTOPIC_WEEKEND_FAMILY,
+    SUBTOPIC_KIDS_BIRTHDAY,
+    SUBTOPIC_VISITING_GRANDPARENTS,
+    SUBTOPIC_FIRST_CONTACT,
+    SUBTOPIC_BREAKING_THE_ICE,
+    SUBTOPIC_TALKING_ABOUT_YOURSELF,
+    SUBTOPIC_ASKING_ABOUT_OTHERS,
+    SUBTOPIC_REACTING_NATURALLY,
+    SUBTOPIC_CASUAL_OPINIONS,
+    SUBTOPIC_HUMOR_LIGHT_TONE,
+    SUBTOPIC_MAKING_PLANS_SOCIAL,
+    SUBTOPIC_INVITATIONS,
+    SUBTOPIC_SOCIAL_FLOW,
+    SUBTOPIC_SOCIAL_ETIQUETTE,
+    SUBTOPIC_ENDING_INTERACTIONS,
+    SUBTOPIC_STAYING_IN_TOUCH,
 ]
 
 
