@@ -1,0 +1,82 @@
+annotated-doc==0.0.4
+    # via fastapi
+annotated-types==0.7.0
+    # via pydantic
+anyio==4.13.0
+    # via
+    #   httpx
+    #   openai
+    #   starlette
+    #   watchfiles
+certifi==2026.2.25
+    # via
+    #   httpcore
+    #   httpx
+click==8.3.1
+    # via uvicorn
+distro==1.9.0
+    # via openai
+dnspython==2.8.0
+    # via pymongo
+fastapi==0.135.2
+    # via -r _ops/requirements.in
+h11==0.16.0
+    # via
+    #   httpcore
+    #   uvicorn
+httpcore==1.0.9
+    # via httpx
+httptools==0.7.1
+    # via uvicorn
+httpx==0.28.1
+    # via openai
+idna==3.11
+    # via
+    #   anyio
+    #   httpx
+jiter==0.13.0
+    # via openai
+openai==2.30.0
+    # via -r _ops/requirements.in
+pydantic==2.12.5
+    # via
+    #   -r _ops/requirements.in
+    #   fastapi
+    #   openai
+pydantic-core==2.41.5
+    # via pydantic
+pymongo==4.16.0
+    # via -r _ops/requirements.in
+python-dotenv==1.2.2
+    # via
+    #   -r _ops/requirements.in
+    #   uvicorn
+pyyaml==6.0.3
+    # via
+    #   -r _ops/requirements.in
+    #   uvicorn
+sniffio==1.3.1
+    # via openai
+starlette==1.0.0
+    # via fastapi
+tqdm==4.67.3
+    # via openai
+typing-extensions==4.15.0
+    # via
+    #   fastapi
+    #   openai
+    #   pydantic
+    #   pydantic-core
+    #   typing-inspection
+typing-inspection==0.4.2
+    # via
+    #   fastapi
+    #   pydantic
+uvicorn==0.42.0
+    # via -r _ops/requirements.in
+uvloop==0.22.1
+    # via uvicorn
+watchfiles==1.1.1
+    # via uvicorn
+websockets==16.0
+    # via uvicorn

@@ -7,11 +7,11 @@ import { AuthProvider } from "./contexts/AuthContext";
 import { ProgressProvider } from "./contexts/ProgressContext";
 import Navigation from "./components/Navigation";
 import Home from "./pages/Home";
-import Learn from "./pages/Learn";
-import Compare from "./pages/Compare";
-import Practice from "./pages/Practice";
-import Resources from "./pages/Resources";
-import About from "./pages/About";
+import Topics from "./pages/Topics";
+import TopicDetail from "./pages/TopicDetail";
+import SubtopicPage from "./pages/Conversation";
+import Patterns from "./pages/Patterns";
+import Vocabulary from "./pages/Vocabulary";
 import Auth from "./pages/Auth";
 import NotFound from "./pages/NotFound";
 
@@ -28,11 +28,12 @@ const App = () => (
             <Navigation />
             <Routes>
               <Route path="/" element={<Home />} />
-              <Route path="/learn" element={<Learn />} />
-              <Route path="/compare" element={<Compare />} />
-              <Route path="/practice" element={<Practice />} />
-              <Route path="/resources" element={<Resources />} />
-              <Route path="/about" element={<About />} />
+              <Route path="/topics" element={<Topics />} />
+              <Route path="/topics/:topicId" element={<TopicDetail />} />
+              <Route path="/conversations/:conversationId" element={<SubtopicPage />} />
+              <Route path="/subtopics/:subtopicId" element={<SubtopicPage />} />
+              <Route path="/patterns" element={<Patterns />} />
+              <Route path="/vocabulary" element={<Vocabulary />} />
               <Route path="/auth" element={<Auth />} />
               <Route path="*" element={<NotFound />} />
             </Routes>

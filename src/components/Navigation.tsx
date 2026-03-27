@@ -1,5 +1,5 @@
 import { Link, useLocation, useNavigate } from "react-router-dom";
-import { Home, BookOpen, RefreshCw, Trophy, Video, Info, LogOut, User } from "lucide-react";
+import { Home, MessageSquare, Sparkles, BookOpen, LogOut, User } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { useAuth } from "@/contexts/AuthContext";
 
@@ -15,14 +15,15 @@ const Navigation = () => {
   
   const navItems = [
     { path: "/", label: "Home", icon: Home },
-    { path: "/learn", label: "Learn", icon: BookOpen },
-    { path: "/compare", label: "Compare", icon: RefreshCw },
-    { path: "/practice", label: "Practice", icon: Trophy },
-    { path: "/resources", label: "Resources", icon: Video },
-    { path: "/about", label: "About", icon: Info },
+    { path: "/topics", label: "Topics", icon: MessageSquare },
+    { path: "/patterns", label: "Patterns", icon: Sparkles },
+    { path: "/vocabulary", label: "Vocabulary", icon: BookOpen },
   ];
 
-  const isActive = (path: string) => location.pathname === path;
+  const isActive = (path: string) => {
+    if (path === "/") return location.pathname === "/";
+    return location.pathname.startsWith(path);
+  };
 
   return (
     <nav className="sticky top-0 z-50 border-b border-border bg-card/80 backdrop-blur-lg">
