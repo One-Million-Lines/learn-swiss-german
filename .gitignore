@@ -28,3 +28,6 @@ backend/**/__pycache__/
 *.njsproj
 *.sln
 *.sw?
+
+.env
+.env.*

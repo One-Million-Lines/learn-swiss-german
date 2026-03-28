@@ -25,6 +25,8 @@ app.add_middleware(
         "http://127.0.0.1:3000",
         "http://127.0.0.1:5173",
         "http://127.0.0.1:5306",
+        "onemillionlines.com",
+        "www.onemillionlines.com",
     ],
     allow_credentials=True,
     allow_methods=["*"],

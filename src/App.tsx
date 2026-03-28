@@ -6,6 +6,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { AuthProvider } from "./contexts/AuthContext";
 import { ProgressProvider } from "./contexts/ProgressContext";
 import Navigation from "./components/Navigation";
+import Footer from "./components/Footer";
 import Home from "./pages/Home";
 import Topics from "./pages/Topics";
 import TopicDetail from "./pages/TopicDetail";
@@ -25,18 +26,21 @@ const App = () => (
           <Toaster />
           <Sonner />
           <BrowserRouter>
-            <Navigation />
-            <Routes>
-              <Route path="/" element={<Home />} />
-              <Route path="/topics" element={<Topics />} />
-              <Route path="/topics/:topicId" element={<TopicDetail />} />
-              <Route path="/conversations/:conversationId" element={<SubtopicPage />} />
-              <Route path="/subtopics/:subtopicId" element={<SubtopicPage />} />
-              <Route path="/patterns" element={<Patterns />} />
-              <Route path="/vocabulary" element={<Vocabulary />} />
-              <Route path="/auth" element={<Auth />} />
-              <Route path="*" element={<NotFound />} />
-            </Routes>
+            <div className="flex flex-col min-h-screen">
+              <Navigation />
+              <Routes>
+                <Route path="/" element={<Home />} />
+                <Route path="/topics" element={<Topics />} />
+                <Route path="/topics/:topicId" element={<TopicDetail />} />
+                <Route path="/conversations/:conversationId" element={<SubtopicPage />} />
+                <Route path="/subtopics/:subtopicId" element={<SubtopicPage />} />
+                <Route path="/patterns" element={<Patterns />} />
+                <Route path="/vocabulary" element={<Vocabulary />} />
+                <Route path="/auth" element={<Auth />} />
+                <Route path="*" element={<NotFound />} />
+              </Routes>
+              <Footer />
+            </div>
           </BrowserRouter>
         </ProgressProvider>
       </AuthProvider>
