@@ -15,6 +15,8 @@ SUBTOPIC_VISITING_GRANDPARENTS = {
                 {"speaker": "Child", "swissGerman": "Was für Chueche? Schoggichueche?", "german": "Was für Kuchen? Schokoladenkuchen?", "english": "What cake? Chocolate cake?"},
                 {"speaker": "Grosi", "swissGerman": "Rüeblitorte! Dis Liebligsrezäpt. Mit Zuckerguss.", "german": "Rüblitorte! Dein Lieblingsrezept. Mit Zuckerguss.", "english": "Carrot cake! Your favorite recipe. With icing."},
                 {"speaker": "You", "swissGerman": "Hoi Muetter! Schön, euch z'gseh. Wie gaht's?", "german": "Hallo Mama! Schön, euch zu sehen. Wie geht's?", "english": "Hi Mom! Nice to see you. How are you?"},
+                {"speaker": "Child", "swissGerman": "Und wo isch Grosspapi? Isch er im Garte?", "german": "Und wo ist Opa? Ist er im Garten?", "english": "And where is Grandpa? Is he in the garden?"},
+                {"speaker": "Grosi", "swissGerman": "Ja, er hät scho uf euch gwartet. Er hät d'Hängematte uufghänkt!", "german": "Ja, er hat schon auf euch gewartet. Er hat die Hängematte aufgehängt!", "english": "Yes, he has been waiting for you. He put up the hammock!"},
                 {"speaker": "Grosi", "swissGerman": "Guet, guet! Mir händ euch vermisst. Chömed, sitzt euch!", "german": "Gut, gut! Wir haben euch vermisst. Kommt, setzt euch!", "english": "Good, good! We missed you. Come, sit down!"},
             ],
             "differences": [
@@ -40,6 +42,8 @@ SUBTOPIC_VISITING_GRANDPARENTS = {
                 {"speaker": "Child", "swissGerman": "Keis Natel?! Wie händ ihr denn glackt?!", "german": "Kein Handy?! Wie habt ihr dann gelacht?!", "english": "No phone?! How did you have fun then?!"},
                 {"speaker": "Grosspapi", "swissGerman": "Mir händ dusse gspillt! Fangis, Versteckis, im Bach gfischt.", "german": "Wir haben draußen gespielt! Fangen, Verstecken, im Bach gefischt.", "english": "We played outside! Tag, hide and seek, fishing in the creek."},
                 {"speaker": "Child", "swissGerman": "Und d'Schuel? Isch die au anderst gsi?", "german": "Und die Schule? Ist die auch anders gewesen?", "english": "And school? Was it different too?"},
+                {"speaker": "Child", "swissGerman": "Was hät de Lehrer gseit, wänn ihm öpper nöd zueghört hät?", "german": "Was hat der Lehrer gesagt, wenn ihm jemand nicht zugehört hat?", "english": "What did the teacher say when someone didn't listen?"},
+                {"speaker": "Grosspapi", "swissGerman": "Er hät mit em Lineal uf d'Tafel gchlopft! Mir händ sofort still gsi.", "german": "Er hat mit dem Lineal auf die Tafel geklopft! Wir waren sofort still.", "english": "He knocked on the board with the ruler! We were immediately quiet."},
                 {"speaker": "Grosspapi", "swissGerman": "Oh ja! De Lehrer hät no mit Chriide uf d'Tafel gschriibe.", "german": "Oh ja! Der Lehrer hat noch mit Kreide auf die Tafel geschrieben.", "english": "Oh yes! The teacher still wrote on the board with chalk."},
             ],
             "differences": [
@@ -65,6 +69,8 @@ SUBTOPIC_VISITING_GRANDPARENTS = {
                 {"speaker": "Grosspapi", "swissGerman": "Klar! Nimm die rote. D'grüene sind no nöd parat.", "german": "Klar! Nimm die roten. Die grünen sind noch nicht fertig.", "english": "Sure! Take the red ones. The green ones aren't ready yet."},
                 {"speaker": "Child", "swissGerman": "Lueg, die isch riisig! Und do häts no Zucchetti und Rüebli.", "german": "Schau, die ist riesig! Und hier gibt es noch Zucchini und Karotten.", "english": "Look, this one is huge! And there's also zucchini and carrots."},
                 {"speaker": "Grosspapi", "swissGerman": "Ja, und d'Chräuter: Basilikum, Petersilie und Schnittlauch.", "german": "Ja, und die Kräuter: Basilikum, Petersilie und Schnittlauch.", "english": "Yes, and the herbs: basil, parsley and chives."},
+                {"speaker": "Grosspapi", "swissGerman": "Und schau do — d'Zucchetti sind scho riif fürs Abehärbeige!", "german": "Und schau hier — die Zucchini sind schon reif zum Ernten!", "english": "And look here — the zucchini are already ripe for harvesting!"},
+                {"speaker": "Child", "swissGerman": "Darf ich die zum Grosi bringe? Cha sie drus es Risotto mache?", "german": "Darf ich die zu Oma bringen? Kann sie daraus ein Risotto machen?", "english": "May I bring these to Grandma? Can she make a risotto from them?"},
                 {"speaker": "Child", "swissGerman": "Grosspapi, du häsch de bescht Garte! Chani au äine ha?", "german": "Opa, du hast den besten Garten! Kann ich auch einen haben?", "english": "Grandpa, you have the best garden! Can I have one too?"},
             ],
             "differences": [
@@ -90,6 +96,8 @@ SUBTOPIC_VISITING_GRANDPARENTS = {
                 {"speaker": "Grosi", "swissGerman": "Natürlich! Und en Salat. En Guete mitenand!", "german": "Natürlich! Und ein Salat. Guten Appetit miteinander!", "english": "Of course! And a salad. Bon appétit everyone!"},
                 {"speaker": "Child", "swissGerman": "En Guete! Grosi, dis Ässe isch s'Bescht!", "german": "Guten Appetit! Oma, dein Essen ist das Beste!", "english": "Bon appétit! Grandma, your food is the best!"},
                 {"speaker": "Grosi", "swissGerman": "Merci, Schatz. Nimmsch du no meh Sous?", "german": "Danke, Schatz. Nimmst du noch mehr Soße?", "english": "Thanks, darling. Want more gravy?"},
+                {"speaker": "Child", "swissGerman": "Grosi, darf ich de Grosspapi mit em Zvieri nachere bringe?", "german": "Oma, darf ich Opa den Zvieri gleich rausbringen?", "english": "Grandma, may I bring Grandpa his snack right away?"},
+                {"speaker": "Grosi", "swissGerman": "Ja, da isch en Stück Rüeblitorte für ihn — und säg ihm, er söll d'Hend wäsche!", "german": "Ja, da ist ein Stück Rüblitorte für ihn — und sag ihm, er soll die Hände waschen!", "english": "Yes, here is a piece of carrot cake for him — and tell him to wash his hands!"},
                 {"speaker": "You", "swissGerman": "Und zum Dessert hät s'Grosi sicher no öppis. Oder?", "german": "Und zum Dessert hat Oma sicher noch etwas. Oder?", "english": "And for dessert Grandma surely has something. Right?"},
             ],
             "differences": [
@@ -115,6 +123,8 @@ SUBTOPIC_VISITING_GRANDPARENTS = {
                 {"speaker": "Grosi", "swissGerman": "Du chasch nöchscht Wuchenänd wider cho. Versprochen!", "german": "Du kannst nächstes Wochenende wieder kommen. Versprochen!", "english": "You can come again next weekend. Promised!"},
                 {"speaker": "Grosspapi", "swissGerman": "Und ich ha no öppis für dich. En Fränkler fürs Sparschwiili!", "german": "Und ich habe noch etwas für dich. Ein Fünfliber fürs Sparschwein!", "english": "And I have something for you. A five-franc coin for the piggy bank!"},
                 {"speaker": "Child", "swissGerman": "Merci, Grosspapi! Ich ha euch gärn!", "german": "Danke, Opa! Ich habe euch lieb!", "english": "Thanks, Grandpa! I love you!"},
+                {"speaker": "You", "swissGerman": "Grosi, merci für alles — de Chueche isch us de Wält gsi!", "german": "Oma, danke für alles — der Kuchen war aus der Welt!", "english": "Grandma, thanks for everything — the cake was out of this world!"},
+                {"speaker": "Grosi", "swissGerman": "Ach was, chumm wider! Nöchscht Mal mache mir Guetzli z'same.", "german": "Ach was, komm wieder! Nächstes Mal machen wir zusammen Guetzli.", "english": "Oh come on, come again! Next time we'll make Guetzli together."},
                 {"speaker": "Grosi", "swissGerman": "Mir au, Schätzli! Ade und machets guet!", "german": "Wir auch, mein Schatz! Tschüss und macht's gut!", "english": "We love you too, darling! Bye and take care!"},
             ],
             "differences": [

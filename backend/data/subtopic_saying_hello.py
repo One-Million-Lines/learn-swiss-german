@@ -16,6 +16,8 @@ SUBTOPIC_SAYING_HELLO = {
                 {"speaker": "Baker", "swissGerman": "Gern! Süscht no öppis?", "german": "Gern! Sonst noch etwas?", "english": "Sure! Anything else?"},
                 {"speaker": "You", "swissGerman": "Nei, merci. Schöne Tag!", "german": "Nein, danke. Schönen Tag!", "english": "No, thanks. Have a nice day!"},
                 {"speaker": "Baker", "swissGerman": "Danke, Ihne au! Ade!", "german": "Danke, Ihnen auch! Tschüss!", "english": "Thanks, you too! Bye!"},
+                {"speaker": "You", "swissGerman": "Und das Gipfeli isch wirklich fein hüt. Merci für s'frische Gebeck!", "german": "Und das Croissant ist wirklich lecker heute. Danke fürs frische Gebäck!", "english": "And the croissant is really good today. Thanks for the fresh pastries!"},
+                {"speaker": "Baker", "swissGerman": "Gern gschäh! Mir bached jede Morge frisch. Bis zum nächschte Mal!", "german": "Gerne geschehen! Wir backen jeden Morgen frisch. Bis zum nächsten Mal!", "english": "You're welcome! We bake fresh every morning. Until next time!"},
             ],
             "differences": [
                 {"swissGerman": "Grüezi", "german": "Guten Tag", "explanation": "The standard formal greeting. In informal settings you'd say 'Hoi' or 'Sali'."},
@@ -39,6 +41,8 @@ SUBTOPIC_SAYING_HELLO = {
                 {"speaker": "Marco", "swissGerman": "Au guet! Ich muess wiiter, aber mir gsehnd üs bald!", "german": "Auch gut! Ich muss weiter, aber wir sehen uns bald!", "english": "Also good! I have to go, but see you soon!"},
                 {"speaker": "You", "swissGerman": "Ja, unbedingt! Tschau!", "german": "Ja, unbedingt! Tschüss!", "english": "Yes, definitely! Bye!"},
                 {"speaker": "Marco", "swissGerman": "Tschau, bis bald!", "german": "Tschüss, bis bald!", "english": "Bye, see you soon!"},
+                {"speaker": "You", "swissGerman": "Kummsch du am Wuchenend zur Party bim Jonas?", "german": "Kommst du am Wochenende zur Party bei Jonas?", "english": "Are you coming to Jonas' party on the weekend?"},
+                {"speaker": "Marco", "swissGerman": "Ja, fröi mich scho! Mir chönd dänn endliich wider chli schwatze.", "german": "Ja, freue mich schon! Wir können dann endlich wieder etwas reden.", "english": "Yes, looking forward to it! We can finally catch up properly then."},
             ],
             "differences": [
                 {"swissGerman": "Hoi / Sali", "german": "Hallo", "explanation": "Informal greetings. 'Hoi' is the most common, 'Sali' is typical in Basel and other regions."},
@@ -63,6 +67,8 @@ SUBTOPIC_SAYING_HELLO = {
                 {"speaker": "You", "swissGerman": "Haha, de Peter isch immer am Ässe! Okay, fömmer ah?", "german": "Haha, Peter ist immer am Essen! Okay, fangen wir an?", "english": "Haha, Peter is always eating! Okay, shall we start?"},
                 {"speaker": "Anna", "swissGerman": "Ja, gömer! Wer fangt ah?", "german": "Ja, los! Wer fängt an?", "english": "Yes, let's go! Who starts?"},
                 {"speaker": "Peter", "swissGerman": "Ich cha afange. Also, geschter hani...", "german": "Ich kann anfangen. Also, gestern habe ich...", "english": "I can start. So, yesterday I..."},
+                {"speaker": "You", "swissGerman": "Super! Und dänn nach em Standup — händ mir no die Code-Review?", "german": "Super! Und dann nach dem Standup — haben wir noch die Code-Review?", "english": "Super! And then after the standup — do we still have the code review?"},
+                {"speaker": "Anna", "swissGerman": "Ja, um zäni. Ich hätt no es paar Kommentaar zum letzschte PR.", "german": "Ja, um zehn. Ich hätte noch ein paar Kommentare zum letzten PR.", "english": "Yes, at ten. I still have a few comments on the last PR."},
             ],
             "differences": [
                 {"swissGerman": "zäme", "german": "zusammen", "explanation": "'zäme' = 'zusammen'. Very common contraction used daily."},
@@ -114,6 +120,8 @@ SUBTOPIC_SAYING_HELLO = {
                 {"speaker": "You", "swissGerman": "Ja, sicher. So, bitte.", "german": "Ja, sicher. So, bitte.", "english": "Yes, of course. There you go."},
                 {"speaker": "Postman", "swissGerman": "Merci vilmal! Schöne Tag no!", "german": "Vielen Dank! Schönen Tag noch!", "english": "Thank you! Have a nice day!"},
                 {"speaker": "You", "swissGerman": "Ihne au, ade!", "german": "Ihnen auch, tschüss!", "english": "You too, bye!"},
+                {"speaker": "Postman", "swissGerman": "Ach ja — und wenn Sie morn e Sendung erwarte, bin ich so um neini do.", "german": "Ach ja — und wenn Sie morgen eine Sendung erwarten, bin ich so um neun Uhr hier.", "english": "Oh yes — and if you're expecting something tomorrow, I'll be here around nine."},
+                {"speaker": "You", "swissGerman": "Merci für d'Info! Ich pass uf. Bis dänn!", "german": "Danke für die Info! Ich pass auf. Bis dann!", "english": "Thanks for the info! I'll be watching. Until then!"},
             ],
             "differences": [
                 {"swissGerman": "Päckli", "german": "Päckchen", "explanation": "Swiss '-li' diminutive instead of standard German '-chen'."},

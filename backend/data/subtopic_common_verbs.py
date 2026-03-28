@@ -16,6 +16,8 @@ SUBTOPIC_COMMON_VERBS = {
                 {"speaker": "You", "swissGerman": "Ja, ich ha Hunger. Isch no Butter da?", "german": "Ja, ich habe Hunger. Ist noch Butter da?", "english": "Yes, I'm hungry. Is there still butter?"},
                 {"speaker": "Flatmate", "swissGerman": "Ja, im Chüelschrank. Du bisch aber vergässlich!", "german": "Ja, im Kühlschrank. Du bist aber vergesslich!", "english": "Yes, in the fridge. You're so forgetful!"},
                 {"speaker": "You", "swissGerman": "Stimmt, ich bi no nöd richtig wach!", "german": "Stimmt, ich bin noch nicht richtig wach!", "english": "True, I'm not fully awake yet!"},
+                {"speaker": "Flatmate", "swissGerman": "Wänn d'Kaffimaschine läuft, bisch du en anderi Mänsch!", "german": "Wenn die Kaffeemaschine läuft, bist du ein anderer Mensch!", "english": "When the coffee machine runs, you're a different person!"},
+                {"speaker": "You", "swissGerman": "Haha, stimmt! Kaffi isch min beschte Fründ am Morge.", "german": "Haha, stimmt! Kaffee ist mein bester Freund am Morgen.", "english": "Haha, true! Coffee is my best friend in the morning."},
             ],
             "differences": [
                 {"swissGerman": "bi / bisch / isch / sind / sind / sind", "german": "bin / bist / ist / sind / seid / sind", "explanation": "Swiss 'sii' (sein): ich bi, du bisch, er/sie isch, mir sind, ihr sind, sie sind."},
@@ -40,6 +42,8 @@ SUBTOPIC_COMMON_VERBS = {
                 {"speaker": "You", "swissGerman": "Ja, ich chume am Aabig. So um sächsi.", "german": "Ja, ich komme am Abend. So um sechs.", "english": "Yes, I'll come in the evening. Around six."},
                 {"speaker": "Friend", "swissGerman": "Super! D'Sandra chunt au.", "german": "Super! Sandra kommt auch.", "english": "Great! Sandra is coming too."},
                 {"speaker": "You", "swissGerman": "Cool! Denn chöme mir alli zäme!", "german": "Cool! Dann kommen wir alle zusammen!", "english": "Cool! Then we're all coming together!"},
+                {"speaker": "Friend", "swissGerman": "Mega! Ich mach dann es chlinigs Zvieri.", "german": "Mega! Ich mache dann einen kleinen Zvieri.", "english": "Awesome! I'll make a little snack."},
+                {"speaker": "You", "swissGerman": "Super Idee! Ich bringe e Flasche Wii mit.", "german": "Super Idee! Ich bringe eine Flasche Wein mit.", "english": "Great idea! I'll bring a bottle of wine."},
             ],
             "differences": [
                 {"swissGerman": "gang / gasch / gaht / gönd", "german": "gehe / gehst / geht / gehen", "explanation": "Swiss 'gah' (gehen): ich gang, du gasch, er gaht, mir gönd."},
@@ -64,6 +68,8 @@ SUBTOPIC_COMMON_VERBS = {
                 {"speaker": "You", "swissGerman": "Ich gib ders jetzt grad. Nimm au die Düüse mit.", "german": "Ich gebe es dir jetzt gleich. Nimm auch die Düse mit.", "english": "I'll give it to you right now. Take the nozzle too."},
                 {"speaker": "Neighbor", "swissGerman": "Merci vielmal! Ich gib ders morn zrugg.", "german": "Vielen Dank! Ich gebe es dir morgen zurück.", "english": "Thanks a lot! I'll give it back to you tomorrow."},
                 {"speaker": "You", "swissGerman": "Kei Stress, nimm der Ziit!", "german": "Kein Stress, nimm dir Zeit!", "english": "No rush, take your time!"},
+                {"speaker": "Neighbor", "swissGerman": "Super, bisch en Engel! Ich mach dir morä d'Guets z'Nacht als Dankeschön.", "german": "Super, du bist ein Engel! Ich backe dir morgen Guetsli als Dankeschön.", "english": "Great, you're an angel! I'll bake you cookies tomorrow as a thank you."},
+                {"speaker": "You", "swissGerman": "Haha, de Chueche-Duft allei isch Lohn gnueg!", "german": "Haha, der Kuchenduft allein ist Lohn genug!", "english": "Haha, the smell of baking alone is reward enough!"},
             ],
             "differences": [
                 {"swissGerman": "nä / nimm / nimmi", "german": "nehmen / nimm / nehme ich", "explanation": "Swiss 'nä' (nehmen): ich nimme, du nimmsch, er nimmt. Imperative: 'nimm'."},
@@ -88,6 +94,8 @@ SUBTOPIC_COMMON_VERBS = {
                 {"speaker": "Friend", "swissGerman": "Das mache mir zäme. Mach du scho mol s'Wasser heiss.", "german": "Das machen wir zusammen. Mach du schon mal das Wasser heiss.", "english": "We'll do that together. You start heating the water."},
                 {"speaker": "You", "swissGerman": "Wird gmacht! Muessi no öppis tue?", "german": "Wird gemacht! Muss ich noch etwas tun?", "english": "Consider it done! Do I need to do anything else?"},
                 {"speaker": "Friend", "swissGerman": "Ja, mach bitte de Tisch. Denn isch alles tip-top.", "german": "Ja, deck bitte den Tisch. Dann ist alles tiptop.", "english": "Yes, set the table please. Then everything's perfect."},
+                {"speaker": "You", "swissGerman": "Und de Wiischigler? Ich glaub mir händ no en im Chüelschrank.", "german": "Und der Weißwein? Ich glaube wir haben noch einen im Kühlschrank.", "english": "And the white wine? I think we still have one in the fridge."},
+                {"speaker": "Friend", "swissGerman": "Perfekt! Mach de uf — mir feiered s'Zämekooche!", "german": "Perfekt! Mach den auf — wir feiern das gemeinsame Kochen!", "english": "Perfect! Open it — we're celebrating our cooking together!"},
             ],
             "differences": [
                 {"swissGerman": "mache / machsch / macht / mache", "german": "mache / machst / macht / machen", "explanation": "Swiss 'mache' (machen): ich mache, du machsch, er macht, mir mached. Very regular."},
@@ -112,6 +120,8 @@ SUBTOPIC_COMMON_VERBS = {
                 {"speaker": "You", "swissGerman": "Isch guet, ich gib zue, da häsch rächt. Aber du gasch au nie go poschte!", "german": "Ist gut, ich gebe zu, da hast du recht. Aber du gehst auch nie einkaufen!", "english": "Fine, I admit, you're right about that. But you never go grocery shopping either!"},
                 {"speaker": "Flatmate", "swissGerman": "Okay, mache mer en Plan. Wer macht was und wänn.", "german": "Okay, machen wir einen Plan. Wer macht was und wann.", "english": "Okay, let's make a plan. Who does what and when."},
                 {"speaker": "You", "swissGerman": "Gueti Idee. Denn git's kei Striit meh.", "german": "Gute Idee. Dann gibt es keinen Streit mehr.", "english": "Good idea. Then there won't be any more arguments."},
+                {"speaker": "Flatmate", "swissGerman": "Guet! Ich mach en Liste per App — dämit mir beidi luege chömed.", "german": "Gut! Ich mache eine Liste über die App — damit wir beide nachschauen können.", "english": "Good! I'll make a list on the app — so we can both check it."},
+                {"speaker": "You", "swissGerman": "Perfekt. Und wer d'Liste ignoriert, muess de nächschte Kaffi zahle!", "german": "Perfekt. Und wer die Liste ignoriert, muss den nächsten Kaffee zahlen!", "english": "Perfect. And whoever ignores the list has to pay for the next coffee!"},
             ],
             "differences": [
                 {"swissGerman": "go poschte", "german": "einkaufen gehen", "explanation": "'go poschte' = 'einkaufen gehen'. 'poschte' is the Swiss word for grocery shopping."},

@@ -16,6 +16,8 @@ SUBTOPIC_HAIRDRESSER = {
                 {"speaker": "Customer", "swissGerman": "Ja gern, merci!", "german": "Ja gern, danke!", "english": "Yes please, thanks!"},
                 {"speaker": "You", "swissGerman": "Bitte sitzed Sie ab, d'Sandra chunnt grad.", "german": "Bitte setzen Sie sich, Sandra kommt gleich.", "english": "Please have a seat, Sandra will be right with you."},
                 {"speaker": "Customer", "swissGerman": "Super, kei Stress!", "german": "Super, kein Stress!", "english": "Great, no rush!"},
+                {"speaker": "You", "swissGerman": "Dröckend Sie sich nid — mir hend no en paar Ziitig für Si.", "german": "Drängen Sie sich nicht — wir haben noch einige Zeitschriften für Sie.", "english": "Don't rush — we have some magazines here for you."},
+                {"speaker": "Customer", "swissGerman": "Oh danke! Ich lues grad mol iine.", "german": "Oh danke! Ich lese mal kurz rein.", "english": "Oh thanks! I'll have a quick browse."},
             ],
             "differences": [
                 {"swissGerman": "um drüü", "german": "um drei", "explanation": "'drüü' = 'drei'. Swiss German vowel."},
@@ -40,6 +42,8 @@ SUBTOPIC_HAIRDRESSER = {
                 {"speaker": "Customer", "swissGerman": "Ja, öppe so. Nöd z'churz bitte!", "german": "Ja, etwa so. Nicht zu kurz bitte!", "english": "Yes, about that. Not too short please!"},
                 {"speaker": "You", "swissGerman": "Natürlich! Wänd Sie d'Spitze au no gmacht ha?", "german": "Natürlich! Wollen Sie die Spitzen auch noch gemacht haben?", "english": "Of course! Would you also like the ends done?"},
                 {"speaker": "Customer", "swissGerman": "Ja, bitte. Die sind chli usgfranzet.", "german": "Ja, bitte. Die sind ein bisschen ausgefranst.", "english": "Yes, please. They're a bit frayed."},
+                {"speaker": "You", "swissGerman": "Und wend Si au en Wash und Blow-dry, oder nur schnide?", "german": "Und möchten Sie auch einen Wash und Blow-dry, oder nur schneiden?", "english": "And would you also like a wash and blow-dry, or just a cut?"},
+                {"speaker": "Customer", "swissGerman": "Waschen ja bitte — Föhne kann ich sälber daheim mache.", "german": "Waschen ja bitte — Föhnen kann ich selbst zu Hause machen.", "english": "Washing yes please — blow-drying I can do at home myself."},
             ],
             "differences": [
                 {"swissGerman": "schnide", "german": "schneiden", "explanation": "'schnide' = 'schneiden'. Dropped '-en'."},
@@ -65,6 +69,8 @@ SUBTOPIC_HAIRDRESSER = {
                 {"speaker": "You", "swissGerman": "So öppe anderthalb Stund, mit Iiwirkziit und Pflege.", "german": "So etwa anderthalb Stunden, mit Einwirkzeit und Pflege.", "english": "About an hour and a half, with processing time and conditioning."},
                 {"speaker": "Customer", "swissGerman": "Und was koscht das?", "german": "Und was kostet das?", "english": "And what does it cost?"},
                 {"speaker": "You", "swissGerman": "Hundertfüfzg Franke inklusive Schnitt und Föhne.", "german": "Hundertfünfzig Franken inklusive Schnitt und Föhnen.", "english": "One hundred fifty francs including cut and blow-dry."},
+                {"speaker": "Customer", "swissGerman": "Guet. Und gits en Treuprogramm do? Ich chum jede Mönet.", "german": "Gut. Und gibt es ein Treueprogramm hier? Ich komme jeden Monat.", "english": "Good. And is there a loyalty program here? I come every month."},
+                {"speaker": "You", "swissGerman": "Ja! Ab zeh Mal bekommend Si d'elft Behandlig gratis. Ich tragä Si ii.", "german": "Ja! Ab zehn Mal bekommen Sie die elfte Behandlung gratis. Ich trage Sie ein.", "english": "Yes! From ten visits you get the eleventh treatment free. I'll register you."},
             ],
             "differences": [
                 {"swissGerman": "Haarfarb", "german": "Haarfarbe", "explanation": "'Haarfarb' = 'Haarfarbe'. Dropped '-e'."},
@@ -91,6 +97,8 @@ SUBTOPIC_HAIRDRESSER = {
                 {"speaker": "Customer", "swissGerman": "Ja, aber au trochner. Drum bi ich da!", "german": "Ja, aber auch trockener. Darum bin ich da!", "english": "Yes, but also drier. That's why I'm here!"},
                 {"speaker": "You", "swissGerman": "Ich mach Ihne en gueti Pflege-Kur dri. Das hilft mega.", "german": "Ich mache Ihnen eine gute Pflegekur rein. Das hilft sehr.", "english": "I'll do a good conditioning treatment. That helps a lot."},
                 {"speaker": "Customer", "swissGerman": "Perfekt, du weisch immer was s'Beschte isch!", "german": "Perfekt, du weißt immer was das Beste ist!", "english": "Perfect, you always know what's best!"},
+                {"speaker": "You", "swissGerman": "Haha, ich hab halt s'Handwerk glärnt! Wie lang scho chunsch du zu mir?", "german": "Haha, ich habe halt das Handwerk gelernt! Wie lange kommst du schon zu mir?", "english": "Haha, I've learned the craft! How long have you been coming to me?"},
+                {"speaker": "Customer", "swissGerman": "Fascht zwöi Johr. Ich würd d Coiffeur nie ändere so lang bi dir alles stimmt!", "german": "Fast zwei Jahre. Ich würde den Friseur nie wechseln solange bei dir alles stimmt!", "english": "Almost two years. I'd never change hairdressers as long as everything's great with you!"},
             ],
             "differences": [
                 {"swissGerman": "trochner", "german": "trockener", "explanation": "'trochner' = 'trockener'. Vowel shift."},
@@ -115,6 +123,8 @@ SUBTOPIC_HAIRDRESSER = {
                 {"speaker": "You", "swissGerman": "Shampoo ja, aber d'Blondierig wird knapf. Söllemer bstelle?", "german": "Shampoo ja, aber die Blondierung wird knapp. Sollen wir bestellen?", "english": "Shampoo yes, but the bleach is running low. Should we order?"},
                 {"speaker": "Colleague", "swissGerman": "Ja, mach das bitte. Und vergiss d'Handtüecher nöd i d'Wösch z'tue.", "german": "Ja, mach das bitte. Und vergiss die Handtücher nicht in die Wäsche zu tun.", "english": "Yes, please do. And don't forget to put the towels in the laundry."},
                 {"speaker": "You", "swissGerman": "Isch scho dri! So, in zehn Minute chömmer gaa.", "german": "Ist schon drin! So, in zehn Minuten können wir gehen.", "english": "Already in! So, in ten minutes we can leave."},
+                {"speaker": "Colleague", "swissGerman": "Hast du d'Kasse scho gmacht?", "german": "Hast du die Kasse schon gemacht?", "english": "Have you already done the till?"},
+                {"speaker": "You", "swissGerman": "Ja, alles stimmt. Mir händ hüt guet gschäftet — sechs Kund und e fünf-Stern-Rezension!", "german": "Ja, alles stimmt. Wir haben heute gut geschäftet — sechs Kunden und eine Fünf-Sterne-Rezension!", "english": "Yes, all correct. We did well today — six customers and a five-star review!"},
             ],
             "differences": [
                 {"swissGerman": "fäge", "german": "fegen", "explanation": "'fäge' = 'fegen'. Vowel shift."},

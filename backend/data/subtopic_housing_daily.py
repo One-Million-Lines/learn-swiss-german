@@ -16,6 +16,8 @@ SUBTOPIC_HOUSING_DAILY = {
                 {"speaker": "Manager", "swissGerman": "Sit wänn isch das? Händ Sie s'Thermostat scho kontrolliert?", "german": "Seit wann ist das? Haben Sie das Thermostat schon kontrolliert?", "english": "Since when? Have you already checked the thermostat?"},
                 {"speaker": "You", "swissGerman": "Sit geschter. Ja, s'Thermostat isch uf Fünf, aber nüt passiert.", "german": "Seit gestern. Ja, das Thermostat ist auf fünf, aber nichts passiert.", "english": "Since yesterday. Yes, the thermostat is on five, but nothing happens."},
                 {"speaker": "Manager", "swissGerman": "Guet, ich schick morn de Huusmeischter verbi. Passt's am Morge?", "german": "Gut, ich schicke morgen den Hausmeister vorbei. Passt es am Morgen?", "english": "Good, I'll send the caretaker over tomorrow. Does the morning work?"},
+                {"speaker": "You", "swissGerman": "Ja, bis Elfi bi ich dehei. Und chann ich bitte e Beschätigig per Mail kräge?", "german": "Ja, bis elf bin ich zu Hause. Und kann ich bitte eine Bestätigung per E-Mail bekommen?", "english": "Yes, I'm home until eleven. And can I please get a confirmation by email?"},
+                {"speaker": "Manager", "swissGerman": "Ich schick Ihne jetzt sofort e Mail.  Und merci für d'Üld.", "german": "Ich schicke Ihnen jetzt sofort eine E-Mail. Und danke für die Geduld.", "english": "I'll send you an email right now. And thanks for your patience."},
             ],
             "differences": [
                 {"swissGerman": "Heizig", "german": "Heizung", "explanation": "'Heizig' = 'Heizung'. Heating."},
@@ -41,6 +43,8 @@ SUBTOPIC_HOUSING_DAILY = {
                 {"speaker": "Neighbor", "swissGerman": "D'Wöschmaschine im Chäller isch au usser Betrieb bis am Aabig.", "german": "Die Waschmaschine im Keller ist auch außer Betrieb bis am Abend.", "english": "The washing machine in the basement is also out of order until evening."},
                 {"speaker": "You", "swissGerman": "Okay. Und de Wöschplan? Muess ich min Termin verschiebe?", "german": "Okay. Und der Waschplan? Muss ich meinen Termin verschieben?", "english": "Okay. And the laundry schedule? Do I need to move my time slot?"},
                 {"speaker": "Neighbor", "swissGerman": "Ja, am beschte meldsch dich bim Huusmeischter.", "german": "Ja, am besten meldest du dich beim Hausmeister.", "english": "Yes, best to contact the caretaker."},
+                {"speaker": "You", "swissGerman": "Und chan ich bis dänn d'Wösch i de Höf heje, bi dir?", "german": "Und kann ich bis dahin die Wäsche im Hof aufhängen, bei dir?", "english": "And can I hang the laundry in the courtyard until then, with you?"},
+                {"speaker": "Neighbor", "swissGerman": "Klar! I de Wäschelüfte-Bereich rechts. Hag einfach a de Ständer.", "german": "Klar! Im Wäschelüftungsbereich rechts. Häng einfach am Ständer.", "english": "Sure! In the laundry ventilation area on the right. Just hang on the rack."},
             ],
             "differences": [
                 {"swissGerman": "Treppehuus", "german": "Treppenhaus", "explanation": "'Treppehuus' = 'Treppenhaus'. Stairwell."},
@@ -66,6 +70,8 @@ SUBTOPIC_HOUSING_DAILY = {
                 {"speaker": "Neighbor", "swissGerman": "Klar, mir mached liiser. Tuedt eus leid!", "german": "Klar, wir machen leiser. Tut uns leid!", "english": "Sure, we'll turn it down. We're sorry!"},
                 {"speaker": "You", "swissGerman": "Danke vilmal! Kei Problem, gniessed de Aabig.", "german": "Vielen Dank! Kein Problem, genießt den Abend.", "english": "Thank you very much! No problem, enjoy the evening."},
                 {"speaker": "Neighbor", "swissGerman": "Merci, sehr nett vo dir. Guet Nacht!", "german": "Danke, sehr nett von dir. Gute Nacht!", "english": "Thanks, very kind of you. Good night!"},
+                {"speaker": "You", "swissGerman": "Schlof guet! Und s'nächscht Mol könnt ihr mich früher bescheid gäh — ich lüsse nöd stere.", "german": "Schlaf gut! Und beim nächsten Mal könnt ihr mich früher Bescheid geben — ich störe mich nicht.", "english": "Sleep well! And next time you can let me know earlier — I don't mind at all."},
+                {"speaker": "Neighbor", "swissGerman": "Das isch mega lieb — mir machs nächscht Mal besser. Versprooche!", "german": "Das ist mega lieb — wir machen es das nächste Mal besser. Versprochen!", "english": "That's so kind — we'll do better next time. Promised!"},
             ],
             "differences": [
                 {"swissGerman": "liiser", "german": "leiser", "explanation": "'liiser' = 'leiser'. Quieter."},
@@ -91,7 +97,8 @@ SUBTOPIC_HOUSING_DAILY = {
                 {"speaker": "Neighbor", "swissGerman": "Nei! Am Sunntig isch d'Wöschmaschine tabu. Husornig.", "german": "Nein! Am Sonntag ist die Waschmaschine tabu. Hausordnung.", "english": "No! On Sunday the washing machine is off limits. House rules."},
                 {"speaker": "You", "swissGerman": "Guet z'wüsse, danke! Und muess ich d'Maschine putze nach em Bruuch?", "german": "Gut zu wissen, danke! Und muss ich die Maschine putzen nach dem Gebrauch?", "english": "Good to know, thanks! And do I have to clean the machine after use?"},
                 {"speaker": "Neighbor", "swissGerman": "Ja bitte. Und d'Tüür offe lah zum Lüfte.", "german": "Ja bitte. Und die Tür offen lassen zum Lüften.", "english": "Yes please. And leave the door open to air it out."},
-            ],
+                {"speaker": "You", "swissGerman": "Isch dat Spezialwaschmittel nötig oder tüets das Normal?", "german": "Ist Spezialwaschmittel nötig oder reicht das normale?", "english": "Is special detergent needed or does normal work?"},
+                {"speaker": "Neighbor", "swissGerman": "Normal räicht. De Maschinetyp isch Siemens, 60 Grad für Bettwäsch, 40 für Chläider.", "german": "Normal reicht. Der Maschinentyp ist Siemens, 60 Grad für Bettwäsche, 40 für Kleider.", "english": "Normal works. The machine type is Siemens, 60 degrees for bedsheets, 40 for clothes."},            ],
             "differences": [
                 {"swissGerman": "Wöschchuchi", "german": "Waschküche", "explanation": "'Wöschchuchi' = 'Waschküche'. Laundry room. Very Swiss."},
                 {"swissGerman": "Wöschziit", "german": "Waschzeit", "explanation": "'Wöschziit' = laundry time slot. Assigned in Swiss buildings."},
@@ -116,6 +123,8 @@ SUBTOPIC_HOUSING_DAILY = {
                 {"speaker": "Neighbor", "swissGerman": "Gärn! Fraged Sie nur. D'wichtigschte Regle: Rueziit vo Zwölfi bis Zwöi und ab Zäni.", "german": "Gerne! Fragen Sie nur. Die wichtigsten Regeln: Ruhezeit von zwölf bis zwei und ab zehn.", "english": "Sure! Just ask. The main rules: quiet hours from twelve to two and from ten."},
                 {"speaker": "You", "swissGerman": "Und wie funktioniert s'Recycling do?", "german": "Und wie funktioniert das Recycling hier?", "english": "And how does recycling work here?"},
                 {"speaker": "Neighbor", "swissGerman": "Mir händ Container im Hoof — Paper, Glass, und PET. De Güsel chunnt am Mäntig.", "german": "Wir haben Container im Hof — Papier, Glas, und PET. Der Müll kommt am Montag.", "english": "We have containers in the courtyard — paper, glass, and PET. Garbage collection is Monday."},
+                {"speaker": "You", "swissGerman": "Und Sonderabfäll wie Batterien oder Farb? Wohin damit?", "german": "Und Sonderabfall wie Batterien oder Farbe? Wohin damit?", "english": "And special waste like batteries or paint? Where does that go?"},
+                {"speaker": "Neighbor", "swissGerman": "Dazu isch en Sonderabfall-Sammlstell im Quartier. Ich schick dir de Link.", "german": "Dafür gibt es eine Sonderabfall-Sammelstelle im Quartier. Ich schicke dir den Link.", "english": "There is a special waste collection point in the neighborhood. I'll send you the link."},
             ],
             "differences": [
                 {"swissGerman": "iizoge", "german": "eingezogen", "explanation": "'iizoge' = 'eingezogen'. Moved in."},

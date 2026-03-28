@@ -15,6 +15,8 @@ SUBTOPIC_BASIC_NEEDS_REQUESTS = {
                 {"speaker": "You", "swissGerman": "Liitig isch guet, merci.", "german": "Leitungswasser ist gut, danke.", "english": "Tap is fine, thanks."},
                 {"speaker": "Friend", "swissGerman": "Bitteschön! Wotsch au no öppis z'ässe?", "german": "Bitteschön! Willst du auch noch etwas zu essen?", "english": "Here you go! Want something to eat too?"},
                 {"speaker": "You", "swissGerman": "Nei, danke. Ich bruuche nur s'Wasser.", "german": "Nein, danke. Ich brauche nur das Wasser.", "english": "No, thanks. I just need the water."},
+                {"speaker": "Friend", "swissGerman": "Okay! Ich bringe dir's gleich. Mit Eis oder öä?", "german": "Okay! Ich bringe es dir gleich. Mit Eis oder ohne?", "english": "Okay! I'll bring it right away. With ice or without?"},
+                {"speaker": "You", "swissGerman": "Wenn's möglech isch, gärn mit Eis. Danke!", "german": "Wenn es möglich ist, gerne mit Eis. Danke!", "english": "With ice if possible. Thanks!"},
             ],
             "differences": [
                 {"swissGerman": "Ich hätt gern", "german": "Ich hätte gern", "explanation": "Polite way to say 'I would like'. 'hätt' = 'hätte'. The most-used request form."},
@@ -38,6 +40,8 @@ SUBTOPIC_BASIC_NEEDS_REQUESTS = {
                 {"speaker": "You", "swissGerman": "In de zweit Stock ue. Ich weiss, isch streng.", "german": "In den zweiten Stock hoch. Ich weiss, ist anstrengend.", "english": "Up to the second floor. I know, it's tough."},
                 {"speaker": "Neighbor", "swissGerman": "Das packe mir! Chum, mir nämed's zäme.", "german": "Das schaffen wir! Komm, wir nehmen es zusammen.", "english": "We'll manage! Come on, let's take it together."},
                 {"speaker": "You", "swissGerman": "Du bisch en Schatz, merci vielmal!", "german": "Du bist ein Schatz, vielen Dank!", "english": "You're a sweetheart, thanks so much!"},
+                {"speaker": "Neighbor", "swissGerman": "Kei Problem! Säg Bescheid wenn du no Hilf bruuchsch bim Iirichute.", "german": "Kein Problem! Sag Bescheid wenn du noch Hilfe beim Einrichten brauchst.", "english": "No problem! Let me know if you need more help setting up."},
+                {"speaker": "You", "swissGerman": "Das isch sö nett! Ich mäld mich bald mol uf en Kafi.", "german": "Das ist so nett! Ich melde mich bald mal auf einen Kaffee.", "english": "That's so kind! I'll be in touch soon for a coffee."},
             ],
             "differences": [
                 {"swissGerman": "Chasch mer hälfe", "german": "Kannst du mir helfen", "explanation": "'Chasch' = 'kannst du', 'mer' = 'mir', 'hälfe' = 'helfen'. 'Chasch' already includes 'du'."},
@@ -61,7 +65,8 @@ SUBTOPIC_BASIC_NEEDS_REQUESTS = {
                 {"speaker": "Agent", "swissGerman": "Natürlich. Drüü - sibnni - zwee - nüün - föif.", "german": "Natürlich. Drei - sieben - zwei - neun - fünf.", "english": "Of course. Three - seven - two - nine - five."},
                 {"speaker": "You", "swissGerman": "Drüü-sibnni-zwee-nüün-föif. Isch das richtig?", "german": "Drei-sieben-zwei-neun-fünf. Ist das richtig?", "english": "Three-seven-two-nine-five. Is that correct?"},
                 {"speaker": "Agent", "swissGerman": "Genau, perfekt!", "german": "Genau, perfekt!", "english": "Exactly, perfect!"},
-            ],
+                {"speaker": "You", "swissGerman": "Chönd Sie mir die Nummere au per SMS zueschìke?", "german": "Können Sie mir die Nummer auch per SMS zuschicken?", "english": "Can you also send me the number by SMS?"},
+                {"speaker": "Agent", "swissGerman": "Natürlich, ich schick's Ihne sofort uf Ihren Natel.", "german": "Natürlich, ich schicke es Ihnen sofort aufs Handy.", "english": "Of course, I'll send it to your mobile right away."},            ],
             "differences": [
                 {"swissGerman": "chönd Sie das wiederhole", "german": "können Sie das wiederholen", "explanation": "'chönd' = 'können'. 'wiederhole' drops the -n ending typical of Swiss German infinitives."},
                 {"swissGerman": "Ich ha's nöd ganz verstande", "german": "Ich habe es nicht ganz verstanden", "explanation": "'ha's' = 'habe es', 'verstande' = 'verstanden'. Past participle loses final -n."},
@@ -84,6 +89,8 @@ SUBTOPIC_BASIC_NEEDS_REQUESTS = {
                 {"speaker": "You", "swissGerman": "Ja, chönted Sie mir bitte au no zwee Tüecher bringe?", "german": "Ja, könnten Sie mir bitte auch noch zwei Handtücher bringen?", "english": "Yes, could you also bring me two towels please?"},
                 {"speaker": "Receptionist", "swissGerman": "Selbstverständlich. Ich schicke das uf Ihres Zimmer.", "german": "Selbstverständlich. Ich schicke das auf Ihr Zimmer.", "english": "Of course. I'll have it sent to your room."},
                 {"speaker": "You", "swissGerman": "Super, das isch sehr nett. Merci!", "german": "Super, das ist sehr nett. Danke!", "english": "Great, that's very kind. Thanks!"},
+                {"speaker": "Receptionist", "swissGerman": "Isch uf Ihrem Zimmer sonst alles i de Ornig? Heiztig, Dusche?", "german": "Ist auf Ihrem Zimmer sonst alles in Ordnung? Heizung, Dusche?", "english": "Is everything else in your room alright? Heating, shower?"},
+                {"speaker": "You", "swissGerman": "Ja, alles isch wunderbar. Ich bi sehr zufrieden mit em Zimmer.", "german": "Ja, alles ist wunderbar. Ich bin sehr zufrieden mit dem Zimmer.", "english": "Yes, everything is wonderful. I'm very happy with the room."},
             ],
             "differences": [
                 {"swissGerman": "Ich wett gern", "german": "Ich möchte gern", "explanation": "'wett' = 'möchte'. Another polite request form alongside 'hätt gern'."},
@@ -107,6 +114,8 @@ SUBTOPIC_BASIC_NEEDS_REQUESTS = {
                 {"speaker": "You", "swissGerman": "Gang drüü, links. Merci vielmal!", "german": "Gang drei, links. Vielen Dank!", "english": "Aisle three, left. Thanks a lot!"},
                 {"speaker": "Employee", "swissGerman": "Gern! Wennd süscht no öppis bruuchsch, eifach frage.", "german": "Gern! Wenn du sonst noch etwas brauchst, einfach fragen.", "english": "Sure! If you need anything else, just ask."},
                 {"speaker": "You", "swissGerman": "Das isch lieb, danke!", "german": "Das ist lieb, danke!", "english": "That's kind, thanks!"},
+                {"speaker": "Employee", "swissGerman": "Isch das für es Rezäpt? Bruuched Sie Wiiss- oder Vollkornmähl?", "german": "Ist das für ein Rezept? Brauchen Sie Weiß- oder Vollkornmehl?", "english": "Is it for a recipe? Do you need white or wholegrain flour?"},
+                {"speaker": "You", "swissGerman": "Wiissmähl isch guet. Sie sind echt hilfsbereit!", "german": "Weißmehl reicht. Sie sind wirklich hilfsbereit!", "english": "White flour is fine. You're genuinely helpful!"},
             ],
             "differences": [
                 {"swissGerman": "Chönd Sie mer hälfe", "german": "Können Sie mir helfen", "explanation": "Formal help request. 'chönd' = 'können', 'mer' = 'mir', 'hälfe' = 'helfen'."},

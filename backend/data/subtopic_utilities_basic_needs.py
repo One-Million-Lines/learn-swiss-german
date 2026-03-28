@@ -15,6 +15,8 @@ SUBTOPIC_UTILITIES_BASIC_NEEDS = {
                 {"speaker": "You", "swissGerman": "Ich glaub scho, de Vormieter hät Swisscom gha.", "german": "Ich glaube schon, der Vormieter hatte Swisscom.", "english": "I think so, the previous tenant had Swisscom."},
                 {"speaker": "Employee", "swissGerman": "Perfekt, denn gaat's schnäll. Mir händ drei Abos — möchted Sie au TV debii?", "german": "Perfekt, dann geht es schnell. Wir haben drei Abos — möchten Sie auch TV dabei?", "english": "Perfect, then it'll be quick. We have three plans — would you also like TV?"},
                 {"speaker": "You", "swissGerman": "Nur Internet, bitte. Was chostet s'günstigschta Abo?", "german": "Nur Internet, bitte. Was kostet das günstigste Abo?", "english": "Just internet, please. How much is the cheapest plan?"},
+                {"speaker": "You", "swissGerman": "Und zum Iirichted, bruuch ich es bestimmts Formular?", "german": "Und zum Einrichten, brauche ich ein bestimmtes Formular?", "english": "And to set it up, do I need a specific form?"},
+                {"speaker": "Employee", "swissGerman": "Nei, mir macheds alli online. Ich bruuch nur Ihri Post-Adrässe und Ihri Personalije.", "german": "Nein, wir machen alles online. Ich brauche nur Ihre Postadresse und Ihre Personalien.", "english": "No, we do it all online. I just need your postal address and personal details."},
                 {"speaker": "Employee", "swissGerman": "49 Franke im Monet. Installation isch gratis. De Router chömed Sie in drüü Täg übercho.", "german": "49 Franken im Monat. Installation ist gratis. Den Router bekommen Sie in drei Tagen.", "english": "49 francs per month. Installation is free. You'll get the router in three days."},
             ],
             "differences": [
@@ -40,6 +42,8 @@ SUBTOPIC_UTILITIES_BASIC_NEEDS = {
                 {"speaker": "You", "swissGerman": "Prepaid zerscht. Ich bi nöi i de Schwiz.", "german": "Prepaid zuerst. Ich bin neu in der Schweiz.", "english": "Prepaid first. I'm new in Switzerland."},
                 {"speaker": "Employee", "swissGerman": "Guet. Ich bruuch Ihri ID und e Schwizer Adrässe.", "german": "Gut. Ich brauche Ihre ID und eine Schweizer Adresse.", "english": "Good. I need your ID and a Swiss address."},
                 {"speaker": "You", "swissGerman": "Do isch alles. Wie vill Datesvolume han ich?", "german": "Hier ist alles. Wie viel Datenvolumen habe ich?", "english": "Here's everything. How much data do I get?"},
+                {"speaker": "You", "swissGerman": "Chani au en Schweizer Numme übercho?", "german": "Kann ich auch eine Schweizer Nummer bekommen?", "english": "Can I also get a Swiss number?"},
+                {"speaker": "Employee", "swissGerman": "Ja, alli Prepaid-Charte händ en Schweizer 079-er oder 078-er Numme.", "german": "Ja, alle Prepaid-Karten haben eine Schweizer 079er oder 078er Nummer.", "english": "Yes, all prepaid cards have a Swiss 079 or 078 number."},
                 {"speaker": "Employee", "swissGerman": "3 GB im Monet. Sie chönd immer uuflade wenns uufbruucht isch.", "german": "3 GB im Monat. Sie können immer aufladen wenn es aufgebraucht ist.", "english": "3 GB per month. You can always top up when it's used up."},
             ],
             "differences": [
@@ -65,6 +69,8 @@ SUBTOPIC_UTILITIES_BASIC_NEEDS = {
                 {"speaker": "You", "swissGerman": "D'Rechnig isch vill höcher als letscht Monet. Wieso?", "german": "Die Rechnung ist viel höher als letzten Monat. Warum?", "english": "The bill is much higher than last month. Why?"},
                 {"speaker": "Employee", "swissGerman": "Das cha am höchere Verbruuch lige. Händ Sie d'Zählerständ kontrolliert?", "german": "Das kann am höheren Verbrauch liegen. Haben Sie den Zählerstand kontrolliert?", "english": "That could be due to higher consumption. Have you checked the meter reading?"},
                 {"speaker": "You", "swissGerman": "Nei, wo find ich de Zähler?", "german": "Nein, wo finde ich den Zähler?", "english": "No, where do I find the meter?"},
+                {"speaker": "You", "swissGerman": "Und chani de Zählerstand per App oder per Post mälde?", "german": "Und kann ich den Zählerstand per App oder per Post melden?", "english": "And can I report the meter reading by app or by post?"},
+                {"speaker": "Employee", "swissGerman": "Beides isch möglich, aber d'App isch schnäller. Suecheds 'EWZ-App' im Store.", "german": "Beides ist möglich, aber die App ist schneller. Suchen Sie 'EWZ-App' im Store.", "english": "Both are possible, but the app is faster. Search 'EWZ-App' in the store."},
                 {"speaker": "Employee", "swissGerman": "Meischtens im Chäller bim Sicherigschaschte. Sie chönd eus de Stand denn online mälde.", "german": "Meistens im Keller beim Sicherungskasten. Sie können uns den Stand dann online melden.", "english": "Usually in the basement by the fuse box. You can report the reading to us online."},
             ],
             "differences": [
@@ -90,6 +96,8 @@ SUBTOPIC_UTILITIES_BASIC_NEEDS = {
                 {"speaker": "You", "swissGerman": "Ja, zweimal. S'Liecht am Router isch root.", "german": "Ja, zweimal. Das Licht am Router ist rot.", "english": "Yes, twice. The light on the router is red."},
                 {"speaker": "Support", "swissGerman": "Okay, das tönt nach emne Hardware-Problem. Mir schicked Ihne en nöie Router.", "german": "Okay, das klingt nach einem Hardware-Problem. Wir schicken Ihnen einen neuen Router.", "english": "Okay, that sounds like a hardware problem. We'll send you a new router."},
                 {"speaker": "You", "swissGerman": "Wänn chunt de? Ich bruuch Internet zum Schaffe.", "german": "Wann kommt der? Ich brauche Internet zum Arbeiten.", "english": "When will it arrive? I need internet for work."},
+                {"speaker": "You", "swissGerman": "Und was passiert mit mim Netze-Abo während de Warteziit?", "german": "Und was passiert mit meinem Netz-Abo während der Wartezeit?", "english": "And what happens to my internet plan during the waiting period?"},
+                {"speaker": "Support", "swissGerman": "Das lauft normal wiiter. Mir pausiered nüt — Sie zahled nur für s'glischtige Abo.", "german": "Das läuft normal weiter. Wir pausieren nichts — Sie zahlen nur für das gleiche Abo.", "english": "It continues normally. We don't pause anything — you just pay for the same plan."},
                 {"speaker": "Support", "swissGerman": "Morn oder übermorn. Mir aktiviered Ihne bis denn en Hotspot gratis.", "german": "Morgen oder übermorgen. Wir aktivieren Ihnen bis dahin einen Hotspot gratis.", "english": "Tomorrow or the day after. We'll activate a free hotspot for you until then."},
             ],
             "differences": [
@@ -115,6 +123,8 @@ SUBTOPIC_UTILITIES_BASIC_NEEDS = {
                 {"speaker": "Friend", "swissGerman": "Das isch d'Radio- und Fernseh-Gebühr. Jede Huushalt muess die zahle.", "german": "Das ist die Radio- und Fernsehgebühr. Jeder Haushalt muss die zahlen.", "english": "That's the radio and TV fee. Every household has to pay it."},
                 {"speaker": "You", "swissGerman": "Au wänn ich kei Fernseh ha?", "german": "Auch wenn ich keinen Fernseher habe?", "english": "Even if I don't have a TV?"},
                 {"speaker": "Friend", "swissGerman": "Ja, das isch obligatorisch. Öppe 335 Franke im Jahr.", "german": "Ja, das ist obligatorisch. Ungefähr 335 Franken im Jahr.", "english": "Yes, it's mandatory. About 335 francs per year."},
+                {"speaker": "You", "swissGerman": "Git's en Rabatt für Studänte oder AHV-Bezüger?", "german": "Gibt es einen Rabatt für Studenten oder AHV-Bezüger?", "english": "Is there a discount for students or pension recipients?"},
+                {"speaker": "Friend", "swissGerman": "Nei, die Gebüür isch fixiert — alli zahled gliich vill, unabhängig vom Iikoo.", "german": "Nein, die Gebühr ist fixiert — alle zahlen gleich viel, unabhängig vom Einkommen.", "english": "No, the fee is fixed — everyone pays the same, regardless of income."},
                 {"speaker": "You", "swissGerman": "Wow, s'Lääbe i de Schwiz isch nöd billig!", "german": "Wow, das Leben in der Schweiz ist nicht billig!", "english": "Wow, life in Switzerland isn't cheap!"},
             ],
             "differences": [

@@ -16,6 +16,8 @@ SUBTOPIC_PRIMARSCHULE = {
                 {"speaker": "Child", "swissGerman": "Ja, ich muess es Rächneblatt mache und es Buech läse.", "german": "Ja, ich muss ein Rechenblatt machen und ein Buch lesen.", "english": "Yes, I need to do a maths worksheet and read a book."},
                 {"speaker": "You", "swissGerman": "Guet, denn iss zerscht din Zvieri und denn machsch d'Ufzgi.", "german": "Gut, dann iss zuerst dein Zvieri und dann machst du die Aufgaben.", "english": "Good, then eat your afternoon snack first and then do your homework."},
                 {"speaker": "Child", "swissGerman": "Chan ich denn no mit de Emma go spile?", "german": "Kann ich danach noch mit Emma spielen gehen?", "english": "Can I go play with Emma afterwards?"},
+                {"speaker": "You", "swissGerman": "Ja, aber nur wenn d'Ufzgi fertig sind. Wie lang bruchsch du?", "german": "Ja, aber nur wenn die Hausaufgaben fertig sind. Wie lange brauchst du?", "english": "Yes, but only when homework is done. How long do you need?"},
+                {"speaker": "Child", "swissGerman": "Öppe es halbi Stund. Das Räcbnblatt isch nöd so schwer hüt.", "german": "Ungefähr eine halbe Stunde. Das Rechenblatt ist heute nicht so schwer.", "english": "About half an hour. The maths worksheet isn't that hard today."},
             ],
             "differences": [
                 {"swissGerman": "Rächne", "german": "Rechnen", "explanation": "'Rächne' = 'Rechnen'. Vowel shift."},
@@ -41,6 +43,8 @@ SUBTOPIC_PRIMARSCHULE = {
                 {"speaker": "You", "swissGerman": "Okay, mir lesed jede Abig zäme. Söll mir en bestimmts Buech näh?", "german": "Okay, wir lesen jeden Abend zusammen. Sollen wir ein bestimmtes Buch nehmen?", "english": "Okay, we read together every evening. Should we use a specific book?"},
                 {"speaker": "Lehrerin", "swissGerman": "Ja, ich gib eu e Lese-List mit. Und sozial isch d'Lina mega beliebt.", "german": "Ja, ich gebe euch eine Leseliste mit. Und sozial ist Lina sehr beliebt.", "english": "Yes, I'll give you a reading list. And socially Lina is very popular."},
                 {"speaker": "You", "swissGerman": "Schön! Merci vilmal, Frau Weber.", "german": "Schön! Vielen Dank, Frau Weber.", "english": "Great! Thank you very much, Mrs. Weber."},
+                {"speaker": "Lehrerin", "swissGerman": "Merci üich! Falls Sie Frage händ, därfed Sie mir jederziit e Mail schicke.", "german": "Danke Ihnen! Falls Sie Fragen haben, dürfen Sie mir jederzeit eine E-Mail schicken.", "english": "Thank you! If you have questions, feel free to email me any time."},
+                {"speaker": "You", "swissGerman": "Super, das isch sehr hilfriich. Bi wieder guet informiert!", "german": "Super, das ist sehr hilfreich. Bin wieder gut informiert!", "english": "Great, that's very helpful. I'm well informed again!"},
             ],
             "differences": [
                 {"swissGerman": "Düütsch", "german": "Deutsch", "explanation": "'Düütsch' = 'Deutsch'. Vowel doubling."},
@@ -66,6 +70,8 @@ SUBTOPIC_PRIMARSCHULE = {
                 {"speaker": "Child", "swissGerman": "Rächne, Düütsch, Zeichne und NMG.", "german": "Rechnen, Deutsch, Zeichnen und NMG.", "english": "Maths, German, Art, and NMG."},
                 {"speaker": "You", "swissGerman": "Guet. Farbstift und Zeichnigsheft nöd vergässe! Und de Turnsack für Fritig?", "german": "Gut. Farbstifte und Zeichnungsheft nicht vergessen! Und den Turnsack für Freitag?", "english": "Good. Don't forget crayons and drawing book! And the gym bag for Friday?"},
                 {"speaker": "Child", "swissGerman": "Oh stimmt, de muess ich au no iipacke.", "german": "Oh stimmt, den muss ich auch noch einpacken.", "english": "Oh right, I need to pack that too."},
+                {"speaker": "You", "swissGerman": "Und vergiss s'Trinkfläschli nid! Das muess au mit.", "german": "Und vergiss die Trinkflasche nicht! Die muss auch mit.", "english": "And don't forget the water bottle! That comes along too."},
+                {"speaker": "Child", "swissGerman": "Ja, ich fülls grad uf mit Wasser.", "german": "Ja, ich fülle sie gleich auf mit Wasser.", "english": "Yes, I'll fill it up with water right now."},
             ],
             "differences": [
                 {"swissGerman": "Thek", "german": "Schultasche/Schulranzen", "explanation": "'Thek' = 'Schulranzen'. Swiss word for school bag."},
@@ -91,6 +97,8 @@ SUBTOPIC_PRIMARSCHULE = {
                 {"speaker": "You", "swissGerman": "Das fröit mich! Und häsch scho dis Schwümmabzeiche gmacht?", "german": "Das freut mich! Und hast du schon dein Schwimmabzeichen gemacht?", "english": "That makes me happy! And have you done your swimming badge yet?"},
                 {"speaker": "Child", "swissGerman": "Nonig. Ich muess no 50 Meter am Stuck schwümme.", "german": "Noch nicht. Ich muss noch 50 Meter am Stück schwimmen.", "english": "Not yet. I still need to swim 50 meters non-stop."},
                 {"speaker": "You", "swissGerman": "Am Samstig gönd mir go üebe im Hallibad. Abgmacht?", "german": "Am Samstag gehen wir üben im Hallenbad. Abgemacht?", "english": "On Saturday we'll go practice at the indoor pool. Deal?"},
+                {"speaker": "Child", "swissGerman": "Abgmacht! Und chönni au vom Driiimeterbrett springe?", "german": "Abgemacht! Und darf ich auch vom Dreimaterbrett springen?", "english": "Deal! And can I also jump from the three-meter board?"},
+                {"speaker": "You", "swissGerman": "Erst de Fünfzigmeter-Test, drän rede mir. Einig?", "german": "Erst den Fünfzig-Meter-Test, dann reden wir. Einig?", "english": "First the fifty-meter test, then we'll talk. Agreed?"},
             ],
             "differences": [
                 {"swissGerman": "Schwümme", "german": "Schwimmen", "explanation": "'Schwümme' = 'Schwimmen'. Vowel shift."},
@@ -116,6 +124,8 @@ SUBTOPIC_PRIMARSCHULE = {
                 {"speaker": "You", "swissGerman": "Toll! Musch du de Täxt uswändig lehre?", "german": "Toll! Musst du den Text auswendig lernen?", "english": "Great! Do you have to learn the text by heart?"},
                 {"speaker": "Child", "swissGerman": "Ja, ich ha zehn Sätz. De Wolf rüeft: 'Ich friss euch alli uf!'", "german": "Ja, ich habe zehn Sätze. Der Wolf ruft: 'Ich fresse euch alle auf!'", "english": "Yes, I have ten lines. The wolf shouts: 'I'll eat you all up!'"},
                 {"speaker": "You", "swissGerman": "Haha! Denn üebemer s'Wuchemend zäme, okay?", "german": "Haha! Dann üben wir am Wochenende zusammen, okay?", "english": "Haha! Then we'll practice together on the weekend, okay?"},
+                {"speaker": "Child", "swissGerman": "Ja! Ha dr mega Ang vor de andere, aber ich willä es guet mache.", "german": "Ja! Ich habe Lampenfieber von den anderen, aber ich will es gut machen.", "english": "Yes! I have stage fright with the others watching, but I want to do it well."},
+                {"speaker": "You", "swissGerman": "Du wirst fantastisch si! Mir chömmed all vier go zueluege.", "german": "Du wirst fantastisch sein! Wir kommen alle vier zum Zuschauen.", "english": "You'll be fantastic! All four of us will come to watch."},
             ],
             "differences": [
                 {"swissGerman": "Uffüerig", "german": "Aufführung", "explanation": "'Uffüerig' = 'Aufführung'. 'Auf-' → 'Uf-', '-ung' → '-ig'."},

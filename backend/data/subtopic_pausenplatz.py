@@ -16,6 +16,8 @@ SUBTOPIC_PAUSENPLATZ = {
                 {"speaker": "Friend", "swissGerman": "Ja, ich nimm s'Rüebli und du de Öpfel!", "german": "Ja, ich nehme die Karotte und du den Apfel!", "english": "Yes, I'll take the carrot and you the apple!"},
                 {"speaker": "Child", "swissGerman": "Chum, mir sitzed uf de Treppe und ässed dört.", "german": "Komm, wir sitzen auf der Treppe und essen dort.", "english": "Come on, let's sit on the steps and eat there."},
                 {"speaker": "Friend", "swissGerman": "Guet, aber schnäll. Mir wänd no go Fangis spile!", "german": "Gut, aber schnell. Wir wollen noch Fangen spielen!", "english": "Good, but fast. We still want to play tag!"},
+                {"speaker": "Child", "swissGerman": "Und nach Fangis? Chömmer no en Rundi Seilspringen mache?", "german": "Und nach dem Fangen? Können wir noch eine Runde Seilspringen machen?", "english": "And after tag? Can we also do a round of jump rope?"},
+                {"speaker": "Friend", "swissGerman": "Ja! Aber mir müend ersch Pause-Ende abwarte. D'Glocke lütet in zwöi Minute.", "german": "Ja! Aber wir müssen erst Pausenende abwarten. Die Glocke läutet in zwei Minuten.", "english": "Yes! But we have to wait for break's end. The bell rings in two minutes."},
             ],
             "differences": [
                 {"swissGerman": "Znüni", "german": "Pausensnack", "explanation": "'Znüni' = morning snack at 9:00. Swiss tradition."},
@@ -41,6 +43,8 @@ SUBTOPIC_PAUSENPLATZ = {
                 {"speaker": "Friend", "swissGerman": "Wer macht de Aawurf?", "german": "Wer macht den Anwurf?", "english": "Who does the first throw?"},
                 {"speaker": "Child", "swissGerman": "Mir mached Schnick-Schnack-Schnuck! De Gwünner fängt aa.", "german": "Wir machen Schnick-Schnack-Schnuck! Der Gewinner fängt an.", "english": "We'll do rock-paper-scissors! The winner starts."},
                 {"speaker": "Friend", "swissGerman": "Gopf, troffe! Ich muess ufs Feld!", "german": "Mist, getroffen! Ich muss aufs Feld!", "english": "Darn, hit! I have to go to the field!"},
+                {"speaker": "Child", "swissGerman": "Kei Sorge, bald bisch wieder ine! Chatch de Ball fanä und wieder im Spiel.", "german": "Keine Sorge, bald bist du wieder drin! Fang den Ball und du bist wieder im Spiel.", "english": "No worries, you'll be back in soon! Catch the ball and you're back in the game."},
+                {"speaker": "Friend", "swissGerman": "Okay! Ich wärte, ich bin gut im Fange — ich chum schnell zrück!", "german": "Okay! Ich warte, ich bin gut im Fangen — ich komme schnell zurück!", "english": "Okay! I'll wait, I'm good at catching — I'll be back quickly!"},
             ],
             "differences": [
                 {"swissGerman": "Völkerball", "german": "Völkerball/Dodgeball", "explanation": "Traditional Swiss school game, similar to dodgeball."},
@@ -66,6 +70,8 @@ SUBTOPIC_PAUSENPLATZ = {
                 {"speaker": "Child", "swissGerman": "Er hät de Ball mit em Fuess gschpilt, und das isch bi Völkerball verbote!", "german": "Er hat den Ball mit dem Fuß gespielt, und das ist bei Völkerball verboten!", "english": "He played the ball with his foot, and that's against the rules in dodgeball!"},
                 {"speaker": "Teacher", "swissGerman": "Okay, denn gältet de Punkt nöd. Aber jetzt gönd euch d'Händ gäh und wiiterspile.", "german": "Okay, dann gilt der Punkt nicht. Aber jetzt gebt euch die Hand und spielt weiter.", "english": "Okay, then the point doesn't count. But now shake hands and keep playing."},
                 {"speaker": "Child", "swissGerman": "Okay... Sorry. Chum, mir mached wiiter.", "german": "Okay... Sorry. Komm, wir machen weiter.", "english": "Okay... Sorry. Come on, let's continue."},
+                {"speaker": "Teacher", "swissGerman": "Guet so. Und de nächschte Mal diskutiert zerscht, bevor ihr streited.", "german": "Gut so. Und das nächste Mal diskutiert zuerst, bevor ihr streitet.", "english": "Good. And next time discuss first before you argue."},
+                {"speaker": "Other Child", "swissGerman": "Ja, Herr Lehrer. Mir mäched das näschte Mal besser.", "german": "Ja, Herr Lehrer. Wir machen das nächste Mal besser.", "english": "Yes, Mr. Teacher. We'll do better next time."},
             ],
             "differences": [
                 {"swissGerman": "gschummlet", "german": "geschummelt", "explanation": "'gschummlet' = 'geschummelt'. 'Ge-' → 'G-'."},
@@ -91,6 +97,8 @@ SUBTOPIC_PAUSENPLATZ = {
                 {"speaker": "Friend", "swissGerman": "Okay, ich zell: Eis, zwei, drü, vier, füf, sächs...", "german": "Okay, ich zähle: Eins, zwei, drei, vier, fünf, sechs...", "english": "Okay, I'll count: One, two, three, four, five, six..."},
                 {"speaker": "Child", "swissGerman": "Mist, ich bi hänge blibe! Wie viel hani gschafft?", "german": "Mist, ich bin hängengeblieben! Wie viel habe ich geschafft?", "english": "Darn, I got caught! How many did I manage?"},
                 {"speaker": "Friend", "swissGerman": "Sächzäh! Neuer Rekord! Jetzt bin ich draa!", "german": "Sechzehn! Neuer Rekord! Jetzt bin ich dran!", "english": "Sixteen! New record! Now it's my turn!"},
+                {"speaker": "Child", "swissGerman": "Okay, und ich zäll jetzt. Bi Sächzäh gits en neus Rekord für dich!", "german": "Okay, und ich zähle jetzt. Bei Sechzehn gibt es einen neuen Rekord für dich!", "english": "Okay, and I'll count now. At sixteen you'll have a new record!"},
+                {"speaker": "Friend", "swissGerman": "Top! Ich versuch's mit drüssig! Tim hatt amal zwünzg gschafft!", "german": "Top! Ich versuche dreissig! Tim hat einmal zwanzig geschafft!", "english": "Deal! I'm going for thirty! Tim once managed twenty!"},
             ],
             "differences": [
                 {"swissGerman": "Seilspringge", "german": "Seilspringen", "explanation": "'Seilspringge' = 'Seilspringen'. Swiss form."},
@@ -116,6 +124,8 @@ SUBTOPIC_PAUSENPLATZ = {
                 {"speaker": "Child", "swissGerman": "Nei, NMG. Mir mached e Experiment hüt!", "german": "Nein, NMG. Wir machen ein Experiment heute!", "english": "No, NMG. We're doing an experiment today!"},
                 {"speaker": "Friend", "swissGerman": "Cool! Ich muess no schnäll uf s'WC. Gang scho vor!", "german": "Cool! Ich muss noch schnell aufs WC. Geh schon vor!", "english": "Cool! I need to quickly go to the bathroom. Go ahead!"},
                 {"speaker": "Child", "swissGerman": "Okay, aber beil dich! De Lehrer wartet nöd.", "german": "Okay, aber beeil dich! Der Lehrer wartet nicht.", "english": "Okay, but hurry! The teacher won't wait."},
+                {"speaker": "Friend", "swissGerman": "Warte mal, ich ha mi Jacke vergesse am Pausenplatz!", "german": "Warte mal, ich habe meine Jacke vergessen auf dem Pausenplatz!", "english": "Wait, I forgot my jacket on the playground!"},
+                {"speaker": "Child", "swissGerman": "Ich gäh mit! Mir chömed de ufem schnellschte Wäg zrück — um's Eck und dur d'Träppe!", "german": "Ich gehe mit! Wir kommen auf dem schnellsten Weg zurück — ums Eck und durch die Treppe!", "english": "I'll come! We'll take the fastest route back — round the corner and through the stairs!"},
             ],
             "differences": [
                 {"swissGerman": "glüttet", "german": "geläutet", "explanation": "'glüttet' = 'geläutet'. Swiss form of 'ring'."},

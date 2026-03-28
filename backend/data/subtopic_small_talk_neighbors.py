@@ -15,6 +15,7 @@ SUBTOPIC_SMALL_TALK_NEIGHBORS = {
                 {"speaker": "You", "swissGerman": "Ja, wunderschön! Gönd Sie go spaziere?", "german": "Ja, wunderschön! Gehen Sie spazieren?", "english": "Yes, beautiful! Are you going for a walk?"},
                 {"speaker": "Neighbor", "swissGerman": "Ja, ich gah a de See. Und Sie?", "german": "Ja, ich gehe an den See. Und Sie?", "english": "Yes, I'm going to the lake. And you?"},
                 {"speaker": "You", "swissGerman": "Ich bliibe deheim hüt. Schöne Tag no!", "german": "Ich bleibe heute zuhause. Schönen Tag noch!", "english": "I'm staying home today. Have a nice day!"},
+                {"speaker": "You", "swissGerman": "Und grüessed Sie Ihre Maa! Ich hoff er erholt sich guet.", "german": "Und grüßen Sie Ihren Mann! Ich hoffe er erholt sich gut.", "english": "And say hello to your husband! I hope he's recovering well."},
                 {"speaker": "Neighbor", "swissGerman": "Danke, Ihne au!", "german": "Danke, Ihnen auch!", "english": "Thanks, you too!"},
             ],
             "differences": [
@@ -38,6 +39,7 @@ SUBTOPIC_SMALL_TALK_NEIGHBORS = {
                 {"speaker": "You", "swissGerman": "Ah, also morn! Merci, das hani nöd gwüsst.", "german": "Ah, also morgen! Danke, das habe ich nicht gewusst.", "english": "Ah, so tomorrow! Thanks, I didn't know that."},
                 {"speaker": "Neighbor", "swissGerman": "Gärn gscheh! S'Papier isch jeде Mittwuch, falls Sie das au bruuched.", "german": "Gern geschehen! Das Papier ist jeden Mittwoch, falls Sie das auch brauchen.", "english": "You're welcome! Paper is every Wednesday, in case you need that too."},
                 {"speaker": "You", "swissGerman": "Perfekt, danke vilmal!", "german": "Perfekt, vielen Dank!", "english": "Perfect, thanks a lot!"},
+                {"speaker": "You", "swissGerman": "Und wänn isch d'nöchschte Grümpelsammlig? Ich ha no e Chischte voll alte Zacha.", "german": "Und wann ist die nächste Grümpelsammlung? Ich habe noch eine Kiste voller alter Sachen.", "english": "And when is the next junk collection? I still have a box full of old stuff."},
                 {"speaker": "Neighbor", "swissGerman": "Kei Problem. Ade!", "german": "Kein Problem. Tschüss!", "english": "No problem. Bye!"},
             ],
             "differences": [
@@ -61,6 +63,7 @@ SUBTOPIC_SMALL_TALK_NEIGHBORS = {
                 {"speaker": "Neighbor", "swissGerman": "Gärn gscheh. Händ Sie öppis Schöns vor am Wuchenänd?", "german": "Gern geschehen. Haben Sie etwas Schönes vor am Wochenende?", "english": "You're welcome. Do you have nice plans for the weekend?"},
                 {"speaker": "You", "swissGerman": "Ja, mir gönd uf de Üetliberg go wandere.", "german": "Ja, wir gehen auf den Üetliberg wandern.", "english": "Yes, we're going hiking on the Üetliberg."},
                 {"speaker": "Neighbor", "swissGerman": "Super! Das Wätter söll guet sii. Viel Spass!", "german": "Super! Das Wetter soll gut sein. Viel Spaß!", "english": "Great! The weather should be good. Have fun!"},
+                {"speaker": "Neighbor", "swissGerman": "Das tönt super! Und falls's über Mittag isch — mir händ grad frischbacke Zopf. Ich bring Ihne es Stückli verbi.", "german": "Das klingt super! Und falls es über Mittag ist — wir haben gerade frisch gebackenen Zopf. Ich bringe Ihnen ein Stückchen vorbei.", "english": "That sounds great! And if it's around midday — we just baked fresh Zopf. I'll bring you a piece."},
                 {"speaker": "You", "swissGerman": "Merci! Und Ihne es schöns Wuchenänd!", "german": "Danke! Und Ihnen ein schönes Wochenende!", "english": "Thanks! And have a nice weekend!"},
             ],
             "differences": [

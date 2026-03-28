@@ -15,6 +15,7 @@ SUBTOPIC_TALKING_TO_PARENTS = {
                 {"speaker": "You", "swissGerman": "Ja, mini Tochter isch d'Sara. Si händ sich aagfründet.", "german": "Ja, meine Tochter ist Sara. Sie haben sich angefreundet.", "english": "Yes, my daughter is Sara. They've become friends."},
                 {"speaker": "Parent", "swissGerman": "Ah ja, de Luca redt immer vo de Sara! Schön, dich kennezlerne.", "german": "Ah ja, der Luca redet immer von Sara! Schön, dich kennenzulernen.", "english": "Ah yes, Luca always talks about Sara! Nice to meet you."},
                 {"speaker": "You", "swissGerman": "Find ich au! Wämmer mal uf en Kafi?", "german": "Finde ich auch! Wollen wir mal auf einen Kaffee?", "english": "Same here! Shall we grab a coffee sometime?"},
+                {"speaker": "Parent", "swissGerman": "Jo sicher! Es git en tolli Beiz am Helvetiaplatz — die Chinder chönd denn au drebii sii.", "german": "Ja sicher! Es gibt eine tolle Beiz am Helvetiaplatz — die Kinder können dann auch dabei sein.", "english": "Definitely! There's a great place at Helvetiaplatz — the kids can join too."},
                 {"speaker": "Parent", "swissGerman": "Ja, mega gern! Gämmer Nummere uus?", "german": "Ja, mega gern! Tauschen wir Nummern aus?", "english": "Yes, I'd love to! Shall we exchange numbers?"},
             ],
             "differences": [
@@ -118,6 +119,7 @@ SUBTOPIC_TALKING_TO_PARENTS = {
                 {"speaker": "You", "swissGerman": "Wow, er gseht mega fein uus! Dörf ich es Stück ha?", "german": "Wow, er sieht mega lecker aus! Darf ich ein Stück haben?", "english": "Wow, it looks super delicious! Can I have a piece?"},
                 {"speaker": "Parent", "swissGerman": "Klar! Nimm dir! Wie viel muess me zahle?", "german": "Klar! Nimm dir! Wie viel muss man zahlen?", "english": "Of course! Help yourself! How much do you have to pay?"},
                 {"speaker": "You", "swissGerman": "Zwei Franke pro Stück. S'Gäld chunnt i d'Klassekasse.", "german": "Zwei Franken pro Stück. Das Geld kommt in die Klassenkasse.", "english": "Two francs per piece. The money goes to the class fund."},
+                {"speaker": "Parent", "swissGerman": "Ah, für d'Klassereisä? Mir händ am Herbscht eis nach Appezäll gmacht — die Chinder händ s'Käse-Rüere selber gmacht!", "german": "Ah, für die Klassenreise? Wir haben im Herbst eine nach Appenzell gemacht — die Kinder haben das Käse-Rühren selbst gemacht!", "english": "Ah, for the class trip? We did one to Appenzell in autumn — the kids made their own cheese stirring!"},
                 {"speaker": "Parent", "swissGerman": "Super Sach! Do häsch en Füfliber.", "german": "Super Sache! Hier hast du ein Fünffrankenstück.", "english": "Great thing! Here's a five-franc coin."},
             ],
             "differences": [

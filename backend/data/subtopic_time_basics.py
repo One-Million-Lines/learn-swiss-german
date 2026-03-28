@@ -14,6 +14,8 @@ SUBTOPIC_TIME_BASICS = {
                 {"speaker": "Passerby", "swissGerman": "Es isch halbi drüü.", "german": "Es ist halb drei.", "english": "It's half past two."},
                 {"speaker": "You", "swissGerman": "Halbi drüü? Isch scho so spaat?!", "german": "Halb drei? Ist schon so spät?!", "english": "Half past two? Is it that late already?!"},
                 {"speaker": "Passerby", "swissGerman": "Ja, fasch Viertel ab zwöi sogar.", "german": "Ja, fast Viertel nach zwei sogar.", "english": "Yes, almost quarter past two actually."},
+                {"speaker": "You", "swissGerman": "Oh nein! Ich muess no de Tram am Bürkliplatz erwiische!", "german": "Oh nein! Ich muss noch die Tram am Bürkliplatz erwischen!", "english": "Oh no! I still have to catch the tram at Bürkliplatz!"},
+                {"speaker": "Passerby", "swissGerman": "De Nummer 4 fahrt i zwei Minute — los scho!", "german": "Die Nummer 4 fährt in zwei Minuten — lauf schon!", "english": "The number 4 leaves in two minutes — start running!"},
                 {"speaker": "You", "swissGerman": "Uh, denn muessi mi beeile! Merci!", "german": "Oh, dann muss ich mich beeilen! Danke!", "english": "Oh, then I need to hurry! Thanks!"},
             ],
             "differences": [
@@ -38,6 +40,7 @@ SUBTOPIC_TIME_BASICS = {
                 {"speaker": "Friend", "swissGerman": "Aber mir müend no s'Ticket chaufe!", "german": "Aber wir müssen noch das Ticket kaufen!", "english": "But we still need to buy the ticket!"},
                 {"speaker": "You", "swissGerman": "Kei Stress, mir gönd bald. So in ere halbe Stund.", "german": "Kein Stress, wir gehen bald. So in einer halben Stunde.", "english": "No rush, we'll go soon. In about half an hour."},
                 {"speaker": "Friend", "swissGerman": "Okay, denn machi mi spööter parat.", "german": "Okay, dann mache ich mich später bereit.", "english": "Okay, then I'll get ready later."},
+                {"speaker": "You", "swissGerman": "Und vergiss d'Popcorn nöd — am Cinemax hät's de bescht Caramel-Popcorn vo Züri!", "german": "Und vergiss das Popcorn nicht — im Cinemax hat's das beste Caramel-Popcorn von Zürich!", "english": "And don't forget the popcorn — Cinemax has the best caramel popcorn in Zurich!"},
                 {"speaker": "You", "swissGerman": "Guet, ich sägä der denn Bescheid.", "german": "Gut, ich sage dir dann Bescheid.", "english": "Good, I'll let you know then."},
             ],
             "differences": [
@@ -63,6 +66,7 @@ SUBTOPIC_TIME_BASICS = {
                 {"speaker": "Colleague", "swissGerman": "Und morn? Hämer wider eis?", "german": "Und morgen? Haben wir wieder eins?", "english": "And tomorrow? Do we have another one?"},
                 {"speaker": "You", "swissGerman": "Ja leider, aber erst am Namittag. Übermorn denn nöd.", "german": "Ja leider, aber erst am Nachmittag. Übermorgen dann nicht.", "english": "Yes unfortunately, but not until the afternoon. Day after tomorrow not."},
                 {"speaker": "Colleague", "swissGerman": "Wenigschtens! Vorgeschter hämmer ja drüü gha!", "german": "Wenigstens! Vorgestern hatten wir ja drei!", "english": "At least! Day before yesterday we had three!"},
+                {"speaker": "You", "swissGerman": "Jede Tag de gliich Raum — mer chäm sich vor wie im Bundeshuus!", "german": "Jeden Tag der gleiche Raum — man kommt sich vor wie im Bundeshaus!", "english": "Every day the same room — you feel like you're in parliament!"},
                 {"speaker": "You", "swissGerman": "Stimmt, das isch en harte Wuche gsi.", "german": "Stimmt, das war eine harte Woche.", "english": "True, it's been a tough week."},
             ],
             "differences": [
@@ -88,6 +92,7 @@ SUBTOPIC_TIME_BASICS = {
                 {"speaker": "Partner", "swissGerman": "Und am Namittag?", "german": "Und am Nachmittag?", "english": "And in the afternoon?"},
                 {"speaker": "You", "swissGerman": "Am Namittag schaff ich. Und am Aabig chochi meischtens.", "german": "Am Nachmittag arbeite ich. Und am Abend koche ich meistens.", "english": "In the afternoon I work. And in the evening I usually cook."},
                 {"speaker": "Partner", "swissGerman": "Und z'Nacht?", "german": "Und nachts?", "english": "And at night?"},
+                {"speaker": "You", "swissGerman": "Am Aabig luegi meischtens no en Folg vo de SRF-Mediathek.", "german": "Am Abend schaue ich meistens noch eine Folge in der SRF-Mediathek.", "english": "In the evening I usually watch an episode on SRF Mediathek."},
                 {"speaker": "You", "swissGerman": "Z'Nacht gang ich meischtens um elfi is Bett.", "german": "Nachts gehe ich meistens um elf ins Bett.", "english": "At night I usually go to bed around eleven."},
             ],
             "differences": [
@@ -113,6 +118,7 @@ SUBTOPIC_TIME_BASICS = {
                 {"speaker": "You", "swissGerman": "Echt? Ich ha gmeint drüü. Bini z'früeh?", "german": "Echt? Ich dachte drei. Bin ich zu früh?", "english": "Really? I thought three. Am I too early?"},
                 {"speaker": "Receptionist", "swissGerman": "Ja, öppe drüüviertel Stund z'früeh. Aber kei Problem, mir gänd Bescheid.", "german": "Ja, etwa dreiviertel Stunde zu früh. Aber kein Problem, wir geben Bescheid.", "english": "Yes, about forty-five minutes early. But no problem, we'll let you know."},
                 {"speaker": "You", "swissGerman": "Okay, denn warteni. Besser z'früeh als z'spaat!", "german": "Okay, dann warte ich. Besser zu früh als zu spät!", "english": "Okay, I'll wait then. Better too early than too late!"},
+                {"speaker": "You", "swissGerman": "Ich losi denn no chli de Zürich-Podcast — de Wartezimmer-Klassiker!", "german": "Ich höre dann noch kurz den Zürich-Podcast — den Wartezimmer-Klassiker!", "english": "I'll listen to the Zurich podcast briefly — the waiting room classic!"},
                 {"speaker": "Receptionist", "swissGerman": "So gfallt's mir! Sitzed Sie ab, mir rüefed Sie uf.", "german": "So gefällt es mir! Setzen Sie sich, wir rufen Sie auf.", "english": "That's the spirit! Have a seat, we'll call you."},
             ],
             "differences": [

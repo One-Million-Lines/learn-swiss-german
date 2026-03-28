@@ -15,6 +15,8 @@ SUBTOPIC_MORNING_ROUTINE_FAMILY = {
                 {"speaker": "You", "swissGerman": "Nei, jetzt! S'Zmorge isch parat. Chum abe!", "german": "Nein, jetzt! Das Frühstück ist fertig. Komm runter!", "english": "No, now! Breakfast is ready. Come down!"},
                 {"speaker": "Child", "swissGerman": "Ugh... Ich bi so müed. Han ich hüt Turne?", "german": "Ugh... Ich bin so müde. Habe ich heute Sport?", "english": "Ugh... I'm so tired. Do I have PE today?"},
                 {"speaker": "You", "swissGerman": "Ja, am Morge. Also zieh s'Turne-Züüg aa.", "german": "Ja, am Morgen. Also zieh die Sportsachen an.", "english": "Yes, in the morning. So put on your PE clothes."},
+                {"speaker": "Child", "swissGerman": "Han ich au Schwimme hüt? Ich will d'Badehose mitnäh!", "german": "Habe ich auch Schwimmen heute? Ich will die Badehose mitnehmen!", "english": "Do I also have swimming today? I want to take my swimsuit!"},
+                {"speaker": "You", "swissGerman": "Nei, Schwimme isch am Donnschtig. Hüt nurume Turne — Leichtatletik, glaub ich.", "german": "Nein, Schwimmen ist am Donnerstag. Heute nur Turnen — Leichtathletik, glaube ich.", "english": "No, swimming is on Thursday. Today just PE — athletics, I think."},
                 {"speaker": "Child", "swissGerman": "Wo sind mini Turnschueh? Ich find sie nöd!", "german": "Wo sind meine Turnschuhe? Ich finde sie nicht!", "english": "Where are my PE shoes? I can't find them!"},
             ],
             "differences": [
@@ -40,6 +42,8 @@ SUBTOPIC_MORNING_ROUTINE_FAMILY = {
                 {"speaker": "Child", "swissGerman": "Okay, denn Joghurt. Und chan ich Ovomaltine trinke?", "german": "Okay, dann Joghurt. Und kann ich Ovomaltine trinken?", "english": "Okay, then yogurt. And can I drink Ovomaltine?"},
                 {"speaker": "Partner", "swissGerman": "Ja. Und trink au es Glas Milch. Das isch gsund.", "german": "Ja. Und trink auch ein Glas Milch. Das ist gesund.", "english": "Yes. And also drink a glass of milk. That's healthy."},
                 {"speaker": "You", "swissGerman": "Häsch du s'Znüni ipackt? Vergiss de Öpfel nöd!", "german": "Hast du den Pausensnack eingepackt? Vergiss den Apfel nicht!", "english": "Did you pack the snack? Don't forget the apple!"},
+                {"speaker": "Child", "swissGerman": "Ich ha en Gipfeli gnoh — isch das okay fürs Znüni?", "german": "Ich habe ein Gipfeli genommen — ist das okay für die Pause?", "english": "I took a croissant — is that okay for the snack break?"},
+                {"speaker": "You", "swissGerman": "Es Gipfeli und e Frucht — nimm no en Nektarin dezue, ja?", "german": "Ein Gipfeli und eine Frucht — nimm noch eine Nektarine dazu, ja?", "english": "A croissant and a fruit — take a nectarine too, okay?"},
                 {"speaker": "Child", "swissGerman": "Ja ja, alles parat! Chani jetzt go?", "german": "Ja ja, alles fertig! Kann ich jetzt gehen?", "english": "Yes yes, everything ready! Can I go now?"},
             ],
             "differences": [
@@ -64,6 +68,8 @@ SUBTOPIC_MORNING_ROUTINE_FAMILY = {
                 {"speaker": "You", "swissGerman": "De isch id Wösch. Nimm de blaue.", "german": "Der ist in der Wäsche. Nimm den blauen.", "english": "That one's in the laundry. Take the blue one."},
                 {"speaker": "Child", "swissGerman": "Nei! Ich wott de roti!", "german": "Nein! Ich will den roten!", "english": "No! I want the red one!"},
                 {"speaker": "You", "swissGerman": "Guet, nimm de roti. Und zieh d'Winterjacke aa — und d'Mutz!", "german": "Gut, nimm den roten. Und zieh die Winterjacke an — und die Mütze!", "english": "Fine, take the red one. And put on the winter jacket — and the beanie!"},
+                {"speaker": "Child", "swissGerman": "Muess ich au en Halstuech mache? De Lehrer säit immer ich söll warm ii.", "german": "Muss ich auch einen Schal machen? Der Lehrer sagt immer ich soll warm eingepackt sein.", "english": "Do I also need a scarf? The teacher always says I should be warmly wrapped up."},
+                {"speaker": "You", "swissGerman": "Ja, gueti Idee — de grüene Halstuech isch bim Garderobehaake.", "german": "Ja, gute Idee — der grüne Schal ist am Garderobehaken.", "english": "Yes, good idea — the green scarf is on the coat hook."},
                 {"speaker": "Child", "swissGerman": "Okay! Und mini Handschueh?", "german": "Okay! Und meine Handschuhe?", "english": "Okay! And my gloves?"},
             ],
             "differences": [
@@ -89,6 +95,8 @@ SUBTOPIC_MORNING_ROUTINE_FAMILY = {
                 {"speaker": "You", "swissGerman": "Im Wohnzimmer, bim Sofa! Schnäll!", "german": "Im Wohnzimmer, beim Sofa! Schnell!", "english": "In the living room, by the sofa! Quick!"},
                 {"speaker": "Partner", "swissGerman": "Häsch du d'Schlüssel? Und s'Portemonnaie?", "german": "Hast du die Schlüssel? Und das Portemonnaie?", "english": "Do you have the keys? And the wallet?"},
                 {"speaker": "You", "swissGerman": "Ja! Lina, Schueh aa und los!", "german": "Ja! Lina, Schuhe an und los!", "english": "Yes! Lina, shoes on and go!"},
+                {"speaker": "Child", "swissGerman": "Chasch du mich hüt abhole? Ich ha nach de Schuel Turnverein!", "german": "Kannst du mich heute abholen? Ich habe nach der Schule Turnverein!", "english": "Can you pick me up today? I have gymnastics club after school!"},
+                {"speaker": "You", "swissGerman": "Turnverein isch am Mittwuch — hüt isch Dienschtig! Aber ich hol dich ab, versprooche.", "german": "Turnverein ist am Mittwoch — heute ist Dienstag! Aber ich hole dich ab, versprochen.", "english": "Gymnastics club is on Wednesday — today is Tuesday! But I'll pick you up, promised."},
                 {"speaker": "Child", "swissGerman": "Tschau Papi! Bis am Abig!", "german": "Tschüss Papa! Bis heute Abend!", "english": "Bye Dad! See you tonight!"},
             ],
             "differences": [
@@ -114,6 +122,8 @@ SUBTOPIC_MORNING_ROUTINE_FAMILY = {
                 {"speaker": "You", "swissGerman": "Lina! Jede Morge s'gliiche! Gang is Badzimmer!", "german": "Lina! Jeden Morgen das Gleiche! Geh ins Badezimmer!", "english": "Lina! Every morning the same thing! Go to the bathroom!"},
                 {"speaker": "Child", "swissGerman": "Aber ich ha kei Ziit meh! De Bus chunnt!", "german": "Aber ich habe keine Zeit mehr! Der Bus kommt!", "english": "But I have no more time! The bus is coming!"},
                 {"speaker": "You", "swissGerman": "Zwei Minute reiche. Nimm d'Zahnbürste und mach schnäll!", "german": "Zwei Minuten reichen. Nimm die Zahnbürste und mach schnell!", "english": "Two minutes are enough. Take the toothbrush and be quick!"},
+                {"speaker": "Child", "swissGerman": "Ha ich au Zahnpasta? D'Tube isch halb leer!", "german": "Habe ich auch Zahnpasta? Die Tube ist halb leer!", "english": "Do I have toothpaste too? The tube is half empty!"},
+                {"speaker": "You", "swissGerman": "D'Tube reicht no für en Monet. Und drüümal büürschte: obe, unge, inne!", "german": "Die Tube reicht noch für einen Monat. Und dreimal bürsten: oben, unten, innen!", "english": "The tube lasts another month. And brush three times: top, bottom, inside!"},
                 {"speaker": "Child", "swissGerman": "Fertig! Chani jetzt go? Tschüüüss!", "german": "Fertig! Kann ich jetzt gehen? Tschüüüss!", "english": "Done! Can I go now? Byeee!"},
             ],
             "differences": [

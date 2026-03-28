@@ -15,7 +15,8 @@ SUBTOPIC_KIDS_BIRTHDAY = {
                 {"speaker": "Child", "swissGerman": "De Noah, d'Emma, de Liam, d'Mia und de Finn. Füf Chind!", "german": "Noah, Emma, Liam, Mia und Finn. Fünf Kinder!", "english": "Noah, Emma, Liam, Mia and Finn. Five kids!"},
                 {"speaker": "You", "swissGerman": "Guet. Und was für es Motto? Pirateeparty oder Prinzässinne?", "german": "Gut. Und was für ein Motto? Piratenparty oder Prinzessinnen?", "english": "Good. And what theme? Pirate party or princesses?"},
                 {"speaker": "Child", "swissGerman": "Dino-Party! Ich wott en Dino-Chueche und Dino-Deko!", "german": "Dino-Party! Ich will einen Dino-Kuchen und Dino-Deko!", "english": "Dino party! I want a dino cake and dino decorations!"},
-                {"speaker": "You", "swissGerman": "Okay! Ich mach d'Iiladig. Du chasch d'Ballöön uufblose.", "german": "Okay! Ich mache die Einladung. Du kannst die Ballons aufblasen.", "english": "Okay! I'll make the invitation. You can blow up the balloons."},
+                {"speaker": "You", "swissGerman": "Cool! Und was für e Dino? En T-Rex oder en Brachiosaurus?", "german": "Cool! Und was für ein Dino? Ein T-Rex oder ein Brachiosaurus?", "english": "Cool! And what kind of dino? A T-Rex or a Brachiosaurus?"},
+                {"speaker": "Child", "swissGerman": "T-Rex! De gröscht und gfährlichscht! Mit Zahn!", "german": "T-Rex! Der größte und gefährlichste! Mit Zähnen!", "english": "T-Rex! The biggest and most dangerous! With teeth!"},
             ],
             "differences": [
                 {"swissGerman": "iilade", "german": "einladen", "explanation": "'iilade' = 'einladen'. 'Ein-' → 'Ii-'."},
@@ -41,6 +42,8 @@ SUBTOPIC_KIDS_BIRTHDAY = {
                 {"speaker": "Child", "swissGerman": "Ups, es isch en Schale ins Gschirr gheit!", "german": "Ups, es ist eine Schale in die Schüssel gefallen!", "english": "Oops, a shell fell into the bowl!"},
                 {"speaker": "You", "swissGerman": "Kei Problem, ich fisch sie use. Und jetzt Zucker und Schoggi-Pulver.", "german": "Kein Problem, ich fische sie raus. Und jetzt Zucker und Schoko-Pulver.", "english": "No problem, I'll fish it out. And now sugar and cocoa powder."},
                 {"speaker": "Child", "swissGerman": "Und d'Cherzli nöd vergässe! Ich werde acht!", "german": "Und die Kerzen nicht vergessen! Ich werde acht!", "english": "And don't forget the candles! I'm turning eight!"},
+                {"speaker": "You", "swissGerman": "Acht Cherzli! Und ich steck no es Ext-Cherzli für Glück drii — de Schwiizer Bruuch!", "german": "Acht Kerzen! Und ich stecke noch eine Extra-Kerze für Glück dazu — der Schweizer Brauch!", "english": "Eight candles! And I'll add one extra candle for luck — the Swiss tradition!"},
+                {"speaker": "Child", "swissGerman": "Neun Cherzli! Noch besser! Ich bli d'ganz Nacht uf?", "german": "Neun Kerzen! Noch besser! Ich bleibe die ganze Nacht auf?", "english": "Nine candles! Even better! Am I staying up all night?"},
             ],
             "differences": [
                 {"swissGerman": "bached", "german": "backen", "explanation": "'bached' = 'backen'. Swiss conjugation."},
@@ -66,6 +69,8 @@ SUBTOPIC_KIDS_BIRTHDAY = {
                 {"speaker": "Child", "swissGerman": "Noah! Chum, mir händ en Hüpfburg im Garte!", "german": "Noah! Komm, wir haben eine Hüpfburg im Garten!", "english": "Noah! Come, we have a bouncy castle in the garden!"},
                 {"speaker": "You", "swissGerman": "D'Schueh uszieh bevor ihr uf d'Hüpfburg gönd!", "german": "Die Schuhe ausziehen bevor ihr auf die Hüpfburg geht!", "english": "Take off your shoes before you go on the bouncy castle!"},
                 {"speaker": "Guest Mom", "swissGerman": "Wänn söll ich de Noah wider cho hole? Öppe um Vieri?", "german": "Wann soll ich Noah wieder abholen? Etwa um vier?", "english": "When should I pick Noah up? Around four?"},
+                {"speaker": "You", "swissGerman": "Ja, Vieri passt. Ich pack ihm no e Säckli mit Guetzli und es Gschenkli ii.", "german": "Ja, vier Uhr passt. Ich packe ihm noch ein Säckchen mit Keksen und ein Geschenkchen ein.", "english": "Yes, four works. I'll pack him a little bag with cookies and a small gift too."},
+                {"speaker": "Guest Mom", "swissGerman": "Wie liebt! Das freut de Noah sicher mega. Merci fürs Iilade!", "german": "Wie lieb! Das freut Noah sicher mega. Danke für die Einladung!", "english": "How sweet! Noah will definitely love that. Thanks for the invitation!"},
             ],
             "differences": [
                 {"swissGerman": "Alles Gueti", "german": "Alles Gute", "explanation": "'Alles Gueti' = 'Alles Gute'. Swiss birthday greeting."},
@@ -91,6 +96,8 @@ SUBTOPIC_KIDS_BIRTHDAY = {
                 {"speaker": "Child", "swissGerman": "Ich ha sie alli usblose! Alli acht!", "german": "Ich habe sie alle ausgeblasen! Alle acht!", "english": "I blew them all out! All eight!"},
                 {"speaker": "Partner", "swissGerman": "Bravo! De Chueche isch super grate! Wer wott es Stück?", "german": "Bravo! Der Kuchen ist super gelungen! Wer will ein Stück?", "english": "Bravo! The cake turned out great! Who wants a piece?"},
                 {"speaker": "Child", "swissGerman": "Ich! S'grössti Stück! Ich bin s'Geburtstagschind!", "german": "Ich! Das größte Stück! Ich bin das Geburtstagskind!", "english": "Me! The biggest piece! I'm the birthday child!"},
+                {"speaker": "You", "swissGerman": "Klar, du chriigsch s'grössti! Und mit Schlagrahm obe druf?", "german": "Klar, du kriegst das größte! Und mit Schlagsahne oben drauf?", "english": "Of course, you get the biggest! And with whipped cream on top?"},
+                {"speaker": "Child", "swissGerman": "Ja bitte! Vill Schlagrahm! Das isch s'bescht Geburtstag überhaupt!", "german": "Ja bitte! Viel Schlagsahne! Das ist der beste Geburtstag überhaupt!", "english": "Yes please! Lots of whipped cream! This is the best birthday ever!"},
             ],
             "differences": [
                 {"swissGerman": "usblose", "german": "ausblasen", "explanation": "'usblose' = 'ausblasen'. Swiss form."},
@@ -115,7 +122,8 @@ SUBTOPIC_KIDS_BIRTHDAY = {
                 {"speaker": "Guest", "swissGerman": "Ich ha gwunne! Ich ha de letscht Stuehl!", "german": "Ich habe gewonnen! Ich habe den letzten Stuhl!", "english": "I won! I got the last chair!"},
                 {"speaker": "You", "swissGerman": "Bravo Noah! Und jetzt Topfschlage. Lina, du machsch d'Auge zue.", "german": "Bravo Noah! Und jetzt Topfschlagen. Lina, du machst die Augen zu.", "english": "Bravo Noah! And now pot hitting. Lina, close your eyes."},
                 {"speaker": "Child", "swissGerman": "(schlagt) Links? Rächts? Kalt? Warm? Heiss! Gfunde!", "german": "(schlägt) Links? Rechts? Kalt? Warm? Heiß! Gefunden!", "english": "(hitting) Left? Right? Cold? Warm? Hot! Found it!"},
-            ],
+                {"speaker": "You", "swissGerman": "Bravo Lina! Du häsch gwoune! Was isch im Pott drin?", "german": "Bravo Lina! Du hast gewonnen! Was ist im Topf drin?", "english": "Bravo Lina! You won! What's in the pot?"},
+                {"speaker": "Child", "swissGerman": "Guetzli und Schoggi! Ich teil — s'isch gnueg für alli!", "german": "Kekse und Schokolade! Ich teile — es reicht für alle!", "english": "Cookies and chocolate! I'll share — there's enough for everyone!"},            ],
             "differences": [
                 {"swissGerman": "Reise nach Jerusalem", "german": "Reise nach Jerusalem", "explanation": "Musical chairs — same name used in Swiss German."},
                 {"swissGerman": "Topfschlage", "german": "Topfschlagen", "explanation": "Traditional party game: blindfolded child hits floor to find hidden pot."},

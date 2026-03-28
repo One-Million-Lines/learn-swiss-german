@@ -15,6 +15,8 @@ SUBTOPIC_NUMBERS_QUANTITIES = {
                 {"speaker": "Baker", "swissGerman": "Merci. Zrügg: acht, nüün, zäh, und zwölf Franke füfzg. Stimmt's?", "german": "Danke. Zurück: acht, neun, zehn, und zwölf Franken fünfzig. Stimmt's?", "english": "Thanks. Change: eight, nine, ten, and twelve francs fifty. Right?"},
                 {"speaker": "You", "swissGerman": "Warte, das isch doch z'viel! Sibne füfzg vo zwänzg isch zwölf füfzg.", "german": "Warte, das ist doch zu viel! Sieben fünfzig von zwanzig ist zwölf fünfzig.", "english": "Wait, that's too much! Seven fifty from twenty is twelve fifty."},
                 {"speaker": "Baker", "swissGerman": "Ah stimmt, Exgüsi! Da, zwölf Franke füfzg. Danke fürs Ufpasse!", "german": "Ah stimmt, Entschuldigung! Da, zwölf Franken fünfzig. Danke fürs Aufpassen!", "english": "Ah right, sorry! Here, twelve francs fifty. Thanks for paying attention!"},
+                {"speaker": "You", "swissGerman": "Merci! Und chönd ich no zwei Gipfeli ha? Die im Schaufenster.", "german": "Danke! Und kann ich noch zwei Gipfeli haben? Die im Schaufenster.", "english": "Thanks! And can I also have two croissants? The ones in the display."},
+                {"speaker": "Baker", "swissGerman": "Natürlich. No zwöi Fräng dezue — macht ufzeh vierezg zemä.", "german": "Natürlich. Noch zwei Franken dazu — macht vierzehn vierzig insgesamt.", "english": "Of course. Another two francs — makes fourteen forty altogether."},
             ],
             "differences": [
                 {"swissGerman": "sibne füfzg", "german": "sieben fünfzig", "explanation": "Numbers: 'sibne' = 'sieben', 'füfzg' = 'fünfzig'. Prices drop 'Franken' in casual speech."},
@@ -39,6 +41,8 @@ SUBTOPIC_NUMBERS_QUANTITIES = {
                 {"speaker": "Butcher", "swissGerman": "Genau drüühundert! Süscht no öppis?", "german": "Genau dreihundert! Sonst noch etwas?", "english": "Exactly three hundred! Anything else?"},
                 {"speaker": "You", "swissGerman": "Nei, das langet. Wieviel isch das zäme?", "german": "Nein, das reicht. Wieviel ist das zusammen?", "english": "No, that's enough. How much is that altogether?"},
                 {"speaker": "Butcher", "swissGerman": "Vierzäh Franke achtzg.", "german": "Vierzehn Franken achtzig.", "english": "Fourteen francs eighty."},
+                {"speaker": "You", "swissGerman": "Ha ich nur en Zwänzger — chani mit Karte zahle?", "german": "Ich habe nur einen Zwanziger — kann ich mit Karte bezahlen?", "english": "I only have a twenty — can I pay by card?"},
+                {"speaker": "Butcher", "swissGerman": "Ja, ab drü Fäng nehme mir au Karte. Dankschön!", "german": "Ja, ab drei Franken nehmen wir auch Karte. Dankeschön!", "english": "Yes, from three francs we also take card. Thank you!"},
             ],
             "differences": [
                 {"swissGerman": "zwöihundert", "german": "zweihundert", "explanation": "'zwöi' = 'zwei'. The Swiss form for 'two' in counting."},
@@ -63,7 +67,8 @@ SUBTOPIC_NUMBERS_QUANTITIES = {
                 {"speaker": "You", "swissGerman": "Bahnhofstross ainefüfzg, achttusigvierhundertdrüüesächzg Züri.", "german": "Bahnhofstrasse einundfünfzig, achttausendvierhundertdreiundsechzig Zürich.", "english": "Bahnhofstrasse fifty-one, 8463 Zurich."},
                 {"speaker": "Clerk", "swissGerman": "Merci! Und d'Postleitzahl nomol? Acht-vier-sächs-drüü?", "german": "Danke! Und die Postleitzahl nochmal? Acht-vier-sechs-drei?", "english": "Thanks! And the zip code again? Eight-four-six-three?"},
                 {"speaker": "You", "swissGerman": "Genau, achtvieresächsedrüü.", "german": "Genau, achtviersechsdrei.", "english": "Exactly, eight-four-six-three."},
-            ],
+                {"speaker": "Clerk", "swissGerman": "Perfekt. Und Ihre Geburtsjahr? Nur d'vier letschte Ziffere.", "german": "Perfekt. Und Ihr Geburtsjahr? Nur die vier letzten Ziffern.", "english": "Perfect. And your birth year? Just the last four digits."},
+                {"speaker": "You", "swissGerman": "En Nune, Nune, Achte, Drüü — neunzgäh achtunenachtzg.", "german": "Neun, neun, acht, drei — neunzehnhundert achtundachtzig.", "english": "Nine, nine, eight, three — nineteen eighty-eight."},            ],
             "differences": [
                 {"swissGerman": "sibnni", "german": "sieben", "explanation": "Phone numbers are read digit by digit. 'sibnni' = 'sieben', 'achte' = 'acht'."},
                 {"swissGerman": "ainefüfzg", "german": "einundfünfzig", "explanation": "'aine' = 'eins/ein', 'füfzg' = 'fünfzig'. Street numbers use full number words."},
@@ -87,6 +92,8 @@ SUBTOPIC_NUMBERS_QUANTITIES = {
                 {"speaker": "You", "swissGerman": "Vier Stück. Aber mir händ nur no drüü.", "german": "Vier Stück. Aber wir haben nur noch drei.", "english": "Four pieces. But we only have three left."},
                 {"speaker": "Friend", "swissGerman": "Langets mit drüü?", "german": "Reicht es mit drei?", "english": "Is three enough?"},
                 {"speaker": "You", "swissGerman": "Ja, das sött lange. Denn nämme mer eifach echli weniger Mehl.", "german": "Ja, das sollte reichen. Dann nehmen wir einfach etwas weniger Mehl.", "english": "Yes, that should be enough. Then we'll just use a bit less flour."},
+                {"speaker": "Friend", "swissGerman": "Und wie viel Butter? D'Rezept säit hundert Gramm.", "german": "Und wie viel Butter? Das Rezept sagt hundert Gramm.", "english": "And how much butter? The recipe says one hundred grams."},
+                {"speaker": "You", "swissGerman": "Genau hundert. Das isch en halbi Packig — zehn Dezi.", "german": "Genau hundert. Das ist eine halbe Packung — zehn Deziliter.", "english": "Exactly one hundred. That's half a pack — ten decilitres."},
             ],
             "differences": [
                 {"swissGerman": "gnueg", "german": "genug", "explanation": "'gnueg' = 'genug'. Very frequently used quantity word."},

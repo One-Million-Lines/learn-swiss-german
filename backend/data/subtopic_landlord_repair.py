@@ -127,6 +127,8 @@ SUBTOPIC_LANDLORD_REPAIR = {
                 {"speaker": "Landlord", "swissGerman": "Ok, de Ersatzschlüssel choschtet 50 Franke. Und s'zweite Problem?", "german": "Ok, der Ersatzschlüssel kostet 50 Franken. Und das zweite Problem?", "english": "Ok, the replacement key costs 50 francs. And the second problem?"},
                 {"speaker": "You", "swissGerman": "De Briefchaschte gaat nöd richtig zue.", "german": "Der Briefkasten geht nicht richtig zu.", "english": "The mailbox doesn't close properly."},
                 {"speaker": "Landlord", "swissGerman": "Guet, das lue ich mir aa. Ich chume am Mittwuch verbii.", "german": "Gut, das schaue ich mir an. Ich komme am Mittwoch vorbei.", "english": "Good, I'll take a look at that. I'll come by on Wednesday."},
+                {"speaker": "You", "swissGerman": "Am Mittwuch bi ich bis Zwölfi dehei. Passt Ihne de Morge?", "german": "Am Mittwoch bin ich bis zwölf zu Hause. Passt Ihnen der Morgen?", "english": "On Wednesday I'm home until noon. Does the morning suit you?"},
+                {"speaker": "Landlord", "swissGerman": "Ja, so um Zäni chume ich. Und de Schlüssel händ ich no.", "german": "Ja, so um zehn komme ich. Und den Schlüssel habe ich noch.", "english": "Yes, I'll come around ten. And I still have the key."},
             ],
             "differences": [
                 {"swissGerman": "Iigang", "german": "Eingang", "explanation": "'Iigang' = 'Eingang'. 'Ein-' → 'Ii-'."},

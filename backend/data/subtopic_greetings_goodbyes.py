@@ -16,6 +16,8 @@ SUBTOPIC_GREETINGS_GOODBYES = {
                 {"speaker": "Colleague", "swissGerman": "Passt scho! Hesch guet gschlafe?", "german": "Passt schon! Hast du gut geschlafen?", "english": "All good! Did you sleep well?"},
                 {"speaker": "You", "swissGerman": "Ja, guet. Aber z'churz!", "german": "Ja, gut. Aber zu kurz!", "english": "Yes, well. But too short!"},
                 {"speaker": "Colleague", "swissGerman": "Ha, das kenni! De Kafi isch parat.", "german": "Ha, das kenne ich! Der Kaffee ist bereit.", "english": "Ha, I know that! Coffee is ready."},
+                {"speaker": "You", "swissGerman": "Perfekt! Oh Gott, ich bruuch en doppelte hüt.", "german": "Perfekt! Oh Gott, ich brauche heute einen doppelten.", "english": "Perfect! Oh God, I need a double today."},
+                {"speaker": "Colleague", "swissGerman": "Haha, isch scho iigschenkt! Da, i de Küchi.", "german": "Haha, ist schon eingegossen! Da, in der Küche.", "english": "Haha, already poured! There, in the kitchen."},
             ],
             "differences": [
                 {"swissGerman": "Guete Morge", "german": "Guten Morgen", "explanation": "Swiss German shortens endings. 'Morge' instead of 'Morgen'."},
@@ -39,7 +41,8 @@ SUBTOPIC_GREETINGS_GOODBYES = {
                 {"speaker": "You", "swissGerman": "Merci vielmal! Ich ha Ihne es Dessert mitbracht.", "german": "Vielen Dank! Ich habe Ihnen ein Dessert mitgebracht.", "english": "Thank you so much! I brought you a dessert."},
                 {"speaker": "Neighbor", "swissGerman": "Oi, das isch aber lieb! Das hätt's nöd bruucht.", "german": "Oh, das ist aber lieb! Das hätte es nicht gebraucht.", "english": "Oh, that's so kind! That wasn't necessary."},
                 {"speaker": "You", "swissGerman": "Aber gern! Ich bi froh, dassi da bi.", "german": "Aber gern! Ich bin froh, dass ich da bin.", "english": "My pleasure! I'm happy to be here."},
-            ],
+                {"speaker": "Neighbor", "swissGerman": "S'Nachtesse isch fastfertig. Darf ich Ihne no de Mantel abneh?", "german": "Das Abendessen ist fast fertig. Darf ich Ihnen noch den Mantel abnehmen?", "english": "Dinner is almost ready. May I also take your coat?"},
+                {"speaker": "You", "swissGerman": "Ja, merci! Und s'isch so huere gemütlich bi Ihne — soön Gschtaltung!", "german": "Ja, danke! Und es ist so unglaublich gemütlich bei Ihnen — so eine schöne Einrichtung!", "english": "Yes, thank you! And it's so wonderfully cozy at yours — such nice decor!"},            ],
             "differences": [
                 {"swissGerman": "Guete Aabig", "german": "Guten Abend", "explanation": "'Aabig' instead of 'Abend'. The double 'a' indicates the long vowel."},
                 {"swissGerman": "Chömed Sie ine", "german": "Kommen Sie herein", "explanation": "'Chömed' = 'kommen' (ch- replaces k-). 'ine' = 'herein'."},
@@ -63,6 +66,8 @@ SUBTOPIC_GREETINGS_GOODBYES = {
                 {"speaker": "Friend", "swissGerman": "Unbedingt! Pass uf dich uf. Bis bald!", "german": "Unbedingt! Pass auf dich auf. Bis bald!", "english": "Definitely! Take care. See you soon!"},
                 {"speaker": "You", "swissGerman": "Du au! Ade, und en schöne Aabig no!", "german": "Du auch! Tschüss, und einen schönen Abend noch!", "english": "You too! Bye, and enjoy the rest of the evening!"},
                 {"speaker": "Friend", "swissGerman": "Merci, gliich! Tschau!", "german": "Danke, gleichfalls! Tschüss!", "english": "Thanks, same to you! Bye!"},
+                {"speaker": "You", "swissGerman": "(winkt) Und schriib mir, wann d'nächsch mol Ziit hesch!", "german": "(winkt) Und schreib mir, wenn du das nächste Mal Zeit hast!", "english": "(waves) And message me when you're free next time!"},
+                {"speaker": "Friend", "swissGerman": "Mach ich! Isch immer schön mit dir. Bis de nächscht mool!", "german": "Mach ich! Isch immer schön mit dir. Bis zum nächsten Mal!", "english": "Will do! It's always great with you. Until next time!"},
             ],
             "differences": [
                 {"swissGerman": "ich muess denn langsam go", "german": "ich muss dann langsam gehen", "explanation": "Swiss way of announcing departure. 'denn' = 'dann', 'go' = 'gehen'. Very polite, signals you don't want to rush away."},
@@ -87,6 +92,8 @@ SUBTOPIC_GREETINGS_GOODBYES = {
                 {"speaker": "You", "swissGerman": "Find ich au. Mir ghöred üs denn nöchscht Wuche.", "german": "Finde ich auch. Wir hören uns dann nächste Woche.", "english": "I think so too. We'll be in touch next week."},
                 {"speaker": "Client", "swissGerman": "Perfekt. Uf Wiederluege!", "german": "Perfekt. Auf Wiedersehen!", "english": "Perfect. Goodbye!"},
                 {"speaker": "You", "swissGerman": "Uf Wiederluege! En schöne Namittag!", "german": "Auf Wiedersehen! Einen schönen Nachmittag!", "english": "Goodbye! Have a nice afternoon!"},
+                {"speaker": "Client", "swissGerman": "Ihne au! Und schöni Grüess an Ihr Team.", "german": "Ihnen auch! Und schöne Grüße an Ihr Team.", "english": "You too! And kind regards to your team."},
+                {"speaker": "You", "swissGerman": "Merci, gern! Ich richt's us. Uf Wiederhöre!", "german": "Danke, gerne! Ich richte es aus. Auf Wiederhören!", "english": "Thanks, gladly! I'll pass it on. Goodbye (by phone)!"},
             ],
             "differences": [
                 {"swissGerman": "Uf Wiederluege", "german": "Auf Wiedersehen", "explanation": "The formal Swiss German goodbye. Literally 'until seeing again'. 'Luege' = 'sehen/schauen'."},
@@ -111,6 +118,8 @@ SUBTOPIC_GREETINGS_GOODBYES = {
                 {"speaker": "Kiosk owner", "swissGerman": "Bitteschön. Zwee Franke.", "german": "Bitteschön. Zwei Franken.", "english": "Here you go. Two francs."},
                 {"speaker": "You", "swissGerman": "Merci! Tschüss!", "german": "Danke! Tschüss!", "english": "Thanks! Bye!"},
                 {"speaker": "Kiosk owner", "swissGerman": "Tschau, schöne Tag!", "german": "Tschüss, schönen Tag!", "english": "Bye, nice day!"},
+                {"speaker": "You", "swissGerman": "Dir au! Bis morn wieder — ich chum jede Morge!", "german": "Ihnen auch! Bis morgen wieder — ich komme jeden Morgen!", "english": "You too! See you again tomorrow — I come every morning!"},
+                {"speaker": "Kiosk owner", "swissGerman": "Ich weiss! Ihä Zütüng isch denn scho parat für di.", "german": "Ich weiß! Deine Zeitung steht dann schon bereit für dich.", "english": "I know! Your newspaper is already waiting for you."},
             ],
             "differences": [
                 {"swissGerman": "Sali", "german": "Hallo", "explanation": "'Sali' is a casual greeting, especially common in Basel and central Switzerland."},

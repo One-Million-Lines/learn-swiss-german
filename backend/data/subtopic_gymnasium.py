@@ -16,6 +16,8 @@ SUBTOPIC_GYMNASIUM = {
                 {"speaker": "You", "swissGerman": "Mir üebed jede Tag en Ufsatz schriibe. Fünfzäh Minute räiched.", "german": "Wir üben jeden Tag einen Aufsatz zu schreiben. Fünfzehn Minuten reichen.", "english": "We'll practice writing an essay every day. Fifteen minutes are enough."},
                 {"speaker": "Child", "swissGerman": "Und wenn ich nöd bstah?", "german": "Und wenn ich nicht bestehe?", "english": "And if I don't pass?"},
                 {"speaker": "You", "swissGerman": "Denn isch d'Sek A au e super Schuel. Und du chasch nomal probiere.", "german": "Dann ist die Sek A auch eine super Schule. Und du kannst nochmal probieren.", "english": "Then Sek A is also a great school. And you can try again."},
+                {"speaker": "Child", "swissGerman": "Glaubsch du würkli, dass ich s'Gymi schaffe?", "german": "Glaubst du wirklich, dass ich das Gymi schaffe?", "english": "Do you really think I can make it into Gymi?"},
+                {"speaker": "You", "swissGerman": "Ja! Du bisch intelligent und du häsch härt glehrt. Das mached mir jetzt zsäme.", "german": "Ja! Du bist intelligent und du hast hart gelernt. Das machen wir jetzt zusammen.", "english": "Yes! You're intelligent and you've worked hard. We do this together now."},
             ],
             "differences": [
                 {"swissGerman": "Gymiprüefig", "german": "Gymnasiumsprüfung", "explanation": "'Gymiprüefig' = 'Gymnasiumsprüfung'. Swiss shortening + '-ig'."},
@@ -41,6 +43,8 @@ SUBTOPIC_GYMNASIUM = {
                 {"speaker": "You", "swissGerman": "Du magsch doch Mathe und Bio. MN wär doch perfekt!", "german": "Du magst doch Mathe und Bio. MN wäre doch perfekt!", "english": "You like maths and biology. MN would be perfect!"},
                 {"speaker": "Child", "swissGerman": "Ja, aber mini Fründin nimmt nöisprachlich mit Spanisch. Das tönt au toll.", "german": "Ja, aber meine Freundin nimmt neusprachlich mit Spanisch. Das klingt auch toll.", "english": "Yes, but my friend is taking modern languages with Spanish. That sounds great too."},
                 {"speaker": "You", "swissGerman": "Nimm was dir am meischte Spass macht. Das isch am wichtigschte.", "german": "Nimm was dir am meisten Spaß macht. Das ist am wichtigsten.", "english": "Take what you enjoy most. That's the most important thing."},
+                {"speaker": "Child", "swissGerman": "Kann ich bis Übermorn entscheide? Ich will nomal mit de Klasselerere rede.", "german": "Kann ich bis Übermorgen entscheiden? Ich will nochmal mit der Klassenlehrerin reden.", "english": "Can I decide by the day after tomorrow? I want to talk to my form teacher again."},
+                {"speaker": "You", "swissGerman": "Klar, nimm dir d'Ziit. Das isch e wichtige Entscheid.", "german": "Klar, nimm dir die Zeit. Das ist eine wichtige Entscheidung.", "english": "Of course, take your time. That's an important decision."},
             ],
             "differences": [
                 {"swissGerman": "bedüütet", "german": "bedeutet", "explanation": "'bedüütet' = 'bedeutet'. Vowel doubling."},
@@ -66,6 +70,8 @@ SUBTOPIC_GYMNASIUM = {
                 {"speaker": "You", "swissGerman": "Studiersch du mit öpperem zäme? E Lerngruppe hilft mega.", "german": "Studierst du mit jemandem zusammen? Eine Lerngruppe hilft sehr.", "english": "Do you study with someone? A study group helps a lot."},
                 {"speaker": "Child", "swissGerman": "Ja, mir träffed eus jede Mittwuch in de Bib.", "german": "Ja, wir treffen uns jeden Mittwoch in der Bibliothek.", "english": "Yes, we meet every Wednesday in the library."},
                 {"speaker": "You", "swissGerman": "Super! Und vergiss nöd Pause z'mache. S'Hirni bruucht au Erholig.", "german": "Super! Und vergiss nicht Pausen zu machen. Das Gehirn braucht auch Erholung.", "english": "Great! And don't forget to take breaks. The brain also needs rest."},
+                {"speaker": "Child", "swissGerman": "Ich weiss. Ich ga am Ibig no kurz e Runde laüffe — das hilft mir z'läre.", "german": "Ich weiß. Ich gehe am Abend noch kurz eine Runde laufen — das hilft mir beim Lernen.", "english": "I know. I'll go for a short run in the evening — it helps me study."},
+                {"speaker": "You", "swissGerman": "Sehr guet! Und denn iss öppis Warmäs und schlaf früe. Der Körper isch au wichtig.", "german": "Sehr gut! Und dann iss etwas Warmes und schlaf früh. Der Körper ist auch wichtig.", "english": "Very good! And then eat something warm and sleep early. Your body matters too."},
             ],
             "differences": [
                 {"swissGerman": "Matur", "german": "Matura/Abitur", "explanation": "'Matur' = Swiss school-leaving exam (equivalent to Abitur)."},
@@ -92,6 +98,8 @@ SUBTOPIC_GYMNASIUM = {
                 {"speaker": "You", "swissGerman": "Und de Sport am Fritig? Schaffsch das mit em Lernen?", "german": "Und der Sport am Freitag? Schaffst du das mit dem Lernen?", "english": "And sports on Friday? Can you manage that with studying?"},
                 {"speaker": "Child", "swissGerman": "Ja, d'Ufzgi mach ich am Morge früech. Ich stah eifach früecher uf.", "german": "Ja, die Aufgaben mache ich morgens früh. Ich stehe einfach früher auf.", "english": "Yes, I'll do homework early in the morning. I'll just get up earlier."},
                 {"speaker": "You", "swissGerman": "Guet, denn mälde dich aa! Aber wenn d'Note liidet, hörsch uf.", "german": "Gut, dann melde dich an! Aber wenn die Noten leiden, hörst du auf.", "english": "Good, then sign up! But if your grades suffer, you stop."},
+                {"speaker": "Child", "swissGerman": "Verstande. Aber ich pass scho uf — d'Note sind mir wichtig.", "german": "Verstanden. Aber ich passe schon auf — die Noten sind mir wichtig.", "english": "Understood. But I'll keep an eye on it — my grades matter to me."},
+                {"speaker": "You", "swissGerman": "Guet! Denn vül Spass im Theater-AG. Ich freu mi uf s'Auffüehrig!", "german": "Gut! Dann viel Spaß im Theater-AG. Ich freue mich auf die Aufführung!", "english": "Good! Enjoy the drama club then. I'm looking forward to the performance!"},
             ],
             "differences": [
                 {"swissGerman": "Theater-AG", "german": "Theater-AG", "explanation": "Same: after-school drama club."},
@@ -117,6 +125,8 @@ SUBTOPIC_GYMNASIUM = {
                 {"speaker": "You", "swissGerman": "Wunderbar! Und wie fiiret ihr nachher?", "german": "Wunderbar! Und wie feiert ihr nachher?", "english": "Wonderful! And how do you celebrate afterwards?"},
                 {"speaker": "Child", "swissGerman": "Mir gönd zerscht ässe als Chlass, und denn gits e Party bi de Elena.", "german": "Wir gehen zuerst essen als Klasse, und dann gibt es eine Party bei Elena.", "english": "We go out to eat as a class first, and then there's a party at Elena's."},
                 {"speaker": "You", "swissGerman": "Gnüüss es! Du hesch es verdient. Und — wänn fängt d'Uni aa?", "german": "Genieß es! Du hast es verdient. Und — wann fängt die Uni an?", "english": "Enjoy it! You've earned it. And — when does university start?"},
+                {"speaker": "Child", "swissGerman": "Im September. Ich studiere Biologie a de Uni Züri. Ich freui mi sö mega!", "german": "Im September. Ich studiere Biologie an der Universität Zürich. Ich freue mich so sehr!", "english": "In September. I'm studying biology at University of Zurich. I'm so excited!"},
+                {"speaker": "You", "swissGerman": "Bi dir au super! Mir chömed dich im Oktober go bsuche am Campus.", "german": "Bei mir auch super! Wir kommen dich im Oktober am Campus besuchen.", "english": "Me too! We'll come visit you on campus in October."},
             ],
             "differences": [
                 {"swissGerman": "bstande", "german": "bestanden", "explanation": "'bstande' = 'bestanden'. 'Be-' → 'B-'."},

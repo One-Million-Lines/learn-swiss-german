@@ -15,7 +15,9 @@ SUBTOPIC_CASUAL_OPINIONS = {
                 {"speaker": "Neighbor", "swissGerman": "Typisch Züri. Aber wenn s'schön isch, denn isch es mega schön.", "german": "Typisch Zürich. Aber wenn es schön ist, dann ist es mega schön.", "english": "Typical Zurich. But when it's nice, it's really beautiful."},
                 {"speaker": "You", "swissGerman": "Stimmt! Hüt gaht me am beschte grad an See.", "german": "Stimmt! Heute geht man am besten gleich an den See.", "english": "True! Today you should go straight to the lake."},
                 {"speaker": "Neighbor", "swissGerman": "Genau! Ich nimm d'Chind mit is Badii.", "german": "Genau! Ich nehme die Kinder mit ins Freibad.", "english": "Exactly! I'm taking the kids to the outdoor pool."},
-                {"speaker": "You", "swissGerman": "Gueti Idee! Gnüüssed de Tag!", "german": "Gute Idee! Genießt den Tag!", "english": "Good idea! Enjoy the day!"},
+                {"speaker": "You", "swissGerman": "Super! Ab wamm isch d'Badii öffe? Scho ab niinì?", "german": "Super! Ab wann ist das Freibad offen? Schon ab neun?", "english": "Great! From when is the outdoor pool open? Already from nine?"},
+                {"speaker": "Neighbor", "swissGerman": "Ja, vo niinì bis achti z'Aabig. Am Wuchenänd sogar bis nüinì!", "german": "Ja, von neun bis acht abends. Am Wochenende sogar bis neun!", "english": "Yes, from nine until eight in the evening. On weekends until nine!"},
+                {"speaker": "You", "swissGerman": "Guäti Idee! Gnüüßed de Tag!", "german": "Gute Idee! Genießt den Tag!", "english": "Good idea! Enjoy the day!"},
             ],
             "differences": [
                 {"swissGerman": "Sunneschiin", "german": "Sonnenschein", "explanation": "'Sunneschiin' = 'Sonnenschein'. Swiss form."},
@@ -41,6 +43,8 @@ SUBTOPIC_CASUAL_OPINIONS = {
                 {"speaker": "You", "swissGerman": "Echt? Besser als s'Sukhothai bir Langstrass?", "german": "Echt? Besser als das Sukhothai an der Langstraße?", "english": "Really? Better than the Sukhothai on Langstrasse?"},
                 {"speaker": "Friend", "swissGerman": "Ja! Und s'isch nöd mol so tüür. Für Züri-Verhältnis.", "german": "Ja! Und es ist nicht mal so teuer. Für Zürcher Verhältnisse.", "english": "Yes! And it's not even that expensive. By Zurich standards."},
                 {"speaker": "You", "swissGerman": "Haha, 'für Züri-Verhältnis' — das heisst immer no drüssg Stutz, oder?", "german": "Haha, 'für Zürcher Verhältnisse' — das heißt immer noch dreißig Franken, oder?", "english": "Haha, 'by Zurich standards' — that still means thirty francs, right?"},
+                {"speaker": "Friend", "swissGerman": "Haha, so zänzg! Drum isch es erschwingliich für Züri.", "german": "Haha, so zwanzig! Deshalb ist es erschwinglich für Zürich.", "english": "Haha, about twenty! That's why it's affordable by Zurich standards."},
+                {"speaker": "You", "swissGerman": "Okay, du hesch mich überzeugt — wamm gasch du wider?", "german": "Okay, du hast mich überzeugt — wann gehst du wieder?", "english": "Okay, you've convinced me — when are you going again?"},
             ],
             "differences": [
                 {"swissGerman": "nöie", "german": "neue", "explanation": "'nöie' = 'neue'. Swiss form of 'new'."},
@@ -66,6 +70,8 @@ SUBTOPIC_CASUAL_OPINIONS = {
                 {"speaker": "You", "swissGerman": "Hmm, s'früe Zuehaue isch glaub nöd mii Ding. Am Sunntig isch alles zue!", "german": "Hmm, das frühe Zumachen ist glaube ich nicht mein Ding. Am Sonntag ist alles zu!", "english": "Hmm, the early closing isn't really my thing. On Sunday everything's closed!"},
                 {"speaker": "Person", "swissGerman": "Haha ja, das isch sehr schwizerisch. Dra gwöhnsch dich!", "german": "Haha ja, das ist sehr schweizerisch. Daran gewöhnst du dich!", "english": "Haha yes, that's very Swiss. You'll get used to it!"},
                 {"speaker": "You", "swissGerman": "Vilicht! Aber d'Schoggi macht alles wider guet, haha.", "german": "Vielleicht! Aber die Schokolade macht alles wieder gut, haha.", "english": "Maybe! But the chocolate makes up for everything, haha."},
+                {"speaker": "Person", "swissGerman": "Haha, genau! Und welchi magsch am liebschte — Lindt oder Läderach?", "german": "Haha, genau! Und welche magst du am liebsten — Lindt oder Läderach?", "english": "Haha, exactly! And which do you like best — Lindt or Läderach?"},
+                {"speaker": "You", "swissGerman": "Läderach isch unglaublich guet — aber eben au tüür!", "german": "Läderach ist unglaublich gut — aber eben auch teuer!", "english": "Läderach is incredibly good — but also expensive!"},
             ],
             "differences": [
                 {"swissGerman": "Zuehaue", "german": "Zumachen/Schließen", "explanation": "'Zuehaue' = closing (of shops). Swiss expression."},
@@ -91,6 +97,8 @@ SUBTOPIC_CASUAL_OPINIONS = {
                 {"speaker": "You", "swissGerman": "Am Afang hät mich de Abfall-Kalender verwirrt. So vill Regle!", "german": "Am Anfang hat mich der Abfallkalender verwirrt. So viele Regeln!", "english": "In the beginning the waste calendar confused me. So many rules!"},
                 {"speaker": "Neighbor", "swissGerman": "Haha, ja! Und d'Güselsäck mit de Märkli — das isch typisch Schwiiz.", "german": "Haha, ja! Und die Müllsäcke mit den Marken — das ist typisch Schweiz.", "english": "Haha yes! And the garbage bags with the stickers — that's typical Switzerland."},
                 {"speaker": "You", "swissGerman": "Total! Aber jetzt find ichs eigentlich guet. Ordnig muess si, oder?", "german": "Total! Aber jetzt finde ich es eigentlich gut. Ordnung muss sein, oder?", "english": "Totally! But now I actually think it's good. Things need to be orderly, right?"},
+                {"speaker": "Neighbor", "swissGerman": "Genau! Und weisch du, mir händ bi üs im Quartier sogar en Gmeinschafts-Komposcht!", "german": "Genau! Und weisst du, wir haben bei uns im Quartier sogar einen Gemeinschafts-Kompost!", "english": "Exactly! And did you know, we have a communal compost in our neighborhood!"},
+                {"speaker": "You", "swissGerman": "Das hätt ich nid gwisst! Sehr umweltbewusst hier.", "german": "Das hätte ich nicht gewusst! Sehr umweltbewusst hier.", "english": "I didn't know that! Very environmentally conscious here."},
             ],
             "differences": [
                 {"swissGerman": "Unverpackt-Lade", "german": "Unverpackt-Laden", "explanation": "'Lade' = 'Laden'. Swiss shortened form for shop."},
@@ -116,6 +124,8 @@ SUBTOPIC_CASUAL_OPINIONS = {
                 {"speaker": "You", "swissGerman": "Ja! Und mir gönd au gärn go Brönzle — eifach i de Sunnne sitze.", "german": "Ja! Und wir gehen auch gerne Brönzlen — einfach in der Sonne sitzen.", "english": "Yes! And we also like to sunbathe — just sit in the sun."},
                 {"speaker": "Colleague", "swissGerman": "Haha, Brönzle am Zürisee — das isch scho fast Ferie!", "german": "Haha, Sonnenbaden am Zürichsee — das ist schon fast Urlaub!", "english": "Haha, sunbathing at Lake Zurich — that's almost like vacation!"},
                 {"speaker": "You", "swissGerman": "Genau! Wieso i d'Ferie fahre, wenns do au schön isch?", "german": "Genau! Warum in den Urlaub fahren, wenn es hier auch schön ist?", "english": "Exactly! Why go on vacation when it's nice here too?"},
+                {"speaker": "Colleague", "swissGerman": "Und d'Tages-Eintrittskarte für d'Badii isch au sehr erschwinglich — ab acht Stutz!", "german": "Und die Tages-Eintrittskarte für das Freibad ist auch sehr erschwinglich — ab acht Franken!", "english": "And the day ticket for the outdoor pool is also very affordable — from eight francs!"},
+                {"speaker": "You", "swissGerman": "Echt? Das isch en Chlagg! Chömed mir nächs Wuchenänd zamen?", "german": "Wirklich? Das ist ein Schnäppchen! Kommen wir nächstes Wochenende zusammen?", "english": "Really? That's a bargain! Shall we come together next weekend?"},
             ],
             "differences": [
                 {"swissGerman": "Badi", "german": "Freibad", "explanation": "'Badi' = 'Freibad'. Outdoor swimming pool. Very Swiss word."},

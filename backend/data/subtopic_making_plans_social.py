@@ -15,6 +15,8 @@ SUBTOPIC_MAKING_PLANS_SOCIAL = {
                 {"speaker": "You", "swissGerman": "Wie wärs am Friitig am Namittag? So um Drüü?", "german": "Wie wäre es am Freitag am Nachmittag? So um drei?", "english": "How about Friday afternoon? Around three?"},
                 {"speaker": "Person", "swissGerman": "Friitig passt! Und wo? Häsch du en Liebigskafi?", "german": "Freitag passt! Und wo? Hast du ein Lieblingscafé?", "english": "Friday works! And where? Do you have a favorite café?"},
                 {"speaker": "You", "swissGerman": "S'Café Mühle am Helvetiaplatz isch super. Kensch du's?", "german": "Das Café Mühle am Helvetiaplatz ist super. Kennst du es?", "english": "Café Mühle at Helvetiaplatz is great. Do you know it?"},
+                {"speaker": "Person", "swissGerman": "Nei, no nie gsii. Hät das au Kuche? Ich mag gern en Stück Zitronenchueche.", "german": "Nein, noch nie gewesen. Hat das auch Kuchen? Ich mag gerne ein Stück Zitronenkuchen.", "english": "No, never been. Do they also have cake? I like a slice of lemon cake."},
+                {"speaker": "You", "swissGerman": "Ja! Die händ mega guete Haselnisskuche und Rüeblitorte. Du wirsch begeischtert sii!", "german": "Ja! Die haben mega guten Haselnusskuchen und Rüeblitorte. Du wirst begeistert sein!", "english": "Yes! They have really good hazelnut cake and carrot cake. You'll be delighted!"},
                 {"speaker": "Person", "swissGerman": "Ja, kenn ich! Perfekt, denn am Friitig um Drüü dört. Ich freu mich!", "german": "Ja, kenne ich! Perfekt, dann am Freitag um drei dort. Ich freue mich!", "english": "Yes, I know it! Perfect, Friday at three there then. Looking forward to it!"},
             ],
             "differences": [
@@ -40,6 +42,8 @@ SUBTOPIC_MAKING_PLANS_SOCIAL = {
                 {"speaker": "You", "swissGerman": "Züriberg tönt guet! Und nachher en Kafi mit Uussicht?", "german": "Züriberg klingt gut! Und danach einen Kaffee mit Aussicht?", "english": "Züriberg sounds good! And then a coffee with a view?"},
                 {"speaker": "Friend", "swissGerman": "Ja, s'Restaurant obe isch mega. Am Samstig oder Sunntig?", "german": "Ja, das Restaurant oben ist mega. Am Samstag oder Sonntag?", "english": "Yes, the restaurant up there is great. Saturday or Sunday?"},
                 {"speaker": "You", "swissGerman": "Am liebschte Sunntig. Samstig ha ich scho öppis.", "german": "Am liebsten Sonntag. Samstag habe ich schon etwas.", "english": "Preferably Sunday. Saturday I already have something."},
+                {"speaker": "Friend", "swissGerman": "Guet. Und falls's regnet? Sölle mir en Plan B ha?", "german": "Gut. Und falls es regnet? Sollen wir einen Plan B haben?", "english": "Good. And if it rains? Should we have a plan B?"},
+                {"speaker": "You", "swissGerman": "Denn gömer eifach is Kunsthaus — die händ am Sunntig bis Sächsi uf.", "german": "Dann gehen wir einfach ins Kunsthaus — die haben am Sonntag bis sechs geöffnet.", "english": "Then we just go to the Kunsthaus — they're open until six on Sundays."},
                 {"speaker": "Friend", "swissGerman": "Perfekt! Sunntig um Elfi? Mir träffed eus bim Tramhalt?", "german": "Perfekt! Sonntag um elf? Wir treffen uns an der Tramhaltestelle?", "english": "Perfect! Sunday at eleven? We meet at the tram stop?"},
             ],
             "differences": [
@@ -65,6 +69,8 @@ SUBTOPIC_MAKING_PLANS_SOCIAL = {
                 {"speaker": "You", "swissGerman": "Und Mittwuch? Am Abig vilicht?", "german": "Und Mittwoch? Am Abend vielleicht?", "english": "And Wednesday? In the evening maybe?"},
                 {"speaker": "Friend", "swissGerman": "Mittwuch am Abig gaat! Ab Sächsi bin ich frei.", "german": "Mittwoch am Abend geht! Ab sechs bin ich frei.", "english": "Wednesday evening works! I'm free from six."},
                 {"speaker": "You", "swissGerman": "Super! Gömer uf es Bier? Oder lieber öppis ässe?", "german": "Super! Gehen wir auf ein Bier? Oder lieber etwas essen?", "english": "Great! Shall we go for a beer? Or rather eat something?"},
+                {"speaker": "Friend", "swissGerman": "Öppis ässe! Ich kenn es Beizli bim alti Post wo mega Röschti macht.", "german": "Etwas essen! Ich kenne eine Beiz bei der alten Post die mega Rösti macht.", "english": "Something to eat! I know a little restaurant near the old post that makes amazing Rösti."},
+                {"speaker": "You", "swissGerman": "Röschti klingt guet! Und denn es Bier dezue. Deal!", "german": "Rösti klingt gut! Und dann ein Bier dazu. Deal!", "english": "Rösti sounds good! And then a beer alongside. Deal!"},
                 {"speaker": "Friend", "swissGerman": "Beides! Zerscht Bier, denn Ässe. Abgemacht!", "german": "Beides! Erst Bier, dann Essen. Abgemacht!", "english": "Both! First beer, then food. Deal!"},
             ],
             "differences": [
@@ -90,6 +96,8 @@ SUBTOPIC_MAKING_PLANS_SOCIAL = {
                 {"speaker": "You", "swissGerman": "Wie wärs mit em Tibits? Die händ mega guets Buffet.", "german": "Wie wäre es mit dem Tibits? Die haben ein mega gutes Buffet.", "english": "How about Tibits? They have a great buffet."},
                 {"speaker": "Friend", "swissGerman": "Mmh, liebers öppis mit Fleisch. S'Zeughauskäller vilicht?", "german": "Mmh, lieber etwas mit Fleisch. Der Zeughauskeller vielleicht?", "english": "Mmh, I'd prefer something with meat. The Zeughauskeller maybe?"},
                 {"speaker": "You", "swissGerman": "Ja, guet! Söll ich reserviere? Für um Achti?", "german": "Ja, gut! Soll ich reservieren? Für um acht?", "english": "Yes, good! Should I make a reservation? For eight?"},
+                {"speaker": "Friend", "swissGerman": "Ja, und sag ihne mir chömed pünktlich — am Samschtig isch's immer voll dört.", "german": "Ja, und sag ihnen wir kommen pünktlich — am Samstag ist es immer voll dort.", "english": "Yes, and tell them we'll be punctual — on Saturday it's always full there."},
+                {"speaker": "You", "swissGerman": "Stimmt, ich erwähne au dass mir en Fenstertisch möchted.", "german": "Stimmt, ich erwähne auch dass wir einen Fenstertisch möchten.", "english": "True, I'll also mention that we'd like a window table."},
                 {"speaker": "Friend", "swissGerman": "Ja bitte! Reservier für vier — ich bring no de Thomas mit, okay?", "german": "Ja bitte! Reservier für vier — ich bringe noch Thomas mit, okay?", "english": "Yes please! Book for four — I'm bringing Thomas too, okay?"},
             ],
             "differences": [
@@ -114,6 +122,8 @@ SUBTOPIC_MAKING_PLANS_SOCIAL = {
                 {"speaker": "Friend", "swissGerman": "Ja klar! Um Zwölfi, gäll?", "german": "Ja klar! Um zwölf, oder?", "english": "Yes of course! At twelve, right?"},
                 {"speaker": "You", "swissGerman": "Genau! Chasch du en Tisch reserviere oder söll ich?", "german": "Genau! Kannst du einen Tisch reservieren oder soll ich?", "english": "Exactly! Can you book a table or should I?"},
                 {"speaker": "Friend", "swissGerman": "Ich machs! Zmittags-Menü isch immer guet dört.", "german": "Ich mache es! Das Mittagsmenü ist immer gut dort.", "english": "I'll do it! The lunch menu is always good there."},
+                {"speaker": "You", "swissGerman": "Und chönnted mir de Tagesteller bstelle? Ich mag kei schweri Chuchi am Mittag.", "german": "Und könnten wir den Tagessteller bestellen? Ich mag keine schwere Küche am Mittag.", "english": "And could we order the daily special? I don't like heavy food at lunch."},
+                {"speaker": "Friend", "swissGerman": "Ja, det Tagesteller isch mängsmal Gsotts — Chalbsbratwurscht oder Gschwelti.", "german": "Ja, das Tagesgericht ist manchmal Gesottenes — Kalbsbratwurst oder Gschwellte.", "english": "Yes, the daily special is sometimes something boiled — veal sausage or jacket potatoes."},
                 {"speaker": "You", "swissGerman": "Perfekt! Denn gsehn ich dich morn. Freu mi!", "german": "Perfekt! Dann sehe ich dich morgen. Freu mich!", "english": "Perfect! Then I'll see you tomorrow. Looking forward!"},
                 {"speaker": "Friend", "swissGerman": "Bis morn! Tschau!", "german": "Bis morgen! Tschüss!", "english": "See you tomorrow! Bye!"},
             ],

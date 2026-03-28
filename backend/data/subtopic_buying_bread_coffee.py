@@ -15,6 +15,8 @@ SUBTOPIC_BUYING_BREAD_COFFEE = {
                 {"speaker": "Baker", "swissGerman": "Sehr gern. Das macht füf Franke drüssig.", "german": "Sehr gern. Das macht fünf Franken dreißig.", "english": "With pleasure. That's five francs thirty."},
                 {"speaker": "You", "swissGerman": "Chani mit Charte zahle?", "german": "Kann ich mit Karte zahlen?", "english": "Can I pay by card?"},
                 {"speaker": "Baker", "swissGerman": "Ja, sicher! Bitte.", "german": "Ja, sicher! Bitte.", "english": "Yes, of course! Here you go."},
+                {"speaker": "You", "swissGerman": "Und isch das Gipfeli frisch vo hüt Morge?", "german": "Und ist das Croissant frisch von heute Morgen?", "english": "And is the croissant fresh from this morning?"},
+                {"speaker": "Baker", "swissGerman": "Ja, immer frisch bi üs — täglich gmacht!", "german": "Ja, immer frisch bei uns — täglich gemacht!", "english": "Yes, always fresh here — made daily!"},
                 {"speaker": "You", "swissGerman": "Merci vilmal! Ade!", "german": "Vielen Dank! Tschüss!", "english": "Thank you! Bye!"},
             ],
             "differences": [
@@ -39,6 +41,8 @@ SUBTOPIC_BUYING_BREAD_COFFEE = {
                 {"speaker": "You", "swissGerman": "Gross bitte. Und händ Sie Zopf?", "german": "Groß bitte. Und haben Sie Zopf?", "english": "Large please. And do you have braided bread?"},
                 {"speaker": "Barista", "swissGerman": "Ja, frisch vo hüt Morge. Wänd Sie es Stück?", "german": "Ja, frisch von heute Morgen. Wollen Sie ein Stück?", "english": "Yes, fresh from this morning. Would you like a piece?"},
                 {"speaker": "You", "swissGerman": "Ja bitte! Was macht das zäme?", "german": "Ja bitte! Was macht das zusammen?", "english": "Yes please! What's the total?"},
+                {"speaker": "Barista", "swissGerman": "Zahled Sie mit Charte oder bar?", "german": "Zahlen Sie mit Karte oder bar?", "english": "Paying by card or cash?"},
+                {"speaker": "You", "swissGerman": "Mit Charte bitte — ich ha kei Münzgäld.", "german": "Mit Karte bitte — ich habe kein Münzgeld.", "english": "By card please — I have no coins."},
                 {"speaker": "Barista", "swissGerman": "Sächs Franke füfzg. Guten Appetit!", "german": "Sechs Franken fünfzig. Guten Appetit!", "english": "Six francs fifty. Enjoy!"},
             ],
             "differences": [
@@ -117,6 +121,8 @@ SUBTOPIC_BUYING_BREAD_COFFEE = {
                 {"speaker": "Baker", "swissGerman": "Gern! Isch das alles?", "german": "Gern! Ist das alles?", "english": "Sure! Is that everything?"},
                 {"speaker": "You", "swissGerman": "Ja, das langt. Was chostet das?", "german": "Ja, das reicht. Was kostet das?", "english": "Yes, that's enough. How much is it?"},
                 {"speaker": "Baker", "swissGerman": "Vier Franke füfzg. En Guete!", "german": "Vier Franken fünfzig. Guten Appetit!", "english": "Four francs fifty. Enjoy!"},
+                {"speaker": "You", "swissGerman": "Merci! Darf ich kurz bi Ihne stah bliibe zum Ässe?", "german": "Danke! Darf ich kurz bei Ihnen stehen bleiben zum Essen?", "english": "Thanks! May I stay here briefly to eat?"},
+                {"speaker": "Baker", "swissGerman": "Klar! Dört drüber isch sogar en Tischli, wenn Si möchted sitze.", "german": "Klar! Dort drüben ist sogar ein Tischen, wenn Sie sitzen möchten.", "english": "Sure! There's even a small table over there, if you'd like to sit."},
             ],
             "differences": [
                 {"swissGerman": "Znüni", "german": "Vormittagssnack", "explanation": "'Znüni' — literally 'at nine'. The traditional Swiss morning snack."},

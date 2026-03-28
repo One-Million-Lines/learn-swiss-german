@@ -16,6 +16,8 @@ SUBTOPIC_BASIC_CONNECTORS = {
                 {"speaker": "You", "swissGerman": "Nimm doch beids! Suppe und Salat.", "german": "Nimm doch beides! Suppe und Salat.", "english": "Take both! Soup and salad."},
                 {"speaker": "Friend", "swissGerman": "Gueti Idee! Und es Dessert dezue?", "german": "Gute Idee! Und ein Dessert dazu?", "english": "Good idea! And a dessert with it?"},
                 {"speaker": "You", "swissGerman": "Klar, Dessert und Kafi!", "german": "Klar, Dessert und Kaffee!", "english": "Sure, dessert and coffee!"},
+                {"speaker": "Friend", "swissGerman": "Und wenn es git, es Stückli Schoggi dezue?", "german": "Und wenn es geht, ein Stück Schokolade dazu?", "english": "And if possible, a piece of chocolate with it?"},
+                {"speaker": "You", "swissGerman": "Na sicher! Suppe, Salat, Dessert, Kafi und Schoggi — mir machid das richtig!", "german": "Natürlich! Suppe, Salat, Dessert, Kaffee und Schokolade — wir machen das richtig!", "english": "Of course! Soup, salad, dessert, coffee and chocolate — we're doing this properly!"},
             ],
             "differences": [
                 {"swissGerman": "und", "german": "und", "explanation": "'und' is the same in both. Most basic connector. Used exactly like English 'and'."},
@@ -40,6 +42,8 @@ SUBTOPIC_BASIC_CONNECTORS = {
                 {"speaker": "You", "swissGerman": "Morn wär guet, aber erst ab achti.", "german": "Morgen wäre gut, aber erst ab acht.", "english": "Tomorrow would be good, but only from eight."},
                 {"speaker": "Friend", "swissGerman": "Passt! Mir fangend spaat aa, aber es wird lustig!", "german": "Passt! Wir fangen spät an, aber es wird lustig!", "english": "Works! We'll start late, but it'll be fun!"},
                 {"speaker": "You", "swissGerman": "Tönt guet, aber versprich mer, dass es nöd z'lang gaht!", "german": "Klingt gut, aber versprich mir, dass es nicht zu lang geht!", "english": "Sounds good, but promise me it won't go too long!"},
+                {"speaker": "Friend", "swissGerman": "Ha! Ich värspreche nüüt, aber mir versuchid um mitternacht Schluss z'mache.", "german": "Ha! Ich verspreche nichts, aber wir versuchen um Mitternacht aufzuhören.", "english": "Ha! I promise nothing, but we'll try to finish at midnight."},
+                {"speaker": "You", "swissGerman": "Das kenn ich vo dir, aber okay — ich bi morn um achti do!", "german": "Das kenne ich von dir, aber okay — ich bin morgen um acht dort!", "english": "I know you, but okay — I'll be there tomorrow at eight!"},
             ],
             "differences": [
                 {"swissGerman": "aber", "german": "aber", "explanation": "'aber' (but) is the same. The most common contrast word. Used constantly."},
@@ -64,6 +68,8 @@ SUBTOPIC_BASIC_CONNECTORS = {
                 {"speaker": "You", "swissGerman": "Will de nöchscht erscht in ere halbe Stund cho isch. Drum bini z'spaat.", "german": "Weil der nächste erst in einer halben Stunde kam. Darum bin ich zu spät.", "english": "Because the next one only came in half an hour. That's why I'm late."},
                 {"speaker": "Boss", "swissGerman": "Okay, ich verstah. Aber nöchscht Mol bitte aruefe, will mir müend planne.", "german": "Okay, ich verstehe. Aber nächstes Mal bitte anrufen, weil wir planen müssen.", "english": "Okay, I understand. But next time please call, because we need to plan."},
                 {"speaker": "You", "swissGerman": "Ja, das machi, versprochen!", "german": "Ja, das mache ich, versprochen!", "english": "Yes, I'll do that, promised!"},
+                {"speaker": "Boss", "swissGerman": "Guet. Und wenn du nöchscht Mal e Verspaatig häsch, schrib mir kurz uf WhatsApp.", "german": "Gut. Und wenn du nächstes Mal Verspätung hast, schreib mir kurz auf WhatsApp.", "english": "Good. And if you're late next time, drop me a quick message on WhatsApp."},
+                {"speaker": "You", "swissGerman": "Selbstverständlich! Das machi bi de nöchschte Mal sofort.", "german": "Selbstverständlich! Das mache ich beim nächsten Mal sofort.", "english": "Of course! I'll do that right away next time."},
             ],
             "differences": [
                 {"swissGerman": "will", "german": "weil", "explanation": "'will' = 'weil' (because). Despite looking like English 'will', it means 'because' in Swiss German!"},
@@ -88,7 +94,8 @@ SUBTOPIC_BASIC_CONNECTORS = {
                 {"speaker": "You", "swissGerman": "Denn machi mir en Kafi und denn z'Morge.", "german": "Dann mache ich mir einen Kaffee und dann Frühstück.", "english": "Then I make myself a coffee and then breakfast."},
                 {"speaker": "Flatmate", "swissGerman": "Und danach gasch go schaffe?", "german": "Und danach gehst du arbeiten?", "english": "And after that you go to work?"},
                 {"speaker": "You", "swissGerman": "Genau, zerscht Kafi, denn z'Morge, denn go schaffe. Immer s'gliiche!", "german": "Genau, erst Kaffee, dann Frühstück, dann arbeiten gehen. Immer das gleiche!", "english": "Exactly, first coffee, then breakfast, then work. Always the same!"},
-            ],
+                {"speaker": "Flatmate", "swissGerman": "Und denn gasch scho um siibe ab?", "german": "Und dann gehst du schon um sieben weg?", "english": "And then you leave at seven already?"},
+                {"speaker": "You", "swissGerman": "Genau, um siibe. Ich mags wenn s'Büro no ruhig isch.", "german": "Genau, um sieben. Ich mag es wenn das Büro noch ruhig ist.", "english": "Exactly, at seven. I like it when the office is still quiet."},            ],
             "differences": [
                 {"swissGerman": "denn", "german": "dann", "explanation": "'denn' = 'dann' (then). The key sequencing word. Used to chain events."},
                 {"swissGerman": "zerscht", "german": "zuerst", "explanation": "'zerscht' = 'zuerst' (first). Starts many sequences."},

@@ -16,6 +16,8 @@ SUBTOPIC_CLIENT_CALL = {
                 {"speaker": "Client", "swissGerman": "Mir bräuchted en Beratig für euses nöie Projekt.", "german": "Wir bräuchten eine Beratung für unser neues Projekt.", "english": "We would need consulting for our new project."},
                 {"speaker": "You", "swissGerman": "Gern. Ich schicke Ihne d'Unterlage per Mail. Wie isch Ihri Mail-Adrässe?", "german": "Gern. Ich schicke Ihnen die Unterlagen per Mail. Wie ist Ihre Mail-Adresse?", "english": "Gladly. I'll send you the documents by email. What's your email address?"},
                 {"speaker": "Client", "swissGerman": "weber@schoch.ch. Merci vilmal, Herr Bianchi!", "german": "weber@schoch.ch. Vielen Dank, Herr Bianchi!", "english": "weber@schoch.ch. Thank you very much, Mr. Bianchi!"},
+                {"speaker": "You", "swissGerman": "Ich schicke Ihne d'Unterlage bis hüt Nami. Schöne Tag, Frau Weber!", "german": "Ich schicke Ihnen die Unterlagen bis heute Nachmittag. Schönen Tag, Frau Weber!", "english": "I'll send you the documents by this afternoon. Have a nice day, Ms. Weber!"},
+                {"speaker": "Client", "swissGerman": "Sehr guet. Ich freu mich uf d'Offerte. Uf Wiederhöre!", "german": "Sehr gut. Ich freue mich auf das Angebot. Auf Wiederhören!", "english": "Very good. I look forward to the quote. Goodbye!"},
             ],
             "differences": [
                 {"swissGerman": "da isch", "german": "hier ist", "explanation": "'da' = 'hier' in Swiss German phone context."},
@@ -40,6 +42,8 @@ SUBTOPIC_CLIENT_CALL = {
                 {"speaker": "You", "swissGerman": "Ich verstah das. Ich kläre das sofort ab und rüefe Sie in ere Stund zrugg.", "german": "Ich verstehe das. Ich kläre das sofort ab und rufe Sie in einer Stunde zurück.", "english": "I understand. I'll clarify this immediately and call you back within an hour."},
                 {"speaker": "Client", "swissGerman": "Guet, aber bitte wirklich innert ere Stund.", "german": "Gut, aber bitte wirklich innerhalb einer Stunde.", "english": "Good, but really within an hour please."},
                 {"speaker": "You", "swissGerman": "Versprooche. Und nomals Entschuldigung für d'Umständ.", "german": "Versprochen. Und nochmals Entschuldigung für die Umstände.", "english": "Promised. And again, apologies for the inconvenience."},
+                {"speaker": "Client", "swissGerman": "Guet. Ich warte uf Ihren Aaruf. Uf Widerhöre.", "german": "Gut. Ich warte auf Ihren Anruf. Auf Wiederhören.", "english": "Good. I'll wait for your call. Goodbye."},
+                {"speaker": "You", "swissGerman": "Uf Wiederhöre, Frau Weber. Ich meld mich.", "german": "Auf Wiederhören, Frau Weber. Ich melde mich.", "english": "Goodbye, Ms. Weber. I'll be in touch."},
             ],
             "differences": [
                 {"swissGerman": "sölle cho", "german": "kommen sollen", "explanation": "'sölle' = 'sollen', 'cho' = 'kommen'. Word order differs."},
@@ -65,6 +69,8 @@ SUBTOPIC_CLIENT_CALL = {
                 {"speaker": "Client", "swissGerman": "Donnschtig isch schwierig. Gaht au Friitig?", "german": "Donnerstag ist schwierig. Geht auch Freitag?", "english": "Thursday is difficult. Does Friday also work?"},
                 {"speaker": "You", "swissGerman": "Ja, Friitig am Zähni passt perfekt.", "german": "Ja, Freitag um zehn passt perfekt.", "english": "Yes, Friday at ten is perfect."},
                 {"speaker": "Client", "swissGerman": "Abgemacht! Denn gsehn mir eus am Friitig.", "german": "Abgemacht! Dann sehen wir uns am Freitag.", "english": "Agreed! See you on Friday then."},
+                {"speaker": "You", "swissGerman": "Perfekt. Ich schick Ihne no e Kalenderiiladig.", "german": "Perfekt. Ich schicke Ihnen noch eine Kalendereinladung.", "english": "Perfect. I'll send you a calendar invitation."},
+                {"speaker": "Client", "swissGerman": "Danke! Uf Wiederhöre.", "german": "Danke! Auf Wiederhören.", "english": "Thanks! Goodbye."},
             ],
             "differences": [
                 {"swissGerman": "wäge em", "german": "wegen des", "explanation": "'wäge' = 'wegen', with dative 'em' instead of genitive."},
@@ -89,6 +95,8 @@ SUBTOPIC_CLIENT_CALL = {
                 {"speaker": "You", "swissGerman": "Das wär grundsätzlich möglich, aber das hät en Iifluss uf de Ziitplan und s'Budget.", "german": "Das wäre grundsätzlich möglich, aber das hat einen Einfluss auf den Zeitplan und das Budget.", "english": "That would basically be possible, but it affects the timeline and the budget."},
                 {"speaker": "Client", "swissGerman": "Wie viel meh würd das koschte?", "german": "Wie viel mehr würde das kosten?", "english": "How much more would that cost?"},
                 {"speaker": "You", "swissGerman": "Ich mache Ihne en detaillierti Offerte und schicke's bis morn.", "german": "Ich mache Ihnen ein detailliertes Angebot und schicke es bis morgen.", "english": "I'll prepare a detailed quote and send it by tomorrow."},
+                {"speaker": "Client", "swissGerman": "Prima. Und chönd mir das per Videokonferenz bspreche?", "german": "Prima. Und können wir das per Videokonferenz besprechen?", "english": "Great. And could we discuss it via video conference?"},
+                {"speaker": "You", "swissGerman": "Natürlich! Ich schlag Ihne en Termin vor, wänn ich d'Offerte schick.", "german": "Natürlich! Ich schlage Ihnen einen Termin vor, wenn ich das Angebot schicke.", "english": "Of course! I'll suggest a time when I send the quote."},
             ],
             "differences": [
                 {"swissGerman": "Kommt druf aa", "german": "Kommt darauf an", "explanation": "'druf' = 'darauf', 'aa' = 'an'. Shortened."},
@@ -113,6 +121,8 @@ SUBTOPIC_CLIENT_CALL = {
                 {"speaker": "Client", "swissGerman": "Ja, mir chömed sicher wieder uf euch zue.", "german": "Ja, wir kommen sicher wieder auf euch zu.", "english": "Yes, we'll definitely come back to you again."},
                 {"speaker": "You", "swissGerman": "Mir freuet eus! Merci vilmal für s'Vertraue.", "german": "Wir freuen uns! Vielen Dank für das Vertrauen.", "english": "We look forward to it! Thank you very much for your trust."},
                 {"speaker": "Client", "swissGerman": "Danke au Ihne. Schöne Tag no!", "german": "Danke auch Ihnen. Schönen Tag noch!", "english": "Thank you too. Have a nice day!"},
+                {"speaker": "You", "swissGerman": "Und wänn Si mol wider öppis bruuched — mir sind immer gern für Si da.", "german": "Und wenn Sie mal wieder etwas brauchen — wir sind immer gern für Sie da.", "english": "And whenever you need something again — we're always happy to help."},
+                {"speaker": "Client", "swissGerman": "Das weis ich! Uf Wiedersähen!", "german": "Das weiß ich! Auf Wiedersehen!", "english": "I know! Goodbye!"},
             ],
             "differences": [
                 {"swissGerman": "abgschlosse", "german": "abgeschlossen", "explanation": "'abgschlosse' = 'abgeschlossen'. 'ge-' → 'g-', '-en' dropped."},

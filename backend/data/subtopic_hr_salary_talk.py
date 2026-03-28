@@ -14,7 +14,8 @@ SUBTOPIC_HR_SALARY_TALK = {
                 {"speaker": "HR", "swissGerman": "Momänt, ich lueg grad nach... Sie händ no achti Täg.", "german": "Moment, ich schaue gleich nach... Sie haben noch acht Tage.", "english": "One moment, I'll check right away... You have eight days left."},
                 {"speaker": "You", "swissGerman": "Okay super. Muess ich die no vor Ändi Jahr nehme?", "german": "Okay super. Muss ich die noch vor Ende Jahr nehmen?", "english": "Okay great. Do I need to take them before end of year?"},
                 {"speaker": "HR", "swissGerman": "Ja, bis zum 31. Dezämber. Föif Täg chönd Sie uf s'nöie Jahr übertrage.", "german": "Ja, bis zum 31. Dezember. Fünf Tage können Sie aufs neue Jahr übertragen.", "english": "Yes, by December 31st. You can carry over five days to the new year."},
-                {"speaker": "You", "swissGerman": "Perfekt, merci für d'Info!", "german": "Perfekt, danke für die Information!", "english": "Perfect, thanks for the info!"},
+                {"speaker": "You", "swissGerman": "Und de übertragene Föif Täg — bis wänn müessed die bezoge werde?", "german": "Und die übertragenen fünf Tage — bis wann müssen diese bezogen werden?", "english": "And the carried-over five days — by when do those need to be taken?"},
+                {"speaker": "HR", "swissGerman": "Bis Endi März vom nöie Jahr. Suscht vedänded sie.", "german": "Bis Ende März des neuen Jahres. Sonst verfallen sie.", "english": "By end of March of the new year. Otherwise they expire."},
             ],
             "differences": [
                 {"swissGerman": "wett gern wüsse", "german": "würde gern wissen", "explanation": "'wett' = 'würde', 'wüsse' = 'wissen'. Conditional form."},
@@ -37,7 +38,8 @@ SUBTOPIC_HR_SALARY_TALK = {
                 {"speaker": "Manager", "swissGerman": "Ja, das stimmt. Ich bi au zfride mit dinere Leistig.", "german": "Ja, das stimmt. Ich bin auch zufrieden mit deiner Leistung.", "english": "Yes, that's true. I'm also satisfied with your performance."},
                 {"speaker": "You", "swissGerman": "Ich finde, en Apassig vo öppe füüf Prozänt wär aagmässe.", "german": "Ich finde, eine Anpassung von etwa fünf Prozent wäre angemessen.", "english": "I think an adjustment of about five percent would be appropriate."},
                 {"speaker": "Manager", "swissGerman": "Ich muess das no mit de HR bespräche. Aber ich setz mich für dich ii.", "german": "Ich muss das noch mit der HR besprechen. Aber ich setze mich für dich ein.", "english": "I need to discuss that with HR. But I'll advocate for you."},
-                {"speaker": "You", "swissGerman": "Das schätze ich sehr. Wänn chan ich mit ere Antwort rächne?", "german": "Das schätze ich sehr. Wann kann ich mit einer Antwort rechnen?", "english": "I really appreciate that. When can I expect an answer?"},
+                {"speaker": "You", "swissGerman": "Merci! Und hätt mer au d'Möglichkeit, die zusätzliche Verantwortig formell ii-z'trage?", "german": "Danke! Und hätte man auch die Möglichkeit, die zusätzliche Verantwortung formell einzutragen?", "english": "Thanks! And would it also be possible to formally document the additional responsibilities?"},
+                {"speaker": "Manager", "swissGerman": "Ja, das chämer bim nöie Vertrag inschliesse. Guete Punkt!", "german": "Ja, das können wir beim neuen Vertrag einschließen. Guter Punkt!", "english": "Yes, we can include that with the new contract. Good point!"},
                 {"speaker": "Manager", "swissGerman": "Ich dänke, innert zwöi Wuche chan ich dir öppis säge.", "german": "Ich denke, innerhalb von zwei Wochen kann ich dir etwas sagen.", "english": "I think I can tell you something within two weeks."},
             ],
             "differences": [
@@ -62,7 +64,8 @@ SUBTOPIC_HR_SALARY_TALK = {
                 {"speaker": "Boss", "swissGerman": "Oh nei, was hesch du?", "german": "Oh nein, was hast du?", "english": "Oh no, what do you have?"},
                 {"speaker": "You", "swissGerman": "Ich ha Chopfweh und Fieber. Ich cha hüt nöd cho.", "german": "Ich habe Kopfschmerzen und Fieber. Ich kann heute nicht kommen.", "english": "I have a headache and fever. I can't come today."},
                 {"speaker": "Boss", "swissGerman": "Kei Problem, kurier dich us. Bruchsch en Arztzüügnis?", "german": "Kein Problem, kurier dich aus. Brauchst du ein Arztzeugnis?", "english": "No problem, take care of yourself. Do you need a medical certificate?"},
-                {"speaker": "You", "swissGerman": "Weiss ich no nöd. Falls ich morn au nöd cha, gang ich zum Dokter.", "german": "Weiß ich noch nicht. Falls ich morgen auch nicht kann, gehe ich zum Arzt.", "english": "I don't know yet. If I can't tomorrow either, I'll go to the doctor."},
+                {"speaker": "You", "swissGerman": "Morn chani das nochi entscheide — und cha ich bis mittag Bescheid gäh?", "german": "Morgen kann ich das noch entscheiden — und kann ich bis Mittag Bescheid geben?", "english": "I can decide that tomorrow — and can I let you know by noon?"},
+                {"speaker": "Boss", "swissGerman": "Klar, kei Sträss. Hauptsach du erhoolsch dich. Schaff di ned ub!", "german": "Klar, kein Stress. Hauptsache du erholst dich. Streng dich nicht an!", "english": "Sure, no stress. The main thing is you recover. Don't push yourself!"},
                 {"speaker": "Boss", "swissGerman": "Guet, halt mich uf em Laufende. Gueti Besserig!", "german": "Gut, halt mich auf dem Laufenden. Gute Besserung!", "english": "Good, keep me posted. Get well soon!"},
             ],
             "differences": [
@@ -88,6 +91,8 @@ SUBTOPIC_HR_SALARY_TALK = {
                 {"speaker": "HR", "swissGerman": "Ja, mir händ en chliini Apassig vorgsee. Ich schicke Ihne de nöi Vertrag per Mail.", "german": "Ja, wir haben eine kleine Anpassung vorgesehen. Ich schicke Ihnen den neuen Vertrag per Mail.", "english": "Yes, we've planned a small adjustment. I'll send you the new contract by email."},
                 {"speaker": "You", "swissGerman": "Super, merci vilmal! Wie lang ha ich Ziit zum Unterschriibe?", "german": "Super, vielen Dank! Wie lang habe ich Zeit zum Unterschreiben?", "english": "Great, thank you very much! How long do I have to sign?"},
                 {"speaker": "HR", "swissGerman": "Nähmed Sie sich ruhig zwöi Wuche Ziit.", "german": "Nehmen Sie sich ruhig zwei Wochen Zeit.", "english": "Take your time, two weeks."},
+                {"speaker": "You", "swissGerman": "Und cha ich no Frage ha zum Vertrag, bvor ich unterschriib?", "german": "Und kann ich noch Fragen haben zum Vertrag, bevor ich unterschreibe?", "english": "And can I still ask questions about the contract before I sign?"},
+                {"speaker": "HR", "swissGerman": "Selbstverständlich! Rued mi direkt aa — mir kläred alles zfriede.", "german": "Selbstverständlich! Rufen Sie mich direkt an — wir klären alles zufriedenstellend.", "english": "Of course! Call me directly — we'll sort everything out satisfactorily."},
             ],
             "differences": [
                 {"swissGerman": "lauft...us", "german": "läuft...aus", "explanation": "'lauft us' = 'läuft aus'. No umlaut in Swiss German."},
@@ -113,6 +118,8 @@ SUBTOPIC_HR_SALARY_TALK = {
                 {"speaker": "HR", "swissGerman": "Genau, und die chönd flexibel innert sechs Mönet bezoge wärde.", "german": "Genau, und die können flexibel innerhalb von sechs Monaten bezogen werden.", "english": "Exactly, and they can be taken flexibly within six months."},
                 {"speaker": "You", "swissGerman": "Perfekt, ich fülle s'Formular us und bringe's Ihne.", "german": "Perfekt, ich fülle das Formular aus und bringe es Ihnen.", "english": "Perfect, I'll fill out the form and bring it to you."},
                 {"speaker": "HR", "swissGerman": "Super, und falls Sie Frage händ, mälded Sie sich jederziit.", "german": "Super, und falls Sie Fragen haben, melden Sie sich jederzeit.", "english": "Great, and if you have questions, contact us anytime."},
+                {"speaker": "You", "swissGerman": "Merci! Und die Abräkänig vom Mutterschaftsurlaub — isch die separat geregled?", "german": "Danke! Und die Abrechnung des Mutterschaftsurlaubs — ist die separat geregelt?", "english": "Thanks! And the calculation for maternity leave — is that regulated separately?"},
+                {"speaker": "HR", "swissGerman": "Ja, 80% vom Lohn über 14 Wuche, über d'Erwerbsersatzordnig. Ich schick Ihne en Merkblatt.", "german": "Ja, 80% des Lohns über 14 Wochen, über die Erwerbsersatzordnung. Ich schicke Ihnen ein Merkblatt.", "english": "Yes, 80% of salary over 14 weeks through the income compensation scheme. I'll send you a fact sheet."},
             ],
             "differences": [
                 {"swissGerman": "Chind chunnt", "german": "Kind kommt", "explanation": "Both words show K→Ch shift."},

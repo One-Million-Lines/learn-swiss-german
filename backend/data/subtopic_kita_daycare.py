@@ -16,6 +16,8 @@ SUBTOPIC_KITA_DAYCARE = {
                 {"speaker": "Betreuerin", "swissGerman": "Okay, denn isch sie villicht am Namittag chli müed. Mir luege druf.", "german": "Okay, dann ist sie vielleicht am Nachmittag etwas müde. Wir achten darauf.", "english": "Okay, then she might be a bit tired in the afternoon. We'll watch out for that."},
                 {"speaker": "You", "swissGerman": "Merci! Ich hol sie um Vieri ab. Tschüss, Lina, ha en schöne Tag!", "german": "Danke! Ich hole sie um vier ab. Tschüss, Lina, hab einen schönen Tag!", "english": "Thanks! I'll pick her up at four. Bye, Lina, have a nice day!"},
                 {"speaker": "Lina", "swissGerman": "Tschüss Papi!", "german": "Tschüss Papa!", "english": "Bye Daddy!"},
+                {"speaker": "Betreuerin", "swissGerman": "Hoi Lina! Chum, mir gönd alli i de Chreis und singe s'Morgelied.", "german": "Hallo Lina! Komm, wir gehen alle in den Kreis und singen das Morgenlied.", "english": "Hi Lina! Come, we all go in a circle and sing the morning song."},
+                {"speaker": "Lina", "swissGerman": "Ich kenn s'Lied! (singt) De Morge chunnt, de Morge chunnt...", "german": "Ich kenne das Lied! (singt) Der Morgen kommt, der Morgen kommt...", "english": "I know the song! (sings) The morning comes, the morning comes..."},
             ],
             "differences": [
                 {"swissGerman": "gfrüehtückt", "german": "gefrühstückt", "explanation": "'gfrüehtückt' = 'gefrühstückt'. 'ge-' → 'g-', Swiss pronunciation."},
@@ -41,6 +43,8 @@ SUBTOPIC_KITA_DAYCARE = {
                 {"speaker": "Betreuerin", "swissGerman": "Ja, s'Mittagässe hät sie guet möge. Suppe und Hörnli.", "german": "Ja, das Mittagessen hat sie gern gehabt. Suppe und Hörnli.", "english": "Yes, she liked lunch. Soup and Hörnli pasta."},
                 {"speaker": "You", "swissGerman": "Und de Mittagsschlaf?", "german": "Und der Mittagsschlaf?", "english": "And the afternoon nap?"},
                 {"speaker": "Betreuerin", "swissGerman": "Sie hät e Stund gschlofe. D'Ersatzchleider bruuched mir nöd, alles suuber!", "german": "Sie hat eine Stunde geschlafen. Die Ersatzkleidung brauchen wir nicht, alles sauber!", "english": "She slept for an hour. We don't need the spare clothes, everything clean!"},
+                {"speaker": "You", "swissGerman": "Wunderbarescht! Und hät si mit de andere Chind gspilt?", "german": "Wunderbar! Und hat sie mit den anderen Kindern gespielt?", "english": "Wonderful! And did she play with the other children?"},
+                {"speaker": "Betreuerin", "swissGerman": "Ja, vor allem mit de Sara. D'beide sind jetzt quasi beschte Fründ!", "german": "Ja, vor allem mit der Sara. Die beiden sind jetzt quasi beste Freundinnen!", "english": "Yes, especially with Sara. The two are now basically best friends!"},
             ],
             "differences": [
                 {"swissGerman": "gmålet", "german": "gemalt", "explanation": "'gmålet' = 'gemalt'. 'ge-' → 'g-', Swiss past participle."},
@@ -65,7 +69,9 @@ SUBTOPIC_KITA_DAYCARE = {
                 {"speaker": "Betreuerin", "swissGerman": "Sie händ sich um es Spielzüüg gstritte. D'Lina isch frustiert gsi.", "german": "Sie haben sich um ein Spielzeug gestritten. Lina war frustriert.", "english": "They were arguing over a toy. Lina was frustrated."},
                 {"speaker": "You", "swissGerman": "Das tuet mir leid. Mir rede dehei mit ihre drüber.", "german": "Das tut mir leid. Wir reden zu Hause mit ihr darüber.", "english": "I'm sorry. We'll talk to her about it at home."},
                 {"speaker": "Betreuerin", "swissGerman": "Mir übend mit de Chind, Wort statt Gwalt z'bruuche. Das isch normal i dem Alter.", "german": "Wir üben mit den Kindern, Worte statt Gewalt zu benutzen. Das ist normal in dem Alter.", "english": "We practice with the children to use words instead of force. It's normal at this age."},
-                {"speaker": "You", "swissGerman": "Danke für d'Info. Mir understütze das natürlich dehei au.", "german": "Danke für die Info. Wir unterstützen das natürlich zu Hause auch.", "english": "Thanks for the info. We'll support that at home too of course."},
+                {"speaker": "You", "swissGerman": "Danke für d'Info. Mir understütze das natürlich dehei au.", "german": "Danke für die Info. Wir unterstützen das natürlich zu Hause auch.", "english": "Thanks for the info. We’ll support that at home too of course."},
+                {"speaker": "Betreuerin", "swissGerman": "Und Lina selbst isch scho reumüetig — sie hät sich beim andere Chind entschuldigt.", "german": "Und Lina selbst ist schon reumütig — sie hat sich beim anderen Kind entschuldigt.", "english": "And Lina herself is already remorseful — she apologized to the other child."},
+                {"speaker": "You", "swissGerman": "Das isch guet z'höre. Mir rede dehei drüber und loben si für d'Entschuldigung.", "german": "Das ist gut zu hören. Wir reden zu Hause darüber und loben sie für die Entschuldigung.", "english": "That's good to hear. We'll talk at home and praise her for the apology."},
             ],
             "differences": [
                 {"swissGerman": "bisse", "german": "gebissen", "explanation": "'bisse' = 'gebissen'. Swiss past participle."},
@@ -91,6 +97,8 @@ SUBTOPIC_KITA_DAYCARE = {
                 {"speaker": "Kita-Leiterin", "swissGerman": "Bi eus choscht en ganze Tag 120 Franke, mit Mittagässe. Mir händ no Plätz am Mäntig, Mittwuch und Fritig.", "german": "Bei uns kostet ein ganzer Tag 120 Franken, mit Mittagessen. Wir haben noch Plätze am Montag, Mittwoch und Freitag.", "english": "With us a full day costs 120 francs, including lunch. We have spots on Monday, Wednesday and Friday."},
                 {"speaker": "You", "swissGerman": "Das passt! Gits au Iigwöhnigstäg?", "german": "Das passt! Gibt es auch Eingewöhnungstage?", "english": "That works! Are there settling-in days?"},
                 {"speaker": "Kita-Leiterin", "swissGerman": "Ja, mir mached zwöi Wuche Iigwöhnig. D'Eltere chömed am Afang mit.", "german": "Ja, wir machen zwei Wochen Eingewöhnung. Die Eltern kommen am Anfang mit.", "english": "Yes, we do two weeks of settling in. The parents come along at the beginning."},
+                {"speaker": "You", "swissGerman": "Und wie vell Chind sind in de Gruppe? Es isch wichtig, dass's persönlich blibt.", "german": "Und wie viele Kinder sind in der Gruppe? Es ist wichtig, dass es persönlich bleibt.", "english": "And how many children are in the group? It's important that it stays personal."},
+                {"speaker": "Kita-Leiterin", "swissGerman": "Maximal zwölf Chind pro Gruppe, mit zwei Betreuerinä. Mir legänd Wert druf.", "german": "Maximal zwölf Kinder pro Gruppe, mit zwei Betreuerinnen. Uns ist das wichtig.", "english": "Maximum twelve children per group, with two caregivers. That's important to us."},
             ],
             "differences": [
                 {"swissGerman": "Plätz", "german": "Plätze", "explanation": "'Plätz' = 'Plätze'. Dropped '-e'."},
@@ -116,6 +124,8 @@ SUBTOPIC_KITA_DAYCARE = {
                 {"speaker": "You", "swissGerman": "Okay. Und d'Sunnecreme? Morn soll's warm wärde.", "german": "Okay. Und die Sonnencreme? Morgen soll es warm werden.", "english": "Okay. And the sunscreen? Tomorrow is supposed to be warm."},
                 {"speaker": "Partner", "swissGerman": "Guet dänkt! Und de Rägehut, falls es am Namittag rägnet.", "german": "Gut gedacht! Und den Regenhut, falls es am Nachmittag regnet.", "english": "Good thinking! And the rain hat, in case it rains in the afternoon."},
                 {"speaker": "You", "swissGerman": "So, alles parat. Wundle sind au dinne.", "german": "So, alles bereit. Windeln sind auch drin.", "english": "There, all ready. Diapers are in there too."},
+                {"speaker": "Partner", "swissGerman": "Und de Schnuller? S'letscht Mol hät sie ohnä gschriie.", "german": "Und der Schnuller? Letztes Mal hat sie ohne geweint.", "english": "And the pacifier? Last time she cried without it."},
+                {"speaker": "You", "swissGerman": "Stimmt! Da isch er. Jetzt wirklich alles. Guete Morge morn!", "german": "Stimmt! Da ist er. Jetzt wirklich alles. Guten Morgen morgen!", "english": "True! Here it is. Now really everything. Good morning tomorrow!"},
             ],
             "differences": [
                 {"swissGerman": "iipacke", "german": "einpacken", "explanation": "'iipacke' = 'einpacken'. 'Ein-' → 'Ii-'."},

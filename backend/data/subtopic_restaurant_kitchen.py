@@ -16,6 +16,8 @@ SUBTOPIC_RESTAURANT_KITCHEN = {
                 {"speaker": "You", "swissGerman": "Okay, ich fang grad aa. Häts gnueg Rüebli?", "german": "Okay, ich fange gleich an. Gibt es genug Karotten?", "english": "Okay, I'll start right away. Are there enough carrots?"},
                 {"speaker": "Head Chef", "swissGerman": "Ja, im Chüelschrank. Und d'Zwiibele sind im Lager.", "german": "Ja, im Kühlschrank. Und die Zwiebeln sind im Lager.", "english": "Yes, in the fridge. And the onions are in the storage room."},
                 {"speaker": "You", "swissGerman": "Bin scho underwegs!", "german": "Bin schon unterwegs!", "english": "Already on it!"},
+                {"speaker": "Head Chef", "swissGerman": "Guet. Und wenn du fertig bisch mit em Gmüeh, mach d'Salaatsauce. Olivenol und Zitrone isch drin.", "german": "Gut. Und wenn du fertig bist mit dem Gemüse, mach die Salatsauce. Olivenöl und Zitrone ist drin.", "english": "Good. And when you're done with the vegetables, make the salad dressing. Olive oil and lemon are in there."},
+                {"speaker": "You", "swissGerman": "Und Senf au? Mir händ geschter no Dijonsenf gha.", "german": "Und Senf auch? Wir hatten gestern noch Dijonsenf.", "english": "And mustard too? We still had Dijon mustard yesterday."},
             ],
             "differences": [
                 {"swissGerman": "Reservatione", "german": "Reservierungen", "explanation": "'-ungen' → '-one' pattern in some Swiss dialects."},
@@ -42,6 +44,8 @@ SUBTOPIC_RESTAURANT_KITCHEN = {
                 {"speaker": "You", "swissGerman": "Okay, ohni Rahm. Isch in zehn Minute parat.", "german": "Okay, ohne Rahm. Ist in zehn Minuten fertig.", "english": "Okay, no cream. Ready in ten minutes."},
                 {"speaker": "Waiter", "swissGerman": "Merci! Und Tisch füüf wottet no Dessert, d'Charte bitte.", "german": "Danke! Und Tisch fünf möchte noch Dessert, die Karte bitte.", "english": "Thanks! And table five wants dessert, the menu please."},
                 {"speaker": "You", "swissGerman": "D'Dessert-Charte liegt bim Pass. Nimm si mit!", "german": "Die Dessertkarte liegt beim Pass. Nimm sie mit!", "english": "The dessert menu is at the pass. Take it!"},
+                {"speaker": "Waiter", "swissGerman": "Merci! Und Tisch siibe fragt ob mir au Glacewafflä händ.", "german": "Danke! Und Tisch sieben fragt, ob wir auch Eis-Waffeln haben.", "english": "Thanks! And table seven asks if we also have ice cream wafers."},
+                {"speaker": "You", "swissGerman": "Nei, das sch in de Charte, aber mir händ hut nur Coupe Daniäl äs Dessert.", "german": "Nein, das steht in der Karte, aber wir haben heute nur Coupe Daniel als Dessert.", "english": "No, that's in the menu, but today we only have Coupe Daniel as dessert."},
             ],
             "differences": [
                 {"swissGerman": "Bstellig", "german": "Bestellung", "explanation": "'Bstellig' = 'Bestellung'. Shortened prefix, '-ung' → '-ig'."},
@@ -67,6 +71,8 @@ SUBTOPIC_RESTAURANT_KITCHEN = {
                 {"speaker": "Head Chef", "swissGerman": "Drü Minute für s'Entrecôte. Tisch zwöi cha scho use!", "german": "Drei Minuten für das Entrecôte. Tisch zwei kann schon raus!", "english": "Three minutes for the entrecôte. Table two can go out!"},
                 {"speaker": "You", "swissGerman": "Vorspiise Tisch zwei: parat! Ufe Pass!", "german": "Vorspeise Tisch zwei: fertig! Auf den Pass!", "english": "Starter table two: ready! On the pass!"},
                 {"speaker": "Head Chef", "swissGerman": "Sauber! Wiiter so, mir schaffed das!", "german": "Sauber! Weiter so, wir schaffen das!", "english": "Clean! Keep it up, we've got this!"},
+                {"speaker": "You", "swissGerman": "Tisch driet isch au parat. D'Salate are bereit zum Service!", "german": "Tisch drei ist auch fertig. Die Salate sind bereit zum Service!", "english": "Table three is ready too. The salads are ready for service!"},
+                {"speaker": "Head Chef", "swissGerman": "Top! Ich ruf wenn Tisch vier chunnt. Bliib konzentriert!", "german": "Top! Ich rufe wenn Tisch vier kommt. Bleib konzentriert!", "english": "Top! I'll call when table four comes. Stay focused!"},
             ],
             "differences": [
                 {"swissGerman": "Vorspiise", "german": "Vorspeisen", "explanation": "'Vorspiise' = 'Vorspeisen'. Vowel shift."},
@@ -92,6 +98,8 @@ SUBTOPIC_RESTAURANT_KITCHEN = {
                 {"speaker": "You", "swissGerman": "Söllemer de Risotto mit Parmesan oder mit Sbrinz mache?", "german": "Sollen wir den Risotto mit Parmesan oder mit Sbrinz machen?", "english": "Should we make the risotto with Parmesan or Sbrinz?"},
                 {"speaker": "Head Chef", "swissGerman": "Sbrinz natürlich! Mir sind i de Schwiiz, mir nähmed Schwiizer Chäs!", "german": "Sbrinz natürlich! Wir sind in der Schweiz, wir nehmen Schweizer Käse!", "english": "Sbrinz of course! We're in Switzerland, we use Swiss cheese!"},
                 {"speaker": "You", "swissGerman": "Haha, klar! Ich bstell grad de Sbrinz und d'Spargle bim Liferant.", "german": "Haha, klar! Ich bestelle gleich den Sbrinz und den Spargel beim Lieferanten.", "english": "Haha, right! I'll order the Sbrinz and asparagus from the supplier right away."},
+                {"speaker": "Head Chef", "swissGerman": "Und sag dem Liferant, mirs wend nur Inland-Spargle. Chasch das erwenne?", "german": "Und sag dem Lieferanten, wir wollen nur Inland-Spargel. Kannst du das erwähnen?", "english": "And tell the supplier, we want only domestic asparagus. Can you mention that?"},
+                {"speaker": "You", "swissGerman": "Selbstverständlich. Ich merk's mir. Schwiizer Spargle wenn mögliich.", "german": "Selbstverständlich. Ich merke es mir. Schweizer Spargel wenn möglich.", "english": "Of course. I'll note it. Swiss asparagus when possible."},
             ],
             "differences": [
                 {"swissGerman": "Wuchemenü", "german": "Wochenmenü", "explanation": "'Wuche-' = 'Wochen-'."},
@@ -117,6 +125,8 @@ SUBTOPIC_RESTAURANT_KITCHEN = {
                 {"speaker": "Head Chef", "swissGerman": "Guet. Und vergässed nöd de Bode z'wüsche!", "german": "Gut. Und vergesst nicht den Boden zu wischen!", "english": "Good. And don't forget to mop the floor!"},
                 {"speaker": "You", "swissGerman": "Mach ich. In zwänzg Minute isch alles blitzblank.", "german": "Mach ich. In zwanzig Minuten ist alles blitzsauber.", "english": "Will do. In twenty minutes everything will be spotless."},
                 {"speaker": "Head Chef", "swissGerman": "Merci Lüüt, gueti Arbeit hüt! Schöne Fiirig.", "german": "Danke Leute, gute Arbeit heute! Schönen Feierabend.", "english": "Thanks everyone, good work today! Have a nice evening."},
+                {"speaker": "You", "swissGerman": "Dir au! Mir händ wirklich top teamwork hüt.", "german": "Ihnen auch! Wir hatten wirklich top Teamwork heute.", "english": "You too! We really had top teamwork today."},
+                {"speaker": "Colleague", "swissGerman": "Jaja, und d'Reservatione vom Wuchenend sind au scho voll. Wird weder strässig!", "german": "Jaja, und die Reservierungen vom Wochenende sind auch schon voll. Wird wieder stressig!", "english": "Yes yes, and the weekend reservations are already full. It'll be stressful again!"},
             ],
             "differences": [
                 {"swissGerman": "suuber", "german": "sauber", "explanation": "'suuber' = 'sauber'. Vowel doubling."},

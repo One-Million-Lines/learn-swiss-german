@@ -15,6 +15,8 @@ SUBTOPIC_FAMILY_MEALS = {
                 {"speaker": "You", "swissGerman": "Ja, aber pass uf, s'Wasser isch heiss! Und vergiss s'Salz nöd.", "german": "Ja, aber pass auf, das Wasser ist heiß! Und vergiss das Salz nicht.", "english": "Yes, but be careful, the water is hot! And don't forget the salt."},
                 {"speaker": "Child", "swissGerman": "Wie viel Salz?", "german": "Wie viel Salz?", "english": "How much salt?"},
                 {"speaker": "You", "swissGerman": "En Esslöffel. Und jetzt rüehrsch s'Ghackti i de Pfanne.", "german": "Einen Esslöffel. Und jetzt rührst du das Hackfleisch in der Pfanne.", "english": "A tablespoon. And now you stir the mince in the pan."},
+                {"speaker": "Child", "swissGerman": "Dörf ich au d'Zwiible iirue? Mini Gotte macht das immer!", "german": "Darf ich auch die Zwiebeln einrühren? Meine Gotte macht das immer!", "english": "Can I also stir in the onions? My godmother always does that!"},
+                {"speaker": "You", "swissGerman": "Ja, aber pass uf — die Pfanne isch heiss. Ich halt dini Hand.", "german": "Ja, aber pass auf — die Pfanne ist heiß. Ich halte deine Hand.", "english": "Yes, but be careful — the pan is hot. I'll guide your hand."},
                 {"speaker": "Child", "swissGerman": "Mmh, das schmöckt scho fein! Und de Öpfelmuus dezue?", "german": "Mmh, das riecht schon lecker! Und das Apfelmus dazu?", "english": "Mmh, it smells delicious! And applesauce with it?"},
             ],
             "differences": [
@@ -40,6 +42,8 @@ SUBTOPIC_FAMILY_MEALS = {
                 {"speaker": "You", "swissGerman": "Vier. Und Gable, Mässer und Löffel für jede.", "german": "Vier. Und Gabeln, Messer und Löffel für jeden.", "english": "Four. And forks, knives and spoons for everyone."},
                 {"speaker": "Child", "swissGerman": "Und Gläser?", "german": "Und Gläser?", "english": "And glasses?"},
                 {"speaker": "You", "swissGerman": "Ja, und füll bitte d'Wasserchrueg. Us em Hahne, nöd us de Fläsche.", "german": "Ja, und füll bitte den Wasserkrug. Aus dem Hahn, nicht aus der Flasche.", "english": "Yes, and please fill the water jug. From the tap, not from the bottle."},
+                {"speaker": "Child", "swissGerman": "Und de Kerze? Mir hend doch Kerze uf em Tisch!", "german": "Und die Kerze? Wir haben doch Kerzen auf dem Tisch!", "english": "And the candles? We do have candles on the table!"},
+                {"speaker": "You", "swissGerman": "Stimmt! Du darfsch die azünde — ich gib dir s'Fiiüürzüüg.", "german": "Stimmt! Du darfst die anzünden — ich gebe dir das Feuerzeug.", "english": "True! You can light them — I'll give you the lighter."},
                 {"speaker": "Child", "swissGerman": "Fertig! De Tisch isch deckt! Chömer ässe?", "german": "Fertig! Der Tisch ist gedeckt! Können wir essen?", "english": "Done! The table is set! Can we eat?"},
             ],
             "differences": [
@@ -66,6 +70,8 @@ SUBTOPIC_FAMILY_MEALS = {
                 {"speaker": "Child", "swissGerman": "Hmm... Okay, eis chliis... (isst) Isch nöd SO schlächt.", "german": "Hmm... Okay, ein kleines... (isst) Ist nicht SO schlecht.", "english": "Hmm... Okay, one small one... (eats) It's not THAT bad."},
                 {"speaker": "You", "swissGerman": "Gsesch! Iss no zwöi und denn chasch du Dessert ha.", "german": "Siehst du! Iss noch zwei und dann kannst du Dessert haben.", "english": "See! Eat two more and then you can have dessert."},
                 {"speaker": "Child", "swissGerman": "Was gits als Dessert?", "german": "Was gibt es als Dessert?", "english": "What's for dessert?"},
+                {"speaker": "You", "swissGerman": "Vanilleglace us em Coop. Aber zerscht müend alli drii Stückli Broccoli gässe wärde.", "german": "Vanilleeis aus dem Coop. Aber zuerst müssen alle drei Stückchen Broccoli gegessen werden.", "english": "Vanilla ice cream from Coop. But first all three pieces of broccoli need to be eaten."},
+                {"speaker": "Child", "swissGerman": "(isst de letzt Stückli) Fertig! Ich ha's gässe! Jetzt d'Glace!", "german": "(isst das letzte Stückchen) Fertig! Ich hab's gegessen! Jetzt das Eis!", "english": "(eats the last piece) Done! I ate it! Now the ice cream!"},
             ],
             "differences": [
                 {"swissGerman": "Gmües", "german": "Gemüse", "explanation": "'Gmües' = 'Gemüse'. 'Ge-' → 'G-'."},
@@ -90,6 +96,8 @@ SUBTOPIC_FAMILY_MEALS = {
                 {"speaker": "Partner", "swissGerman": "Ja, Erdbeer-Konfi und Honig. Und Birchermüesli für d'Chind.", "german": "Ja, Erdbeer-Konfitüre und Honig. Und Birchermüsli für die Kinder.", "english": "Yes, strawberry jam and honey. And Birchermuesli for the kids."},
                 {"speaker": "Child", "swissGerman": "Ich wott Zopf mit Nutella!", "german": "Ich will Zopf mit Nutella!", "english": "I want Zopf with Nutella!"},
                 {"speaker": "You", "swissGerman": "Am Sunntig isch das okay. Und trinkst es Glas Orangesaft?", "german": "Am Sonntag ist das okay. Und trinkst du ein Glas Orangensaft?", "english": "On Sunday that's okay. And will you drink a glass of orange juice?"},
+                {"speaker": "Child", "swissGerman": "Ja! Und darf ich de Zopf am Tisch iipackle?", "german": "Ja! Und darf ich den Zopf am Tisch auseinanderrupfen?", "english": "Yes! And can I tear the Zopf apart at the table?"},
+                {"speaker": "Partner", "swissGerman": "Klar, das ghört dözue! De Zopf reisst mer us de Hand, nöd mit em Mässer.", "german": "Klar, das gehört dazu! Den Zopf reißt man mit der Hand, nicht mit dem Messer.", "english": "Of course, that's part of it! You tear Zopf with your hands, not with a knife."},
                 {"speaker": "Partner", "swissGerman": "Schöne Sunntig-Morge. Ohni Stress, eifach gnüüsse.", "german": "Schöner Sonntagmorgen. Ohne Stress, einfach genießen.", "english": "Nice Sunday morning. No stress, just enjoy."},
             ],
             "differences": [
@@ -115,6 +123,8 @@ SUBTOPIC_FAMILY_MEALS = {
                 {"speaker": "Child", "swissGerman": "Ja! Raclette isch s'bescht Ässe! Chasch du mir e Pfännli mache?", "german": "Ja! Raclette ist das beste Essen! Kannst du mir ein Pfännchen machen?", "english": "Yes! Raclette is the best food! Can you make me a small pan?"},
                 {"speaker": "You", "swissGerman": "Klar! Chäs druf, Schinkli dezue und ab uf de Ofe.", "german": "Klar! Käse drauf, Schinken dazu und ab auf den Ofen.", "english": "Sure! Cheese on, ham in, and onto the grill."},
                 {"speaker": "Child", "swissGerman": "Wie lang muess es bruuche?", "german": "Wie lange muss es brauchen?", "english": "How long does it need?"},
+                {"speaker": "You", "swissGerman": "Öppe drei bis fünf Minute. Du gsehsch's wänn de Chäs blaset.", "german": "Etwa drei bis fünf Minuten. Du siehst es wenn der Käse Blasen wirft.", "english": "About three to five minutes. You'll see it when the cheese bubbles."},
+                {"speaker": "Child", "swissGerman": "Mega! Ich well de mit em meischte Chäs!", "german": "Mega! Ich will den mit dem meisten Käse!", "english": "Brilliant! I want the one with the most cheese!"},
                 {"speaker": "Partner", "swissGerman": "Bis de Chäs schön gschmolze isch. So, und jetzt En Guete!", "german": "Bis der Käse schön geschmolzen ist. So, und jetzt Guten Appetit!", "english": "Until the cheese is nicely melted. Alright, and now bon appétit!"},
             ],
             "differences": [

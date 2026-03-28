@@ -16,6 +16,8 @@ SUBTOPIC_SCHULREISE = {
                 {"speaker": "You", "swissGerman": "Ich mach dir es Sandwich mit Chäs und en Öpfel.", "german": "Ich mache dir ein Sandwich mit Käse und einen Apfel.", "english": "I'll make you a cheese sandwich and an apple."},
                 {"speaker": "Child", "swissGerman": "Und chan ich Schöggeli mitnäh? Bitte!", "german": "Und kann ich Schokolade mitnehmen? Bitte!", "english": "And can I bring chocolate? Please!"},
                 {"speaker": "You", "swissGerman": "Guet, aber nur eis Stück. Und vergiss d'Trinkfläsche nöd!", "german": "Gut, aber nur ein Stück. Und vergiss die Trinkflasche nicht!", "english": "Fine, but only one piece. And don't forget the water bottle!"},
+                {"speaker": "Child", "swissGerman": "Weisch wo d'Trinkfläsche isch? Ich find sie nid.", "german": "Weisst du wo die Trinkflasche ist? Ich finde sie nicht.", "english": "Do you know where the water bottle is? I can't find it."},
+                {"speaker": "You", "swissGerman": "Im Bad, bim Waschbecki. Ich füll sie dir uf.", "german": "Im Bad, beim Waschbecken. Ich fülle sie dir auf.", "english": "In the bathroom, by the sink. I'll fill it up for you."},
             ],
             "differences": [
                 {"swissGerman": "Schulreis", "german": "Schulreise", "explanation": "'Schulreis' = 'Schulreise'. Dropped '-e'."},
@@ -41,6 +43,8 @@ SUBTOPIC_SCHULREISE = {
                 {"speaker": "Child 2", "swissGerman": "Lueg! De Zürisee! De isch mega schön!", "german": "Schau! Der Zürichsee! Der ist mega schön!", "english": "Look! Lake Zurich! It's so beautiful!"},
                 {"speaker": "Lehrer", "swissGerman": "In zwänzg Minute stiiged mir us. Alli Sache zsämpacke!", "german": "In zwanzig Minuten steigen wir aus. Alle Sachen zusammenpacken!", "english": "In twenty minutes we get off. Pack everything together!"},
                 {"speaker": "Child", "swissGerman": "Isch s'Billett im GA drin oder bruuched mir es extra?", "german": "Ist das Ticket im GA drin oder brauchen wir ein Extra?", "english": "Is the ticket included in the GA or do we need an extra one?"},
+                {"speaker": "Lehrer", "swissGerman": "D'Schuel zahlt d'Billett hüt. Ihr brüched nix sälber.", "german": "Die Schule zahlt die Tickets heute. Ihr braucht nichts selbst.", "english": "The school pays for the tickets today. You don't need to pay anything."},
+                {"speaker": "Child", "swissGerman": "Jess, super! Und chani mi am Fänschter fotografiere mit em See hinterem?", "german": "Jess, super! Und kann ich mich am Fenster fotografieren mit dem See im Hintergrund?", "english": "Yay, great! And can I take a photo at the window with the lake in the background?"},
             ],
             "differences": [
                 {"swissGerman": "iistiige", "german": "einsteigen", "explanation": "'iistiige' = 'einsteigen'. 'Ein-' → 'Ii-'."},
@@ -66,6 +70,8 @@ SUBTOPIC_SCHULREISE = {
                 {"speaker": "Child 2", "swissGerman": "Ich ha Durscht! Chömer e Pause mache?", "german": "Ich habe Durst! Können wir eine Pause machen?", "english": "I'm thirsty! Can we take a break?"},
                 {"speaker": "Lehrer", "swissGerman": "Ja, bim nöchste Brunne mached mir Znüni-Pause.", "german": "Ja, beim nächsten Brunnen machen wir Znüni-Pause.", "english": "Yes, at the next fountain we'll have our snack break."},
                 {"speaker": "Child", "swissGerman": "Yesss! Ich ha Guetzli und Dörrfleisch mitgnoh!", "german": "Yesss! Ich habe Kekse und Trockenfleisch mitgenommen!", "english": "Yesss! I brought cookies and dried meat!"},
+                {"speaker": "Lehrer", "swissGerman": "Sehr guet! Aber first: Znüni-Pause, dänn weiter wandere.", "german": "Sehr gut! Aber erst: Znüni-Pause, dann weiter wandern.", "english": "Very good! But first: snack break, then continue hiking."},
+                {"speaker": "Child 2", "swissGerman": "Chani au nochmal vo de Tryuuke trinke? Mini Fläsche isch scho halb läär.", "german": "Kann ich auch nochmal vom Brunnen trinken? Meine Flasche ist schon halb leer.", "english": "Can I also drink from the fountain again? My bottle is already half empty."},
             ],
             "differences": [
                 {"swissGerman": "Wanderig", "german": "Wanderung", "explanation": "'Wanderig' = 'Wanderung'. '-ung' → '-ig'."},
@@ -91,6 +97,8 @@ SUBTOPIC_SCHULREISE = {
                 {"speaker": "Child", "swissGerman": "Mmmh, fein! Lueg, me gseht vo do de Säntis!", "german": "Mmmh, lecker! Schau, man sieht von hier den Säntis!", "english": "Mmmh, delicious! Look, you can see the Säntis from here!"},
                 {"speaker": "Lehrer", "swissGerman": "Und bitte de Abfall isamle! Mir lönd nüt ligge.", "german": "Und bitte den Abfall einsammeln! Wir lassen nichts liegen.", "english": "And please collect the rubbish! We don't leave anything behind."},
                 {"speaker": "Child", "swissGerman": "Ja, alles i de Abfallsack!", "german": "Ja, alles in den Abfallsack!", "english": "Yes, everything in the trash bag!"},
+                {"speaker": "Lehrer", "swissGerman": "Und lueg mol ob mir no Platz für e Klassefoto händ — mit em Säntis im Hintergrund!", "german": "Und schau mal ob wir noch Platz für ein Klassenfoto haben — mit dem Säntis im Hintergrund!", "english": "And let's see if we have room for a class photo — with the Säntis in the background!"},
+                {"speaker": "Child", "swissGerman": "Jaaaa! Ich stell mich vorne hii! Ich bi de kläänschte!", "german": "Jaaaa! Ich stelle mich vorne hin! Ich bin der Kleinste!", "english": "Yesss! I'll stand at the front! I'm the smallest!"},
             ],
             "differences": [
                 {"swissGerman": "fein", "german": "lecker", "explanation": "'fein' = 'lecker'. Swiss word for delicious."},
@@ -116,6 +124,8 @@ SUBTOPIC_SCHULREISE = {
                 {"speaker": "Child", "swissGerman": "Ja! De Tim hät sin ganze Rucksack volle Süessigkeite gha!", "german": "Ja! Tim hatte seinen ganzen Rucksack voller Süßigkeiten!", "english": "Yes! Tim had his whole backpack full of sweets!"},
                 {"speaker": "You", "swissGerman": "Häsch du Föteli gmacht? Zeig mol!", "german": "Hast du Fotos gemacht? Zeig mal!", "english": "Did you take photos? Show me!"},
                 {"speaker": "Child", "swissGerman": "Ja, lueg! Do isch eusi Chlass uf em Gipfel. Und do isch de Lehrer wo gfalleisch.", "german": "Ja, schau! Hier ist unsere Klasse auf dem Gipfel. Und hier ist der Lehrer der hingefallen ist.", "english": "Yes, look! Here's our class on the summit. And here's the teacher who fell."},
+                {"speaker": "You", "swissGerman": "Haha! De arme Lehrer! Isch er okay gsi?", "german": "Haha! Der arme Lehrer! Ist er okay gewesen?", "english": "Haha! The poor teacher! Was he okay?"},
+                {"speaker": "Child", "swissGerman": "Ja, er het nur chli glachet und isch sofort wider ufgstande.", "german": "Ja, er hat nur kurz gelacht und ist sofort wieder aufgestanden.", "english": "Yes, he just laughed briefly and got right back up."},
             ],
             "differences": [
                 {"swissGerman": "gwanderet", "german": "gewandert", "explanation": "'gwanderet' = 'gewandert'. Swiss past participle."},

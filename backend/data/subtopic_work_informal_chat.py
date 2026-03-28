@@ -15,6 +15,8 @@ SUBTOPIC_WORK_INFORMAL_CHAT = {
                 {"speaker": "You", "swissGerman": "Au guet. Hesch scho en Kafi gha?", "german": "Auch gut. Hattest du schon einen Kaffee?", "english": "Also good. Have you had a coffee yet?"},
                 {"speaker": "Colleague", "swissGerman": "Nei, no nöd. Ich bruuche jetzt dringend eine!", "german": "Nein, noch nicht. Ich brauche jetzt dringend einen!", "english": "No, not yet. I urgently need one now!"},
                 {"speaker": "You", "swissGerman": "Soll ich dir au eine mache?", "german": "Soll ich dir auch einen machen?", "english": "Shall I make you one too?"},
+                {"speaker": "You", "swissGerman": "Hesch scho s'Protokoll vo de Sitzig vo gestern gläse?", "german": "Hast du schon das Protokoll von der gestrigen Sitzung gelesen?", "english": "Did you already read the minutes from yesterday's meeting?"},
+                {"speaker": "Colleague", "swissGerman": "Nei, no nöd. Isch da öppis Wichtigs drin?", "german": "Nein, noch nicht. Ist da etwas Wichtiges drin?", "english": "No, not yet. Is there something important in it?"},
                 {"speaker": "Colleague", "swissGerman": "Ja bitte, mega nett! Mit Milch, ohni Zucker.", "german": "Ja bitte, mega nett! Mit Milch, ohne Zucker.", "english": "Yes please, super nice! With milk, no sugar."},
             ],
             "differences": [
@@ -39,6 +41,8 @@ SUBTOPIC_WORK_INFORMAL_CHAT = {
                 {"speaker": "You", "swissGerman": "Ja gern! Wänn gönd ihr?", "german": "Ja gern! Wann geht ihr?", "english": "Yes gladly! When are you going?"},
                 {"speaker": "Colleague 1", "swissGerman": "So in zehn Minute. Ich muess no schnell öppis fertig mache.", "german": "So in zehn Minuten. Ich muss noch schnell etwas fertig machen.", "english": "In about ten minutes. I need to quickly finish something."},
                 {"speaker": "You", "swissGerman": "Passt! Ich warte bi mir am Pult.", "german": "Passt! Ich warte bei mir am Schreibtisch.", "english": "Works! I'll wait at my desk."},
+                {"speaker": "You", "swissGerman": "Soll ich de anderen au Bescheid gäh? Lena und Sandro sind no drhinde.", "german": "Soll ich den anderen auch Bescheid geben? Lena und Sandro sind noch drin.", "english": "Should I also let the others know? Lena and Sandro are still in."},
+                {"speaker": "Colleague 1", "swissGerman": "Ja, schriib kurz im Teams-Chat. Die chönd denn direkt cho.", "german": "Ja, schreib kurz im Teams-Chat. Die können dann direkt kommen.", "english": "Yes, write quickly in the Teams chat. They can then come directly."},
                 {"speaker": "Colleague 1", "swissGerman": "Guet, ich chlöpfe nachher.", "german": "Gut, ich klopfe nachher.", "english": "Good, I'll knock later."},
             ],
             "differences": [
@@ -64,6 +68,8 @@ SUBTOPIC_WORK_INFORMAL_CHAT = {
                 {"speaker": "You", "swissGerman": "Ich ha chönne usgschlaafe, das isch au schön gsi.", "german": "Ich konnte ausschlafen, das war auch schön.", "english": "I got to sleep in, that was also nice."},
                 {"speaker": "Colleague", "swissGerman": "Tönt guet! Übrigens, wämmer hüt zäme go zmittag?", "german": "Klingt gut! Übrigens, wollen wir heute zusammen Mittag essen gehen?", "english": "Sounds good! By the way, shall we go for lunch together today?"},
                 {"speaker": "You", "swissGerman": "Ja gern! Wämmer uf de Thai oder uf de Italiäner?", "german": "Ja gern! Wollen wir zum Thai oder zum Italiener?", "english": "Yes gladly! Shall we go to the Thai or the Italian?"},
+                {"speaker": "You", "swissGerman": "Isch de Thai am Stadelhofen oder näbem Hauptbahnhof?", "german": "Ist das Thai am Stadelhofen oder beim Hauptbahnhof?", "english": "Is the Thai place at Stadelhofen or near the main station?"},
+                {"speaker": "Colleague", "swissGerman": "Am Stadelhofen, grad bim Usgang. S'isch en paar Minute z'Fuess.", "german": "Am Stadelhofen, direkt beim Ausgang. Es sind ein paar Minuten zu Fuß.", "english": "At Stadelhofen, right at the exit. It's a few minutes on foot."},
                 {"speaker": "Colleague", "swissGerman": "De Thai! Sägemer um zwölfi?", "german": "Der Thai! Sagen wir um zwölf?", "english": "The Thai! Shall we say twelve?"},
             ],
             "differences": [
@@ -88,6 +94,8 @@ SUBTOPIC_WORK_INFORMAL_CHAT = {
                 {"speaker": "Colleague", "swissGerman": "Ich au nöd. De Chef hät viel z'schnäll gredt.", "german": "Ich auch nicht. Der Chef hat viel zu schnell geredet.", "english": "Me neither. The boss talked way too fast."},
                 {"speaker": "You", "swissGerman": "Mir sötted eus nomal zämesitze und das dureluege.", "german": "Wir sollten uns nochmal zusammensetzen und das durchgehen.", "english": "We should sit down again and go through it."},
                 {"speaker": "Colleague", "swissGerman": "Gueti Idee. Wie wär's morn am Morge?", "german": "Gute Idee. Wie wäre es morgen früh?", "english": "Good idea. How about tomorrow morning?"},
+                {"speaker": "You", "swissGerman": "Und de Sitzigsruum — muess ich de im Kalender blocke oder direkt buche?", "german": "Und den Sitzungsraum — muss ich den im Kalender blockieren oder direkt buchen?", "english": "And the meeting room — do I block it in the calendar or book it directly?"},
+                {"speaker": "Colleague", "swissGerman": "Buech direkt iiber s'Outlook-Raum-System. Sunst isch er weg bis am Morge.", "german": "Buche direkt über das Outlook-Raum-System. Sonst ist er weg bis morgen.", "english": "Book directly through the Outlook room system. Otherwise it's gone by morning."},
                 {"speaker": "You", "swissGerman": "Passt! Ich buche de Sitzigsruum. Bringe dini Notiize mit.", "german": "Passt! Ich buche den Sitzungsraum. Bring deine Notizen mit.", "english": "Works! I'll book the meeting room. Bring your notes."},
             ],
             "differences": [
@@ -114,6 +122,8 @@ SUBTOPIC_WORK_INFORMAL_CHAT = {
                 {"speaker": "You", "swissGerman": "Merci! Bisch du morn au da?", "german": "Danke! Bist du morgen auch da?", "english": "Thanks! Are you also here tomorrow?"},
                 {"speaker": "Colleague", "swissGerman": "Nei, ich schaffe morn im Homeoffice.", "german": "Nein, ich arbeite morgen im Homeoffice.", "english": "No, I'm working from home tomorrow."},
                 {"speaker": "You", "swissGerman": "Okay, denn gsehmer eus am Donschtig!", "german": "Okay, dann sehen wir uns am Donnerstag!", "english": "Okay, then we'll see each other Thursday!"},
+                {"speaker": "You", "swissGerman": "Ich wott no schnell min Pult uufruume bevor ich gang.", "german": "Ich will noch schnell meinen Schreibtisch aufräumen bevor ich gehe.", "english": "I want to quickly tidy my desk before I leave."},
+                {"speaker": "Colleague", "swissGerman": "Ja, tue das! De Raumpfläger chunnt hüt Aabig no — isch schöner wenns ufgruumt isch.", "german": "Ja, tu das! Der Reinigungsdienst kommt heute Abend noch — ist schöner wenn es aufgeräumt ist.", "english": "Yes, do that! The cleaning staff are coming tonight — it's nicer when it's tidy."},
                 {"speaker": "Colleague", "swissGerman": "Genau! Bis Donschtig, tschau!", "german": "Genau! Bis Donnerstag, tschüss!", "english": "Exactly! See you Thursday, bye!"},
             ],
             "differences": [

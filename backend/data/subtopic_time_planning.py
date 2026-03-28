@@ -15,6 +15,7 @@ SUBTOPIC_TIME_PLANNING = {
                 {"speaker": "You", "swissGerman": "Oh, scho Viertel ab Drüü? Denn muess ich mich beeile!", "german": "Oh, schon Viertel nach drei? Dann muss ich mich beeilen!", "english": "Oh, already quarter past three? Then I have to hurry!"},
                 {"speaker": "Person", "swissGerman": "Händ Sie en Termin?", "german": "Haben Sie einen Termin?", "english": "Do you have an appointment?"},
                 {"speaker": "You", "swissGerman": "Ja, um Halbi Vieri. Und ich wäiss nöd genau wo.", "german": "Ja, um halb vier. Und ich weiß nicht genau wo.", "english": "Yes, at half past three. And I don't know exactly where."},
+                {"speaker": "You", "swissGerman": "S'isch i de Bahnhofstrass — aber ich wäiss nöd ob näger bim Paradeplatz oder Rennwäg.", "german": "Es ist in der Bahnhofstrasse — aber ich weiß nicht ob näher beim Paradeplatz oder Rennweg.", "english": "It's on Bahnhofstrasse — but I don't know if closer to Paradeplatz or Rennweg."},
                 {"speaker": "Person", "swissGerman": "Denn vill Glück! Sie schaffed das scho.", "german": "Dann viel Glück! Sie schaffen das schon.", "english": "Good luck then! You'll make it."},
             ],
             "differences": [
@@ -40,6 +41,7 @@ SUBTOPIC_TIME_PLANNING = {
                 {"speaker": "You", "swissGerman": "Und am Sunntig? Händ d'Lääde offe?", "german": "Und am Sonntag? Haben die Läden offen?", "english": "And on Sunday? Are the shops open?"},
                 {"speaker": "Person", "swissGerman": "Nei, am Sunntig isch alles zue. Usser am Bahnhof — deet händ d'Lääde bis am Nüüni offe.", "german": "Nein, am Sonntag ist alles zu. Außer am Bahnhof — dort haben die Läden bis um neun offen.", "english": "No, on Sunday everything is closed. Except at the train station — there the shops are open until nine."},
                 {"speaker": "You", "swissGerman": "Ah, das isch guet z'wüsse. Und de Coiffeur?", "german": "Ah, das ist gut zu wissen. Und der Friseur?", "english": "Ah, that's good to know. And the hairdresser?"},
+                {"speaker": "You", "swissGerman": "Ich mein de Coiffeur an de Münstergass — isch dr da au bechannt?", "german": "Ich meine den Coiffeur an der Münstergasse — kennst du den auch?", "english": "I mean the hairdresser on Münstergasse — do you know them too?"},
                 {"speaker": "Person", "swissGerman": "De hät am Mäntig zue. Sunscht vo Nüüni bis Sächsi.", "german": "Der hat am Montag zu. Sonst von neun bis sechs.", "english": "They're closed Monday. Otherwise nine to six."},
             ],
             "differences": [
@@ -65,6 +67,7 @@ SUBTOPIC_TIME_PLANNING = {
                 {"speaker": "Friend", "swissGerman": "Und am Namittag? Häsch Ziit für en Kafi?", "german": "Und am Nachmittag? Hast du Zeit für einen Kaffee?", "english": "And in the afternoon? Do you have time for a coffee?"},
                 {"speaker": "You", "swissGerman": "Ab Zwöi gaat's. Säged mir... am Drüü im Kafi Sprüngli?", "german": "Ab zwei geht's. Sagen wir... um drei im Café Sprüngli?", "english": "From two onwards. Let's say... at three at Café Sprüngli?"},
                 {"speaker": "Friend", "swissGerman": "Perfekt! Und am Aabig gömmer denn go ässe?", "german": "Perfekt! Und am Abend gehen wir dann essen?", "english": "Perfect! And in the evening we'll go eat?"},
+                {"speaker": "You", "swissGerman": "Was hältsch vo de Wirtschaft Neumarkt? Tisch am Hof, gueter Wii, Röschti — perfekt!", "german": "Was hältst du von der Wirtschaft Neumarkt? Tisch im Hof, guter Wein, Rösti — perfekt!", "english": "What do you think of Wirtschaft Neumarkt? Table in the courtyard, good wine, rösti — perfect!"},
                 {"speaker": "You", "swissGerman": "Ja, aber nöd z'spaat. Ich muess morn früe uuf.", "german": "Ja, aber nicht zu spät. Ich muss morgen früh auf.", "english": "Yes, but not too late. I have to get up early tomorrow."},
             ],
             "differences": [
@@ -90,6 +93,7 @@ SUBTOPIC_TIME_PLANNING = {
                 {"speaker": "You", "swissGerman": "Ah! Und wie lang gaat er?", "german": "Ah! Und wie lange geht er?", "english": "Ah! And how long does it go?"},
                 {"speaker": "Employee", "swissGerman": "Anderthalb Stund. Also bis um Achti.", "german": "Anderthalb Stunden. Also bis um acht.", "english": "An hour and a half. So until eight."},
                 {"speaker": "You", "swissGerman": "Und isch er jedi Wuche?", "german": "Und ist er jede Woche?", "english": "And is it every week?"},
+                {"speaker": "You", "swissGerman": "Und i de Zürcher Früehlingsferie falt er au uus, oder?", "german": "Und in den Zürcher Frühlingsferien fällt er auch aus, oder?", "english": "And during Zurich spring holidays it's cancelled too, right?"},
                 {"speaker": "Employee", "swissGerman": "Ja, jede Mäntig und Mittwuch. Usser i de Feriewuche.", "german": "Ja, jeden Montag und Mittwoch. Außer in den Ferienwochen.", "english": "Yes, every Monday and Wednesday. Except during holiday weeks."},
             ],
             "differences": [
@@ -115,6 +119,7 @@ SUBTOPIC_TIME_PLANNING = {
                 {"speaker": "You", "swissGerman": "Wänn fangt de Film aa, scho gwüsst?", "german": "Wann fängt der Film an, schon gewusst?", "english": "When does the movie start, do you know?"},
                 {"speaker": "Friend", "swissGerman": "Um Achti. Aber mir sötted um Viertel vor Achti deet si.", "german": "Um acht. Aber wir sollten um Viertel vor acht dort sein.", "english": "At eight. But we should be there by quarter to eight."},
                 {"speaker": "You", "swissGerman": "Luut SBB-App isch de Zug pünktlich. Mir schaffed das!", "german": "Laut SBB-App ist der Zug pünktlich. Wir schaffen das!", "english": "According to the SBB app the train is on time. We'll make it!"},
+                {"speaker": "Friend", "swissGerman": "Und bim Kino hämmers ja scho reserviert — kei Wart i de Schlagä am Schalter!", "german": "Und beim Kino haben wir es ja schon reserviert — keine Warteschlange am Schalter!", "english": "And at the cinema we already reserved — no queue at the counter!"},
                 {"speaker": "Friend", "swissGerman": "Guet, denn gömmer!", "german": "Gut, dann gehen wir!", "english": "Good, let's go!"},
             ],
             "differences": [

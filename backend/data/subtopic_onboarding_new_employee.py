@@ -15,6 +15,8 @@ SUBTOPIC_ONBOARDING_NEW_EMPLOYEE = {
                 {"speaker": "You", "swissGerman": "Das isch ganz normal am erschte Tag. Ich zeig dir alles.", "german": "Das ist ganz normal am ersten Tag. Ich zeige dir alles.", "english": "That's totally normal on the first day. I'll show you everything."},
                 {"speaker": "New Colleague", "swissGerman": "Super, das isch mega lieb vo dir.", "german": "Super, das ist mega lieb von dir.", "english": "Great, that's really nice of you."},
                 {"speaker": "You", "swissGerman": "Da isch dis Pult, und da drübe isch d'Chuchi zum Kafi mache.", "german": "Da ist dein Schreibtisch, und da drüben ist die Küche zum Kaffee machen.", "english": "Here's your desk, and over there is the kitchen for making coffee."},
+                {"speaker": "New Colleague", "swissGerman": "Händ ihr au en Kafiautomat oder nur en Filter?", "german": "Habt ihr auch einen Kaffeeautomaten oder nur einen Filterkaffee?", "english": "Do you also have a coffee machine or just filter coffee?"},
+                {"speaker": "You", "swissGerman": "Mir händ en Siemens Vollautomat — Espresso, Cappuccino, alles. S'Pulver isch im obere Schrank.", "german": "Wir haben einen Siemens Vollautomaten — Espresso, Cappuccino, alles. Das Pulver ist im oberen Schrank.", "english": "We have a Siemens fully automatic machine — espresso, cappuccino, everything. The powder is in the upper cupboard."},
                 {"speaker": "New Colleague", "swissGerman": "Perfekt, genau das Wichtigschte!", "german": "Perfekt, genau das Wichtigste!", "english": "Perfect, exactly the most important thing!"},
             ],
             "differences": [
@@ -40,6 +42,8 @@ SUBTOPIC_ONBOARDING_NEW_EMPLOYEE = {
                 {"speaker": "You", "swissGerman": "Normalerwiis en Stund. Mir gönd meistens zäme go ässe.", "german": "Normalerweise eine Stunde. Wir gehen meistens zusammen essen.", "english": "Usually one hour. We mostly go eat together."},
                 {"speaker": "New Colleague", "swissGerman": "Das tönt guet! Und wie isch's mit Home-Office?", "german": "Das klingt gut! Und wie ist es mit Home-Office?", "english": "That sounds great! And how about home office?"},
                 {"speaker": "You", "swissGerman": "Mer darf zwöi Täg pro Wuche vo dehei schaffe.", "german": "Man darf zwei Tage pro Woche von daheim arbeiten.", "english": "You're allowed to work from home two days per week."},
+                {"speaker": "New Colleague", "swissGerman": "Und isch es fix welchi Täg, oder chänn ich selber wähle?", "german": "Und sind es feste Tage, oder kann ich selbst auswählen?", "english": "And are they fixed days, or can I choose myself?"},
+                {"speaker": "You", "swissGerman": "Du chasch selber wähle, aber d'meischte säged's am Mäntig im Stand-up vorher.", "german": "Du kannst selbst wählen, aber die meisten sagen es montags im Stand-up vorher.", "english": "You can choose yourself, but most people say it at the Monday stand-up in advance."},
             ],
             "differences": [
                 {"swissGerman": "Gliitiziit", "german": "Gleitzeit", "explanation": "'Gliitiziit' = 'Gleitzeit'. Vowel doubling."},
@@ -64,6 +68,8 @@ SUBTOPIC_ONBOARDING_NEW_EMPLOYEE = {
                 {"speaker": "Colleague 2", "swissGerman": "Und ich bi d'Sarah, Product Management. Falls du Frage hesch, frag eifach!", "german": "Und ich bin Sarah, Product Management. Falls du Fragen hast, frag einfach!", "english": "And I'm Sarah, Product Management. If you have questions, just ask!"},
                 {"speaker": "New Colleague", "swissGerman": "Merci, das isch mega nett vo euch alle!", "german": "Danke, das ist mega nett von euch allen!", "english": "Thanks, that's really nice of all of you!"},
                 {"speaker": "You", "swissGerman": "Am Friitig mached mir immer en Apéro. Da lernsch du alli besser kenne.", "german": "Am Freitag machen wir immer einen Apéro. Da lernst du alle besser kennen.", "english": "On Friday we always do drinks. That's where you'll get to know everyone better."},
+                {"speaker": "New Colleague", "swissGerman": "Mega super! Isch das im Büro oder gönd ihr go us?", "german": "Mega super! Ist das im Büro oder geht ihr aus?", "english": "Really great! Is that in the office or do you go out?"},
+                {"speaker": "You", "swissGerman": "Meischtens im Büro, uf de Terrasse. Aber im Summer gönd mir mängisch zur Limmat.", "german": "Meistens im Büro, auf der Terrasse. Aber im Sommer gehen wir manchmal zur Limmat.", "english": "Mostly in the office, on the terrace. But in summer we sometimes go to the Limmat."},
             ],
             "differences": [
                 {"swissGerman": "Lüüt", "german": "Leute", "explanation": "'Lüüt' = 'Leute'. Vowel shift."},
@@ -89,6 +95,8 @@ SUBTOPIC_ONBOARDING_NEW_EMPLOYEE = {
                 {"speaker": "New Colleague", "swissGerman": "Und wo findi d'Dokumente?", "german": "Und wo finde ich die Dokumente?", "english": "And where do I find the documents?"},
                 {"speaker": "You", "swissGerman": "Alles isch uf SharePoint. Ich schicke dir de Link per Mail.", "german": "Alles ist auf SharePoint. Ich schicke dir den Link per Mail.", "english": "Everything is on SharePoint. I'll send you the link by email."},
                 {"speaker": "New Colleague", "swissGerman": "Merci, du bisch en mega guete Guide!", "german": "Danke, du bist ein mega guter Guide!", "english": "Thanks, you're an awesome guide!"},
+                {"speaker": "You", "swissGerman": "Gern! Und mir händ au en interens Wiki — da isch alles dokuäntiert was mir bruuched.", "german": "Gerne! Und wir haben auch ein internes Wiki — da ist alles dokumentiert was wir brauchen.", "english": "Happy to! And we also have an internal wiki — everything we need is documented there."},
+                {"speaker": "New Colleague", "swissGerman": "Super, das spar mir viel Zyt. Ich lueg's am Nomittag aa!", "german": "Super, das spart mir viel Zeit. Ich schaue es am Nachmittag an!", "english": "Great, that saves me a lot of time. I'll look at it this afternoon!"},
             ],
             "differences": [
                 {"swissGerman": "bruuched", "german": "benutzen", "explanation": "'bruuche' = 'benutzen/brauchen'. Swiss German uses this for 'to use'."},
@@ -113,6 +121,8 @@ SUBTOPIC_ONBOARDING_NEW_EMPLOYEE = {
                 {"speaker": "You", "swissGerman": "Nei, nur föif Minute z'Fuess.", "german": "Nein, nur fünf Minuten zu Fuß.", "english": "No, only five minutes on foot."},
                 {"speaker": "New Colleague", "swissGerman": "Perfekt. Was isch dört guet?", "german": "Perfekt. Was ist dort gut?", "english": "Perfect. What's good there?"},
                 {"speaker": "You", "swissGerman": "D'Pizza isch super und de Zmittagsmenu isch günstig.", "german": "Die Pizza ist super und das Mittagsmenü ist günstig.", "english": "The pizza is great and the lunch menu is affordable."},
+                {"speaker": "New Colleague", "swissGerman": "Wie töör ich zahle? Jede für sich oder git's en gemeinsame Bon?", "german": "Wie zahlen wir? Jeder für sich oder gibt es einen gemeinsamen Bon?", "english": "How do we pay? Each for themselves or is there a shared bill?"},
+                {"speaker": "You", "swissGerman": "Jede zahlt s'eige, aber mir sämmled mangen e Rundi für alle — Rotationssystem!", "german": "Jeder zahlt sein eigenes, aber manchmal reihum eine Runde für alle — Rotationssystem!", "english": "Everyone pays their own, but sometimes we do a round for all — rotation system!"},
                 {"speaker": "New Colleague", "swissGerman": "Klingt perfekt! Mir gönd!", "german": "Klingt perfekt! Lass uns gehen!", "english": "Sounds perfect! Let's go!"},
             ],
             "differences": [

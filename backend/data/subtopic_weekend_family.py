@@ -15,6 +15,8 @@ SUBTOPIC_WEEKEND_FAMILY = {
                 {"speaker": "Child", "swissGerman": "Und am Sunntig? Chömer en Usflug mache? Bitte!", "german": "Und am Sonntag? Können wir einen Ausflug machen? Bitte!", "english": "And on Sunday? Can we go on an outing? Please!"},
                 {"speaker": "You", "swissGerman": "Gueti Idee! Mir chöntid uf de Uetliberg wandere.", "german": "Gute Idee! Wir könnten auf den Uetliberg wandern.", "english": "Good idea! We could hike up the Uetliberg."},
                 {"speaker": "Partner", "swissGerman": "Oder mir gönd is Technorama. D'Chind liebed das.", "german": "Oder wir gehen ins Technorama. Die Kinder lieben das.", "english": "Or we go to the Technorama. The kids love it."},
+                {"speaker": "You", "swissGerman": "Isch s'Technorama wiiit? Fahre mir mit em Auto oder mit em Zug?", "german": "Ist das Technorama weit? Fahren wir mit dem Auto oder mit dem Zug?", "english": "Is the Technorama far? Do we drive or take the train?"},
+                {"speaker": "Partner", "swissGerman": "Mit em Zug isch am bäschte — mir chönd s'Halbtax bruuche und sparred Parkigsgäld.", "german": "Mit dem Zug ist am besten — wir können das Halbtax benutzen und sparen Parkgebühren.", "english": "Train is best — we can use the Halbtax and save on parking fees."},
                 {"speaker": "Child", "swissGerman": "Technorama! Technorama! Biiitte!", "german": "Technorama! Technorama! Biiitte!", "english": "Technorama! Technorama! Pleease!"},
             ],
             "differences": [
@@ -40,6 +42,8 @@ SUBTOPIC_WEEKEND_FAMILY = {
                 {"speaker": "Child", "swissGerman": "Chömer au Glacé chaufe? Bitte Mami!", "german": "Können wir auch Eis kaufen? Bitte Mama!", "english": "Can we also buy ice cream? Please Mom!"},
                 {"speaker": "You", "swissGerman": "Okay, aber nur eis. Und du hilfsch bim Träge.", "german": "Okay, aber nur eins. Und du hilfst beim Tragen.", "english": "Okay, but only one. And you help carry."},
                 {"speaker": "Partner", "swissGerman": "Bruuchts no Chäs? Und ich glaub mir händ kei Eier meh.", "german": "Brauchen wir noch Käse? Und ich glaube wir haben keine Eier mehr.", "english": "Do we need cheese? And I think we're out of eggs."},
+                {"speaker": "You", "swissGerman": "Chasch au de Cumulus-Charte scannen? Mir sammled Punkt.", "german": "Kannst du auch die Cumulus-Karte scannen? Wir sammeln Punkte.", "english": "Can you also scan the Cumulus card? We collect points."},
+                {"speaker": "Partner", "swissGerman": "Ja, ich ha sie im Natel. Ich scan sie bim Bezahle.", "german": "Ja, ich habe sie im Handy. Ich scanne sie beim Bezahlen.", "english": "Yes, I have it on my phone. I'll scan it at checkout."},
                 {"speaker": "You", "swissGerman": "Stimmt! Und Wöschpulver bruuchts au. Los, mir müend vor em Mittag fertig si.", "german": "Stimmt! Und Waschpulver brauchen wir auch. Los, wir müssen vor Mittag fertig sein.", "english": "Right! And we need laundry detergent too. Let's go, we need to be done before noon."},
             ],
             "differences": [
@@ -65,6 +69,8 @@ SUBTOPIC_WEEKEND_FAMILY = {
                 {"speaker": "You", "swissGerman": "Ja, mir fahred mit de Bahn uuf und mit de Gondel abe.", "german": "Ja, wir fahren mit der Bahn hoch und mit der Gondel runter.", "english": "Yes, we take the train up and the gondola down."},
                 {"speaker": "Partner", "swissGerman": "Häsch d'Halbtax-Aabo mitgnoh? Und d'Junior-Charte für d'Chind?", "german": "Hast du das Halbtax-Abo mitgenommen? Und die Junior-Karte für die Kinder?", "english": "Did you bring the Halbtax card? And the Junior card for the kids?"},
                 {"speaker": "You", "swissGerman": "Ja, alles debii. Uf em Gipfel gits es Restaurant — mir chönd dört zmittag ässe.", "german": "Ja, alles dabei. Auf dem Gipfel gibt es ein Restaurant — wir können dort zu Mittag essen.", "english": "Yes, everything with us. There's a restaurant on the summit — we can have lunch there."},
+                {"speaker": "Child", "swissGerman": "Lueg! D'Chüe händ Glogge um de Hals — isch das nöd z'lut für sie?", "german": "Schau! Die Kühe haben Glocken um den Hals — ist das nicht zu laut für sie?", "english": "Look! The cows have bells around their necks — isn't that too loud for them?"},
+                {"speaker": "You", "swissGerman": "Es isch Tradition — d'Bauere chönd so d'Chüe im Nebel finde. Das nennt me d'Alpfahrt.", "german": "Es ist Tradition — die Bauern können so die Kühe im Nebel finden. Das nennt man die Alpfahrt.", "english": "It's tradition — the farmers can find the cows in the fog. That's called the Alpfahrt."},
                 {"speaker": "Child", "swissGerman": "Lueg, d'Alpe! Und Chüe! Die händ Glogge um de Hals!", "german": "Schau, die Alpen! Und Kühe! Die haben Glocken um den Hals!", "english": "Look, the Alps! And cows! They have bells around their necks!"},
             ],
             "differences": [
@@ -90,6 +96,8 @@ SUBTOPIC_WEEKEND_FAMILY = {
                 {"speaker": "You", "swissGerman": "Mir chönd es Puzzle mache. Oder es Spiel spile.", "german": "Wir können ein Puzzle machen. Oder ein Spiel spielen.", "english": "We can do a puzzle. Or play a game."},
                 {"speaker": "Child", "swissGerman": "Eile mit Weile! Das isch mis Lieblings-Brettspiel!", "german": "Eile mit Weile! Das ist mein Lieblings-Brettspiel!", "english": "Eile mit Weile! That's my favorite board game!"},
                 {"speaker": "Partner", "swissGerman": "Guet! Und ich mach eus en warme Schoggi.", "german": "Gut! Und ich mache uns eine warme Schokolade.", "english": "Good! And I'll make us a hot chocolate."},
+                {"speaker": "Child", "swissGerman": "Chöme mir spöter no en Film luege? Ich wott Heidi!", "german": "Können wir später noch einen Film schauen? Ich will Heidi!", "english": "Can we watch a movie later? I want Heidi!"},
+                {"speaker": "You", "swissGerman": "Ja, guet! Aber zerscht müend alli hälfe ufruume. Denn cuschelt mir eus uf de Sofa.", "german": "Ja, gut! Aber zuerst müssen alle helfen aufzuräumen. Dann kuscheln wir uns aufs Sofa.", "english": "Yes, good! But first everyone has to help tidy up. Then we snuggle on the sofa."},
                 {"speaker": "You", "swissGerman": "Perfekt! Es gmüetlichs Samstig-Namittag. Ich lieb das.", "german": "Perfekt! Ein gemütlicher Samstagnachmittag. Ich liebe das.", "english": "Perfect! A cozy Saturday afternoon. I love this."},
             ],
             "differences": [
@@ -115,6 +123,8 @@ SUBTOPIC_WEEKEND_FAMILY = {
                 {"speaker": "You", "swissGerman": "Ja, und Hüener und Schwii. Und mir chönd au Eier chaufe.", "german": "Ja, und Hühner und Schweine. Und wir können auch Eier kaufen.", "english": "Yes, and chickens and pigs. And we can buy eggs too."},
                 {"speaker": "Partner", "swissGerman": "D'Büüri hät letscht Mal gsäit sie hät au sälber gmachte Chäs und Konfi.", "german": "Die Bäuerin hat letztes Mal gesagt sie hat auch selbstgemachten Käse und Konfitüre.", "english": "The farmer's wife said last time she also has homemade cheese and jam."},
                 {"speaker": "Child", "swissGerman": "Und chani uf em Traktor sitze? Das isch so cool!", "german": "Und kann ich auf dem Traktor sitzen? Das ist so cool!", "english": "And can I sit on the tractor? That's so cool!"},
+                {"speaker": "You", "swissGerman": "Und kaufe mir au no öppis vom Hof? D'Büüri hät sicher frische Chäs.", "german": "Und kaufen wir auch noch etwas vom Hof? Die Bäuerin hat sicher frischen Käse.", "english": "And shall we also buy something from the farm? The farmer's wife surely has fresh cheese."},
+                {"speaker": "Partner", "swissGerman": "Ja, und Apfelsaft direkt vom Bure! Das isch vill besser als im Läde.", "german": "Ja, und Apfelsaft direkt vom Bauern! Das ist viel besser als im Laden.", "english": "Yes, and apple juice directly from the farmer! That's much better than from the shop."},
                 {"speaker": "You", "swissGerman": "Mir frööged de Buur. Vilicht laat er dich sogar mitfahre!", "german": "Wir fragen den Bauern. Vielleicht lässt er dich sogar mitfahren!", "english": "We'll ask the farmer. Maybe he'll even let you ride along!"},
             ],
             "differences": [

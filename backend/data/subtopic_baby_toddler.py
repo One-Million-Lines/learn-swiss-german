@@ -15,6 +15,8 @@ SUBTOPIC_BABY_TODDLER = {
                 {"speaker": "You", "swissGerman": "Er isch erst elf Mönet alt! Das isch früech, oder?", "german": "Er ist erst elf Monate alt! Das ist früh, oder?", "english": "He's only eleven months old! That's early, right?"},
                 {"speaker": "Partner", "swissGerman": "Ja scho! Mini Schwöschter hät erst mit vierzäh Mönet aagfange.", "german": "Ja schon! Meine Schwester hat erst mit vierzehn Monaten angefangen.", "english": "Yes! My sister only started at fourteen months."},
                 {"speaker": "You", "swissGerman": "Jetzt müemer alles absichere. Er gaht überall ane!", "german": "Jetzt müssen wir alles absichern. Er geht überall hin!", "english": "Now we need to childproof everything. He goes everywhere!"},
+                {"speaker": "Partner", "swissGerman": "Und d'Schubladen! Er hät hüt scho die Töpfe use gezoge.", "german": "Und die Schubladen! Er hat heute schon die Töpfe rausgezogen.", "english": "And the drawers! He already pulled out the pots today."},
+                {"speaker": "You", "swissGerman": "Echt jetzt?! Ich lueg hüt no in Baumarkt für Sicherigshake.", "german": "Echt jetzt?! Ich schaue heute noch im Baumarkt nach Sicherheitshaken.", "english": "Seriously?! I'll check the hardware store for safety hooks today."},
                 {"speaker": "Partner", "swissGerman": "Stimmt! D'Steckdose und d'Treppe zerscht.", "german": "Stimmt! Die Steckdosen und die Treppe zuerst.", "english": "True! The outlets and stairs first."},
             ],
             "differences": [
@@ -40,6 +42,8 @@ SUBTOPIC_BABY_TODDLER = {
                 {"speaker": "You", "swissGerman": "Okay... Mmm, lueg, fein! ... Oh nei, er spuckt alles use!", "german": "Okay... Mmm, schau, lecker! ... Oh nein, er spuckt alles raus!", "english": "Okay... Mmm, look, yummy! ... Oh no, he's spitting everything out!"},
                 {"speaker": "Partner", "swissGerman": "Haha! Probier's mit em Löffel-Flugzüüg. Brrrr, de Flieger chunnt!", "german": "Haha! Versuch's mit dem Löffel-Flugzeug. Brrrr, der Flieger kommt!", "english": "Haha! Try the spoon airplane. Brrrr, the plane is coming!"},
                 {"speaker": "You", "swissGerman": "Ha! Das funktioniert! Er macht de Mund uf!", "german": "Ha! Das funktioniert! Er macht den Mund auf!", "english": "Ha! That works! He's opening his mouth!"},
+                {"speaker": "Partner", "swissGerman": "Noch zwei Löffel und er isch fertig — oh nei, jetzt isch de Brei a de Wand!", "german": "Noch zwei Löffel und er ist fertig — oh nein, jetzt ist der Brei an der Wand!", "english": "Two more spoonfuls and he's done — oh no, now the puree is on the wall!"},
+                {"speaker": "You", "swissGerman": "Haha! Typisch Liam. Ich putz's nachher — kein Stress.", "german": "Haha! Typisch Liam. Ich putze es später — kein Stress.", "english": "Haha! Typical Liam. I'll clean it later — no stress."},
                 {"speaker": "Partner", "swissGerman": "Nachher gits no es Fläschli Milch und denn ab is Bettli.", "german": "Nachher gibt's noch ein Fläschchen Milch und dann ab ins Bett.", "english": "After that a bottle of milk and then off to bed."},
             ],
             "differences": [
@@ -66,6 +70,8 @@ SUBTOPIC_BABY_TODDLER = {
                 {"speaker": "You", "swissGerman": "Er isch chli schüüch. Meistens bruucht er es paar Minute.", "german": "Er ist ein bisschen schüchtern. Meistens braucht er ein paar Minuten.", "english": "He's a bit shy. He usually needs a few minutes."},
                 {"speaker": "Leader", "swissGerman": "Kei Problem! D'anderi Chind sind au da. Er gwöhnt sich schnäll.", "german": "Kein Problem! Die anderen Kinder sind auch da. Er gewöhnt sich schnell.", "english": "No problem! The other children are here too. He'll get used to it quickly."},
                 {"speaker": "You", "swissGerman": "Söll ich bliibe oder chan ich gah?", "german": "Soll ich bleiben oder kann ich gehen?", "english": "Should I stay or can I go?"},
+                {"speaker": "Leader", "swissGerman": "Sie chönd ruhig gah. Mir rüefed Sie aa wenn öppis isch. Normalerwiis goht's prima.", "german": "Sie können ruhig gehen. Wir rufen Sie an wenn etwas ist. Normalerweise läuft es prima.", "english": "You can go without worry. We'll call if anything comes up. It normally goes great."},
+                {"speaker": "You", "swissGerman": "Merci. Denn bis um zwölfi — und tschüss, Liam!", "german": "Danke. Dann bis zwölf Uhr — und tschüss, Liam!", "english": "Thanks. Then see you at twelve — and bye, Liam!"},
             ],
             "differences": [
                 {"swissGerman": "Spielgruppe", "german": "Spielgruppe", "explanation": "Same word: Swiss playgroup for pre-kindergarten kids."},
@@ -91,6 +97,8 @@ SUBTOPIC_BABY_TODDLER = {
                 {"speaker": "You", "swissGerman": "Im Wickeltäsche. Und nimm au d'Wundcreme mit.", "german": "In der Wickeltasche. Und nimm auch die Wundcreme mit.", "english": "In the changing bag. And take the diaper cream too."},
                 {"speaker": "Partner", "swissGerman": "So, chumm Liam, mir gönd dini Wundle wächsle.", "german": "So, komm Liam, wir gehen deine Windel wechseln.", "english": "Alright, come Liam, let's change your diaper."},
                 {"speaker": "You", "swissGerman": "Und mach au s'Fenster uf! Haha!", "german": "Und mach auch das Fenster auf! Haha!", "english": "And open the window! Haha!"},
+                {"speaker": "Partner", "swissGerman": "Ha... okay, jetzt weiss ich wieso mir d'Wundcreme wiirklich bruuched!", "german": "Ha... okay, jetzt weiß ich warum wir die Wundcreme wirklich brauchen!", "english": "Ha... okay, now I know why we really need the diaper cream!"},
+                {"speaker": "You", "swissGerman": "Willkomme im Elternlebe! Mir sind jetzt offizielle Expärtä.", "german": "Willkommen im Elternleben! Wir sind jetzt offizielle Experten.", "english": "Welcome to parenthood! We're officially experts now."},
             ],
             "differences": [
                 {"swissGerman": "Wundle", "german": "Windel", "explanation": "'Wundle' = 'Windel'. Swiss plural form."},
@@ -116,6 +124,8 @@ SUBTOPIC_BABY_TODDLER = {
                 {"speaker": "Toddler", "swissGerman": "De Bär! De Bär!", "german": "Den Bären! Den Bären!", "english": "The bear! The bear!"},
                 {"speaker": "You", "swissGerman": "Okay, eini Gschicht, denn Liecht us. Abgmacht?", "german": "Okay, eine Geschichte, dann Licht aus. Abgemacht?", "english": "Okay, one story, then lights out. Deal?"},
                 {"speaker": "Toddler", "swissGerman": "Zwöi Gschichte!", "german": "Zwei Geschichten!", "english": "Two stories!"},
+                {"speaker": "You", "swissGerman": "Eine — und wenn du guet schlafsch, darf de Bär morn wider cho.", "german": "Eine — und wenn du gut schläfst, darf der Bär morgen wieder kommen.", "english": "One — and if you sleep well, the bear can come back tomorrow."},
+                {"speaker": "Toddler", "swissGerman": "Okaaay... Bär!", "german": "Okaaay... Bär!", "english": "Okaaay... Bear!"},
             ],
             "differences": [
                 {"swissGerman": "Buechli", "german": "Büchlein", "explanation": "'Buechli' = 'Büchlein'. '-lein' → '-li'."},

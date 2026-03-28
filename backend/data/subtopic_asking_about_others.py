@@ -16,6 +16,8 @@ SUBTOPIC_ASKING_ABOUT_OTHERS = {
                 {"speaker": "Person", "swissGerman": "D'dritti Klass. Drüssg Chind. Isch mega astrengend, aber ich liebis.", "german": "Die dritte Klasse. Dreißig Kinder. Ist mega anstrengend, aber ich liebe es.", "english": "Third grade. Thirty kids. Super exhausting, but I love it."},
                 {"speaker": "You", "swissGerman": "Drüssg Chind! Respäkt! Und wie lang machsch das scho?", "german": "Dreißig Kinder! Respekt! Und wie lange machst du das schon?", "english": "Thirty kids! Respect! And how long have you been doing that?"},
                 {"speaker": "Person", "swissGerman": "Sit acht Johr. Ich chönnt mir nüüt anders vorstelle.", "german": "Seit acht Jahren. Ich könnte mir nichts anderes vorstellen.", "english": "For eight years. I couldn't imagine anything else."},
+                {"speaker": "You", "swissGerman": "Das merkt mer! Du schyynsch wirklich en Bäruefig z'si.", "german": "Das merkt man! Du scheinst wirklich eine Berufung zu haben.", "english": "You can tell! You seem to have a real calling for it."},
+                {"speaker": "Person", "swissGerman": "Ha ja, d'Chind gänd eim vill Energie. Wenn de guet Tag isch, natürlich!", "german": "Ja, die Kinder geben einem viel Energie. Wenn es ein guter Tag ist, natürlich!", "english": "Yes, the kids give you a lot of energy. On a good day, of course!"},
             ],
             "differences": [
                 {"swissGerman": "underrichtisch", "german": "unterrichtest", "explanation": "'underrichtisch' = 'unterrichtest'. Swiss conjugation."},
@@ -41,6 +43,8 @@ SUBTOPIC_ASKING_ABOUT_OTHERS = {
                 {"speaker": "Person", "swissGerman": "Echt? Die müend sich mol träffe! I weli Schuel gönd dini?", "german": "Echt? Die müssen sich mal treffen! In welche Schule gehen deine?", "english": "Really? They should meet sometime! Which school do yours go to?"},
                 {"speaker": "You", "swissGerman": "Id Primarschuel Utogrund. Und dini?", "german": "In die Primarschule Utogrund. Und deine?", "english": "Utogrund primary school. And yours?"},
                 {"speaker": "Person", "swissGerman": "Au! D'gliichi Schuel! De Jan und din elter — die chönted i de gliiche Klass si!", "german": "Auch! Die gleiche Schule! Jan und dein älterer — die könnten in der gleichen Klasse sein!", "english": "Same! The same school! Jan and your older one — they could be in the same class!"},
+                {"speaker": "You", "swissGerman": "Mir müend die Buebe unbedingt zäme bringe! Isch de Jan emol bi de Fräitage-Schuel?", "german": "Wir müssen die Jungs unbedingt zusammenbringen! Ist Jan manchmal bei der Freitagsschule?", "english": "We absolutely need to get the boys together! Is Jan ever at the Friday school?"},
+                {"speaker": "Person", "swissGerman": "Ja! Und du? Ich wättis mega gärn aarangle — tausch Si mir Numere??!", "german": "Ja! Und du? Ich würde es mega gerne arrangieren — tauschen wir Nummern?!", "english": "Yes! And you? I'd love to arrange it — shall we swap numbers?!"},
             ],
             "differences": [
                 {"swissGerman": "Buebe", "german": "Jungen", "explanation": "'Buebe' = 'Jungen'. Swiss word for boys."},
@@ -65,6 +69,8 @@ SUBTOPIC_ASKING_ABOUT_OTHERS = {
                 {"speaker": "You", "swissGerman": "Wow, echt? Bisch du mol uf de Matterhorn gsi?", "german": "Wow, echt? Warst du mal auf dem Matterhorn?", "english": "Wow, really? Have you ever been up the Matterhorn?"},
                 {"speaker": "Person", "swissGerman": "Haha nöd ganz! Aber uf de Titlis und s'Breithorn scho.", "german": "Haha nicht ganz! Aber auf den Titlis und das Breithorn schon.", "english": "Haha not quite! But on the Titlis and the Breithorn, yes."},
                 {"speaker": "You", "swissGerman": "Krass! Das wär au mol öppis für mich. Muesch du fit si defür?", "german": "Krass! Das wäre auch mal etwas für mich. Muss man fit sein dafür?", "english": "Cool! That'd be something for me too. Do you need to be fit for it?"},
+                {"speaker": "Person", "swissGerman": "Und wo machsch du meischtens Toure? I de Zentralschwiiz?", "german": "Und wo machst du meistens Touren? In der Zentralschweiz?", "english": "And where do you usually do tours? In central Switzerland?"},
+                {"speaker": "You", "swissGerman": "Öfters ja, aber ich gah au ins Bärner Oberland. D'Gegend isch eifach beeindruckend.", "german": "Öfters ja, aber ich gehe auch ins Berner Oberland. Die Gegend ist einfach beeindruckend.", "english": "Often yes, but I also go to the Bernese Oberland. The scenery is simply breathtaking."},
                 {"speaker": "Person", "swissGerman": "Chli scho. Aber es git Toure für jedes Niveau. Ich nimm dich gärn mol mit!", "german": "Ein bisschen schon. Aber es gibt Touren für jedes Niveau. Ich nehme dich gerne mal mit!", "english": "A bit yeah. But there are tours for every level. I'd love to take you along!"},
             ],
             "differences": [
@@ -90,6 +96,8 @@ SUBTOPIC_ASKING_ABOUT_OTHERS = {
                 {"speaker": "You", "swissGerman": "Ah, so isch das! Und bisch denn eifach bliibe?", "german": "Ah, so ist das! Und bist du dann einfach geblieben?", "english": "Ah, I see! And then you just stayed?"},
                 {"speaker": "Person", "swissGerman": "Ja, d'Liebi hät mich do ghalte, haha. Min Maa isch Zürcher.", "german": "Ja, die Liebe hat mich hier gehalten, haha. Mein Mann ist Zürcher.", "english": "Yes, love kept me here, haha. My husband is from Zurich."},
                 {"speaker": "You", "swissGerman": "Und vermissisch du Bärn?", "german": "Und vermisst du Bern?", "english": "And do you miss Bern?"},
+                {"speaker": "Person", "swissGerman": "Hesch du no Familie dort?", "german": "Hast du noch Familie dort?", "english": "Do you still have family there?"},
+                {"speaker": "You", "swissGerman": "Ja, mini Eltere und min Brueder. Ich besüech si alli paar Mönet — de Pendlerzug isch zum Glüäck schnäll.", "german": "Ja, meine Eltern und mein Bruder. Ich besuche sie alle paar Monate — der Pendlerzug ist zum Glück schnell.", "english": "Yes, my parents and my brother. I visit them every few months — the commuter train is thankfully fast."},
                 {"speaker": "Person", "swissGerman": "Scho. D'Bärner sind chli gmüetlicher als d'Zürcher. Aber psst, nöd witersäge!", "german": "Schon. Die Berner sind ein bisschen gemütlicher als die Zürcher. Aber psst, nicht weitersagen!", "english": "A bit. The Bernese are a little more laid-back than the Zurichers. But shh, don't tell anyone!"},
             ],
             "differences": [
@@ -115,6 +123,8 @@ SUBTOPIC_ASKING_ABOUT_OTHERS = {
                 {"speaker": "Person", "swissGerman": "Vill Vorberetig. Und es paar Mönät Warteziit.", "german": "Viel Vorbereitung. Und ein paar Monate Wartezeit.", "english": "A lot of preparation. And a couple months of waiting."},
                 {"speaker": "You", "swissGerman": "Wow, starke Leigstig! Und wie isch es so? Gfallts dir?", "german": "Wow, starke Leistung! Und wie ist es so? Gefällt es dir?", "english": "Wow, impressive! And how is it? Do you like it?"},
                 {"speaker": "Person", "swissGerman": "Bis jetzt mega. Cooli Lüüt, guet Ässe in de Kantine.", "german": "Bis jetzt mega. Coole Leute, gutes Essen in der Kantine.", "english": "So far awesome. Cool people, great food in the cafeteria."},
+                {"speaker": "You", "swissGerman": "Aber es isch sicher au vil Drück, nöd?", "german": "Aber es ist sicher auch viel Druck, oder?", "english": "But it's surely a lot of pressure too, right?"},
+                {"speaker": "Person", "swissGerman": "Jaa schon. Manchmal isch mer bis Abig im Büro. Drum isch de Fri-go-Abiür so wichtig!", "german": "Jaa schon. Manchmal ist man bis abends im Büro. Deshalb ist der Feierabend so wichtig!", "english": "Yeah, a bit. Sometimes you're in the office until evenings. That's why finishing time is so important!"},
                 {"speaker": "You", "swissGerman": "Sehr cool! Das muesch du mir gnauer verzelle. Uf es Bier?", "german": "Sehr cool! Das musst du mir genauer erzählen. Auf ein Bier?", "english": "Very cool! You need to tell me more. Over a beer?"},
             ],
             "differences": [

@@ -16,6 +16,8 @@ SUBTOPIC_JOB_INTERVIEW = {
                 {"speaker": "Receptionist", "swissGerman": "Ah ja, ich gseh Sie uf de Lischt. Nähmed Sie bitte Platz, sie chunnt grad.", "german": "Ah ja, ich sehe Sie auf der Liste. Nehmen Sie bitte Platz, sie kommt gleich.", "english": "Ah yes, I see you on the list. Please take a seat, she's coming right away."},
                 {"speaker": "You", "swissGerman": "Merci vilmal!", "german": "Vielen Dank!", "english": "Thank you very much!"},
                 {"speaker": "Receptionist", "swissGerman": "Möchted Sie öppis z'trinke? En Kafi oder Wasser?", "german": "Möchten Sie etwas zu trinken? Einen Kaffee oder Wasser?", "english": "Would you like something to drink? Coffee or water?"},
+                {"speaker": "You", "swissGerman": "En Wasser isch super, danke. Das isch liebi vo Ihne.", "german": "Ein Wasser ist super, danke. Das ist nett von Ihnen.", "english": "Water is great, thank you. That's kind of you."},
+                {"speaker": "Receptionist", "swissGerman": "Gern. Ich bringe's sofort. D'Frau Müller isch in zwei Minute bi Ihne.", "german": "Gern. Ich bringe es sofort. Frau Müller ist in zwei Minuten bei Ihnen.", "english": "Of course. I'll bring it right away. Ms. Müller will be with you in two minutes."},
             ],
             "differences": [
                 {"swissGerman": "ich ha en Termin", "german": "ich habe einen Termin", "explanation": "'ha' = 'habe', 'en' = 'einen'. Shortened forms."},
@@ -40,6 +42,8 @@ SUBTOPIC_JOB_INTERVIEW = {
                 {"speaker": "You", "swissGerman": "Gern. Ich bi 28 und ha z'Züri studiert. Ich schaffe sit drü Jahr im Marketing.", "german": "Gern. Ich bin 28 und habe in Zürich studiert. Ich arbeite seit drei Jahren im Marketing.", "english": "Gladly. I'm 28 and studied in Zurich. I've been working in marketing for three years."},
                 {"speaker": "Interviewer", "swissGerman": "Und was hät Sie a eusere Stell interessiert?", "german": "Und was hat Sie an unserer Stelle interessiert?", "english": "And what interested you about our position?"},
                 {"speaker": "You", "swissGerman": "Ich find eui Firma mega spannend, bsunders d'Projekt im Bereich Nachhaltigkeit.", "german": "Ich finde Ihre Firma mega spannend, besonders die Projekte im Bereich Nachhaltigkeit.", "english": "I find your company really exciting, especially the sustainability projects."},
+                {"speaker": "Interviewer", "swissGerman": "Guet z'höre! Händ Sie sälber scho Erfahrig im Bereich Nachhaltigkeit gha?", "german": "Gut zu hören! Haben Sie selbst schon Erfahrung im Bereich Nachhaltigkeit gehabt?", "english": "Good to hear! Have you had personal experience in the sustainability area?"},
+                {"speaker": "You", "swissGerman": "Ja, bi minere letschte Firma ha ich en Projekt zum Verminderig vo Verpackigsabfäll gfiert.", "german": "Ja, bei meiner letzten Firma habe ich ein Projekt zur Verminderung von Verpackungsabfällen geführt.", "english": "Yes, at my last company I led a project to reduce packaging waste."},
             ],
             "differences": [
                 {"swissGerman": "Verzelled Sie", "german": "Erzählen Sie", "explanation": "'verzelle' = 'erzählen'. Common Swiss German verb."},
@@ -65,6 +69,8 @@ SUBTOPIC_JOB_INTERVIEW = {
                 {"speaker": "You", "swissGerman": "Ja, ich ha bi minere letschte Stell zwöi grossi Projekt gleitet.", "german": "Ja, ich habe bei meiner letzten Stelle zwei große Projekte geleitet.", "english": "Yes, I led two large projects at my last position."},
                 {"speaker": "Interviewer", "swissGerman": "Und wie gönd Sie mit Stress um?", "german": "Und wie gehen Sie mit Stress um?", "english": "And how do you handle stress?"},
                 {"speaker": "You", "swissGerman": "Ich mache mir immer e klari Prioritätelischt und kommuniziere offe, wänn's eng wird.", "german": "Ich mache mir immer eine klare Prioritätenliste und kommuniziere offen, wenn es eng wird.", "english": "I always make a clear priority list and communicate openly when things get tight."},
+                {"speaker": "Interviewer", "swissGerman": "Guet. Und wänn Sie en Fehler machet — wie gönd Sie damit um?", "german": "Gut. Und wenn Sie einen Fehler machen — wie gehen Sie damit um?", "english": "Good. And if you make a mistake — how do you handle it?"},
+                {"speaker": "You", "swissGerman": "Ich meld's sofort, ärgle nid lang und such schnell e Lösig. Transparent si isch wichtig.", "german": "Ich melde es sofort, ärgere mich nicht lange und suche schnell eine Lösung. Transparent sein ist wichtig.", "english": "I report it right away, don't dwell on it, and quickly look for a solution. Being transparent is important."},
             ],
             "differences": [
                 {"swissGerman": "Stärchine", "german": "Stärken", "explanation": "'Stärchine' = 'Stärken'. Added diminutive-like ending."},
@@ -90,6 +96,8 @@ SUBTOPIC_JOB_INTERVIEW = {
                 {"speaker": "You", "swissGerman": "Das isch super. Wie viel Ferietäg hät mer?", "german": "Das ist super. Wie viele Ferientage hat man?", "english": "That's great. How many vacation days does one have?"},
                 {"speaker": "Interviewer", "swissGerman": "Föif Wuche Ferie im Jahr.", "german": "Fünf Wochen Ferien im Jahr.", "english": "Five weeks vacation per year."},
                 {"speaker": "You", "swissGerman": "Sehr guet, das tönt alles sehr attraktiv.", "german": "Sehr gut, das klingt alles sehr attraktiv.", "english": "Very good, that all sounds very attractive."},
+                {"speaker": "Interviewer", "swissGerman": "Und: mir händ au e Chantine mit subventionierte Mittagsmenues — 5 bis 12 Franke.", "german": "Und: wir haben auch eine Kantine mit subventionierten Mittagsmenüs — 5 bis 12 Franken.", "english": "And: we also have a canteen with subsidized lunch menus — 5 to 12 francs."},
+                {"speaker": "You", "swissGerman": "Das isch wirklich attraktiv! Und isch de Arbeitsort Zhäro oder git's au Remote-Option?", "german": "Das ist wirklich attraktiv! Und ist der Arbeitsort Zürich oder gibt es auch eine Remote-Option?", "english": "That's really attractive! And is the work location Zurich or is there also a remote option?"},
             ],
             "differences": [
                 {"swissGerman": "Lohnvorstellige", "german": "Lohnvorstellungen", "explanation": "'-ungen' → '-ige' pattern."},
@@ -114,7 +122,8 @@ SUBTOPIC_JOB_INTERVIEW = {
                 {"speaker": "Interviewer", "swissGerman": "Mir mälded eus innert zwöi Wuche.", "german": "Wir melden uns innerhalb von zwei Wochen.", "english": "We'll get back to you within two weeks."},
                 {"speaker": "You", "swissGerman": "Super, ich freu mich. Merci für d'Ziit!", "german": "Super, ich freue mich. Danke für die Zeit!", "english": "Great, I look forward to it. Thanks for your time!"},
                 {"speaker": "Interviewer", "swissGerman": "Merci au Ihne! Mir händ eus gfreut Sie kennezlerne.", "german": "Danke auch Ihnen! Wir haben uns gefreut Sie kennenzulernen.", "english": "Thank you too! We were pleased to meet you."},
-                {"speaker": "You", "swissGerman": "Gliichfalls! En schöne Tag no.", "german": "Gleichfalls! Noch einen schönen Tag.", "english": "Likewise! Have a nice day."},
+                {"speaker": "You", "swissGerman": "Gliichfalls! En schöne Tag no. Und cha ich mich au per Mail melde, fälls ich no Frage ha?", "german": "Gleichfalls! Noch einen schönen Tag. Und kann ich mich auch per E-Mail melden, falls ich noch Fragen habe?", "english": "Likewise! Have a nice day. And can I also reach out by email if I have further questions?"},
+                {"speaker": "Interviewer", "swissGerman": "Ja klar — mini Kontaktdate sind uf de Visitecharte. Viel Erfolg!", "german": "Ja klar — meine Kontaktdaten sind auf der Visitenkarte. Viel Erfolg!", "english": "Yes of course — my contact details are on the business card. Good luck!"},
             ],
             "differences": [
                 {"swissGerman": "mälded eus", "german": "melden uns", "explanation": "'mälded' = 'melden', 'eus' = 'uns'."},

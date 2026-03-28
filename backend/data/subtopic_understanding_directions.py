@@ -15,6 +15,8 @@ SUBTOPIC_UNDERSTANDING_DIRECTIONS = {
                 {"speaker": "You", "swissGerman": "Am Brunne verbi und linggs bi de Chile. Isch das wiit?", "german": "Am Brunnen vorbei und links bei der Kirche. Ist das weit?", "english": "Past the fountain and left at the church. Is it far?"},
                 {"speaker": "Person", "swissGerman": "Nei, öppe füf Minute z'Fuess. Sie gsehnd's denn scho.", "german": "Nein, ungefähr fünf Minuten zu Fuß. Sie sehen es dann schon.", "english": "No, about five minutes on foot. You'll see it then."},
                 {"speaker": "You", "swissGerman": "Ah super, danke vilmal!", "german": "Ah super, vielen Dank!", "english": "Ah great, thank you very much!"},
+                {"speaker": "You", "swissGerman": "Isch da au en Tramhalt i de Nöchi, wüssed Sie?", "german": "Gibt es auch eine Tramhaltestelle in der Nähe, wissen Sie?", "english": "Is there also a tram stop nearby, do you know?"},
+                {"speaker": "Person", "swissGerman": "Ja, d'Linie 8 hält direkt bim Bahnhof.", "german": "Ja, die Linie 8 hält direkt beim Bahnhof.", "english": "Yes, line 8 stops right at the station."},
                 {"speaker": "Person", "swissGerman": "Gärn gscheh! Guete Wäg!", "german": "Gerne geschehen! Guten Weg!", "english": "You're welcome! Have a good way!"},
             ],
             "differences": [
@@ -40,6 +42,8 @@ SUBTOPIC_UNDERSTANDING_DIRECTIONS = {
                 {"speaker": "Person", "swissGerman": "Ja genau, rechts. Denn chömed e grossi Chrüzig mit emne Chreisel.", "german": "Ja genau, rechts. Dann kommt eine große Kreuzung mit einem Kreisverkehr.", "english": "Yes exactly, right. Then there's a big intersection with a roundabout."},
                 {"speaker": "You", "swissGerman": "Und denn die zwöit Usfahrt?", "german": "Und dann die zweite Ausfahrt?", "english": "And then the second exit?"},
                 {"speaker": "Person", "swissGerman": "Genau. Das isch d'Bahnhofstrass. De Bahnhof gseht me denn grad.", "german": "Genau. Das ist die Bahnhofstraße. Den Bahnhof sieht man dann gleich.", "english": "Exactly. That's Bahnhofstrasse. You'll see the station right away."},
+                {"speaker": "You", "swissGerman": "Und d'Bahnhofstrass — isch das näbem Migros?", "german": "Und die Bahnhofstrasse — ist das neben dem Migros?", "english": "And Bahnhofstrasse — is that next to the Migros?"},
+                {"speaker": "Person", "swissGerman": "Genau! De Migros isch uf de linke Siite, de Bahnhof uf de rächt.", "german": "Genau! Der Migros ist auf der linken Seite, der Bahnhof auf der rechten.", "english": "Exactly! The Migros is on the left side, the station on the right."},
                 {"speaker": "You", "swissGerman": "Jetzt han ich's! Merci vilmal.", "german": "Jetzt habe ich es! Vielen Dank.", "english": "Now I've got it! Thanks a lot."},
             ],
             "differences": [
@@ -65,6 +69,8 @@ SUBTOPIC_UNDERSTANDING_DIRECTIONS = {
                 {"speaker": "You", "swissGerman": "Und de nöchscht Bancomat?", "german": "Und der nächste Bancomat?", "english": "And the nearest ATM?"},
                 {"speaker": "Person", "swissGerman": "De isch bim Migros, öppe fünf Minute z'Fuess.", "german": "Der ist beim Migros, ungefähr fünf Minuten zu Fuß.", "english": "That's at the Migros, about five minutes on foot."},
                 {"speaker": "You", "swissGerman": "Guet, denn gang ich zerscht zum Coop und denn zum Bancomat.", "german": "Gut, dann gehe ich zuerst zum Coop und dann zum Bancomat.", "english": "Good, then I'll go to Coop first and then to the ATM."},
+                {"speaker": "You", "swissGerman": "Guet, merci! Ich bi nöi doo und kenn d'Gegend no nöd guet.", "german": "Gut, danke! Ich bin neu hier und kenne die Gegend noch nicht gut.", "english": "Good, thanks! I'm new here and don't know the area well yet."},
+                {"speaker": "Person", "swissGerman": "Gar keis Problem! Falls öppis isch, lueg eifach i d'Google Maps.", "german": "Gar kein Problem! Falls etwas ist, schau einfach in Google Maps.", "english": "No problem at all! If needed, just check Google Maps."},
                 {"speaker": "Person", "swissGerman": "Ja, das machts Sinn. Beidi sind i de gliiche Richtig.", "german": "Ja, das macht Sinn. Beide sind in der gleichen Richtung.", "english": "Yes, that makes sense. Both are in the same direction."},
             ],
             "differences": [
@@ -90,6 +96,8 @@ SUBTOPIC_UNDERSTANDING_DIRECTIONS = {
                 {"speaker": "You", "swissGerman": "Durs Gässli? Das zeigt mini App nöd aa.", "german": "Durch das Gässchen? Das zeigt meine App nicht an.", "english": "Through the alley? My app doesn't show that."},
                 {"speaker": "Person", "swissGerman": "Ja, das isch e Abchürzig. Uf de andere Siite isch d'Stampfenbachstrass.", "german": "Ja, das ist eine Abkürzung. Auf der anderen Seite ist die Stampfenbachstraße.", "english": "Yes, it's a shortcut. On the other side is Stampfenbachstrasse."},
                 {"speaker": "You", "swissGerman": "Ah, perfekt! Und d'Huusnummere gönd in weli Richtig?", "german": "Ah, perfekt! Und die Hausnummern gehen in welche Richtung?", "english": "Ah, perfect! And which direction do the house numbers go?"},
+                {"speaker": "You", "swissGerman": "Ah, super! Ich suech d'Nummer 34 — isch das im höchere oder im tiefere Bereich?", "german": "Ah, super! Ich suche die Nummer 34 — ist das im höheren oder im tieferen Bereich?", "english": "Ah, great! I'm looking for number 34 — is that in the higher or lower section?"},
+                {"speaker": "Person", "swissGerman": "Nummer 34 isch uf de linke Siite, also tiefer. Öppe fünfzig Meter.", "german": "Nummer 34 ist auf der linken Seite, also tiefer. Ungefähr fünfzig Meter.", "english": "Number 34 is on the left side, so downward. About fifty metres."},
                 {"speaker": "Person", "swissGerman": "Links isch aabwärts, rechts uufwärts.", "german": "Links ist abwärts, rechts aufwärts.", "english": "Left goes down, right goes up."},
             ],
             "differences": [
@@ -115,6 +123,8 @@ SUBTOPIC_UNDERSTANDING_DIRECTIONS = {
                 {"speaker": "You", "swissGerman": "Ah okay, also muess ich drum ume gah?", "german": "Ah okay, also muss ich drum herum gehen?", "english": "Ah okay, so I have to go around?"},
                 {"speaker": "Person", "swissGerman": "Ja, oder Sie chönd dur de Innehof gah. Luege Sie — de Durchgang isch deet.", "german": "Ja, oder Sie können durch den Innenhof gehen. Schauen Sie — der Durchgang ist dort.", "english": "Yes, or you can go through the courtyard. Look — the passage is there."},
                 {"speaker": "You", "swissGerman": "Ah, ich gsehne! Merci!", "german": "Ah, ich sehe ihn! Danke!", "english": "Ah, I see it! Thanks!"},
+                {"speaker": "You", "swissGerman": "Und s'Amt isch im erschte oder im zweite Stock?", "german": "Und das Amt ist im ersten oder im zweiten Stock?", "english": "And is the office on the first or second floor?"},
+                {"speaker": "Person", "swissGerman": "Zweite Stock, Zimmer 22. De Lift isch i de Mitti vom Gang.", "german": "Zweiter Stock, Zimmer 22. Der Aufzug ist in der Mitte des Gangs.", "english": "Second floor, room 22. The elevator is in the middle of the corridor."},
                 {"speaker": "Person", "swissGerman": "Gärn! De Lift isch grad bim Iigang.", "german": "Gerne! Der Aufzug ist direkt beim Eingang.", "english": "Sure! The elevator is right at the entrance."},
             ],
             "differences": [

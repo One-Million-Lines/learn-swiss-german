@@ -15,7 +15,8 @@ SUBTOPIC_HUMOR_LIGHT_TONE = {
                 {"speaker": "Friend", "swissGerman": "Lueg, alli Lüüt luege scho uf d'Uhr und sind gnervt.", "german": "Schau, alle Leute schauen schon auf die Uhr und sind genervt.", "english": "Look, everyone's checking their watch and is annoyed already."},
                 {"speaker": "You", "swissGerman": "D'Schwiizer und ihri Pünktlichkeit! Das isch fast scho e Religion.", "german": "Die Schweizer und ihre Pünktlichkeit! Das ist fast schon eine Religion.", "english": "The Swiss and their punctuality! It's almost a religion."},
                 {"speaker": "Friend", "swissGerman": "Wart mol bis du en Handwerker bstellsch. Denn isch d'Pünktlichkeit blötzlich verschwunde!", "german": "Warte mal bis du einen Handwerker bestellst. Dann ist die Pünktlichkeit plötzlich verschwunden!", "english": "Wait till you hire a handyman. Then the punctuality suddenly disappears!"},
-                {"speaker": "You", "swissGerman": "Haha, touché! Au d'Schwiizer sind also nöd perfekt!", "german": "Haha, touché! Auch die Schweizer sind also nicht perfekt!", "english": "Haha, touché! So even the Swiss aren't perfect!"},
+                {"speaker": "You", "swissGerman": "Haha, touche! Au d'Schwiizer sind also nöd perfekt! Aber d'Bahne laufe!", "german": "Haha, touché! Auch die Schweizer sind also nicht perfekt! Aber die Bahnen laufen!", "english": "Haha, touche! So even the Swiss aren't perfect! But the trains run!"},
+                {"speaker": "Friend", "swissGerman": "Ja, d'SBB — die sind überpfünktlich. Wenn öppis nim stimmt, macht ganz Schwiiz Schlagzile!", "german": "Ja, die SBB — die sind überpfünktlich. Wenn etwas nicht stimmt, macht ganz die Schweiz Schlagzeilen!", "english": "Yes, the SBB — they're overly precise. If something goes wrong, all of Switzerland makes headlines!"},
             ],
             "differences": [
                 {"swissGerman": "Verspötig", "german": "Verspätung", "explanation": "'Verspötig' = 'Verspätung'. Swiss form."},
@@ -40,7 +41,8 @@ SUBTOPIC_HUMOR_LIGHT_TONE = {
                 {"speaker": "Friend", "swissGerman": "Hey! Das isch EI Mal passiert!", "german": "Hey! Das ist EIN Mal passiert!", "english": "Hey! That happened ONE time!"},
                 {"speaker": "You", "swissGerman": "Und d'Feuerwehr isch cho, oder?", "german": "Und die Feuerwehr kam, oder?", "english": "And the fire department came, right?"},
                 {"speaker": "Friend", "swissGerman": "Hey, nöd witzig! Nei, das isch nöd passiert. Fascht.", "german": "Hey, nicht witzig! Nein, das ist nicht passiert. Fast.", "english": "Hey, not funny! No, that didn't happen. Almost."},
-                {"speaker": "You", "swissGerman": "Haha, ich nimm dich uuf de Arm! Ich bin sicher, din Risotto isch top gsi.", "german": "Haha, ich nehme dich auf den Arm! Ich bin sicher, dein Risotto war super.", "english": "Haha, I'm pulling your leg! I'm sure your risotto was great."},
+                {"speaker": "You", "swissGerman": "Fascht! Haha! Hesch wenigstens de Windmelder abgschaltet vor em choche?", "german": "Fast! Haha! Hast du wenigstens den Windmelder abgeschaltet vor dem Kochen?", "english": "Almost! Haha! Did you at least turn off the smoke alarm before cooking?"},
+                {"speaker": "Friend", "swissGerman": "(lacht) Ja! Ich bi nid komplett verrückt! Aber s isch knapp gsi...", "german": "(lacht) Ja! Ich bin nicht komplett verrückt! Aber es war knapp...", "english": "(laughs) Yes! I'm not completely crazy! But it was close..."},
             ],
             "differences": [
                 {"swissGerman": "gschter", "german": "gestern", "explanation": "'gschter' = 'gestern'. Yesterday."},
@@ -66,6 +68,8 @@ SUBTOPIC_HUMOR_LIGHT_TONE = {
                 {"speaker": "Friend", "swissGerman": "Das isch de klassisch Test für Usländer! Wer das cha säge, isch Schwiizer!", "german": "Das ist der klassische Test für Ausländer! Wer das sagen kann, ist Schweizer!", "english": "That's the classic test for foreigners! If you can say it, you're Swiss!"},
                 {"speaker": "You", "swissGerman": "Chuuuchi... Chääschtli... Nei, ich gib uf!", "german": "Küüüche... Schränkchen... Nein, ich gebe auf!", "english": "Kiiiitchen... cupboard... No, I give up!"},
                 {"speaker": "Friend", "swissGerman": "Haha, kei Sorg, das chunnt mit de Ziit. Üebe, üebe, üebe!", "german": "Haha, keine Sorge, das kommt mit der Zeit. Üben, üben, üben!", "english": "Haha, don't worry, it comes with time. Practice, practice, practice!"},
+                {"speaker": "You", "swissGerman": "Okay! Ich üebe jede Morge vor em Kafi. De Test isch minis nöits Ziel!", "german": "Okay! Ich übe jeden Morgen vor dem Kaffee. Der Test ist mein nächstes Ziel!", "english": "Okay! I'll practice every morning before coffee. The test is my next goal!"},
+                {"speaker": "Friend", "swissGerman": "Wenn du Chuchichäschtli släppdi chasch säge, biischte offiziell schwiizerdeutsch!", "german": "Wenn du Chuchichäschtli flüssig sagen kannst, bist du offiziell schweizerdeutsch!", "english": "When you can say Chuchichäschtli fluently, you're officially Swiss German!"},
             ],
             "differences": [
                 {"swissGerman": "Chuchichäschtli", "german": "Küchenschränkchen", "explanation": "Most famous Swiss German word. Notorious pronunciation test. Three 'Ch' sounds!"},
@@ -90,7 +94,8 @@ SUBTOPIC_HUMOR_LIGHT_TONE = {
                 {"speaker": "Swiss Friend", "swissGerman": "Hey! Mir mached kei Unordnig. Mir 'reorganisiered'!", "german": "Hey! Wir machen keine Unordnung. Wir 'reorganisieren'!", "english": "Hey! We don't make messes. We 'reorganize'!"},
                 {"speaker": "You", "swissGerman": "Und d'Schwiizer essed genau um Zwölfi zmittag. Kei Minute spöter!", "german": "Und die Schweizer essen genau um zwölf Mittag. Keine Minute später!", "english": "And the Swiss eat at exactly noon. Not a minute later!"},
                 {"speaker": "Swiss Friend", "swissGerman": "Stimmt jo nöd! ... Okay, doch. Aber mir gnüüssed s'Ässe halt.", "german": "Stimmt ja nicht! ... Okay, doch. Aber wir genießen das Essen halt.", "english": "That's not true! ... Okay, it is. But we just enjoy the food."},
-                {"speaker": "You", "swissGerman": "Haha, ich ha euch gärn! D'Schwiizer sind eifach speziell — im beste Sinn.", "german": "Haha, ich mag euch! Die Schweizer sind einfach speziell — im besten Sinn.", "english": "Haha, I love you guys! The Swiss are just special — in the best way."},
+                {"speaker": "You", "swissGerman": "Und de Zvieri! Um vieri gschlossi Pause, alles staaht stall!", "german": "Und die Zvieri! Um vier Uhr geschlossene Pause, alles steht still!", "english": "And the four o'clock snack! At four: closed pause, everything stands still!"},
+                {"speaker": "Swiss Friend", "swissGerman": "(lacht) Du kennsch eus scho besser als mir!", "german": "(lacht) Du kennst uns schon besser als wir uns selbst!", "english": "(laughs) You already know us better than we know ourselves!"},
             ],
             "differences": [
                 {"swissGerman": "im Bluet", "german": "im Blut", "explanation": "'Bluet' = 'Blut'. Blood. Swiss form."},
@@ -116,7 +121,8 @@ SUBTOPIC_HUMOR_LIGHT_TONE = {
                 {"speaker": "You", "swissGerman": "Lässig — das Wort han ich grad glehrt! Heisst das 'cool'?", "german": "Lässig — das Wort habe ich gerade gelernt! Heißt das 'cool'?", "english": "Lässig — I just learned that word! Does it mean 'cool'?"},
                 {"speaker": "Friend", "swissGerman": "Genau! Es bedüütet cool, entspannt, easy. Very schwizerisch.", "german": "Genau! Es bedeutet cool, entspannt, easy. Sehr schweizerisch.", "english": "Exactly! It means cool, relaxed, easy. Very Swiss."},
                 {"speaker": "You", "swissGerman": "Lässig! De nöchscht Schritt: 'Gopfridstutz!' Wänn bruuch ich das?", "german": "Lässig! Der nächste Schritt: 'Gopfridstutz!' Wann verwendet man das?", "english": "Lässig! Next step: 'Gopfridstutz!' When do I use that?"},
-            ],
+                {"speaker": "Friend", "swissGerman": "Wänn du erschrecksch, erstaunt bisch — oder wenn de Tram grad afuhr!", "german": "Wenn du erschrickst, erstaunt bist — oder wenn die Tram gerade abgefahren ist!", "english": "When you're startled, surprised — or when the tram just left!"},
+                {"speaker": "You", "swissGerman": "Gopfridstutz! Ich ha mini Tram verpasst wäge dem Gespräch!", "german": "Gopfridstutz! Ich habe meine Tram wegen diesem Gespräch verpasst!", "english": "Gopfridstutz! I missed my tram because of this conversation!"},            ],
             "differences": [
                 {"swissGerman": "lässig", "german": "cool/lässig", "explanation": "'lässig' = cool, relaxed, great. Very commonly used Swiss expression."},
                 {"swissGerman": "gömer", "german": "gehen wir", "explanation": "'gömer' = 'gehen wir'. Contracted."},

@@ -14,6 +14,8 @@ SUBTOPIC_WORKING_FROM_HOME = {
                 {"speaker": "You", "swissGerman": "Morge! Ich bi hüt im Home-Office. Ich schaffe am Bricht wiiter.", "german": "Morgen! Ich bin heute im Home-Office. Ich arbeite am Bericht weiter.", "english": "Morning! I'm working from home today. I'll continue on the report."},
                 {"speaker": "Team Lead", "swissGerman": "Guet. Hesch alles was du bruchsch?", "german": "Gut. Hast du alles was du brauchst?", "english": "Good. Do you have everything you need?"},
                 {"speaker": "You", "swissGerman": "Ja, alles easy. Ich bi über Slack erreichbar.", "german": "Ja, alles easy. Ich bin über Slack erreichbar.", "english": "Yes, all good. I'm reachable on Slack."},
+                {"speaker": "You", "swissGerman": "Ich ha hüt au en Video-Call um drüü — chasch mich denn kurz freistelle?", "german": "Ich habe heute auch einen Video-Call um drei — kannst du mich dann kurz freistellen?", "english": "I also have a video call at three today — can you free me up briefly then?"},
+                {"speaker": "Team Lead", "swissGerman": "Ja klar, ich trag's im Kalender ii. Veruursach kei Überschniidig.", "german": "Ja klar, ich trage es im Kalender ein. Verursache keine Überschneidung.", "english": "Sure, I'll add it to the calendar. Just avoid any overlap."},
                 {"speaker": "Team Lead", "swissGerman": "Perfekt. Gib Bescheid falls öppis isch.", "german": "Perfekt. Gib Bescheid falls etwas ist.", "english": "Perfect. Let us know if anything comes up."},
             ],
             "differences": [
@@ -38,6 +40,8 @@ SUBTOPIC_WORKING_FROM_HOME = {
                 {"speaker": "You", "swissGerman": "Ja, gueti Idee. Momänt, ich probier's grad.", "german": "Ja, gute Idee. Moment, ich probiere es gleich.", "english": "Yes, good idea. One moment, I'll try right away."},
                 {"speaker": "Colleague", "swissGerman": "Kei Stress! Mir warted.", "german": "Kein Stress! Wir warten.", "english": "No stress! We'll wait."},
                 {"speaker": "You", "swissGerman": "So, jetzt gaht's. Ghöred ihr mich?", "german": "So, jetzt geht's. Hört ihr mich?", "english": "There, it works now. Can you hear me?"},
+                {"speaker": "You", "swissGerman": "Mega! Ich verbind mich. Chönd ihr mi au in de Präsi-Siite sieh?", "german": "Super! Ich verbinde mich. Können Sie mich auch auf der Präsentationsseite sehen?", "english": "Great! I'm connecting. Can you also see me on the presentation side?"},
+                {"speaker": "Colleague", "swissGerman": "Ja, du bisch do! Bild und Ton sind top. Mir fange aa.", "german": "Ja, du bist da! Bild und Ton sind top. Wir fangen an.", "english": "Yes, you're there! Picture and sound are great. Let's start."},
                 {"speaker": "Colleague", "swissGerman": "Ja, lut und dütlich!", "german": "Ja, laut und deutlich!", "english": "Yes, loud and clear!"},
             ],
             "differences": [
@@ -63,6 +67,8 @@ SUBTOPIC_WORKING_FROM_HOME = {
                 {"speaker": "Colleague", "swissGerman": "Ja, genau! Ich schaffe mängisch bis am Achti am Aabig.", "german": "Ja, genau! Ich arbeite manchmal bis acht Uhr abends.", "english": "Yes, exactly! I sometimes work until eight in the evening."},
                 {"speaker": "You", "swissGerman": "Ich ha mir aagwöhnt, de Laptop um Föifi zuez'mache. Sunscht hört's nie uf.", "german": "Ich habe mir angewöhnt, den Laptop um fünf zuzumachen. Sonst hört es nie auf.", "english": "I've gotten used to closing the laptop at five. Otherwise it never stops."},
                 {"speaker": "Colleague", "swissGerman": "Das isch en gueti Regle. Ich sött das au mache.", "german": "Das ist eine gute Regel. Ich sollte das auch machen.", "english": "That's a good rule. I should do that too."},
+                {"speaker": "Colleague", "swissGerman": "Ja, und mir chönd öppe zwöi Mal pro Wuche is Büro cho. Das hilft au.", "german": "Ja, und wir können ungefähr zweimal pro Woche ins Büro kommen. Das hilft auch.", "english": "Yes, and we can come to the office about twice a week. That also helps."},
+                {"speaker": "You", "swissGerman": "Stimmt. Ich bruuch de Wäg zum Büro — das isch min mentali Grenze zwüsche Schaffe und Frizyt.", "german": "Stimmt. Ich brauche den Weg zum Büro — das ist meine mentale Grenze zwischen Arbeit und Freizeit.", "english": "Right. I need the commute to the office — that's my mental boundary between work and leisure."},
                 {"speaker": "You", "swissGerman": "Ja, und denn no go spaziere. Das hilft au mega.", "german": "Ja, und dann noch spazieren gehen. Das hilft auch mega.", "english": "Yeah, and then go for a walk. That helps a lot too."},
             ],
             "differences": [
@@ -87,6 +93,8 @@ SUBTOPIC_WORKING_FROM_HOME = {
                 {"speaker": "Boss", "swissGerman": "Ja klar, kei Problem. Hesch morn irgendwelchi Meetings?", "german": "Ja klar, kein Problem. Hast du morgen irgendwelche Meetings?", "english": "Sure, no problem. Do you have any meetings tomorrow?"},
                 {"speaker": "You", "swissGerman": "Nur s'Standup am Morge, das mach ich per Video.", "german": "Nur das Standup morgens, das mache ich per Video.", "english": "Just the standup in the morning, I'll do that via video."},
                 {"speaker": "Boss", "swissGerman": "Passt. Dänk eifach dra, dis Telefon aazluege falls öpper aalütet.", "german": "Passt. Denk einfach daran, dein Telefon anzuschauen falls jemand anruft.", "english": "Works. Just remember to check your phone if someone calls."},
+                {"speaker": "You", "swissGerman": "Und wenn s'Paket chunnt — chani kurz offline gah für zehn Minute?", "german": "Und wenn das Paket kommt — kann ich kurz offline gehen für zehn Minuten?", "english": "And when the package arrives — can I briefly go offline for ten minutes?"},
+                {"speaker": "Boss", "swissGerman": "Natürlich, Mänsch! Schriib kurz im Slack dass du weg bisch.", "german": "Natürlich, Mensch! Schreib kurz im Slack dass du weg bist.", "english": "Of course! Just write briefly in Slack that you're away."},
                 {"speaker": "You", "swissGerman": "Mach ich, versprooche!", "german": "Mach ich, versprochen!", "english": "Will do, promised!"},
             ],
             "differences": [
@@ -111,6 +119,8 @@ SUBTOPIC_WORKING_FROM_HOME = {
                 {"speaker": "You", "swissGerman": "Oh nei, sorry! Luna, gang ewäg! So, tschuldigung.", "german": "Oh nein, sorry! Luna, geh weg! So, Entschuldigung.", "english": "Oh no, sorry! Luna, go away! There, apologies."},
                 {"speaker": "Colleague", "swissGerman": "Haha, kei Problem! Das isch s'Beschte am Home-Office.", "german": "Haha, kein Problem! Das ist das Beste am Home-Office.", "english": "Haha, no problem! That's the best thing about working from home."},
                 {"speaker": "You", "swissGerman": "Ja, sie chunnt immer wenn ich en wichtige Call ha.", "german": "Ja, sie kommt immer wenn ich einen wichtigen Call habe.", "english": "Yeah, she always shows up when I have an important call."},
+                {"speaker": "You", "swissGerman": "Haha, ich glaub s'Luna wott au en Job bi de Firma!", "german": "Haha, ich glaube Luna will auch einen Job bei der Firma!", "english": "Haha, I think Luna wants a job at the company too!"},
+                {"speaker": "Colleague", "swissGerman": "Chief Tastatur-Officer! Die Stelle isch offe.", "german": "Chief Tastatur-Officer! Die Stelle ist offen.", "english": "Chief Keyboard Officer! That position is open."},
                 {"speaker": "Colleague", "swissGerman": "Das kenni! Min Hund bällt immer wenni rede.", "german": "Das kenne ich! Mein Hund bellt immer wenn ich rede.", "english": "I know that! My dog always barks when I'm talking."},
             ],
             "differences": [

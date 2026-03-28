@@ -16,6 +16,8 @@ SUBTOPIC_HANDLING_PROBLEMS = {
                 {"speaker": "Employee", "swissGerman": "Stimmt, zwei Jahr Garantie. Mir chönd Ihne en Umtuusch aabiete oder s'Gäld zruggeh.", "german": "Stimmt, zwei Jahre Garantie. Wir können Ihnen einen Umtausch anbieten oder das Geld zurückgeben.", "english": "Right, two years warranty. We can offer you an exchange or a refund."},
                 {"speaker": "You", "swissGerman": "Ich nimm lieber s'Gäld zrugg, wänn das gaat.", "german": "Ich nehme lieber das Geld zurück, wenn das geht.", "english": "I'd prefer the refund, if that's possible."},
                 {"speaker": "Employee", "swissGerman": "Klar, kei Problem. De Betrag wird uf Ihri Charte zruggbuecht.", "german": "Klar, kein Problem. Der Betrag wird auf Ihre Karte zurückgebucht.", "english": "Sure, no problem. The amount will be refunded to your card."},
+                {"speaker": "You", "swissGerman": "Wie lang duret das mit de Rückbuechig?", "german": "Wie lange dauert das mit der Rückbuchung?", "english": "How long does the refund take?"},
+                {"speaker": "Employee", "swissGerman": "Drü bis fünf Werchdtag. Si überchomed e Bestätiging per E-Mail.", "german": "Drei bis fünf Werktage. Sie bekommen eine Bestätigung per E-Mail.", "english": "Three to five business days. You'll receive a confirmation by email."},
             ],
             "differences": [
                 {"swissGerman": "Grät", "german": "Gerät", "explanation": "'Grät' = 'Gerät'. Device/appliance."},
@@ -41,6 +43,8 @@ SUBTOPIC_HANDLING_PROBLEMS = {
                 {"speaker": "Waiter", "swissGerman": "Das tuedt mir leid! Ich bring Ihne sofort es nöis.", "german": "Das tut mir leid! Ich bringe Ihnen sofort ein neues.", "english": "I'm sorry! I'll bring you a new one right away."},
                 {"speaker": "You", "swissGerman": "Danke! Und d'Biilag isch au falsch — ich ha Pommes bstellt, nöd Riis.", "german": "Danke! Und die Beilage ist auch falsch — ich habe Pommes bestellt, nicht Reis.", "english": "Thanks! And the side is wrong too — I ordered fries, not rice."},
                 {"speaker": "Waiter", "swissGerman": "Ich sorg dafür, dass alles stimmt. Entschuldigung für de Fähler!", "german": "Ich sorge dafür, dass alles stimmt. Entschuldigung für den Fehler!", "english": "I'll make sure everything is correct. Sorry for the mistake!"},
+                {"speaker": "You", "swissGerman": "Merci! Und wenn möglich de Riis in ere separater Schüssel — ich mög kei Miischig.", "german": "Danke! Und wenn möglich den Reis in einer separaten Schüssel — ich mag keine Mischung.", "english": "Thanks! And if possible the rice in a separate bowl — I prefer them separate."},
+                {"speaker": "Waiter", "swissGerman": "Selbstverständlich! Ich notier das gänau.", "german": "Selbstverständlich! Ich notiere das genau.", "english": "Of course! I'll note that exactly."},
             ],
             "differences": [
                 {"swissGerman": "bstellt", "german": "bestellt", "explanation": "'bstellt' = 'bestellt'. Ordered."},
@@ -66,6 +70,8 @@ SUBTOPIC_HANDLING_PROBLEMS = {
                 {"speaker": "Employee", "swissGerman": "Merci für de Hiiwis! Ich mäld das sofort.", "german": "Danke für den Hinweis! Ich melde das sofort.", "english": "Thanks for the heads-up! I'll report it right away."},
                 {"speaker": "You", "swissGerman": "Und wo chan ich etz es Billett chaufe?", "german": "Und wo kann ich jetzt ein Ticket kaufen?", "english": "And where can I buy a ticket now?"},
                 {"speaker": "Employee", "swissGerman": "Am Schalter oder mit de SBB-App uf em Handy.", "german": "Am Schalter oder mit der SBB-App auf dem Handy.", "english": "At the counter or with the SBB app on your phone."},
+                {"speaker": "You", "swissGerman": "Ok, ich machtä d'App. Gilt mis GA ou am Schalter?", "german": "Ok, ich nehme die App. Gilt mein GA auch am Schalter?", "english": "Ok, I'll use the app. Is my GA also valid at the counter?"},
+                {"speaker": "Employee", "swissGerman": "Ja, chlaar — drück eifach de GA-Button i de App und zeig de QR.", "german": "Ja, klar — drücken Sie einfach den GA-Button in der App und zeigen den QR.", "english": "Yes, sure — just press the GA button in the app and show the QR code."},
             ],
             "differences": [
                 {"swissGerman": "scho wider", "german": "schon wieder", "explanation": "'scho wider' = 'schon wieder'. Again/once more."},
@@ -91,6 +97,8 @@ SUBTOPIC_HANDLING_PROBLEMS = {
                 {"speaker": "Manager", "swissGerman": "Das tuedt eus würklich leid. Händ Sie Fotene vom Schade?", "german": "Das tut uns wirklich leid. Haben Sie Fotos vom Schaden?", "english": "We're really sorry. Do you have photos of the damage?"},
                 {"speaker": "You", "swissGerman": "Ja, ich ha alles dokumentiert. Ich möchti en Ersatz oder e Guetschrift.", "german": "Ja, ich habe alles dokumentiert. Ich möchte einen Ersatz oder eine Gutschrift.", "english": "Yes, I documented everything. I'd like a replacement or a credit."},
                 {"speaker": "Manager", "swissGerman": "Mir organisiere en Ersatz und schicked Ihne no en Gutschiin für d'Umständ.", "german": "Wir organisieren einen Ersatz und schicken Ihnen noch einen Gutschein für die Umstände.", "english": "We'll organize a replacement and send you a voucher for the inconvenience."},
+                {"speaker": "You", "swissGerman": "Danke. Bis wänn chan ich en Rückmäldig über de Ersatz geh?", "german": "Danke. Bis wann kann ich eine Rückmeldung über den Ersatz geben?", "english": "Thanks. By when can I give feedback about the replacement?"},
+                {"speaker": "Manager", "swissGerman": "Innerhalb vo vierzeh Tage. Säged Si eifach Bescheid — mir sind erreichbar per Mail.", "german": "Innerhalb von vierzehn Tagen. Sagen Sie einfach Bescheid — wir sind per Mail erreichbar.", "english": "Within fourteen days. Just let us know — we're reachable by email."},
             ],
             "differences": [
                 {"swissGerman": "Rückmäldig", "german": "Rückmeldung", "explanation": "'Rückmäldig' = 'Rückmeldung'. Feedback."},
@@ -116,6 +124,8 @@ SUBTOPIC_HANDLING_PROBLEMS = {
                 {"speaker": "Employee", "swissGerman": "Momänt, ich lueg... Ja! Mir händ no eini i de 40.", "german": "Moment, ich schaue... Ja! Wir haben noch eine in 40.", "english": "One moment, let me check... Yes! We still have one in 40."},
                 {"speaker": "You", "swissGerman": "Super! Chan ich die grad aaprobiere?", "german": "Super! Kann ich die gleich anprobieren?", "english": "Great! Can I try it on right away?"},
                 {"speaker": "Employee", "swissGerman": "Ja klar, d'Umchleidekabine isch hinne rechts.", "german": "Ja klar, die Umkleidekabine ist hinten rechts.", "english": "Yes of course, the fitting room is in the back right."},
+                {"speaker": "You", "swissGerman": "Und wenn d'Grössi 40 au nöd stimmt — chan ich denn no uf 42 tuusche?", "german": "Und wenn die Größe 40 auch nicht stimmt — kann ich dann noch auf 42 wechseln?", "english": "And if size 40 doesn't fit either — can I then exchange for a 42?"},
+                {"speaker": "Employee", "swissGerman": "Ja, kei Problem. De Kassazettel isch bi Ihne — alles möglich innert 30 Tage.", "german": "Ja, kein Problem. Der Kassenbon ist bei Ihnen — alles möglich innerhalb von 30 Tagen.", "english": "Yes, no problem. You have the receipt — everything is possible within 30 days."},
             ],
             "differences": [
                 {"swissGerman": "Grössi", "german": "Größe", "explanation": "'Grössi' = 'Größe'. Size. Swiss form."},

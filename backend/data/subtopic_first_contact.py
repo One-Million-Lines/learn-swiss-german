@@ -16,6 +16,8 @@ SUBTOPIC_FIRST_CONTACT = {
                 {"speaker": "Neighbor", "swissGerman": "Ah, willkomme! Ich wohne grad ums Egge.", "german": "Ah, willkommen! Ich wohne gleich um die Ecke.", "english": "Ah, welcome! I live right around the corner."},
                 {"speaker": "You", "swissGerman": "Cool! Wie lang wohnsch du scho do?", "german": "Cool! Wie lange wohnst du schon hier?", "english": "Cool! How long have you been living here?"},
                 {"speaker": "Neighbor", "swissGerman": "Öppe drü Johr. S'isch es schöns Quartier — du wirsch es möge!", "german": "Etwa drei Jahre. Es ist ein schönes Quartier — du wirst es mögen!", "english": "About three years. It's a nice neighborhood — you'll like it!"},
+                {"speaker": "You", "swissGerman": "Hast du Tipps — gueti Restaurant oder en Bäckerei i de Nöchi?", "german": "Hast du Tipps — gute Restaurants oder eine Bäckerei in der Nähe?", "english": "Do you have tips — good restaurants or a bakery nearby?"},
+                {"speaker": "Neighbor", "swissGerman": "Unbedingt — d'Bäckerei Hug a de Ecke macht di böscht Gipfeli vo ganz Züri!", "german": "Unbedingt — die Bäckerei Hug an der Ecke macht die besten Gipfeli von ganz Zürich!", "english": "Absolutely — Bäckerei Hug on the corner makes the best croissants in all of Zurich!"},
             ],
             "differences": [
                 {"swissGerman": "Hoi / Sali", "german": "Hallo", "explanation": "'Hoi' and 'Sali' are informal Swiss greetings. 'Sali' is especially common in Zürich."},
@@ -41,6 +43,8 @@ SUBTOPIC_FIRST_CONTACT = {
                 {"speaker": "Stranger", "swissGerman": "Ah so! Und was mached Sie berueflich?", "german": "Ah so! Und was machen Sie beruflich?", "english": "I see! And what do you do professionally?"},
                 {"speaker": "You", "swissGerman": "Ich schaffe als Software-Entwickler. Und Sie?", "german": "Ich arbeite als Software-Entwickler. Und Sie?", "english": "I work as a software developer. And you?"},
                 {"speaker": "Stranger", "swissGerman": "Ich bi im Marketing. Aber hüt gönn ich mir eifach en schöne Abig.", "german": "Ich bin im Marketing. Aber heute gönne ich mir einfach einen schönen Abend.", "english": "I'm in marketing. But today I'm just treating myself to a nice evening."},
+                {"speaker": "You", "swissGerman": "Das hör ich gärn. Und Ihres Unternehme — isch das au hie i Züri?", "german": "Das höre ich gern. Und Ihr Unternehmen — ist das auch hier in Zürich?", "english": "Good to hear. And your company — is that also here in Zurich?"},
+                {"speaker": "Stranger", "swissGerman": "Ja, am Hauptsitz bi Oerlikon. Wir sind grad am expandiere.", "german": "Ja, am Hauptsitz bei Oerlikon. Wir sind gerade am Expandieren.", "english": "Yes, headquarters near Oerlikon. We're currently expanding."},
             ],
             "differences": [
                 {"swissGerman": "Grüezi", "german": "Guten Tag", "explanation": "'Grüezi' = formal Swiss greeting. From 'Gott grüez i' (God greet you)."},
@@ -65,6 +69,8 @@ SUBTOPIC_FIRST_CONTACT = {
                 {"speaker": "You", "swissGerman": "Ich wohne sit emene halbe Johr i Züri.", "german": "Ich wohne seit einem halben Jahr in Zürich.", "english": "I've been living in Zurich for half a year."},
                 {"speaker": "You", "swissGerman": "Ich will Schwizerdütsch lerne, will mini Arbeitskollege alli Dialäkt rede.", "german": "Ich will Schweizerdeutsch lernen, weil meine Arbeitskollegen alle Dialekt reden.", "english": "I want to learn Swiss German because my work colleagues all speak dialect."},
                 {"speaker": "Classmate", "swissGerman": "Ich au! Ich bi d'Ana us Brasilie. Ich verstah fascht nüüt!", "german": "Ich auch! Ich bin Ana aus Brasilien. Ich verstehe fast nichts!", "english": "Me too! I'm Ana from Brazil. I understand almost nothing!"},
+                {"speaker": "You", "swissGerman": "Wie lang bisch scho i Züri? Und woher chasch du denn Schwizerdütsch?", "german": "Wie lange bist du schon in Zürich? Und wieso lernst du Schweizerdeutsch?", "english": "How long have you been in Zurich? And why are you learning Swiss German?"},
+                {"speaker": "Classmate", "swissGerman": "Erst drei Monet. Mini Chollege rede nur Dialäkt — ich will nöd immer uf Hochdütsch warte.", "german": "Erst drei Monate. Meine Kollegen reden nur Dialekt — ich will nicht immer auf Hochdeutsch warten.", "english": "Only three months. My colleagues only speak dialect — I don't want to always wait for High German."},
                 {"speaker": "You", "swissGerman": "Haha, mir gönd das zäme dure! Freut mich, Ana.", "german": "Haha, wir schaffen das zusammen! Freut mich, Ana.", "english": "Haha, we'll get through this together! Nice to meet you, Ana."},
             ],
             "differences": [
@@ -91,6 +97,8 @@ SUBTOPIC_FIRST_CONTACT = {
                 {"speaker": "Parent", "swissGerman": "Ich bi de Thomas. Und du?", "german": "Ich bin Thomas. Und du?", "english": "I'm Thomas. And you?"},
                 {"speaker": "You", "swissGerman": "Marco. Freut mich! Chömed ihr oft hie?", "german": "Marco. Freut mich! Kommt ihr oft hierher?", "english": "Marco. Nice to meet you! Do you come here often?"},
                 {"speaker": "Parent", "swissGerman": "Ja, meischtens am Namittag. S'isch de bescht Spielplatz im Quartier.", "german": "Ja, meistens am Nachmittag. Es ist der beste Spielplatz im Quartier.", "english": "Yes, mostly in the afternoon. It's the best playground in the neighborhood."},
+                {"speaker": "You", "swissGerman": "S'isch würklich guet — die Chind chönd au klätre und s'Sandchaste isch gross.", "german": "Es ist wirklich gut — die Kinder können auch klettern und der Sandkasten ist groß.", "english": "It really is good — the kids can also climb and the sandpit is big."},
+                {"speaker": "Parent", "swissGerman": "Ja, und am Sunntig mached sie manchmal en Flohmarkt drnebe — schau mol go!", "german": "Ja, und am Sonntag machen sie manchmal einen Flohmarkt daneben — schau mal vorbei!", "english": "Yes, and on Sunday they sometimes hold a flea market next to it — check it out sometime!"},
             ],
             "differences": [
                 {"swissGerman": "Wie heissch du", "german": "Wie heißt du", "explanation": "'heissch' = 'heißt'. Swiss conjugation."},
@@ -116,6 +124,8 @@ SUBTOPIC_FIRST_CONTACT = {
                 {"speaker": "You", "swissGerman": "Öppe zwöi Johr. Ich bi wäge de Arbet cho.", "german": "Etwa zwei Jahre. Ich bin wegen der Arbeit gekommen.", "english": "About two years. I came for work."},
                 {"speaker": "Local", "swissGerman": "Und? Gfallts dir i de Schwiiz?", "german": "Und? Gefällt es dir in der Schweiz?", "english": "And? Do you like it in Switzerland?"},
                 {"speaker": "You", "swissGerman": "Ja, sehr! S'Läbe isch anders, aber ich fühl mich wohl. Nur s'Schwizerdütsch...", "german": "Ja, sehr! Das Leben ist anders, aber ich fühle mich wohl. Nur das Schweizerdeutsch...", "english": "Yes, a lot! Life is different, but I feel comfortable. Only the Swiss German..."},
+                {"speaker": "Local", "swissGerman": "Haha, de Dialäkt isch e Härausforderig! Aber d'Lüüt i Züri sind verständnisvoll.", "german": "Haha, der Dialekt ist eine Herausforderung! Aber die Leute in Zürich sind verständnisvoll.", "english": "Haha, the dialect is a challenge! But people in Zurich are understanding."},
+                {"speaker": "You", "swissGerman": "Ich lerne gad in ere Schuel — jedi Wuche e bitzli besser. Hüt isch mä eerst Stammtisch!", "german": "Ich lerne gerade in einer Schule — jede Woche ein bisschen besser. Heute ist mein erster Stammtisch!", "english": "I'm currently learning in a class — a little better every week. Today is my first regulars' table!"},
             ],
             "differences": [
                 {"swissGerman": "vo do", "german": "von hier", "explanation": "'vo do' = 'von hier'. Swiss form."},

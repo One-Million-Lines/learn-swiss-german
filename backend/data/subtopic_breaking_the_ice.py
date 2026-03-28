@@ -16,6 +16,8 @@ SUBTOPIC_BREAKING_THE_ICE = {
                 {"speaker": "Stranger", "swissGerman": "D'Bratwürscht bim Stand dört — die sind legendär!", "german": "Die Bratwürste beim Stand dort — die sind legendär!", "english": "The bratwursts at that stand — they're legendary!"},
                 {"speaker": "You", "swissGerman": "Ah nice! Und was wird nocher no los si?", "german": "Ah toll! Und was wird nachher noch los sein?", "english": "Ah nice! And what else is going on later?"},
                 {"speaker": "Stranger", "swissGerman": "Am Abig gits Livemusig. Und ums Zähni s'Füürwärk!", "german": "Am Abend gibt es Livemusik. Und um zehn das Feuerwerk!", "english": "In the evening there's live music. And at ten the fireworks!"},
+                {"speaker": "You", "swissGerman": "Perfekt! Und isch bim Stand scho es Wartezig?", "german": "Perfekt! Und gibt es beim Stand schon eine Wartezeit?", "english": "Perfect! And is there already a wait at the bratwurst stand?"},
+                {"speaker": "Stranger", "swissGerman": "Am Aaafang nöd. Aber ab sechsi wird d'Schlange lang — geh lieber jetzt!", "german": "Am Anfang nicht. Aber ab sechs Uhr wird die Schlange lang — geh lieber jetzt!", "english": "Not at the start. But after six the queue gets long — better go now!"},
             ],
             "differences": [
                 {"swissGerman": "mega vill Lüüt", "german": "mega viele Leute", "explanation": "'Lüüt' = 'Leute'. People. Swiss form."},
@@ -41,6 +43,8 @@ SUBTOPIC_BREAKING_THE_ICE = {
                 {"speaker": "Stranger", "swissGerman": "De Nussbrötli. Und du? Chasch du scho uf Schwizerdütsch bstelle?", "german": "Die Nussbrötchen. Und du? Kannst du schon auf Schweizerdeutsch bestellen?", "english": "The nut rolls. And you? Can you order in Swiss German already?"},
                 {"speaker": "You", "swissGerman": "Haha, ich probiers! 'Ich hett gärn zwöi Gipfeli bitte.'", "german": "Haha, ich versuche es! 'Ich hätte gerne zwei Croissants bitte.'", "english": "Haha, I try! 'I'd like two croissants please.'"},
                 {"speaker": "Stranger", "swissGerman": "Perfekt! Das klingt scho mega guet!", "german": "Perfekt! Das klingt schon mega gut!", "english": "Perfect! That already sounds really good!"},
+                {"speaker": "You", "swissGerman": "Danke für d'Ermutigig! Ich probier's eifach.", "german": "Danke für die Ermutigung! Ich versuche es einfach.", "english": "Thanks for the encouragement! I'll just give it a try."},
+                {"speaker": "Stranger", "swissGerman": "Los! Einmal gmacht, denn chunt's vo allein. Mer sind jetzt az dra!", "german": "Los! Einmal gemacht, dann kommt es von selbst. Wir sind jetzt dran!", "english": "Go for it! Once you've done it, it comes naturally. We're up now!"},
             ],
             "differences": [
                 {"swissGerman": "Schlange", "german": "Schlange", "explanation": "Same word for queue/line."},
@@ -66,6 +70,8 @@ SUBTOPIC_BREAKING_THE_ICE = {
                 {"speaker": "Stranger", "swissGerman": "De chalti Nordostwind. Wenn de blaast, isch es gfüehlt minus zwänzg.", "german": "Der kalte Nordostwind. Wenn der bläst, fühlt es sich an wie minus zwanzig.", "english": "The cold northeast wind. When it blows, it feels like minus twenty."},
                 {"speaker": "You", "swissGerman": "Krass! Und wie lang goht das?", "german": "Krass! Und wie lange dauert das?", "english": "Wow! And how long does it last?"},
                 {"speaker": "Stranger", "swissGerman": "Meischtens es paar Täg. Denn wird's wider besser. D'Schwiiz halt!", "german": "Meistens ein paar Tage. Dann wird es wieder besser. Die Schweiz halt!", "english": "Usually a few days. Then it gets better again. Switzerland, you know!"},
+                {"speaker": "You", "swissGerman": "Wenigschtes isch s'Tram pünktlich. Ohni das wäri ich verlore!", "german": "Wenigstens ist das Tram pünktlich. Ohne das wäre ich verloren!", "english": "At least the tram is on time. Without that I'd be lost!"},
+                {"speaker": "Stranger", "swissGerman": "Haha, genau! Pünktlichkeit isch in de Schwiiz s'Heiligschte!", "german": "Haha, genau! Pünktlichkeit ist in der Schweiz das Allerheiligste!", "english": "Haha, exactly! Punctuality is sacred in Switzerland!"},
             ],
             "differences": [
                 {"swissGerman": "Huere", "german": "Furchtbar/sehr", "explanation": "'Huere' = intensifier. Very Swiss, slightly vulgar but widely used casually."},
@@ -91,6 +97,8 @@ SUBTOPIC_BREAKING_THE_ICE = {
                 {"speaker": "Colleague", "swissGerman": "Nei, mir fahred mit de Gondelbahn uuf und laufed nur abe.", "german": "Nein, wir fahren mit der Gondelbahn hoch und laufen nur runter.", "english": "No, we take the gondola up and only walk down."},
                 {"speaker": "You", "swissGerman": "Schlau! Und du? Was machsch du so am Wuchenänd?", "german": "Schlau! Und du? Was machst du so am Wochenende?", "english": "Smart! And you? What do you do on weekends?"},
                 {"speaker": "Colleague", "swissGerman": "Meischtens nüüt Bsunders. Chli usschlafe, chli Poschte.", "german": "Meistens nichts Besonderes. Ein bisschen ausschlafen, ein bisschen einkaufen.", "english": "Mostly nothing special. Sleep in a bit, do some shopping."},
+                {"speaker": "You", "swissGerman": "Ha! Das tönt nach em perfäkte Wuchenänd!", "german": "Ha! Das klingt nach dem perfekten Wochenende!", "english": "Ha! That sounds like the perfect weekend!"},
+                {"speaker": "Colleague", "swissGerman": "Ja, manchmal isch weniger meh. Aber hüt Nami no en schnälle Kafi?", "german": "Ja, manchmal ist weniger mehr. Aber heute Nachmittag noch einen schnellen Kaffee?", "english": "Yes, sometimes less is more. But a quick coffee this afternoon?"},
             ],
             "differences": [
                 {"swissGerman": "Plän", "german": "Pläne", "explanation": "'Plän' = 'Pläne'. Dropped '-e'."},
@@ -116,6 +124,8 @@ SUBTOPIC_BREAKING_THE_ICE = {
                 {"speaker": "You", "swissGerman": "Krass! Und wie isch es so — s'Start-up-Läbe?", "german": "Krass! Und wie ist es so — das Start-up-Leben?", "english": "Cool! And how is it — the start-up life?"},
                 {"speaker": "Person", "swissGerman": "Strässig, aber mega spannend. Und was machsch du so?", "german": "Stressig, aber mega spannend. Und was machst du so?", "english": "Stressful, but super exciting. And what do you do?"},
                 {"speaker": "You", "swissGerman": "Ich bi Grafiker. Aber e eigeni App — das tönt scho verlockend!", "german": "Ich bin Grafiker. Aber eine eigene App — das klingt schon verlockend!", "english": "I'm a graphic designer. But having your own app — that does sound tempting!"},
+                {"speaker": "Person", "swissGerman": "Wenn's dir mal langwiilis wird — mir sueche no Lüüt fürs UI-Design!", "german": "Wenn es dir mal langweilig wird — wir suchen noch Leute fürs UI-Design!", "english": "If you ever get bored — we're still looking for people for UI design!"},
+                {"speaker": "You", "swissGerman": "Ha! Das isch en gueti Idee. Muesch du mir dini Visitecharte gä!", "german": "Ha! Das ist eine gute Idee. Du musst mir deine Visitenkarte geben!", "english": "Ha! That's a good idea. You need to give me your business card!"},
             ],
             "differences": [
                 {"swissGerman": "Chreis", "german": "Kreis", "explanation": "'Chreis' = 'Kreis'. K→Ch. Zurich districts are called 'Kreise'."},

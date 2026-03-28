@@ -15,6 +15,8 @@ SUBTOPIC_AT_THE_DOCTOR = {
                 {"speaker": "You", "swissGerman": "Müller, Anna Müller.", "german": "Müller, Anna Müller.", "english": "Müller, Anna Müller."},
                 {"speaker": "Receptionist", "swissGerman": "Dankeschön. Händ Si Ihri Chrankekasse-Charte debii?", "german": "Dankeschön. Haben Sie Ihre Krankenkassenkarte dabei?", "english": "Thank you. Do you have your health insurance card with you?"},
                 {"speaker": "You", "swissGerman": "Ja, do isch si.", "german": "Ja, hier ist sie.", "english": "Yes, here it is."},
+                {"speaker": "Receptionist", "swissGerman": "Dankeschön. Isch Ihri Adräss no dieselbi wie letscht Mal?", "german": "Dankeschön. Ist Ihre Adresse noch dieselbe wie letztes Mal?", "english": "Thank you. Is your address still the same as last time?"},
+                {"speaker": "You", "swissGerman": "Ja, ich bi no am gleiche Ort. Nüüt hät sich gändert.", "german": "Ja, ich bin noch am gleichen Ort. Nichts hat sich geändert.", "english": "Yes, I'm still at the same address. Nothing has changed."},
                 {"speaker": "Receptionist", "swissGerman": "Merci. Nämed Si bitte im Wartzimmer Platz.", "german": "Danke. Nehmen Sie bitte im Wartezimmer Platz.", "english": "Thanks. Please take a seat in the waiting room."},
             ],
             "differences": [

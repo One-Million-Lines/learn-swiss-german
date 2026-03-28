@@ -15,6 +15,8 @@ SUBTOPIC_DIRECTIONS_BASIC = {
                 {"speaker": "Driver", "swissGerman": "Da? Oder meh deet ane?", "german": "Hier? Oder mehr dort drüben?", "english": "Here? Or more over there?"},
                 {"speaker": "You", "swissGerman": "Nei, da hie isch guet. Genau da.", "german": "Nein, hier ist gut. Genau hier.", "english": "No, here is fine. Right here."},
                 {"speaker": "Driver", "swissGerman": "Perfekt. Bitteschön!", "german": "Perfekt. Bitteschön!", "english": "Perfect. There you go!"},
+                {"speaker": "You", "swissGerman": "Isch das en schweri Kischte? Bruuched Sie Hälf?", "german": "Ist das eine schwere Kiste? Brauchen Sie Hilfe?", "english": "Is that a heavy box? Do you need help?"},
+                {"speaker": "Driver", "swissGerman": "Nei merci, ich ha's. Isch nöd eso schwär.", "german": "Nein danke, ich habe es. Ist nicht so schwer.", "english": "No thanks, I've got it. It's not that heavy."},
                 {"speaker": "You", "swissGerman": "Merci vielmal!", "german": "Vielen Dank!", "english": "Thanks a lot!"},
             ],
             "differences": [
@@ -40,6 +42,8 @@ SUBTOPIC_DIRECTIONS_BASIC = {
                 {"speaker": "Pedestrian", "swissGerman": "Bi de Ampere denn rächts.", "german": "Bei der Ampel dann rechts.", "english": "At the traffic light then right."},
                 {"speaker": "You", "swissGerman": "Also: links, grad us, bi de Ampere rächts. Merci!", "german": "Also: links, geradeaus, bei der Ampel rechts. Danke!", "english": "So: left, straight, at the light right. Thanks!"},
                 {"speaker": "Pedestrian", "swissGerman": "Genau! Isch nöd wiit.", "german": "Genau! Ist nicht weit.", "english": "Exactly! It's not far."},
+                {"speaker": "You", "swissGerman": "Öppe wie lang z'Fuess?", "german": "Ungefähr wie lange zu Fuß?", "english": "About how long on foot?"},
+                {"speaker": "Pedestrian", "swissGerman": "So öppe zäh bis füfzäh Minute. Flott!", "german": "So etwa zehn bis fünfzehn Minuten. Flott!", "english": "About ten to fifteen minutes. Brisk walk!"},
             ],
             "differences": [
                 {"swissGerman": "links / rächts", "german": "links / rechts", "explanation": "'rächts' = 'rechts'. 'links' stays the same in both."},
@@ -64,6 +68,8 @@ SUBTOPIC_DIRECTIONS_BASIC = {
                 {"speaker": "Local", "swissGerman": "Öppe zäh Minute z'Fuess. Oder du nimmsch de Bus, denn isch es nöch.", "german": "Etwa zehn Minuten zu Fuss. Oder du nimmst den Bus, dann ist es nah.", "english": "About ten minutes on foot. Or take the bus, then it's close."},
                 {"speaker": "You", "swissGerman": "Ich gang z'Fuess, wenns nöd z'wiit isch.", "german": "Ich gehe zu Fuss, wenn es nicht zu weit ist.", "english": "I'll walk if it's not too far."},
                 {"speaker": "Local", "swissGerman": "Nä, gaht easy! Eifach deet durä.", "german": "Nein, geht leicht! Einfach da durch.", "english": "No, it's easy! Just go through there."},
+                {"speaker": "You", "swissGerman": "Und isch d'Apothek links oder rechts vo de Strooss?", "german": "Und ist die Apotheke links oder rechts von der Straße?", "english": "And is the pharmacy on the left or right of the road?"},
+                {"speaker": "Local", "swissGerman": "Links, nebe de grosse Migros. Die chönd Si übersehen nöd!", "german": "Links, neben dem großen Migros. Den können Sie nicht übersehen!", "english": "Left, next to the large Migros. You can't miss it!"},
             ],
             "differences": [
                 {"swissGerman": "i de Nöchi", "german": "in der Nähe", "explanation": "'i de Nöchi' = 'in der Nähe'. 'Nöchi' = 'Nähe'."},
@@ -88,7 +94,8 @@ SUBTOPIC_DIRECTIONS_BASIC = {
                 {"speaker": "Guard", "swissGerman": "Ja, de Lift isch grad deet. Oder d'Stäge isch deet ane.", "german": "Ja, der Aufzug ist gleich dort. Oder die Treppe ist dort drüben.", "english": "Yes, the elevator is right there. Or the stairs are over there."},
                 {"speaker": "You", "swissGerman": "Ich nimm d'Stäge. Merci!", "german": "Ich nehme die Treppe. Danke!", "english": "I'll take the stairs. Thanks!"},
                 {"speaker": "Guard", "swissGerman": "Gern! Eifach ufe bis zum dritte Stock.", "german": "Gern! Einfach hoch bis zum dritten Stock.", "english": "Sure! Just go up to the third floor."},
-            ],
+                {"speaker": "You", "swissGerman": "Isch de Lift schnell oder lohnt sich d'Stäge meh?", "german": "Ist der Lift schnell oder lohnen sich die Treppen mehr?", "english": "Is the lift fast or are the stairs more worthwhile?"},
+                {"speaker": "Guard", "swissGerman": "Haha! D'Stäge isch schnäller. Und s'nöchscht Büro isch grad bim Treppehaus!", "german": "Haha! Die Treppe ist schneller. Und das nächste Büro ist gleich beim Treppenhaus!", "english": "Haha! The stairs are faster. And the office you want is right by the stairwell!"},            ],
             "differences": [
                 {"swissGerman": "obe / unde", "german": "oben / unten", "explanation": "'obe' = 'oben' (up/above), 'unde' = 'unten' (down/below). Drop the -n."},
                 {"swissGerman": "ufe", "german": "hoch / hinauf", "explanation": "'ufe' = 'hinauf/hoch' (upward). Direction of movement."},
@@ -112,7 +119,8 @@ SUBTOPIC_DIRECTIONS_BASIC = {
                 {"speaker": "Local", "swissGerman": "Ja, gar nöd wiit! Gönd Sie grad us da Strooss ufe, immer grad us.", "german": "Ja, gar nicht weit! Gehen Sie diese Strasse hoch, immer geradeaus.", "english": "Yes, not far at all! Go up this street, always straight."},
                 {"speaker": "You", "swissGerman": "Und denn gsehni de Bahnhof?", "german": "Und dann sehe ich den Bahnhof?", "english": "And then I'll see the station?"},
                 {"speaker": "Local", "swissGerman": "Ja, nach öppe föif Minute, links. Chönd's nöd verfähle!", "german": "Ja, nach etwa fünf Minuten, links. Sie können es nicht verfehlen!", "english": "Yes, after about five minutes, on the left. You can't miss it!"},
-            ],
+                {"speaker": "You", "swissGerman": "Merci vielmal! Sie sind sehr fründlich.", "german": "Vielen Dank! Sie sind sehr freundlich.", "english": "Thank you so much! You are very kind."},
+                {"speaker": "Local", "swissGerman": "Guet so! Und schöne Tag in Züri!", "german": "Gut so! Und schönen Tag in Zürich!", "english": "Great! And have a nice day in Zurich!"},            ],
             "differences": [
                 {"swissGerman": "verlore", "german": "verloren", "explanation": "'verlore' = 'verloren'. Past participle drops the final -n."},
                 {"swissGerman": "Wo wänd Sie ane?", "german": "Wo wollen Sie hin?", "explanation": "'wänd' = 'wollen', 'ane' = 'hin'. Direction question for destination."},

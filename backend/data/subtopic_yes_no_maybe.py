@@ -14,6 +14,8 @@ SUBTOPIC_YES_NO_MAYBE = {
                 {"speaker": "You", "swissGerman": "Ja, sicher! Gueti Idee!", "german": "Ja, sicher! Gute Idee!", "english": "Yes, sure! Good idea!"},
                 {"speaker": "Friend", "swissGerman": "Cool! Söll ich d'Route ussuechä?", "german": "Cool! Soll ich die Route aussuchen?", "english": "Cool! Should I pick the route?"},
                 {"speaker": "You", "swissGerman": "Ja klar, mach du! Ich bi debii.", "german": "Ja klar, mach du! Ich bin dabei.", "english": "Sure, go ahead! I'm in."},
+                {"speaker": "You", "swissGerman": "Wo sölle mir wandere? I de Nöhchi oder au uf de Pilatus?", "german": "Wo sollen wir wandern? In der Nähe oder auch auf den Pilatus?", "english": "Where should we hike? Nearby or also up to Pilatus?"},
+                {"speaker": "Friend", "swissGerman": "Ich dänke Pilatus isch mega! Mir chönd mit de Gondel ufe und z'Fuess abe.", "german": "Ich denke Pilatus ist mega! Wir können mit der Gondel hoch und zu Fuß runter.", "english": "I think Pilatus is amazing! We can take the gondola up and walk down."},
                 {"speaker": "Friend", "swissGerman": "Top! Denn mäldä mi.", "german": "Top! Dann melde ich mich.", "english": "Great! I'll be in touch then."},
             ],
             "differences": [
@@ -37,6 +39,8 @@ SUBTOPIC_YES_NO_MAYBE = {
                 {"speaker": "You", "swissGerman": "Hmm, nei, hüt lieber nöd. Bin totaal kaputt.", "german": "Hmm, nein, heute lieber nicht. Bin total kaputt.", "english": "Hmm, no, not today. I'm totally exhausted."},
                 {"speaker": "Colleague", "swissGerman": "Ah schad! Nöchscht Mal denn?", "german": "Ah schade! Nächstes Mal dann?", "english": "Ah too bad! Next time then?"},
                 {"speaker": "You", "swissGerman": "Ja, uf jede Fall! Da bini debii.", "german": "Ja, auf jeden Fall! Da bin ich dabei.", "english": "Yes, definitely! I'll be there for that."},
+                {"speaker": "You", "swissGerman": "Isch de Starbucks am Paradeplatz oder am Bellevue?", "german": "Ist das Starbucks am Paradeplatz oder am Bellevue?", "english": "Is the Starbucks at Paradeplatz or at Bellevue?"},
+                {"speaker": "Colleague", "swissGerman": "Am Bellevue, grad bim See. Mir treffed eus dort um sächsi.", "german": "Am Bellevue, direkt beim See. Wir treffen uns dort um sechs.", "english": "At Bellevue, right by the lake. We'll meet there at six."},
                 {"speaker": "Colleague", "swissGerman": "Abgemacht! Erhole dich guet.", "german": "Abgemacht! Erhole dich gut.", "english": "Deal! Rest well."},
             ],
             "differences": [
@@ -61,6 +65,8 @@ SUBTOPIC_YES_NO_MAYBE = {
                 {"speaker": "Partner", "swissGerman": "Vilicht? Heisst das ehner ja oder ehner nei?", "german": "Vielleicht? Heisst das eher ja oder eher nein?", "english": "Maybe? Does that mean more like yes or more like no?"},
                 {"speaker": "You", "swissGerman": "Eigentlich scho ehner ja, aber ich muess no drüber nochedänke.", "german": "Eigentlich schon eher ja, aber ich muss noch darüber nachdenken.", "english": "Actually more like yes, but I need to think about it some more."},
                 {"speaker": "Partner", "swissGerman": "Okay, kei Stress. Mir händ ja Ziit.", "german": "Okay, kein Stress. Wir haben ja Zeit.", "english": "Okay, no rush. We have time."},
+                {"speaker": "Partner", "swissGerman": "Mir chönd au zerscht es Probejahr mache — en Chatz uf Bewährung sozusäge.", "german": "Wir können auch erst ein Probejahr machen — eine Katze auf Bewährung sozusagen.", "english": "We can also do a trial year first — a cat on probation so to speak."},
+                {"speaker": "You", "swissGerman": "Das klingt vernünftig. Ich lueg mal ob s'TierAsyl Züri Infomänd aabietet.", "german": "Das klingt vernünftig. Ich schaue mal ob das Tierasyl Zürich Infoabende anbietet.", "english": "That sounds sensible. I'll check if Tierasyl Zurich offers info evenings."},
                 {"speaker": "You", "swissGerman": "Genau. Ich sägä der denn Bescheid.", "german": "Genau. Ich sage dir dann Bescheid.", "english": "Exactly. I'll let you know."},
             ],
             "differences": [
@@ -85,6 +91,8 @@ SUBTOPIC_YES_NO_MAYBE = {
                 {"speaker": "Salesperson", "swissGerman": "Aber luege Sie mol, es coschtet nüt am Aafang!", "german": "Aber schauen Sie mal, es kostet nichts am Anfang!", "english": "But look, it costs nothing at the start!"},
                 {"speaker": "You", "swissGerman": "Nei, würkli nöd. Ich wott nöd, merci.", "german": "Nein, wirklich nicht. Ich will nicht, danke.", "english": "No, really not. I don't want to, thanks."},
                 {"speaker": "Salesperson", "swissGerman": "Okay, kei Problem. Schöne Tag!", "german": "Okay, kein Problem. Schönen Tag!", "english": "Okay, no problem. Nice day!"},
+                {"speaker": "You", "swissGerman": "Isch das en gesetzlichi Pflicht, bi so Iigang am Bahnhof?", "german": "Ist das eine gesetzliche Pflicht, bei solchem Eingang am Bahnhof?", "english": "Is that a legal requirement, at such an entrance at the station?"},
+                {"speaker": "Salesperson", "swissGerman": "Nei nei, mir sind frei zu stah — ich cha euch abber nöd zwinge öppis aaznäh.", "german": "Nein nein, wir stehen hier freiwillig — ich kann Sie aber nicht zwingen etwas anzunehmen.", "english": "No no, we stand here voluntarily — but I can't force you to take anything."},
                 {"speaker": "You", "swissGerman": "Danke, Ihne au.", "german": "Danke, Ihnen auch.", "english": "Thanks, you too."},
             ],
             "differences": [
@@ -109,6 +117,8 @@ SUBTOPIC_YES_NO_MAYBE = {
                 {"speaker": "Friend", "swissGerman": "Die gliichi wie letzscht Mal?", "german": "Die gleiche wie letztes Mal?", "english": "Same one as last time?"},
                 {"speaker": "You", "swissGerman": "Genau! Die isch mega gsi.", "german": "Genau! Die war mega.", "english": "Exactly! That one was great."},
                 {"speaker": "Friend", "swissGerman": "Bestelli jetzt. Achti isch guet?", "german": "Bestelle ich jetzt. Acht Uhr ist gut?", "english": "I'll order now. Eight o'clock good?"},
+                {"speaker": "Friend", "swissGerman": "Soll ich auch en Salat oder es Dessert bestelle?", "german": "Soll ich auch einen Salat oder ein Dessert bestellen?", "english": "Should I also order a salad or a dessert?"},
+                {"speaker": "You", "swissGerman": "Hmm, bestell mol en Tiramisù — mir teileds.", "german": "Hmm, bestell mal ein Tiramisù — wir teilen es.", "english": "Hmm, order a Tiramisù — we'll share it."},
                 {"speaker": "You", "swissGerman": "Perfekt, passt!", "german": "Perfekt, passt!", "english": "Perfect, works!"},
             ],
             "differences": [

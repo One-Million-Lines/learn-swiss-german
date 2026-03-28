@@ -15,6 +15,8 @@ SUBTOPIC_FARMING = {
                 {"speaker": "Farmer", "swissGerman": "Öppe zwöi Balle pro Chue. Mir händ zwänzg Chüe im Stall.", "german": "Etwa zwei Ballen pro Kuh. Wir haben zwanzig Kühe im Stall.", "english": "About two bales per cow. We have twenty cows in the barn."},
                 {"speaker": "You", "swissGerman": "Guet, und d'Hüener? Händ die scho Fuetter?", "german": "Gut, und die Hühner? Haben die schon Futter?", "english": "Good, and the chickens? Have they been fed already?"},
                 {"speaker": "Farmer", "swissGerman": "Nei, die chömed denn no draa. Und d'Eier iisammle!", "german": "Nein, die kommen dann noch dran. Und die Eier einsammeln!", "english": "No, they come next. And collect the eggs!"},
+                {"speaker": "You", "swissGerman": "Und d'Chälber? Bruuched die au no Fuetter?", "german": "Und die Kälber? Brauchen die auch noch Futter?", "english": "And the calves? Do they need feeding too?"},
+                {"speaker": "Farmer", "swissGerman": "Ja, zerscht d'Chälber, denn d'Hüener. Die Ornig isch wichtig.", "german": "Ja, zuerst die Kälber, dann die Hühner. Die Reihenfolge ist wichtig.", "english": "Yes, calves first, then chickens. The order is important."},
                 {"speaker": "You", "swissGerman": "Mach ich. Geschter hämmer 40 Eier gha!", "german": "Mach ich. Gestern hatten wir 40 Eier!", "english": "Will do. Yesterday we had 40 eggs!"},
             ],
             "differences": [
@@ -40,6 +42,8 @@ SUBTOPIC_FARMING = {
                 {"speaker": "Customer", "swissGerman": "Was choscht es Kilo?", "german": "Was kostet ein Kilo?", "english": "What does a kilo cost?"},
                 {"speaker": "You", "swissGerman": "Vier Franke s'Kilo. Und mir händ au frische Birre.", "german": "Vier Franken das Kilo. Und wir haben auch frische Birnen.", "english": "Four francs a kilo. And we also have fresh pears."},
                 {"speaker": "Customer", "swissGerman": "Guet, ich nimm zwöi Kilo Öpfel und eis Kilo Birre.", "german": "Gut, ich nehme zwei Kilo Äpfel und ein Kilo Birnen.", "english": "Good, I'll take two kilos of apples and one kilo of pears."},
+                {"speaker": "Customer", "swissGerman": "Händ Sie au Öpfelsaft? Ich suech en ohni Zucker.", "german": "Haben Sie auch Apfelsaft? Ich suche einen ohne Zucker.", "english": "Do you also have apple juice? I'm looking for one without sugar."},
+                {"speaker": "You", "swissGerman": "Ja, direkt vom Presse — reine Öpfel, kei Zuegesatz. Drei Franke d'Fläsche.", "german": "Ja, direkt aus der Presse — reine Äpfel, kein Zusatz. Drei Franken die Flasche.", "english": "Yes, directly pressed — pure apples, no additives. Three francs a bottle."},
                 {"speaker": "You", "swissGerman": "Gärn! Das macht zäme zwölf Franke.", "german": "Gern! Das macht zusammen zwölf Franken.", "english": "Gladly! That comes to twelve francs together."},
             ],
             "differences": [
@@ -65,6 +69,8 @@ SUBTOPIC_FARMING = {
                 {"speaker": "Farmer", "swissGerman": "Wämmer am Morge früech aafange, scho. De Mähdrescher isch parat.", "german": "Wenn wir morgens früh anfangen, schon. Der Mähdrescher ist bereit.", "english": "If we start early in the morning, yes. The combine harvester is ready."},
                 {"speaker": "You", "swissGerman": "Und wer hilft eus? Bruuchemer no Lüüt?", "german": "Und wer hilft uns? Brauchen wir noch Leute?", "english": "And who helps us? Do we need more people?"},
                 {"speaker": "Farmer", "swissGerman": "De Nachber chunnt mit sim Traktor. Und sin Bueb hilft au.", "german": "Der Nachbar kommt mit seinem Traktor. Und sein Sohn hilft auch.", "english": "The neighbor is coming with his tractor. And his son helps too."},
+                {"speaker": "You", "swissGerman": "Und was mache mir mit em Chore denn? Direkt ilagere oder verkaufe?", "german": "Und was machen wir mit dem Getreide dann? Direkt einlagern oder verkaufen?", "english": "And what do we do with the grain then? Store directly or sell?"},
+                {"speaker": "Farmer", "swissGerman": "En Teil zur Müli, de Rescht ilagere für Winter. Mir tröffed das nach de Ärnt.", "german": "Ein Teil zur Mühle, den Rest einlagern für den Winter. Das besprechen wir nach der Ernte.", "english": "Part to the mill, the rest stored for winter. We'll discuss that after the harvest."},
                 {"speaker": "You", "swissGerman": "Guet, denn fömmer morn um Föifi aa.", "german": "Gut, dann fangen wir morgen um fünf an.", "english": "Good, then we start at five tomorrow."},
             ],
             "differences": [
@@ -91,6 +97,8 @@ SUBTOPIC_FARMING = {
                 {"speaker": "You", "swissGerman": "Und denn chunnt er i d'Form?", "german": "Und dann kommt er in die Form?", "english": "And then it goes into the mold?"},
                 {"speaker": "Senn", "swissGerman": "Ja, und denn presst mer en und lait en is Salzbad.", "german": "Ja, und dann presst man ihn und legt ihn ins Salzbad.", "english": "Yes, and then you press it and put it in the salt bath."},
                 {"speaker": "You", "swissGerman": "Wie lang muess de Chäs denn riife?", "german": "Wie lang muss der Käse dann reifen?", "english": "How long does the cheese need to age then?"},
+                {"speaker": "Senn", "swissGerman": "Mindeschtens drei Monet für en Halbharte. En Extrahart bruucht bis zu zwöi Johr.", "german": "Mindestens drei Monate für einen Halbharten. Ein Extrahart braucht bis zu zwei Jahre.", "english": "At least three months for a semi-hard. An extra-hard takes up to two years."},
+                {"speaker": "You", "swissGerman": "Mega interessant! Und wer wändet de Chäs im Chäller um?", "german": "Mega interessant! Und wer wendet den Käse im Keller um?", "english": "Fascinating! And who turns the cheese in the cellar?"},
             ],
             "differences": [
                 {"swissGerman": "Senn", "german": "Senner/Käser", "explanation": "'Senn' = traditional alpine cheesemaker."},
@@ -116,6 +124,8 @@ SUBTOPIC_FARMING = {
                 {"speaker": "Farmer", "swissGerman": "Nimm de Hammer, Nägel und es paar Latte us de Schüür.", "german": "Nimm den Hammer, Nägel und ein paar Latten aus der Scheune.", "english": "Take the hammer, nails, and a few slats from the barn."},
                 {"speaker": "You", "swissGerman": "Okay. Isch de elektrisch Zun au betroffe?", "german": "Okay. Ist der elektrische Zaun auch betroffen?", "english": "Okay. Is the electric fence also affected?"},
                 {"speaker": "Farmer", "swissGerman": "Ja, de Draht isch grisse. Nimm au d'Zange mit.", "german": "Ja, der Draht ist gerissen. Nimm auch die Zange mit.", "english": "Yes, the wire is torn. Take the pliers too."},
+                {"speaker": "You", "swissGerman": "Söll ich d'Chüe vorher zum obere Weid tribe, bis ich fertig bi?", "german": "Soll ich die Kühe vorher zur oberen Weide treiben, bis ich fertig bin?", "english": "Should I drive the cows to the upper pasture first until I'm done?"},
+                {"speaker": "Farmer", "swissGerman": "Ja, gueti Idee — suscht stönd die vor em loche Zun und brieched us.", "german": "Ja, gute Idee — sonst stehen die vor dem kaputten Zaun und brechen aus.", "english": "Yes, good idea — otherwise they'll stand in front of the broken fence and bolt."},
                 {"speaker": "You", "swissGerman": "Bin in ere Stund zrugg!", "german": "Bin in einer Stunde zurück!", "english": "I'll be back in an hour!"},
             ],
             "differences": [

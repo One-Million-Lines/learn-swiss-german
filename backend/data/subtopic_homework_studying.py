@@ -16,6 +16,8 @@ SUBTOPIC_HOMEWORK_STUDYING = {
                 {"speaker": "You", "swissGerman": "Okay, fang bi de Einer aa. 7 plus 6 git?", "german": "Okay, fang bei den Einern an. 7 plus 6 ergibt?", "english": "Okay, start with the ones. 7 plus 6 equals?"},
                 {"speaker": "Child", "swissGerman": "Drüzäh! Aaah, also schriib ich de Drüer ane und de Eiser übertrag ich!", "german": "Dreizehn! Aaah, also schreibe ich die Drei hin und die Eins übertrage ich!", "english": "Thirteen! Aaah, so I write down the three and carry the one!"},
                 {"speaker": "You", "swissGerman": "Genau! Gsesch, du chasch das!", "german": "Genau! Siehst du, du kannst das!", "english": "Exactly! See, you can do it!"},
+                {"speaker": "Child", "swissGerman": "Jetzt verstah ich's! Machemer no die nächscht Ufgab zäme?", "german": "Jetzt verstehe ich's! Machen wir noch die nächste Aufgabe zusammen?", "english": "Now I understand it! Can we do the next problem together too?"},
+                {"speaker": "You", "swissGerman": "Klar! Aber die machsch du zerscht allei, und ich schau zue — probier's mol!", "german": "Klar! Aber die machst du zuerst alleine, und ich schaue zu — probier es mal!", "english": "Sure! But you try this one alone first, and I'll watch — give it a go!"},
             ],
             "differences": [
                 {"swissGerman": "Rächne", "german": "Rechnen/Mathe", "explanation": "'Rächne' = 'Rechnen'. Swiss word for maths."},
@@ -41,6 +43,8 @@ SUBTOPIC_HOMEWORK_STUDYING = {
                 {"speaker": "Child", "swissGerman": "Guet. Und die wo ich nöd weiss, legg ich uf de Fählerstapel.", "german": "Gut. Und die die ich nicht weiß, lege ich auf den Fehlerstapel.", "english": "Good. And the ones I don't know, I put on the mistake pile."},
                 {"speaker": "You", "swissGerman": "Genau! Und morn am Morge repetiere mir nomal.", "german": "Genau! Und morgen früh wiederholen wir nochmal.", "english": "Exactly! And tomorrow morning we review again."},
                 {"speaker": "Child", "swissGerman": "Okay. Nachher tuesch du mich abfrage, gäll?", "german": "Okay. Nachher fragst du mich ab, ja?", "english": "Okay. Then you quiz me, right?"},
+                {"speaker": "You", "swissGerman": "Ja! Und wenn du alle Wörter kennsch, därf ich de Fernsee aa.", "german": "Ja! Und wenn du alle Wörter kannst, darf ich den Fernseher an.", "english": "Yes! And when you know all the words, I'll turn on the TV."},
+                {"speaker": "Child", "swissGerman": "Versprooche? Dann fange ich sofort aa! Ich will de Lärnäxpress schaffe!", "german": "Versprochen? Dann fange ich sofort an! Ich will beim Lernexpress mitmachen!", "english": "Promised? Then I'll start right away! I want to get the Learnexpress going!"},
             ],
             "differences": [
                 {"swissGerman": "Franzprüefig", "german": "Französischprüfung", "explanation": "'Franzprüefig' = shortened Swiss form for French test."},
@@ -66,6 +70,8 @@ SUBTOPIC_HOMEWORK_STUDYING = {
                 {"speaker": "Child", "swissGerman": "Aber s'isch so langwiilig!", "german": "Aber es ist so langweilig!", "english": "But it's so boring!"},
                 {"speaker": "You", "swissGerman": "Je schnäller du aafängsch, desto schnäller bisch du fertig.", "german": "Je schneller du anfängst, desto schneller bist du fertig.", "english": "The sooner you start, the sooner you're done."},
                 {"speaker": "Child", "swissGerman": "Ugh, okay... Aber nachher gaht d'Emma mit mir id Badi, gäll?", "german": "Ugh, okay... Aber nachher geht Emma mit mir ins Schwimmbad, ja?", "english": "Ugh, okay... But afterwards Emma goes to the pool with me, right?"},
+                {"speaker": "You", "swissGerman": "Ja, wenn d'Ufzgi bis Vieri fertig sind. Dann häsch no z'Ziit.", "german": "Ja, wenn die Aufgaben bis vier Uhr fertig sind. Dann hast du noch Zeit.", "english": "Yes, if the homework is done by four o'clock. Then you still have time."},
+                {"speaker": "Child", "swissGerman": "(setzt sich hin) Okay, ich fange aa. Aber ich bruuch Stift und Radiergummi!", "german": "(setzt sich hin) Okay, ich fange an. Aber ich brauche Stift und Radiergummi!", "english": "(sits down) Okay, I'm starting. But I need a pen and eraser!"},
             ],
             "differences": [
                 {"swissGerman": "mag nöd", "german": "mag nicht/will nicht", "explanation": "'mag nöd' = 'will nicht'. Swiss way of refusing."},
@@ -91,6 +97,8 @@ SUBTOPIC_HOMEWORK_STUDYING = {
                 {"speaker": "You", "swissGerman": "Das gaht. Einmal pro Wuche? Oder zwöi Mal?", "german": "Das geht. Einmal pro Woche? Oder zwei Mal?", "english": "That works. Once a week? Or twice?"},
                 {"speaker": "Partner", "swissGerman": "Am Afang einmal, und wenns nöd besser wird, zwöi Mal.", "german": "Am Anfang einmal, und wenn es nicht besser wird, zwei Mal.", "english": "Once at first, and if it doesn't improve, twice."},
                 {"speaker": "You", "swissGerman": "Guet, ich rüef die Studentin mol aa.", "german": "Gut, ich rufe die Studentin mal an.", "english": "Good, I'll call the student."},
+                {"speaker": "Partner", "swissGerman": "Und ich säg de Lina nox — Nachhilf isch nöd en Strof.", "german": "Und ich sage Lina noch — Nachhilfe ist keine Strafe.", "english": "And I'll tell Lina — tutoring isn't a punishment."},
+                {"speaker": "You", "swissGerman": "Genau. S'isch nüme Öppis wo jede mol hilft. D'Haubtäsch isch, si verliert d'Freud am Lärne ned.", "german": "Genau. Es ist etwas das jedem manchmal hilft. Das Wichtigste ist, sie verliert die Freude am Lernen nicht.", "english": "Exactly. It's something that helps everyone sometimes. The main thing is she doesn't lose the joy of learning."},
             ],
             "differences": [
                 {"swissGerman": "Drüer", "german": "Drei", "explanation": "Swiss grading: 6 = best, 1 = worst. A 'Drüer' (3) is below passing."},
@@ -116,6 +124,8 @@ SUBTOPIC_HOMEWORK_STUDYING = {
                 {"speaker": "Child", "swissGerman": "'De chli Fuchs... ging... in den... Wald...' Isch das richtig?", "german": "'Der kleine Fuchs... ging... in den... Wald...' Ist das richtig?", "english": "'The little fox... went... into the... forest...' Is that right?"},
                 {"speaker": "You", "swissGerman": "Ja, mega guet! Und jetzt probier chli schnäller z'läse.", "german": "Ja, mega gut! Und jetzt versuch ein bisschen schneller zu lesen.", "english": "Yes, great! And now try to read a bit faster."},
                 {"speaker": "Child", "swissGerman": "Okay! 'Er fand einen... B-B-Bären...' Das isch es schwiers Wort!", "german": "Okay! 'Er fand einen... B-B-Bären...' Das ist ein schwieriges Wort!", "english": "Okay! 'He found a... b-b-bear...' That's a hard word!"},
+                {"speaker": "You", "swissGerman": "Super! Du hesch es gschafft! Säg's nomal — Bär. Jetzt isch es liicht!", "german": "Super! Du hast es geschafft! Sag es nochmal — Bär. Jetzt ist es leicht!", "english": "Super! You got it! Say it again — 'Bär'. Now it's easy!"},
+                {"speaker": "Child", "swissGerman": "Bär! Ich cha's! Isch das Buech lang no?", "german": "Bär! Ich kann's! Ist das Buch noch lang?", "english": "Bär! I can do it! Is the book much longer?"},
             ],
             "differences": [
                 {"swissGerman": "lut", "german": "laut", "explanation": "'lut' = 'laut'. Vowel simplification."},

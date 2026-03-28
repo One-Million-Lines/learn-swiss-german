@@ -15,6 +15,7 @@ SUBTOPIC_STAYING_IN_TOUCH = {
                 {"speaker": "You", "swissGerman": "Super, ich ha's! Ich schick der grad en Nachricht.", "german": "Super, ich habe es! Ich schicke dir gleich eine Nachricht.", "english": "Great, got it! I'll send you a message right away."},
                 {"speaker": "Person", "swissGerman": "Ah ja, gseh ich! Cool, denn hani dich au drin.", "german": "Ah ja, sehe ich! Cool, dann habe ich dich auch drin.", "english": "Ah yes, I see it! Cool, then I have you too."},
                 {"speaker": "You", "swissGerman": "Perfekt! Denn chöne mir eus mol verabrede.", "german": "Perfekt! Dann können wir uns mal verabreden.", "english": "Perfect! Then we can make plans sometime."},
+                {"speaker": "You", "swissGerman": "Super! Und du bisch au uf WhatsApp? Ich nutz lieber das als SMS — bim Ausland kostet's nit extra.", "german": "Super! Und du bist auch auf WhatsApp? Ich nutze das lieber als SMS — beim Ausland kostet es nicht extra.", "english": "Great! And you're on WhatsApp too? I prefer that over SMS — no extra cost for abroad."},
                 {"speaker": "Person", "swissGerman": "Ja, sicher! Schriib mir eifach — ich antwort schnäll!", "german": "Ja, sicher! Schreib mir einfach — ich antworte schnell!", "english": "Yes, sure! Just text me — I reply fast!"},
             ],
             "differences": [
@@ -40,6 +41,7 @@ SUBTOPIC_STAYING_IN_TOUCH = {
                 {"speaker": "You", "swissGerman": "Mir gahts guet, merci! Ich ha dänkt, mir chöntid mol zäme en Kafi go trinke.", "german": "Mir geht es gut, danke! Ich dachte, wir könnten mal zusammen einen Kaffee trinken gehen.", "english": "I'm good, thanks! I thought we could go for a coffee sometime."},
                 {"speaker": "Laura", "swissGerman": "Ja, mega gärn! Die Wuche oder nöchsti?", "german": "Ja, mega gerne! Diese Woche oder nächste?", "english": "Yes, I'd love to! This week or next?"},
                 {"speaker": "You", "swissGerman": "Nöchsti Wuche passt besser. Mittwuch oder Dunschtig?", "german": "Nächste Woche passt besser. Mittwoch oder Donnerstag?", "english": "Next week works better. Wednesday or Thursday?"},
+                {"speaker": "You", "swissGerman": "Cool, dann reservier ich scho mol e Tisch bim Cafi Sprenger, die händ top Kuche.", "german": "Cool, dann reserviere ich schon mal einen Tisch beim Café Sprenger, die haben super Kuchen.", "english": "Cool, then I'll already reserve a table at Café Sprenger, they have great cake."},
                 {"speaker": "Laura", "swissGerman": "Dunschtig isch perfekt! Ich mäld mich no wäge em Ort. Freu mich!", "german": "Donnerstag ist perfekt! Ich melde mich noch wegen des Orts. Freu mich!", "english": "Thursday is perfect! I'll get back to you about the place. Looking forward!"},
             ],
             "differences": [
@@ -65,6 +67,7 @@ SUBTOPIC_STAYING_IN_TOUCH = {
                 {"speaker": "You", "swissGerman": "Ja! Mir söllted in Kontakt bliibe. Bisch du uf Instagram?", "german": "Ja! Wir sollten in Kontakt bleiben. Bist du auf Instagram?", "english": "Yes! We should stay in touch. Are you on Instagram?"},
                 {"speaker": "Person", "swissGerman": "Ja, ich schick dir en Follow-Request! Und WhatsApp au?", "german": "Ja, ich schicke dir eine Follow-Anfrage! Und WhatsApp auch?", "english": "Yes, I'll send you a follow request! And WhatsApp too?"},
                 {"speaker": "You", "swissGerman": "Ja, beides! Ich freu mich, eus wider z'gseh.", "german": "Ja, beides! Ich freue mich, uns wiederzusehen.", "english": "Yes, both! I look forward to seeing you again."},
+                {"speaker": "You", "swissGerman": "Und vilicht chommer nöchschti Wuche go brönzle am Greifensee? Ich ha gehört das isch ruhiger als d'Limmat.", "german": "Und vielleicht können wir nächste Woche am Greifensee sonnenbaden? Ich habe gehört das ist ruhiger als die Limmat.", "english": "And maybe we can sunbathe at Greifensee next week? I heard it's quieter than the Limmat."},
                 {"speaker": "Person", "swissGerman": "Ich au! Bis bald — und mäld dich!", "german": "Ich auch! Bis bald — und melde dich!", "english": "Me too! See you soon — and get in touch!"},
             ],
             "differences": [
@@ -90,6 +93,7 @@ SUBTOPIC_STAYING_IN_TOUCH = {
                 {"speaker": "Friend (text)", "swissGerman": "So ab Zwölfi. Mir sind bim Strandbad Mythenquai.", "german": "So ab zwölf. Wir sind beim Strandbad Mythenquai.", "english": "From around twelve. We'll be at Strandbad Mythenquai."},
                 {"speaker": "You (text)", "swissGerman": "Top! Söll ich öppis mitbringe? Snacks, Getränk?", "german": "Top! Soll ich etwas mitbringen? Snacks, Getränke?", "english": "Great! Should I bring anything? Snacks, drinks?"},
                 {"speaker": "Friend (text)", "swissGerman": "Ja wenn magsch — bring Chips und en Rivella mit 😄", "german": "Ja wenn du magst — bring Chips und eine Rivella mit 😄", "english": "Yes if you want — bring chips and a Rivella 😄"},
+                {"speaker": "You (text)", "swissGerman": "Rivaella isch Pflicht, klar! De Aebischer-Stand am Bellevue hät die kühlt, die isch idäal.", "german": "Rivella ist Pflicht, klar! Der Aebischer-Stand am Bellevue hat die gekühlt, die ist ideal.", "english": "Rivella is a must, of course! The Aebischer stand at Bellevue has them cold, it's ideal."},
                 {"speaker": "You (text)", "swissGerman": "Haha klar, Rivella — d'Schwiizer Nationalgetränk! Bis Sunntig! 🏖️", "german": "Haha klar, Rivella — das Schweizer Nationalgetränk! Bis Sonntag! 🏖️", "english": "Haha sure, Rivella — the Swiss national drink! See you Sunday! 🏖️"},
             ],
             "differences": [
@@ -115,6 +119,7 @@ SUBTOPIC_STAYING_IN_TOUCH = {
                 {"speaker": "You", "swissGerman": "Au guet! Ich ha mich gfrögt, ob du Luscht hätsch, mol wider öppis z'mache?", "german": "Auch gut! Ich habe mich gefragt, ob du Lust hättest, mal wieder etwas zu machen?", "english": "Also good! I was wondering if you'd like to do something again sometime?"},
                 {"speaker": "Sandro", "swissGerman": "Ja, unbedingt! Mir händ eus viel z'lang nöd gseh.", "german": "Ja, unbedingt! Wir haben uns viel zu lange nicht gesehen.", "english": "Yes, absolutely! We haven't seen each other for way too long."},
                 {"speaker": "You", "swissGerman": "Stimmt! Wie wärs mit em Wuchenänd? Bier und Züri gniesse?", "german": "Stimmt! Wie wäre es am Wochenende? Bier und Zürich genießen?", "english": "True! How about the weekend? Beer and enjoying Zurich?"},
+                {"speaker": "You", "swissGerman": "Ich bin scho bim Schönegg gsi, dört händ si de bescht Biirgärte im Summerafig.", "german": "Ich bin schon beim Schönegg gewesen, dort haben sie den besten Biergarten im Sommerabend.", "english": "I've been to Schönegg before, they have the best beer garden on a summer evening."},
                 {"speaker": "Sandro", "swissGerman": "Perfekt! Ich freu mich riisig! Mir schriibid eus no wäge de Details.", "german": "Perfekt! Ich freue mich riesig! Wir schreiben uns noch wegen der Details.", "english": "Perfect! I'm super excited! We'll text about the details."},
             ],
             "differences": [

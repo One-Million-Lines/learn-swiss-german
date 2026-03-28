@@ -15,7 +15,8 @@ SUBTOPIC_INVITATIONS = {
                 {"speaker": "Friend", "swissGerman": "Super! Mir fanged so um Sächsi aa. Bringsch du en Wiisswii mit?", "german": "Super! Wir fangen so um sechs an. Bringst du einen Weißwein mit?", "english": "Great! We start around six. Will you bring a white wine?"},
                 {"speaker": "You", "swissGerman": "Klar! Wiisswii oder Fendant?", "german": "Klar! Weißwein oder Fendant?", "english": "Sure! White wine or Fendant?"},
                 {"speaker": "Friend", "swissGerman": "Fendant passt perfekt zum Fondue! De Klassiker.", "german": "Fendant passt perfekt zum Fondue! Der Klassiker.", "english": "Fendant goes perfectly with fondue! The classic."},
-                {"speaker": "You", "swissGerman": "Abgemacht! Ich freu mich uf Samstig. Bis denn!", "german": "Abgemacht! Ich freue mich auf Samstag. Bis dann!", "english": "Deal! I'm looking forward to Saturday. See you then!"},
+                {"speaker": "You", "swissGerman": "Und soll ich au en Chrottestei nehmhh? De isch jo a de Fendant-Druube uf Wallis.", "german": "Und soll ich auch einen Chasselas nehmen? Der ist ja aus den Fendant-Trauben im Wallis.", "english": "And should I also get a Chasselas? That's from the Fendant grapes in Valais."},
+                {"speaker": "Friend", "swissGerman": "Exakt! Fendant isch ja das Suure — super zu Appezeller Chees im Caquelon!", "german": "Exakt! Fendant ist ja das Säuerliche — super zum Appenzeller Käse im Caquelon!", "english": "Exactly! Fendant is slightly tart — super with Appenzeller cheese in the caquelon!"},
             ],
             "differences": [
                 {"swissGerman": "Fondue-Obe", "german": "Fondue-Abend", "explanation": "'Obe' = 'Abend'. Swiss shortened form."},
@@ -40,7 +41,8 @@ SUBTOPIC_INVITATIONS = {
                 {"speaker": "Friend", "swissGerman": "Schad! Wie chunts?", "german": "Schade! Wie kommt's?", "english": "Too bad! How come?"},
                 {"speaker": "You", "swissGerman": "Mini Eltere sind z'Bsuech. Die chömed extra us Italie.", "german": "Meine Eltern sind zu Besuch. Die kommen extra aus Italien.", "english": "My parents are visiting. They're coming all the way from Italy."},
                 {"speaker": "Friend", "swissGerman": "Ah, verstah total! Family first. Tüend mir leid, aber voll verständlich.", "german": "Ah, verstehe total! Familie geht vor. Tut mir leid, aber voll verständlich.", "english": "Ah, totally understand! Family first. Sorry, but totally understandable."},
-                {"speaker": "You", "swissGerman": "Aber s'nöchste Mal bin ich debii! Versprechigs!", "german": "Aber nächstes Mal bin ich dabei! Versprochen!", "english": "But next time I'm in! Promise!"},
+                {"speaker": "You", "swissGerman": "Danke! Ich freu mich für euch. Und lad ihr mi mol ii, wänn de nöchst Fritig-Club-Abend isch?", "german": "Danke! Ich freue mich für euch. Und laden Sie mich ein, wenn der nächste Freitag-Club-Abend ist?", "english": "Thanks! I'm happy for you all. And will you invite me when the next Friday club evening is?"},
+                {"speaker": "Friend", "swissGerman": "Selbstverständlich! Du bisch immer uf de Lischt. Ich schick dir en WhatsApp.", "german": "Selbstverständlich! Du bist immer auf der Liste. Ich schicke dir eine WhatsApp.", "english": "Of course! You're always on the list. I'll send you a WhatsApp."},
             ],
             "differences": [
                 {"swissGerman": "Schad!", "german": "Schade!", "explanation": "'Schad!' = 'Schade!' Too bad."},
@@ -65,7 +67,8 @@ SUBTOPIC_INVITATIONS = {
                 {"speaker": "Friend", "swissGerman": "Okay, kei Problem. Und suscht die Wuche?", "german": "Okay, kein Problem. Und sonst diese Woche?", "english": "Okay, no problem. And otherwise this week?"},
                 {"speaker": "You", "swissGerman": "Wie wärs mit Dunschtig? Do hätti Ziit am Namittag.", "german": "Wie wäre es mit Donnerstag? Da hätte ich Zeit am Nachmittag.", "english": "How about Thursday? I'd have time in the afternoon."},
                 {"speaker": "Friend", "swissGerman": "Dunschtig gaat! Am Namittag en Kafi statt Zmittag?", "german": "Donnerstag geht! Am Nachmittag einen Kaffee statt Mittagessen?", "english": "Thursday works! An afternoon coffee instead of lunch?"},
-                {"speaker": "You", "swissGerman": "Perfekt! Passt mir viel besser. Ich schriib dir no de genaui Ziit.", "german": "Perfekt! Passt mir viel besser. Ich schreibe dir noch die genaue Zeit.", "english": "Perfect! Suits me much better. I'll text you the exact time."},
+                {"speaker": "You", "swissGerman": "Ja! Und de Käfiladede vo dim Büro oder s'Caffè beim Hauptbahnhof?", "german": "Ja! Und der Kaffeeläden von deinem Büro oder das Caffè beim Hauptbahnhof?", "english": "Yes! And the coffee shop from your office or the Caffè near the main station?"},
+                {"speaker": "Friend", "swissGerman": "De beim HB! Dort git's au gueti Kuech. Ich freu mich!", "german": "Der beim HB! Dort gibt es auch guten Kuchen. Ich freue mich!", "english": "The one at the main station! They also have good cake there. I'm looking forward to it!"},
             ],
             "differences": [
                 {"swissGerman": "Sitzüg", "german": "Sitzung/Meeting", "explanation": "'Sitzüg' = 'Sitzung'. Meeting. Swiss pronunciation."},
@@ -90,7 +93,8 @@ SUBTOPIC_INVITATIONS = {
                 {"speaker": "Colleague", "swissGerman": "Okay, kei Stress. Mir gönd öfters.", "german": "Okay, kein Stress. Wir gehen öfters.", "english": "Okay, no stress. We go regularly."},
                 {"speaker": "You", "swissGerman": "Das wär nice! Fröögscht du mich s'nöchste Mal wider?", "german": "Das wäre nice! Fragst du mich nächstes Mal wieder?", "english": "That'd be great! Will you ask me again next time?"},
                 {"speaker": "Colleague", "swissGerman": "Klar! Mir gönd meischtens uf Flumserberg oder Laax.", "german": "Klar! Wir gehen meistens nach Flumserberg oder Laax.", "english": "Sure! We usually go to Flumserberg or Laax."},
-                {"speaker": "You", "swissGerman": "Perfekt! Denn bin ich s'nöchste Mol debii — versprochen!", "german": "Perfekt! Dann bin ich nächstes Mal dabei — versprochen!", "english": "Perfect! Then I'll be there next time — promised!"},
+                {"speaker": "You", "swissGerman": "Laax — da war ich nii! Wie lang isch de Fahrweg vo Züri?", "german": "Laax — da war ich nie! Wie lang ist die Fahrt von Zürich?", "english": "Laax — I've never been there! How long is the drive from Zurich?"},
+                {"speaker": "Colleague", "swissGerman": "So z'wee Stund mit em Auto. Oder mit em Zug bis Chür, dänn Postauto.", "german": "So ungefähr zwei Stunden mit dem Auto. Oder mit dem Zug bis Chur, dann Postauto.", "english": "About two hours by car. Or by train to Chur, then the Postbus."},
             ],
             "differences": [
                 {"swissGerman": "kei Stress", "german": "kein Stress", "explanation": "'kei Stress' = 'kein Stress'. No pressure/no worries."},
@@ -116,6 +120,8 @@ SUBTOPIC_INVITATIONS = {
                 {"speaker": "Person", "swissGerman": "Nei, mir ässed alles! Sölle mir öppis mitbringe?", "german": "Nein, wir essen alles! Sollen wir etwas mitbringen?", "english": "No, we eat everything! Should we bring something?"},
                 {"speaker": "You", "swissGerman": "Vilicht en Dessert? Oder en Wii — was euch passt.", "german": "Vielleicht ein Dessert? Oder einen Wein — was euch passt.", "english": "Maybe a dessert? Or a wine — whatever suits you."},
                 {"speaker": "Person", "swissGerman": "Mir bringed beides! Mir freued eus! Um weli Ziit?", "german": "Wir bringen beides! Wir freuen uns! Um welche Zeit?", "english": "We'll bring both! We look forward to it! What time?"},
+                {"speaker": "You", "swissGerman": "So um Halbi achti? Dänn isch d'Pasta frisch und warm.", "german": "So um halb acht? Dann ist die Pasta frisch und warm.", "english": "Around half seven? Then the pasta will be fresh and warm."},
+                {"speaker": "Person", "swissGerman": "Perfekt! Mir chomed pfünktlich. Und soll ich en Grüen oder en Ruete mitbringe?", "german": "Perfekt! Wir kommen pünktlich. Und soll ich einen Weißen oder einen Roten mitbringen?", "english": "Perfect! We'll be there on time. And should I bring a white or a red?"},
             ],
             "differences": [
                 {"swissGerman": "z'Znacht cho ässe", "german": "zum Abendessen kommen", "explanation": "'z'Znacht cho ässe' = to come for dinner. Swiss construction."},

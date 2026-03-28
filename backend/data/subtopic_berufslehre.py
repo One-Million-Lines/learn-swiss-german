@@ -16,6 +16,8 @@ SUBTOPIC_BERUFSLEHRE = {
                 {"speaker": "You", "swissGerman": "E Schnupperlehr! Wänn isch die?", "german": "Eine Schnupperlehre! Wann ist die?", "english": "A trial apprenticeship! When is it?"},
                 {"speaker": "Child", "swissGerman": "Nöchsti Wuche, drü Täg lang. Ich dörf dört mitschaffe und luege ob's mir gfallt.", "german": "Nächste Woche, drei Tage lang. Ich darf dort mitarbeiten und schauen ob es mir gefällt.", "english": "Next week, three days. I get to work along and see if I like it."},
                 {"speaker": "You", "swissGerman": "Zeig dich vo de beschte Siite! Pünktlich si und Frage stelle.", "german": "Zeig dich von der besten Seite! Pünktlich sein und Fragen stellen.", "english": "Show your best side! Be punctual and ask questions."},
+                {"speaker": "Child", "swissGerman": "Darf ich de Berufsbildner au nach ere Festanstellig nache de Lehr frage?", "german": "Darf ich den Berufsbildner auch nach einer Festanstellung nach der Lehre fragen?", "english": "Can I also ask the trainer about a permanent job after the apprenticeship?"},
+                {"speaker": "You", "swissGerman": "Nöd scho bi de Schnuppere! Zerscht en guete Eindruck mache — denn chunt alles Other vo allein.", "german": "Nicht schon beim Schnuppern! Erst einen guten Eindruck machen — dann kommt alles andere von selbst.", "english": "Not during the trial! First make a good impression — then everything else follows on its own."},
             ],
             "differences": [
                 {"swissGerman": "Bewärbige", "german": "Bewerbungen", "explanation": "'Bewärbige' = 'Bewerbungen'. Swiss form."},
@@ -41,6 +43,8 @@ SUBTOPIC_BERUFSLEHRE = {
                 {"speaker": "You", "swissGerman": "Und wänn isch de Berufsschueltag?", "german": "Und wann ist der Berufsschultag?", "english": "And when is the vocational school day?"},
                 {"speaker": "Child", "swissGerman": "Am Mäntig. Da lehr ich de theoretisch Teil.", "german": "Am Montag. Da lerne ich den theoretischen Teil.", "english": "On Monday. That's where I learn the theoretical part."},
                 {"speaker": "You", "swissGerman": "Perfekt. Und de Lohn? Isch de scho bsproche worde?", "german": "Perfekt. Und der Lohn? Ist der schon besprochen worden?", "english": "Perfect. And the salary? Has that been discussed?"},
+                {"speaker": "Child", "swissGerman": "Ja, 900 Franke im erschte Johr. Steigt aber mit jedem Lehrjohr.", "german": "Ja, 900 Franken im ersten Jahr. Steigt aber mit jedem Lehrjahr.", "english": "Yes, 900 francs in the first year. But it increases with each year."},
+                {"speaker": "You", "swissGerman": "Guet! Und vergiss nöd — si' zuverlässig und zeig Iniatiativ. Das fallt uf!", "german": "Gut! Und vergiss nicht — sei zuverlässig und zeig Initiative. Das fällt auf!", "english": "Good! And don't forget — be reliable and show initiative. It gets noticed!"},
             ],
             "differences": [
                 {"swissGerman": "Berufsbildner", "german": "Berufsbildner/Ausbilder", "explanation": "Swiss term for the vocational trainer at the company."},
@@ -66,6 +70,8 @@ SUBTOPIC_BERUFSLEHRE = {
                 {"speaker": "You", "swissGerman": "Tönt spannend! Und wo isch das?", "german": "Klingt spannend! Und wo ist das?", "english": "Sounds exciting! And where is it?"},
                 {"speaker": "Child", "swissGerman": "Im Bildungszentrum z'Winterthur. Ich muess früecher ufstah.", "german": "Im Bildungszentrum in Winterthur. Ich muss früher aufstehen.", "english": "At the training center in Winterthur. I need to get up earlier."},
                 {"speaker": "You", "swissGerman": "Denn stell der Wecker! Und nimm Zmittag mit, s'Ässe dört isch tüür.", "german": "Dann stell den Wecker! Und nimm Mittagessen mit, das Essen dort ist teuer.", "english": "Then set the alarm! And bring lunch, the food there is expensive."},
+                {"speaker": "Child", "swissGerman": "Chani d'Unterlagen vom ÜK au im Betriib bruuche?", "german": "Kann ich die Unterlagen vom ÜK auch im Betrieb brauchen?", "english": "Can I also use the ÜK materials at the company?"},
+                {"speaker": "You", "swissGerman": "Na sicher! Drum isch de ÜK so wichtig — er verbindet d'Theorie mit de Praxis.", "german": "Natürlich! Deshalb ist der ÜK so wichtig — er verbindet die Theorie mit der Praxis.", "english": "Of course! That's why ÜK is so important — it connects theory with practice."},
             ],
             "differences": [
                 {"swissGerman": "ÜK", "german": "Überbetriebliche Kurse", "explanation": "Part of the Swiss dual education system — hands-on courses outside the company."},
@@ -91,6 +97,8 @@ SUBTOPIC_BERUFSLEHRE = {
                 {"speaker": "You", "swissGerman": "Gueti Idee! Aber spare au chli. Leg mindeschtens 200 Franke uf d'Siite.", "german": "Gute Idee! Aber spare auch etwas. Leg mindestens 200 Franken auf die Seite.", "english": "Good idea! But save some too. Put at least 200 francs aside."},
                 {"speaker": "Child", "swissGerman": "Ja, ich mach e Sparkonto. De Papi hät mir s'e-Banking iigrichtet.", "german": "Ja, ich mache ein Sparkonto. Papa hat mir das e-Banking eingerichtet.", "english": "Yes, I'll make a savings account. Dad set up e-banking for me."},
                 {"speaker": "You", "swissGerman": "Super! Und vergiss nöd, ab em zwöite Lehrjahr zahlsch du Sozialversicherig.", "german": "Super! Und vergiss nicht, ab dem zweiten Lehrjahr zahlst du Sozialversicherung.", "english": "Great! And don't forget, from the second apprenticeship year you pay social insurance."},
+                {"speaker": "Child", "swissGerman": "Wie viel isch das öppe im Monet?", "german": "Wie viel ist das ungefähr im Monat?", "english": "About how much is that per month?"},
+                {"speaker": "You", "swissGerman": "Öppe zehn bis zwölf Prozänt vom Lohn. Dafür hesch denn AHV-Punkte — wichtig für d'Rente!", "german": "Ungefähr zehn bis zwölf Prozent vom Lohn. Dafür hast du dann AHV-Punkte — wichtig für die Rente.", "english": "About ten to twelve percent of salary. But then you earn AHV points — important for retirement!"},
             ],
             "differences": [
                 {"swissGerman": "übercho", "german": "erhalten/bekommen", "explanation": "'übercho' = 'bekommen'. Very Swiss verb."},
@@ -116,6 +124,8 @@ SUBTOPIC_BERUFSLEHRE = {
                 {"speaker": "You", "swissGerman": "Stressig! Und d'schriftliche Prüefige?", "german": "Stressig! Und die schriftlichen Prüfungen?", "english": "Stressful! And the written exams?"},
                 {"speaker": "Child", "swissGerman": "Die sind am Ändi Mai. Allgemeinbildig und berufskundliche Fächer.", "german": "Die sind Ende Mai. Allgemeinbildung und berufskundliche Fächer.", "english": "Those are at the end of May. General education and professional subjects."},
                 {"speaker": "You", "swissGerman": "Du schaffsch das! Und denn häsch du s'EFZ — Eidgenössischs Fähigkeitszeugnis!", "german": "Du schaffst das! Und dann hast du das EFZ — Eidgenössisches Fähigkeitszeugnis!", "english": "You'll make it! And then you have the EFZ — Federal Certificate of Competence!"},
+                {"speaker": "Child", "swissGerman": "Und denn cha ich uf d'Berufsmatur go, oder?", "german": "Und dann kann ich auf die Berufsmaturität gehen, oder?", "english": "And then I can go to vocational college, right?"},
+                {"speaker": "You", "swissGerman": "Genau! Mit de BM isch danach au s'Studium möglech. Alli Türe sind offe!", "german": "Genau! Mit der BM ist danach auch ein Studium möglich. Alle Türen sind offen!", "english": "Exactly! With BM, university is also possible afterwards. All doors are open!"},
             ],
             "differences": [
                 {"swissGerman": "LAP", "german": "Lehrabschlussprüfung", "explanation": "Final apprenticeship exam. Swiss abbreviation."},

@@ -15,6 +15,8 @@ SUBTOPIC_ZEUGNIS_DAY = {
                 {"speaker": "Child", "swissGerman": "En Sächser in Turne und en Füüfer im Rächne!", "german": "Eine Sechs in Sport und eine Fünf in Mathe!", "english": "A six in PE and a five in maths!"},
                 {"speaker": "You", "swissGerman": "Super! Und Dütsch?", "german": "Super! Und Deutsch?", "english": "Great! And German?"},
                 {"speaker": "Child", "swissGerman": "Au en Füüfer. Nur Franzöisch isch en Vierer.", "german": "Auch eine Fünf. Nur Französisch ist eine Vier.", "english": "Also a five. Only French is a four."},
+                {"speaker": "Child", "swissGerman": "Und darf ich das Glacé sälber ussuche? Ich wott es Erdbeer-Cornet vom Kiosk!", "german": "Und darf ich das Eis selbst aussuchen? Ich will ein Erdbeer-Cornet vom Kiosk!", "english": "And may I choose the ice cream myself? I want a strawberry cornet from the kiosk!"},
+                {"speaker": "You", "swissGerman": "Ja, du hesch s'verdient. Aber churz — zeig mir no s'Züügniss vo der Lehrerin. Hät sie au öppis gschriibe?", "german": "Ja, du hast es verdient. Aber kurz — zeig mir noch das Zeugnis von der Lehrerin. Hat sie auch etwas geschrieben?", "english": "Yes, you've earned it. But quick — show me the report card comment from the teacher. Did she also write something?"},
                 {"speaker": "You", "swissGerman": "Sehr guet! Mir sind stolz uf dich. Das rieft nach eme Glacé!", "german": "Sehr gut! Wir sind stolz auf dich. Das ruft nach einem Eis!", "english": "Very good! We're proud of you. That calls for ice cream!"},
             ],
             "differences": [
@@ -40,6 +42,8 @@ SUBTOPIC_ZEUGNIS_DAY = {
                 {"speaker": "You", "swissGerman": "Mir müend zäme e Lösig finde. Wie chönte mir das verbessere?", "german": "Wir müssen zusammen eine Lösung finden. Wie könnten wir das verbessern?", "english": "We need to find a solution together. How could we improve this?"},
                 {"speaker": "Child", "swissGerman": "Vilicht Nachhilf? D'Sarah vo de Sek B hät e Nachhilf-Lehrerin und s'hät ihre ghulfe.", "german": "Vielleicht Nachhilfe? Sarah aus der Sek B hat eine Nachhilfelehrerin und es hat ihr geholfen.", "english": "Maybe tutoring? Sarah from Sek B has a tutor and it helped her."},
                 {"speaker": "You", "swissGerman": "Gueti Idee. Ich frag d'Lehrerin am nöchschte Elteregesprööch.", "german": "Gute Idee. Ich frage die Lehrerin am nächsten Elterngespräch.", "english": "Good idea. I'll ask the teacher at the next parent meeting."},
+                {"speaker": "You", "swissGerman": "Und wänn isch s'nöchschte Elteregesprööch? Ich möcht früehziitig wüsse.", "german": "Und wann ist das nächste Elterngespräch? Ich möchte frühzeitig wissen.", "english": "And when is the next parent-teacher meeting? I'd like to know in advance."},
+                {"speaker": "Child", "swissGerman": "D'Lehrerin hät gsäit im März. Sie schickt no en Brief mit em genoue Datum.", "german": "Die Lehrerin hat gesagt im März. Sie schickt noch einen Brief mit dem genauen Datum.", "english": "The teacher said in March. She'll send a letter with the exact date."},
                 {"speaker": "Child", "swissGerman": "Danke Mami. Ich probier au meh z'lehre.", "german": "Danke Mama. Ich versuche auch mehr zu lernen.", "english": "Thanks Mom. I'll try to study more too."},
             ],
             "differences": [
@@ -65,6 +69,8 @@ SUBTOPIC_ZEUGNIS_DAY = {
                 {"speaker": "Child", "swissGerman": "D'Lehrerin hät gsäit ich bi de Bestschi i de Chlass!", "german": "Die Lehrerin hat gesagt ich bin die Beste in der Klasse!", "english": "The teacher said I'm the best in the class!"},
                 {"speaker": "You", "swissGerman": "Mir gönd hüt go Znacht ässe zum Fiire. Wohi wottsch?", "german": "Wir gehen heute Abendessen zum Feiern. Wohin willst du?", "english": "We're going out for dinner to celebrate. Where do you want to go?"},
                 {"speaker": "Child", "swissGerman": "Zum Italiäner! Ich wott Pizza und Tiramisù!", "german": "Zum Italiener! Ich will Pizza und Tiramisù!", "english": "To the Italian place! I want pizza and Tiramisù!"},
+                {"speaker": "Child", "swissGerman": "Und chöme mir au no es Dessert bestelle? Tiramisù oder Panna Cotta?", "german": "Und können wir auch noch ein Dessert bestellen? Tiramisù oder Panna Cotta?", "english": "And can we also order a dessert? Tiramisù or Panna Cotta?"},
+                {"speaker": "You", "swissGerman": "Klar, doch! Hüt isch Fiirtag. Nimm beides!", "german": "Klar, doch! Heute ist Feiertag. Nimm beides!", "english": "Of course! Today is a celebration. Take both!"},
                 {"speaker": "You", "swissGerman": "Abgmacht! Du verdiensch es.", "german": "Abgemacht! Du verdienst es.", "english": "Deal! You deserve it."},
             ],
             "differences": [
@@ -90,6 +96,8 @@ SUBTOPIC_ZEUGNIS_DAY = {
                 {"speaker": "Child", "swissGerman": "Aber er isch besser in allem!", "german": "Aber er ist besser in allem!", "english": "But he's better at everything!"},
                 {"speaker": "You", "swissGerman": "Stimmt nöd. Du bisch viel besser in Zeichne und Musig. Und im Turne.", "german": "Stimmt nicht. Du bist viel besser in Zeichnen und Musik. Und in Sport.", "english": "That's not true. You're much better at drawing and music. And in PE."},
                 {"speaker": "Child", "swissGerman": "Ja scho... Aber Note i de Hauptfächer sind wichtiger, oder?", "german": "Ja schon... Aber Noten in den Hauptfächern sind wichtiger, oder?", "english": "Yes but... grades in the main subjects are more important, right?"},
+                {"speaker": "Child", "swissGerman": "Und was isch mini stärkscht Fach laut dir?", "german": "Und was ist mein stärkstes Fach laut dir?", "english": "And what is my strongest subject according to you?"},
+                {"speaker": "You", "swissGerman": "Zeichne, ohni Zwiifel. Dis letschte Bild vo de Rüesslialp isch hängereiif gsi!", "german": "Zeichnen, ohne Zweifel. Dein letztes Bild von der Rüsslialp war hängewürdig!", "english": "Drawing, without a doubt. Your last picture of the Rüsslialp was gallery-worthy!"},
                 {"speaker": "You", "swissGerman": "Alli Fächer sind wichtig. Und s'Wichtigschte isch, dass du dis Beschte gisch.", "german": "Alle Fächer sind wichtig. Und das Wichtigste ist, dass du dein Bestes gibst.", "english": "All subjects are important. And the most important thing is that you do your best."},
             ],
             "differences": [
@@ -115,6 +123,8 @@ SUBTOPIC_ZEUGNIS_DAY = {
                 {"speaker": "Child", "swissGerman": "Uf de letschte Siite. Papi muess au unterschriibe.", "german": "Auf der letzten Seite. Papa muss auch unterschreiben.", "english": "On the last page. Dad needs to sign too."},
                 {"speaker": "You", "swissGerman": "Und bis wänn muess es zrugg si?", "german": "Und bis wann muss es zurück sein?", "english": "And by when does it need to be back?"},
                 {"speaker": "Child", "swissGerman": "Bis am Fritig. D'Lehrerin sammlet's denn ii.", "german": "Bis Freitag. Die Lehrerin sammelt es dann ein.", "english": "By Friday. The teacher collects it then."},
+                {"speaker": "You", "swissGerman": "Und muess ich au en Kommentar schriibe oder nur unterschriibe?", "german": "Und muss ich auch einen Kommentar schreiben oder nur unterschreiben?", "english": "And do I need to write a comment too or just sign?"},
+                {"speaker": "Child", "swissGerman": "Nur unterschriibe. Es git no en Zettel debii falls öpper en Kommentar wott.", "german": "Nur unterschreiben. Es gibt noch einen Zettel dabei falls jemand einen Kommentar möchte.", "english": "Just sign. There's also a slip if someone wants to write a comment."},
                 {"speaker": "You", "swissGerman": "Okay, ich legs dir morn i d'Schuelmappe. Vergiss es nöd!", "german": "Okay, ich lege es dir morgen in die Schulmappe. Vergiss es nicht!", "english": "Okay, I'll put it in your school folder tomorrow. Don't forget it!"},
             ],
             "differences": [

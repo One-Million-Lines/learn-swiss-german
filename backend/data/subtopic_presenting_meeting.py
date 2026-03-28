@@ -16,6 +16,7 @@ SUBTOPIC_PRESENTING_MEETING = {
                 {"speaker": "Team Lead", "swissGerman": "Mega, gueti Arbeit! Git's irgendwelchi Blocker?", "german": "Super, gute Arbeit! Gibt es irgendwelche Blocker?", "english": "Great, good work! Are there any blockers?"},
                 {"speaker": "You", "swissGerman": "Nei, im Momänt lauft alles rund.", "german": "Nein, im Moment läuft alles rund.", "english": "No, everything is running smoothly at the moment."},
                 {"speaker": "Team Lead", "swissGerman": "Perfekt, merci für s'Update!", "german": "Perfekt, danke für das Update!", "english": "Perfect, thanks for the update!"},
+                {"speaker": "You", "swissGerman": "Gern! Nächschte Milestone isch am nöchschte Montag. Ich informiere EU rechtziitig.", "german": "Gerne! Nächster Meilenstein ist nächsten Montag. Ich informiere euch rechtzeitig.", "english": "Happy to! Next milestone is next Monday. I'll let you know in time."},
             ],
             "differences": [
                 {"swissGerman": "magsch du", "german": "magst du", "explanation": "'magsch' = 'magst'. The '-sch' ending for 'du' form."},
@@ -40,6 +41,8 @@ SUBTOPIC_PRESENTING_MEETING = {
                 {"speaker": "Colleague 2", "swissGerman": "Das tönt vernünftig. Aber bruchts denn nöd meh Ziit?", "german": "Das klingt vernünftig. Aber braucht es dann nicht mehr Zeit?", "english": "That sounds reasonable. But wouldn't it take more time?"},
                 {"speaker": "You", "swissGerman": "Am Aafang vilicht, aber langfristig spared mir Ziit wil mer weniger Fähler händ.", "german": "Am Anfang vielleicht, aber langfristig sparen wir Zeit weil wir weniger Fehler haben.", "english": "Maybe at first, but long-term we save time because we have fewer errors."},
                 {"speaker": "Team Lead", "swissGerman": "Guete Punkt. Mached mir es Pilot-Projekt und lueged wie's lauft.", "german": "Guter Punkt. Machen wir ein Pilotprojekt und schauen wie es läuft.", "english": "Good point. Let's do a pilot project and see how it goes."},
+                {"speaker": "You", "swissGerman": "Super! Ich stelle en Projektplan zam — bis nächschte Zischtig?", "german": "Super! Ich stelle einen Projektplan zusammen — bis nächsten Dienstag?", "english": "Great! I'll put together a project plan — by next Tuesday?"},
+                {"speaker": "Team Lead", "swissGerman": "Ja, das passt. Und schück's mir vorher zur Druchsicht.", "german": "Ja, das passt. Und schick es mir vorher zur Durchsicht.", "english": "Yes, that works. And send it to me beforehand for a review."},
             ],
             "differences": [
                 {"swissGerman": "Wämmer nöd emol", "german": "Wollen wir nicht mal", "explanation": "'Wämmer' = 'Wollen wir'. Fused form. 'emol' = 'einmal/mal'."},
@@ -65,7 +68,8 @@ SUBTOPIC_PRESENTING_MEETING = {
                 {"speaker": "Manager", "swissGerman": "Und wie wänd ihr das wieder ufhole?", "german": "Und wie wollt ihr das wieder aufholen?", "english": "And how do you plan to catch up?"},
                 {"speaker": "You", "swissGerman": "Mir händ scho drü neui Chunde gwunne und rächned mit eme Plus ab nöchstem Monet.", "german": "Wir haben schon drei neue Kunden gewonnen und rechnen mit einem Plus ab nächstem Monat.", "english": "We've already won three new clients and expect a surplus from next month."},
                 {"speaker": "Manager", "swissGerman": "Guet, das will ich gsee. Halted mich uf em Laufende.", "german": "Gut, das will ich sehen. Haltet mich auf dem Laufenden.", "english": "Good, I want to see that. Keep me in the loop."},
-            ],
+                {"speaker": "You", "swissGerman": "Natürlich. Ich schick eu wöchentlich en Status-Update per Teams-Nachricht.", "german": "Natürlich. Ich schicke euch wöchentlich ein Status-Update per Teams-Nachricht.", "english": "Of course. I'll send you a weekly status update via Teams message."},
+                {"speaker": "Manager", "swissGerman": "Guet. Und falls Probleme chon, ned lang wärte — einfach direkt zu mir cho.", "german": "Gut. Und falls Probleme kommen, nicht lange warten — einfach direkt zu mir kommen.", "english": "Good. And if problems arise, don't wait long — just come to me directly."},            ],
             "differences": [
                 {"swissGerman": "gsehn...us", "german": "sehen...aus", "explanation": "'gseh' = 'sehen', 'us' = 'aus'. Separable prefix verb."},
                 {"swissGerman": "Hauptchund", "german": "Hauptkunde", "explanation": "'Chund' = 'Kunde'. K→Ch."},
@@ -89,6 +93,8 @@ SUBTOPIC_PRESENTING_MEETING = {
                 {"speaker": "You", "swissGerman": "Momänt, ich mach's grösser... So, besser?", "german": "Moment, ich mache es größer... So, besser?", "english": "One moment, I'll make it bigger... There, better?"},
                 {"speaker": "Colleague", "swissGerman": "Ja, perfekt! Jetzt gsehn ich alles.", "german": "Ja, perfekt! Jetzt sehe ich alles.", "english": "Yes, perfect! Now I can see everything."},
                 {"speaker": "You", "swissGerman": "Guet. Also, da gsehnd ihr d'Übersicht vom Projekt.", "german": "Gut. Also, da seht ihr die Übersicht vom Projekt.", "english": "Good. So, here you see the project overview."},
+                {"speaker": "Colleague", "swissGerman": "Chönnsch au de Zeitplan iiblendä? Iüberglaube deär isch am Schuss.", "german": "Könntest du auch den Zeitplan einblenden? Ich glaube der ist am Schluss.", "english": "Could you also show the timeline? I think it's at the end."},
+                {"speaker": "You", "swissGerman": "Ja, ich scroll bis a d'letschte Siiteä... da isch er.", "german": "Ja, ich scrolle zur letzten Seite... da ist er.", "english": "Yes, I'll scroll to the last page... there it is."},
             ],
             "differences": [
                 {"swissGerman": "täile", "german": "teile", "explanation": "'täile' = 'teile'. Vowel shift 'ei' → 'äi'."},
@@ -113,6 +119,8 @@ SUBTOPIC_PRESENTING_MEETING = {
                 {"speaker": "Tom", "swissGerman": "Mach ich. Bis wänn bruchsch die?", "german": "Mach ich. Bis wann brauchst du die?", "english": "Will do. By when do you need them?"},
                 {"speaker": "You", "swissGerman": "Am liebschte bis Mittwuch.", "german": "Am liebsten bis Mittwoch.", "english": "Preferably by Wednesday."},
                 {"speaker": "Tom", "swissGerman": "Geht klar. Ich schick's dir per Mail.", "german": "Geht klar. Ich schicke es dir per Mail.", "english": "Got it. I'll send it to you by email."},
+                {"speaker": "You", "swissGerman": "Super. Und falls öpper no Frage het zum Meeting — mir sind no drü Minute do.", "german": "Super. Und falls jemand noch Fragen zum Meeting hat — wir sind noch drei Minuten hier.", "english": "Great. And if anyone has questions about the meeting — we still have three minutes."},
+                {"speaker": "Colleague 2", "swissGerman": "Nei, alles klar bi mir. Schient strukturiert. Merci!", "german": "Nein, alles klar bei mir. Scheint strukturiert. Danke!", "english": "No, all clear for me. Seems structured. Thank you!"},
             ],
             "differences": [
                 {"swissGerman": "fassed mir zäme", "german": "fassen wir zusammen", "explanation": "'fassed mir' = 'fassen wir', 'zäme' = 'zusammen'."},

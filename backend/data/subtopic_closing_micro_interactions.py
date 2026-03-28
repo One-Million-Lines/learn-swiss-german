@@ -12,6 +12,8 @@ SUBTOPIC_CLOSING_MICRO_INTERACTIONS = {
             "lines": [
                 {"speaker": "Clerk", "swissGerman": "So, das wärs. Bruuched Sie süscht no öppis?", "german": "So, das wäre es. Brauchen Sie sonst noch etwas?", "english": "So, that's it. Do you need anything else?"},
                 {"speaker": "You", "swissGerman": "Nei, das isch alles. Merci!", "german": "Nein, das ist alles. Danke!", "english": "No, that's all. Thanks!"},
+                {"speaker": "Clerk", "swissGerman": "Wänd Sie e Quittung derfür?", "german": "Möchten Sie eine Quittung dafür?", "english": "Would you like a receipt for that?"},
+                {"speaker": "You", "swissGerman": "Ja bitte, gärn — ich behalts für mii Unterlage.", "german": "Ja bitte, gerne — ich behalte es für meine Unterlagen.", "english": "Yes please — I'll keep it for my records."},
                 {"speaker": "Clerk", "swissGerman": "Bitteschön! Schöne Tag no.", "german": "Bitteschön! Schönen Tag noch.", "english": "You're welcome! Have a nice day."},
                 {"speaker": "You", "swissGerman": "Danke, gliichfalls! Ade!", "german": "Danke, gleichfalls! Tschüss!", "english": "Thanks, same to you! Bye!"},
             ],
@@ -38,6 +40,8 @@ SUBTOPIC_CLOSING_MICRO_INTERACTIONS = {
                 {"speaker": "Friend", "swissGerman": "Nei, passt alles. Mir händ's gschafft!", "german": "Nein, passt alles. Wir haben es geschafft!", "english": "No, everything's fine. We did it!"},
                 {"speaker": "You", "swissGerman": "Uf das stosse mer aa! Bier?", "german": "Darauf stossen wir an! Bier?", "english": "Let's toast to that! Beer?"},
                 {"speaker": "Friend", "swissGerman": "Aber sicher! Häsch verdient!", "german": "Aber sicher! Hast du verdient!", "english": "Of course! You've earned it!"},
+                {"speaker": "You", "swissGerman": "Mir händ's mit Bravuur gschafft — ohni überi Schrufe!", "german": "Wir haben es mit Bravour geschafft — ohne übrige Schrauben!", "english": "We did it brilliantly — without any leftover screws!"},
+                {"speaker": "Friend", "swissGerman": "...Oder mit eine — lueg moll, de isch übrig bliibe!", "german": "...Oder mit einer — schau mal, die ist übrig geblieben!", "english": "...Or with one — look, this one is left over!"},
             ],
             "differences": [
                 {"swissGerman": "Fertig!", "german": "Fertig!", "explanation": "'Fertig!' = 'Done! / Finished!' The single most common word for closure."},
@@ -62,6 +66,8 @@ SUBTOPIC_CLOSING_MICRO_INTERACTIONS = {
                 {"speaker": "You", "swissGerman": "Ja, alles bestens. Merci!", "german": "Ja, alles bestens. Danke!", "english": "Yes, everything's great. Thanks!"},
                 {"speaker": "Waiter", "swissGerman": "Guet, en Guete!", "german": "Gut, guten Appetit!", "english": "Good, enjoy your meal!"},
                 {"speaker": "You", "swissGerman": "Danke, isch perfekt!", "german": "Danke, ist perfekt!", "english": "Thanks, it's perfect!"},
+                {"speaker": "Waiter", "swissGerman": "Sehr guet! Und falls Si no öppis wänd — ich bi gleich dört.", "german": "Sehr gut! Und falls Sie noch etwas möchten — ich bin gleich dort.", "english": "Very good! And if you need anything else — I'm right there."},
+                {"speaker": "You", "swissGerman": "Merci! Es isch alles guet so. En Guete mitenand!", "german": "Danke! Es ist alles gut so. Guten Appetit zusammen!", "english": "Thanks! Everything's fine. Enjoy your meal everyone!"},
             ],
             "differences": [
                 {"swissGerman": "Alles guet!", "german": "Alles gut!", "explanation": "'Alles guet!' resolves tension. Means 'it's all fine / no worries'. Very versatile."},
@@ -86,6 +92,8 @@ SUBTOPIC_CLOSING_MICRO_INTERACTIONS = {
                 {"speaker": "You", "swissGerman": "Nei, das passt. Wunderbar!", "german": "Nein, das passt. Wunderbar!", "english": "No, that's good. Wonderful!"},
                 {"speaker": "Hairdresser", "swissGerman": "Denn mached mir d'Kasse. Drüüefüfzg Franke.", "german": "Dann machen wir die Kasse. Dreiundfünfzig Franken.", "english": "Then let's settle up. Fifty-three francs."},
                 {"speaker": "You", "swissGerman": "Bitteschön. Merci und schöne Tag!", "german": "Bitteschön. Danke und schönen Tag!", "english": "Here you go. Thanks and have a nice day!"},
+                {"speaker": "Hairdresser", "swissGerman": "Danke! Und chömed Sie bald moll wider!", "german": "Danke! Und kommen Sie bald wieder!", "english": "Thank you! And come back soon!"},
+                {"speaker": "You", "swissGerman": "Bestimmt! Uf Wiedersähe!", "german": "Bestimmt! Auf Wiedersehen!", "english": "Definitely! Goodbye!"},
             ],
             "differences": [
                 {"swissGerman": "Perfekt!", "german": "Perfekt!", "explanation": "'Perfekt!' is universal. The ultimate positive closure word."},
@@ -110,6 +118,8 @@ SUBTOPIC_CLOSING_MICRO_INTERACTIONS = {
                 {"speaker": "You", "swissGerman": "Verstah ich, kei Problem. So, isch gmacht!", "german": "Verstehe ich, kein Problem. So, ist gemacht!", "english": "I understand, no worries. There, it's done!"},
                 {"speaker": "Neighbor", "swissGerman": "Perfekt, danke! Und nochmals sorry für de Ton.", "german": "Perfekt, danke! Und nochmals sorry für den Ton.", "english": "Perfect, thanks! And sorry again for the tone."},
                 {"speaker": "You", "swissGerman": "Alles guet, kei Sorg! Schöne Aabig!", "german": "Alles gut, keine Sorge! Schönen Abend!", "english": "All good, no worries! Nice evening!"},
+                {"speaker": "Neighbor", "swissGerman": "Schöne Aabig! Mir gsehnd eus!", "german": "Schönen Abend! Wir sehen uns!", "english": "Nice evening! See you around!"},
+                {"speaker": "You", "swissGerman": "Ja! Guete Nochber!", "german": "Ja! Guter Nachbar!", "english": "Yes! Good neighbor!"},
             ],
             "differences": [
                 {"swissGerman": "Isch scho guet", "german": "Ist schon gut", "explanation": "'Isch scho guet' = 'it's alright'. Said to de-escalate or dismiss an apology."},

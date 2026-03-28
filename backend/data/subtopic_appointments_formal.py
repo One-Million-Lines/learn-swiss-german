@@ -68,6 +68,8 @@ SUBTOPIC_APPOINTMENTS_FORMAL = {
                 {"speaker": "You", "swissGerman": "Ich dänke so zäh bis fünfzäh Minute.", "german": "Ich denke so zehn bis fünfzehn Minuten.", "english": "I think about ten to fifteen minutes."},
                 {"speaker": "Receptionist", "swissGerman": "Das goht no. Mir chönd Si denn trotzdem drannä.", "german": "Das geht noch. Wir können Sie dann trotzdem drannehmen.", "english": "That's still fine. We can still see you then."},
                 {"speaker": "You", "swissGerman": "Merci vilmal! Ich beeile mich.", "german": "Vielen Dank! Ich beeile mich.", "english": "Thank you so much! I'll hurry."},
+                {"speaker": "Receptionist", "swissGerman": "Chömed Si denn direkt zum Schalter — Si müend sich nöd nochmals aamelda.", "german": "Kommen Sie dann direkt zum Schalter — Sie müssen sich nicht noch einmal anmelden.", "english": "Come straight to the desk — you don't need to register again."},
+                {"speaker": "You", "swissGerman": "Oh, perfekt. Das sparche mir Ziit. Merci!", "german": "Oh, perfekt. Das spart uns Zeit. Danke!", "english": "Oh, perfect. That saves us time. Thanks!"},
                 {"speaker": "Receptionist", "swissGerman": "Kei Stress, fahred Si sicher!", "german": "Kein Stress, fahren Sie sicher!", "english": "No stress, drive safely!"},
             ],
             "differences": [

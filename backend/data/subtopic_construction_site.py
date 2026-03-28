@@ -16,6 +16,8 @@ SUBTOPIC_CONSTRUCTION_SITE = {
                 {"speaker": "You", "swissGerman": "Okay. Bruuchts no meh Holz für d'Schallig?", "german": "Okay. Braucht es noch mehr Holz für die Schalung?", "english": "Okay. Do we need more wood for the formwork?"},
                 {"speaker": "Foreman", "swissGerman": "Ja, de Lieferwage chunnt um Nüni. Händsched aazieh und Helm ufsetze!", "german": "Ja, der Lieferwagen kommt um neun. Handschuhe anziehen und Helm aufsetzen!", "english": "Yes, the delivery truck comes at nine. Put on gloves and helmet!"},
                 {"speaker": "You", "swissGerman": "Alles klar, mir gönd's aa!", "german": "Alles klar, wir gehen's an!", "english": "All clear, let's get to it!"},
+                {"speaker": "Foreman", "swissGerman": "Und um chalb elfi isch Z nüni-Paus. Nöd vergässe!", "german": "Und um halb elf ist Znüni-Pause. Nicht vergessen!", "english": "And at half ten is the Znüni break. Don't forget!"},
+                {"speaker": "You", "swissGerman": "Ich ha scho en Weggli und en Kafi parat. Bin bereit!", "german": "Ich habe schon ein Brötchen und einen Kaffee bereit. Bin vorbereitet!", "english": "I already have a bread roll and a coffee ready. I'm prepared!"},
             ],
             "differences": [
                 {"swissGerman": "Schallig", "german": "Schalung", "explanation": "'Schallig' = 'Schalung'. '-ung' → '-ig' pattern."},
@@ -40,6 +42,8 @@ SUBTOPIC_CONSTRUCTION_SITE = {
                 {"speaker": "Colleague", "swissGerman": "Da, pass uf! Und nimm de richtig Bohrer, s'isch Beton.", "german": "Da, pass auf! Und nimm den richtigen Bohrer, es ist Beton.", "english": "Here, be careful! And use the right drill bit, it's concrete."},
                 {"speaker": "You", "swissGerman": "Ja, ich nimm de Betonbohrer. Merci!", "german": "Ja, ich nehme den Betonbohrer. Danke!", "english": "Yes, I'll use the concrete drill bit. Thanks!"},
                 {"speaker": "Colleague", "swissGerman": "Und dänk an d'Schutzbrülle!", "german": "Und denk an die Schutzbrille!", "english": "And remember the safety goggles!"},
+                {"speaker": "You", "swissGerman": "Ha ich scho. Isch de Kompressor au parat?", "german": "Habe ich schon. Ist der Kompressor auch bereit?", "english": "Already have them. Is the compressor ready too?"},
+                {"speaker": "Colleague", "swissGerman": "Ja, isch am Laafe. Aber chli lut hüt — pass uf s'Göhor!", "german": "Ja, ist am Laufen. Aber etwas laut heute — pass auf das Gehör auf!", "english": "Yes, it's running. But a bit loud today — watch out for your hearing!"},
             ],
             "differences": [
                 {"swissGerman": "Bohrmaschine", "german": "Bohrmaschine", "explanation": "Same word. Some technical terms remain the same."},
@@ -64,6 +68,8 @@ SUBTOPIC_CONSTRUCTION_SITE = {
                 {"speaker": "Colleague", "swissGerman": "Gopf, das isch gfährlich! Isch em Thomas öppis passiert?", "german": "Mist, das ist gefährlich! Ist Thomas etwas passiert?", "english": "Damn, that's dangerous! Did anything happen to Thomas?"},
                 {"speaker": "Foreman", "swissGerman": "Nei, zum Glück nöd. Aber ab hüt: kein Zuegang zum Bau ohni Helm!", "german": "Nein, zum Glück nicht. Aber ab heute: kein Zugang zum Bau ohne Helm!", "english": "No, luckily not. But from today: no access to the site without a helmet!"},
                 {"speaker": "You", "swissGerman": "Absolut richtig. Sicherheit gaht vor.", "german": "Absolut richtig. Sicherheit geht vor.", "english": "Absolutely right. Safety comes first."},
+                {"speaker": "Foreman", "swissGerman": "Guet. Ich meld das witerhin em Sicherheitsbeauftragtige.", "german": "Gut. Ich melde das weiters dem Sicherheitsbeauftragten.", "english": "Good. I'll report this further to the safety officer."},
+                {"speaker": "You", "swissGerman": "Richtig. Und mir mached vor de Mittagspuus en kurze Sicherheits-Check.", "german": "Richtig. Und wir machen vor der Mittagspause einen kurzen Sicherheits-Check.", "english": "Right. And we'll do a quick safety check before lunch."},
             ],
             "differences": [
                 {"swissGerman": "Balke", "german": "Balken", "explanation": "'Balke' = 'Balken'. Dropped '-n'."},
@@ -89,6 +95,8 @@ SUBTOPIC_CONSTRUCTION_SITE = {
                 {"speaker": "Colleague", "swissGerman": "Ja gern, merci! De Zopf gseht fein us.", "german": "Ja gern, danke! Der Zopf sieht lecker aus.", "english": "Yes please, thanks! The bread looks delicious."},
                 {"speaker": "You", "swissGerman": "Isch vo de Bäckerei am Eck. Die händ de beschte Zopf im Quartier.", "german": "Ist von der Bäckerei an der Ecke. Die haben den besten Zopf im Quartier.", "english": "It's from the bakery on the corner. They have the best bread in the neighborhood."},
                 {"speaker": "Colleague", "swissGerman": "Mmmh, stimmt! So, noch füüf Minute denn gömmers wieder aa.", "german": "Mmmh, stimmt! So, noch fünf Minuten dann gehen wir es wieder an.", "english": "Mmm, true! So, five more minutes then we get back to it."},
+                {"speaker": "You", "swissGerman": "Wotsch au en Kafi? Ich ha e Thermoskanne mitgnoh.", "german": "Willst du auch einen Kaffee? Ich habe eine Thermoskanne mitgenommen.", "english": "Want a coffee too? I brought a thermos."},
+                {"speaker": "Colleague", "swissGerman": "Ja gern! Du bisch de Beschti!", "german": "Ja gerne! Du bist der Beste!", "english": "Yes please! You're the best!"},
             ],
             "differences": [
                 {"swissGerman": "Znüni", "german": "Frühstückspause/Vormittagssnack", "explanation": "'Znüni' = morning break/snack at 9am. Swiss German institution."},
@@ -114,6 +122,8 @@ SUBTOPIC_CONSTRUCTION_SITE = {
                 {"speaker": "Foreman", "swissGerman": "Guet. Wenn's z'fescht rägnet, mached mir inne wiiter.", "german": "Gut. Wenn es zu stark regnet, machen wir drinnen weiter.", "english": "Good. If it rains too hard, we continue inside."},
                 {"speaker": "You", "swissGerman": "Was chömmer inne mache?", "german": "Was können wir drinnen machen?", "english": "What can we do inside?"},
                 {"speaker": "Foreman", "swissGerman": "D'Leitige im Keller sind no nöd fertig. Die chömmer au bi Räge mache.", "german": "Die Leitungen im Keller sind noch nicht fertig. Die können wir auch bei Regen machen.", "english": "The pipes in the basement aren't done yet. We can do those even in rain."},
+                {"speaker": "You", "swissGerman": "Und wänn es so richtig stürmt — send mir denn frii?", "german": "Und wenn es richtig stürmt — sind wir dann frei?", "english": "And if there's a real storm — do we get the day off?"},
+                {"speaker": "Foreman", "swissGerman": "Haha, nöd so schnäll! Aber bi Sturm-Alarm schicke mir alli hei.", "german": "Haha, nicht so schnell! Aber bei Sturm-Alarm schicken wir alle nach Hause.", "english": "Haha, not so fast! But with storm warnings we send everyone home."},
             ],
             "differences": [
                 {"swissGerman": "rägne", "german": "regnen", "explanation": "'rägne' = 'regnen'. Vowel shift."},

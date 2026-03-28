@@ -16,6 +16,8 @@ SUBTOPIC_PERSONAL_ERRANDS = {
                 {"speaker": "You", "swissGerman": "Ja, Nummere drüü uf de Siite. Und de Übergang schön blände.", "german": "Ja, Nummer drei an den Seiten. Und den Übergang schön blenden.", "english": "Yes, number three on the sides. And blend the transition nicely."},
                 {"speaker": "Coiffeur", "swissGerman": "Guet! Wöschig vorhär?", "german": "Gut! Waschen vorher?", "english": "Good! Wash before?"},
                 {"speaker": "You", "swissGerman": "Ja, bitte. Und wänn mir fertig sind — was chostet's?", "german": "Ja, bitte. Und wenn wir fertig sind — was kostet es?", "english": "Yes, please. And when we're done — how much is it?"},
+                {"speaker": "Coiffeur", "swissGerman": "En Haarschnitt mit Wöschig isch vierzg Franke.", "german": "Ein Haarschnitt mit Waschen ist vierzig Franken.", "english": "A haircut with wash is forty francs."},
+                {"speaker": "You", "swissGerman": "Und chönnd mir au no en bitzeli Gel iitue nachheer? Ich ha keis debi.", "german": "Und können Sie auch noch etwas Gel einmassieren nachher? Ich habe keins dabei.", "english": "And can you also put some gel in afterwards? I don't have any with me."},
             ],
             "differences": [
                 {"swissGerman": "Coiffeur", "german": "Friseur", "explanation": "'Coiffeur' = hairdresser. Swiss use the French word."},
@@ -41,6 +43,8 @@ SUBTOPIC_PERSONAL_ERRANDS = {
                 {"speaker": "Cobbler", "swissGerman": "45 Franke für beidi Schue. Und ich bruuch drüü Werktäg.", "german": "45 Franken für beide Schuhe. Und ich brauche drei Werktage.", "english": "45 francs for both shoes. And I need three business days."},
                 {"speaker": "You", "swissGerman": "Guet, ich lah sie do. Und chönd ihr au nöii Absätz drufmache?", "german": "Gut, ich lasse sie hier. Und können Sie auch neue Absätze drauf machen?", "english": "Good, I'll leave them here. And can you also put on new heels?"},
                 {"speaker": "Cobbler", "swissGerman": "Klar, das chostet zäh Franke meh. Ich rüef Sie aa wenns fertig isch.", "german": "Klar, das kostet zehn Franken mehr. Ich rufe Sie an wenn es fertig ist.", "english": "Sure, that costs ten francs more. I'll call you when it's ready."},
+                {"speaker": "You", "swissGerman": "Und chönd mir die Absätz au so mache wie d'Originale? S'äisch en klassische Holzabsatz.", "german": "Und können Sie die Absätze auch so machen wie die Originale? Es ist ein klassischer Holzabsatz.", "english": "And can you make the heels like the originals? It's a classic wooden heel."},
+                {"speaker": "Cobbler", "swissGerman": "Ja, das isch kei Problem. Ich ha Holzabzätz in verschideni Grösse do.", "german": "Ja, das ist kein Problem. Ich habe Holzabsätze in verschiedenen Größen da.", "english": "Yes, that's no problem. I have wooden heels in various sizes here."},
             ],
             "differences": [
                 {"swissGerman": "Schueh", "german": "Schuhe", "explanation": "'Schueh' = 'Schuhe'. Shoes. Swiss form."},
@@ -66,7 +70,8 @@ SUBTOPIC_PERSONAL_ERRANDS = {
                 {"speaker": "Person", "swissGerman": "Die chönd Sie im Coop oder Migros zruggeh.", "german": "Die können Sie im Coop oder Migros zurückgeben.", "english": "You can return those at Coop or Migros."},
                 {"speaker": "You", "swissGerman": "Und was mach ich mit Batterie?", "german": "Und was mache ich mit Batterien?", "english": "And what do I do with batteries?"},
                 {"speaker": "Person", "swissGerman": "Au im Lades — all Gschäft wo Batterie verchaufed, münd sie au zrugneh.", "german": "Auch im Laden — alle Geschäfte die Batterien verkaufen, müssen sie auch zurücknehmen.", "english": "Also in stores — all shops that sell batteries have to take them back."},
-            ],
+                {"speaker": "You", "swissGerman": "Und Altmetall? Ich ha no e alte Chromestahl-Pfanne.", "german": "Und Altmetall? Ich habe noch eine alte Chromstahl-Pfanne.", "english": "And scrap metal? I still have an old stainless steel pan."},
+                {"speaker": "Person", "swissGerman": "Das göht zum Werchhoif. Die hand grichtig Containerzone für Metall, Holz und Sperrgut.", "german": "Das geht zum Werkhof. Die haben eine richtige Containerzone für Metall, Holz und Sperrgut.", "english": "That goes to the Werkhof. They have a proper container zone for metal, wood and bulk waste."},            ],
             "differences": [
                 {"swissGerman": "Glass", "german": "Glas", "explanation": "'Glass' = 'Glas'. Glass (for recycling). Swiss spelling."},
                 {"swissGerman": "entsorge", "german": "entsorgen", "explanation": "'entsorge' = to dispose of. Swiss form."},
@@ -91,6 +96,8 @@ SUBTOPIC_PERSONAL_ERRANDS = {
                 {"speaker": "Optician", "swissGerman": "Guet! Möchted Sie au en Blueliecht-Filter für de Computer?", "german": "Gut! Möchten Sie auch einen Blaulicht-Filter für den Computer?", "english": "Good! Would you also like a blue light filter for the computer?"},
                 {"speaker": "You", "swissGerman": "Ja, das wär guet. Ich schaffe vill am Bildschirm. Was chostet das meh?", "german": "Ja, das wäre gut. Ich arbeite viel am Bildschirm. Was kostet das mehr?", "english": "Yes, that'd be good. I work a lot at the screen. How much extra is that?"},
                 {"speaker": "Optician", "swissGerman": "50 Franke meh pro Glas. D'Brülle isch in öppe zäh Täg parat.", "german": "50 Franken mehr pro Glas. Die Brille ist in ungefähr zehn Tagen fertig.", "english": "50 francs more per lens. The glasses will be ready in about ten days."},
+                {"speaker": "You", "swissGerman": "Und chani au Kontaktlinse besälle? Ich träg mangen beidiä.", "german": "Und kann ich auch Kontaktlinsen bestellen? Ich trage manchmal beides.", "english": "And can I also order contact lenses? I sometimes wear both."},
+                {"speaker": "Optician", "swissGerman": "Ja, aber därfür bruuche mir en separati Verschriibig vom Augedokter.", "german": "Ja, aber dafür brauchen wir eine separate Verschreibung vom Augenarzt.", "english": "Yes, but for that we need a separate prescription from the eye doctor."},
             ],
             "differences": [
                 {"swissGerman": "Brülle", "german": "Brille", "explanation": "'Brülle' = 'Brille'. Glasses."},
@@ -116,6 +123,8 @@ SUBTOPIC_PERSONAL_ERRANDS = {
                 {"speaker": "Clerk", "swissGerman": "Momänt, ich lueg... Nei, das isch no nöd aachoo.", "german": "Moment, ich schaue... Nein, das ist noch nicht angekommen.", "english": "One moment, let me check... No, that hasn't arrived yet."},
                 {"speaker": "You", "swissGerman": "Schad! Chönd Sie mir d'Sendigsnummere geh zum Trackä?", "german": "Schade! Können Sie mir die Sendungsnummer geben zum Verfolgen?", "english": "Too bad! Can you give me the tracking number?"},
                 {"speaker": "Clerk", "swissGerman": "Die steit uf em Zettel vom Absänder. Aber ich chan im System luege.", "german": "Die steht auf dem Zettel vom Absender. Aber ich kann im System nachsehen.", "english": "It's on the slip from the sender. But I can check in the system."},
+                {"speaker": "You", "swissGerman": "Gärn! Und wenn es morge no nid aachoo isch, was mach ich dänn?", "german": "Gerne! Und wenn es morgen noch nicht angekommen ist, was mache ich dann?", "english": "Please! And if it still hasn't arrived tomorrow, what do I do then?"},
+                {"speaker": "Clerk", "swissGerman": "Dänn mälded Sie sich bi mym Primus. Wir chönne en Suchauftrag stelle.", "german": "Dann melden Sie sich bei der Post. Wir können einen Suchauftrag stellen.", "english": "Then contact us at the post office. We can put in a search order."},
             ],
             "differences": [
                 {"swissGerman": "Abholzettel", "german": "Abholzettel/Benachrichtigung", "explanation": "'Abholzettel' = pickup notification slip. Left when you're not home."},

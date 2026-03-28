@@ -16,6 +16,8 @@ SUBTOPIC_CONFIRMING_CLARIFYING = {
                 {"speaker": "You", "swissGerman": "Ja, genau deet.", "german": "Ja, genau dort.", "english": "Yes, right there."},
                 {"speaker": "Driver", "swissGerman": "Perfekt, mir sind in öppe zäh Minute da.", "german": "Perfekt, wir sind in etwa zehn Minuten da.", "english": "Perfect, we'll be there in about ten minutes."},
                 {"speaker": "You", "swissGerman": "Super, merci!", "german": "Super, danke!", "english": "Great, thanks!"},
+                {"speaker": "Driver", "swissGerman": "Isch das es Bürogebaud oder en Privatadrässe?", "german": "Ist das ein Bürogebäude oder eine Privatadresse?", "english": "Is that an office building or a private address?"},
+                {"speaker": "You", "swissGerman": "Es Büro. Im dritte Stock — Eingang links.", "german": "Ein Büro. Im dritten Stock — Eingang links.", "english": "An office. Third floor — entrance on the left."},
             ],
             "differences": [
                 {"swissGerman": "Isch das richtig?", "german": "Ist das richtig?", "explanation": "Standard confirmation question. 'richtig' = 'correct/right'. Same in both."},
@@ -40,6 +42,8 @@ SUBTOPIC_CONFIRMING_CLARIFYING = {
                 {"speaker": "You", "swissGerman": "Also bis so um drüü, vieri?", "german": "Also bis so um drei, vier?", "english": "So by around three, four?"},
                 {"speaker": "Boss", "swissGerman": "Genau, so in dem Rahmä.", "german": "Genau, so in dem Rahmen.", "english": "Exactly, around that timeframe."},
                 {"speaker": "You", "swissGerman": "Okay, verstande. Das schaff ich.", "german": "Okay, verstanden. Das schaffe ich.", "english": "Okay, understood. I'll manage that."},
+                {"speaker": "Boss", "swissGerman": "Perfekt. Und schick mers per Mail sobald du fertig bisch.", "german": "Perfekt. Und schick mir es per Mail sobald du fertig bist.", "english": "Perfect. And send it to me by email as soon as you're done."},
+                {"speaker": "You", "swissGerman": "Klar. Ich meld mich bis drum drüü.", "german": "Klar. Ich melde mich bis um drei.", "english": "Of course. I'll be in touch by three o'clock."},
             ],
             "differences": [
                 {"swissGerman": "Sie meined", "german": "Sie meinen", "explanation": "'meined' = 'meinen'. Clarification starter: 'You mean...?'"},
@@ -89,6 +93,8 @@ SUBTOPIC_CONFIRMING_CLARIFYING = {
                 {"speaker": "Friend", "swissGerman": "Hmm, wart, lueg mol im Chat... Ah! Du häsch rächt, es isch zwöi!", "german": "Hmm, warte, schau mal im Chat... Ah! Du hast recht, es ist zwei!", "english": "Hmm, wait, check the chat... Ah! You're right, it's two!"},
                 {"speaker": "You", "swissGerman": "Gsehsch! Also um zwöi bim Bahnhof?", "german": "Siehst du! Also um zwei am Bahnhof?", "english": "See! So at two at the station?"},
                 {"speaker": "Friend", "swissGerman": "Ja, stimmt. Sorry für d'Verwirrig!", "german": "Ja, stimmt. Sorry für die Verwirrung!", "english": "Yes, correct. Sorry for the confusion!"},
+                {"speaker": "You", "swissGerman": "Kei Sorg! Also um zwöi bim Hauptiigang, oder?", "german": "Keine Sorge! Also um zwei beim Haupteingang, oder?", "english": "No worries! So at two at the main entrance, right?"},
+                {"speaker": "Friend", "swissGerman": "Genau! Ich bi scho dört.", "german": "Genau! Ich bin schon dort.", "english": "Exactly! I'll already be there."},
             ],
             "differences": [
                 {"swissGerman": "abgmacht", "german": "abgemacht", "explanation": "'abgmacht' = 'abgemacht' (agreed upon). Drops 'e' from 'ge-'."},
@@ -113,6 +119,8 @@ SUBTOPIC_CONFIRMING_CLARIFYING = {
                 {"speaker": "Agent", "swissGerman": "Richtig. Oder bräuchted Sie erschter Klass?", "german": "Richtig. Oder bräuchten Sie erste Klasse?", "english": "Correct. Or would you need first class?"},
                 {"speaker": "You", "swissGerman": "Nei, zweiter Klass isch guet. Und das giltet für eis Jahr?", "german": "Nein, zweite Klasse ist gut. Und das gilt für ein Jahr?", "english": "No, second class is fine. And that's valid for one year?"},
                 {"speaker": "Agent", "swissGerman": "Exakt, zwölf Mönet ab Chaufdatum.", "german": "Exakt, zwölf Monate ab Kaufdatum.", "english": "Exactly, twelve months from purchase date."},
+                {"speaker": "You", "swissGerman": "Und s'GA gilt au für Bus, Tram und Schifffährt?", "german": "Und das GA gilt auch für Bus, Tram und Schifffahrt?", "english": "And the GA is also valid for buses, trams and boats?"},
+                {"speaker": "Agent", "swissGerman": "Ja, s'GA deckt de gsamte öffentliche Verkehr i de Schwiiz ab.", "german": "Ja, das GA deckt den gesamten öffentlichen Verkehr in der Schweiz ab.", "english": "Yes, the GA covers all public transport in Switzerland."},
             ],
             "differences": [
                 {"swissGerman": "GA / Generalabonnemänt", "german": "GA / Generalabonnement", "explanation": "The GA is the famous Swiss unlimited travel pass. 'Abonnemänt' = 'Abonnement'."},

@@ -16,6 +16,8 @@ SUBTOPIC_SAFETY_URGENT = {
                 {"speaker": "Person", "swissGerman": "Trinkeded Sie Wasser. Ich ha e Fläsche debii.", "german": "Trinken Sie Wasser. Ich habe eine Flasche dabei.", "english": "Drink some water. I have a bottle with me."},
                 {"speaker": "You", "swissGerman": "Danke! Es gaat scho chli besser.", "german": "Danke! Es geht schon etwas besser.", "english": "Thanks! I'm feeling a bit better already."},
                 {"speaker": "Person", "swissGerman": "Söll ich d'Sanität rüefe oder gaat's?", "german": "Soll ich den Rettungsdienst rufen oder geht es?", "english": "Should I call the ambulance or are you okay?"},
+                {"speaker": "You", "swissGerman": "Nei, ich glaub es gaat. Ich han' einfach z'wenig trunke hüt.", "german": "Nein, ich glaube es geht. Ich habe heute einfach zu wenig getrunken.", "english": "No, I think I'm okay. I just didn't drink enough today."},
+                {"speaker": "Person", "swissGerman": "La dir Ziit, sitz no es Moment. I de Hiiz isch das schnell passiert.", "german": "Lass dir Zeit, sitz noch einen Moment. In der Hitze ist das schnell passiert.", "english": "Take your time, sit a moment longer. In the heat that happens quickly."},
             ],
             "differences": [
                 {"swissGerman": "Hilf", "german": "Hilfe", "explanation": "'Hilf' = 'Hilfe'. Help."},
@@ -41,6 +43,8 @@ SUBTOPIC_SAFETY_URGENT = {
                 {"speaker": "Person", "swissGerman": "Nei, gsehd nöd so us. Aber d'Strass isch blockiert.", "german": "Nein, sieht nicht so aus. Aber die Straße ist blockiert.", "english": "No, doesn't look like it. But the road is blocked."},
                 {"speaker": "You", "swissGerman": "Ich rüefe d'Polizei aa und bericht was passiert isch.", "german": "Ich rufe die Polizei an und berichte was passiert ist.", "english": "I'll call the police and report what happened."},
                 {"speaker": "Person", "swissGerman": "Guet. Und bliibe mir als Züüge do bis d'Polizei chunnt.", "german": "Gut. Und bleiben wir als Zeugen hier bis die Polizei kommt.", "english": "Good. And let's stay here as witnesses until the police arrive."},
+                {"speaker": "You", "swissGerman": "Okay. Und schriibe mir unseri Nummere uuf, falls sie uns kontaktiere müönd.", "german": "Okay. Und schreiben wir unsere Nummern auf, falls sie uns kontaktieren müssen.", "english": "Okay. And let's write down our numbers, in case they need to contact us."},
+                {"speaker": "Person", "swissGerman": "Gueti Idää. Do isch min Handy — gib mir dini Nummere.", "german": "Gute Idee. Hier ist mein Handy — gib mir deine Nummer.", "english": "Good idea. Here's my phone — give me your number."},
             ],
             "differences": [
                 {"swissGerman": "zämegstoosse", "german": "zusammengestoßen", "explanation": "'zämegstoosse' = collided. Swiss form."},
@@ -66,6 +70,8 @@ SUBTOPIC_SAFETY_URGENT = {
                 {"speaker": "Friend", "swissGerman": "Ja, 112 isch de europäischi Notruf. De funktioniert überall.", "german": "Ja, 112 ist der europäische Notruf. Der funktioniert überall.", "english": "Yes, 112 is the European emergency number. It works everywhere."},
                 {"speaker": "You", "swissGerman": "Guet z'wüsse. Und wänn öpper vergiftet isch?", "german": "Gut zu wissen. Und wenn jemand vergiftet ist?", "english": "Good to know. And if someone is poisoned?"},
                 {"speaker": "Friend", "swissGerman": "D'Toxzentrale: 145. Die sind 24 Stunde erreichbar.", "german": "Die Toxzentrale: 145. Die sind 24 Stunden erreichbar.", "english": "The poison center: 145. They're reachable 24 hours."},
+                {"speaker": "You", "swissGerman": "Und wemer us em Uusland aalueged? Bim Roaming?", "german": "Und wenn wir aus dem Ausland anrufen? Beim Roaming?", "english": "And if we're calling from abroad? With roaming?"},
+                {"speaker": "Friend", "swissGerman": "Dännis 112 — funktioniert überall in Europa, au ohäni SIM-Charte.", "german": "Dann ist es 112 — funktioniert überall in Europa, auch ohne SIM-Karte.", "english": "Then it's 112 — works everywhere in Europe, even without a SIM card."},
             ],
             "differences": [
                 {"swissGerman": "Notfallnummere", "german": "Notfallnummer", "explanation": "'Notfallnummere' = emergency number."},
@@ -91,6 +97,8 @@ SUBTOPIC_SAFETY_URGENT = {
                 {"speaker": "Friend", "swissGerman": "Gang zrugg und frag am Schalter. Öpper hät's vilicht abgeh.", "german": "Geh zurück und frag am Schalter. Jemand hat es vielleicht abgegeben.", "english": "Go back and ask at the counter. Someone may have turned it in."},
                 {"speaker": "You", "swissGerman": "Und wänn nöd? Muess ich d'Charte sperr lah!", "german": "Und wenn nicht? Muss ich die Karten sperren lassen!", "english": "And what if not? I have to block the cards!"},
                 {"speaker": "Friend", "swissGerman": "Ja, rüef sofort d'Bank aa. Und denn e Azeig bi de Polizei mache.", "german": "Ja, ruf sofort die Bank an. Und dann eine Anzeige bei der Polizei machen.", "english": "Yes, call the bank immediately. And then file a report with the police."},
+                {"speaker": "You", "swissGerman": "Und d'Versicherig informiere? Ich glaub ich ha en Assistenzversicherig.", "german": "Und die Versicherung informieren? Ich glaube ich habe eine Assistenzversicherung.", "english": "And inform the insurance? I think I have an assistance insurance."},
+                {"speaker": "Friend", "swissGerman": "Ja, gueti Idää. Die händ oft en 24h-Notruf für Kartensperre und Nöthilf.", "german": "Ja, gute Idee. Die haben oft eine 24h-Notfallnummer für Kartensperrung und Notfallhilfe.", "english": "Yes, good idea. They often have a 24h emergency number for card blocking and emergency help."},
             ],
             "differences": [
                 {"swissGerman": "Portmonee", "german": "Portemonnaie/Geldbeutel", "explanation": "'Portmonee' = wallet. Swiss use French word."},
@@ -116,6 +124,8 @@ SUBTOPIC_SAFETY_URGENT = {
                 {"speaker": "You", "swissGerman": "Und de Lift?", "german": "Und der Aufzug?", "english": "And the elevator?"},
                 {"speaker": "Neighbor", "swissGerman": "Nie de Lift bruuche bim Füür-Alarm! Immer d'Stäge!", "german": "Nie den Aufzug benutzen beim Feuer-Alarm! Immer die Treppe!", "english": "Never use the elevator during a fire alarm! Always the stairs!"},
                 {"speaker": "You", "swissGerman": "Okay, ich chume! Wo isch de Sammelplatz?", "german": "Okay, ich komme! Wo ist der Sammelplatz?", "english": "Okay, I'm coming! Where's the assembly point?"},
+                {"speaker": "Neighbor", "swissGerman": "Vor em Hüsli, bim Briefkaschte. Dä ischs uf em Schild oene beschriibe.", "german": "Vor dem Haus, beim Briefkasten. Das ist auf dem Schild draussen beschrieben.", "english": "In front of the building, by the mailbox. It's described on the sign outside."},
+                {"speaker": "You", "swissGerman": "Okay danke! Ich chume jetzt. Hop hop!", "german": "Okay danke! Ich komme jetzt. Schnell schnell!", "english": "Okay thanks! I'm coming now. Quick quick!"},
             ],
             "differences": [
                 {"swissGerman": "use", "german": "raus", "explanation": "'use' = 'raus/hinaus'. Out. Swiss form."},

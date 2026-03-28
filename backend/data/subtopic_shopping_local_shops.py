@@ -15,6 +15,7 @@ SUBTOPIC_SHOPPING_LOCAL_SHOPS = {
                 {"speaker": "Baker", "swissGerman": "Gärn! S'Ruchbrot ganz oder halb?", "german": "Gerne! Das Ruchbrot ganz oder halb?", "english": "Sure! The dark bread whole or half?"},
                 {"speaker": "You", "swissGerman": "Es halbs, bitte. Und händ ihr no Nussgipfeli?", "german": "Ein halbes, bitte. Und haben Sie noch Nussgipfeli?", "english": "A half, please. And do you still have nut croissants?"},
                 {"speaker": "Baker", "swissGerman": "Ja, mir händ no drei Stück. Die sind aber erst ab Mittag reduziert.", "german": "Ja, wir haben noch drei Stück. Die sind aber erst ab Mittag reduziert.", "english": "Yes, we have three left. But they're only reduced from noon."},
+                {"speaker": "Baker", "swissGerman": "Das macht fünf Nünzg zäme. Darf's no öppis sii — mir händ hüt frische Weggli!", "german": "Das macht fünf neunzig zusammen. Darf es noch etwas sein — wir haben heute frische Weggli!", "english": "That's five ninety together. Something else — we have fresh Weggli today!"},
                 {"speaker": "You", "swissGerman": "Denn nimm ich eins zum normale Priis. Was macht das zäme?", "german": "Dann nehme ich eins zum normalen Preis. Was macht das zusammen?", "english": "Then I'll take one at the regular price. How much is that altogether?"},
             ],
             "differences": [
@@ -40,6 +41,7 @@ SUBTOPIC_SHOPPING_LOCAL_SHOPS = {
                 {"speaker": "Butcher", "swissGerman": "Ghackts vom Rind oder gmischt?", "german": "Hackfleisch vom Rind oder gemischt?", "english": "Minced beef or mixed?"},
                 {"speaker": "You", "swissGerman": "Gmischts, bitte. Und was chostet de Cervelat pro Stück?", "german": "Gemischtes, bitte. Und was kostet der Cervelat pro Stück?", "english": "Mixed, please. And how much is a Cervelat per piece?"},
                 {"speaker": "Butcher", "swissGerman": "Zwöi Siebzig s'Stück. Und s'Ghackts isch Nüün Achtzg pro Kilo.", "german": "Zwei siebzig das Stück. Und das Hackfleisch ist neun achtzig pro Kilo.", "english": "Two seventy each. And the mince is nine eighty per kilo."},
+                {"speaker": "Butcher", "swissGerman": "Ja, mit Charte oder TWINT. Und wenn Sie wänd — mir händ hüt au frische Wienerli.", "german": "Ja, mit Karte oder TWINT. Und wenn Sie möchten — wir haben heute auch frische Wienerli.", "english": "Yes, card or TWINT. And if you'd like — we also have fresh Wienerli today."},
                 {"speaker": "You", "swissGerman": "Guet, ich nimm alles. Chani mit Charte zahle?", "german": "Gut, ich nehme alles. Kann ich mit Karte zahlen?", "english": "Good, I'll take everything. Can I pay by card?"},
             ],
             "differences": [
@@ -65,6 +67,7 @@ SUBTOPIC_SHOPPING_LOCAL_SHOPS = {
                 {"speaker": "Vendor", "swissGerman": "Achtzäh Franke s'Kilo. Oder es Schäleli für Sächs Franke.", "german": "Achtzehn Franken das Kilo. Oder ein Schälchen für sechs Franken.", "english": "Eighteen francs per kilo. Or a small bowl for six francs."},
                 {"speaker": "You", "swissGerman": "Ich nimm es Schäleli. Und händ ihr au Zucchetti?", "german": "Ich nehme ein Schälchen. Und haben Sie auch Zucchini?", "english": "I'll take a bowl. And do you have zucchini too?"},
                 {"speaker": "Vendor", "swissGerman": "Ja! Zucchetti sind Vier Franke pro Kilo. Wie vill wänd Sie?", "german": "Ja! Zucchini sind vier Franken pro Kilo. Wie viel möchten Sie?", "english": "Yes! Zucchini are four francs per kilo. How much would you like?"},
+                {"speaker": "Vendor", "swissGerman": "Ja, TWINT geht. Mit em QR-Code da vorne. Chömed Sie nöchschti Wuche wieder — denn händ mir Rüebli us em Eigabau.", "german": "Ja, TWINT geht. Mit dem QR-Code dort vorne. Kommen Sie nächste Woche wieder — dann haben wir Rüebli aus eigenem Anbau.", "english": "Yes, TWINT works. With the QR code up front. Come back next week — then we have carrots from our own farm."},
                 {"speaker": "You", "swissGerman": "Zwöi Stück, bitte. Und chani mit TWINT zahle?", "german": "Zwei Stück, bitte. Und kann ich mit TWINT zahlen?", "english": "Two pieces, please. And can I pay with TWINT?"},
             ],
             "differences": [
@@ -90,6 +93,7 @@ SUBTOPIC_SHOPPING_LOCAL_SHOPS = {
                 {"speaker": "Cashier", "swissGerman": "Ja, am Terminal unne. Wie wänd Sie zahle?", "german": "Ja, am Terminal unten. Wie möchten Sie zahlen?", "english": "Yes, at the terminal below. How would you like to pay?"},
                 {"speaker": "You", "swissGerman": "Mit Charte kontaktlos, bitte.", "german": "Mit Karte kontaktlos, bitte.", "english": "Contactless by card, please."},
                 {"speaker": "Cashier", "swissGerman": "Bitte halted d'Charte ans Grät. ... Isch duregange. Wänd Sie de Bon?", "german": "Bitte halten Sie die Karte ans Gerät. ... Ist durchgegangen. Möchten Sie den Bon?", "english": "Please hold the card to the device. ... It went through. Would you like the receipt?"},
+                {"speaker": "Cashier", "swissGerman": "Klar, de Sack chostet zwänzg Räppe. Und vergässe Sie nöd — Migros händ mol d'Wuche 10% uf Joghurt.", "german": "Klar, der Sack kostet zwanzig Rappen. Und vergessen Sie nicht — Migros hat diese Woche 10% auf Joghurt.", "english": "Sure, the bag costs twenty centimes. And don't forget — Migros has 10% off yogurt this week."},
                 {"speaker": "You", "swissGerman": "Nei, danke. Aber chönd Sie mir e Tragtasche geh? Ich ha kei eigini debii.", "german": "Nein, danke. Aber können Sie mir eine Tragtasche geben? Ich habe keine eigene dabei.", "english": "No, thanks. But can you give me a bag? I don't have one with me."},
             ],
             "differences": [
@@ -115,6 +119,7 @@ SUBTOPIC_SHOPPING_LOCAL_SHOPS = {
                 {"speaker": "Employee", "swissGerman": "Wie vill dörf's si? 200 Gramm?", "german": "Wie viel darf es sein? 200 Gramm?", "english": "How much? 200 grams?"},
                 {"speaker": "You", "swissGerman": "Vom Gruyère 300 und vom Appezäller 200. Isch de Appezäller mild oder rezänt?", "german": "Vom Gruyère 300 und vom Appenzeller 200. Ist der Appenzeller mild oder rezent?", "english": "300 of the Gruyère and 200 of the Appenzeller. Is the Appenzeller mild or strong?"},
                 {"speaker": "Employee", "swissGerman": "De do isch rezänt — scho achti Mönet greift. Wänd Sie probiere?", "german": "Der hier ist rezent — schon acht Monate gereift. Möchten Sie probieren?", "english": "This one is strong — already aged eight months. Would you like to try?"},
+                {"speaker": "Employee", "swissGerman": "Super! Und zum Gruyère empehl ich Ihne en Hobelchäs — de isch perfekt zu Röschti.", "german": "Super! Und zum Gruyère empfehle ich Ihnen einen Hobelkäse — der ist perfekt zu Rösti.", "english": "Great! And with the Gruyère I recommend a Hobelkäse — it's perfect with Rösti."},
                 {"speaker": "You", "swissGerman": "Ja, gärn! ... Mmh, fein! De nimm ich. Passt!", "german": "Ja, gerne! ... Mmh, lecker! Den nehme ich. Passt!", "english": "Yes, please! ... Mmh, delicious! I'll take that one. Perfect!"},
             ],
             "differences": [

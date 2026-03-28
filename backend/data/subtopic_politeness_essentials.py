@@ -16,6 +16,7 @@ SUBTOPIC_POLITENESS_ESSENTIALS = {
                 {"speaker": "You", "swissGerman": "Das isch würkli lieb vo Ihne.", "german": "Das ist wirklich lieb von Ihnen.", "english": "That's really kind of you."},
                 {"speaker": "Stranger", "swissGerman": "Aber sicher! Schöne Tag no!", "german": "Aber sicher! Schönen Tag noch!", "english": "Of course! Have a nice day!"},
                 {"speaker": "You", "swissGerman": "Ihne au, und nomol danke!", "german": "Ihnen auch, und nochmal danke!", "english": "You too, and thanks again!"},
+                {"speaker": "Stranger", "swissGerman": "Kei Problem! Und gluggeli Raise!", "german": "Kein Problem! Und gute Reise!", "english": "No problem! Safe travels!"},
             ],
             "differences": [
                 {"swissGerman": "Merci vielmal", "german": "Vielen Dank", "explanation": "'Merci' from French is the most common way to say thanks in Swiss German. 'Vielmal' adds emphasis."},
@@ -39,6 +40,9 @@ SUBTOPIC_POLITENESS_ESSENTIALS = {
                 {"speaker": "You", "swissGerman": "Danke. Und chönted Sie mir bitte au es Wasser bringe?", "german": "Danke. Und könnten Sie mir bitte auch ein Wasser bringen?", "english": "Thanks. And could you also bring me a water please?"},
                 {"speaker": "Waiter", "swissGerman": "Gern. Still oder mit Kohlensüüri?", "german": "Gern. Still oder mit Kohlensäure?", "english": "Sure. Still or sparkling?"},
                 {"speaker": "You", "swissGerman": "Mit Kohlensüüri, bitte. Merci!", "german": "Mit Kohlensäure, bitte. Danke!", "english": "Sparkling, please. Thanks!"},
+                {"speaker": "Waiter", "swissGerman": "Isch sönscht no öppis? Wir händ hut au en guete Tagesteller.", "german": "Ist sonst noch etwas? Wir haben heute auch ein gutes Tagesgericht.", "english": "Is there anything else? We also have a good daily special today."},
+                {"speaker": "You", "swissGerman": "Was isch de Tagesteller?", "german": "Was ist das Tagesgericht?", "english": "What is the daily special?"},
+                {"speaker": "Waiter", "swissGerman": "Zander mit Brötlichruste und Gratin. Sehr beliebt bi üns.", "german": "Zander mit Brötlichruste und Gratin. Sehr beliebt bei uns.", "english": "Pike-perch with breadcrumb crust and gratin. Very popular with us."},
             ],
             "differences": [
                 {"swissGerman": "Entschuldigung", "german": "Entschuldigung", "explanation": "Same word, but in casual settings Swiss people often just say 'Exgüsi' (from French 'excusez')."},
@@ -62,6 +66,8 @@ SUBTOPIC_POLITENESS_ESSENTIALS = {
                 {"speaker": "You", "swissGerman": "Ich wett wüsse, ob dä Brief no hüt verschickt wird.", "german": "Ich möchte wissen, ob dieser Brief noch heute verschickt wird.", "english": "I'd like to know if this letter will be sent today."},
                 {"speaker": "Clerk", "swissGerman": "Ja, wenn Sie ne jetzt ufgänd, gaht er no hüt use.", "german": "Ja, wenn Sie ihn jetzt abgeben, geht er noch heute raus.", "english": "Yes, if you hand it in now, it'll go out today."},
                 {"speaker": "You", "swissGerman": "Super, merci villmal! Das isch sehr hilfriich.", "german": "Super, vielen Dank! Das ist sehr hilfreich.", "english": "Great, thank you so much! That's very helpful."},
+                {"speaker": "Clerk", "swissGerman": "Bitte sehr. Git's no öppis angers wo ich helfe chänn?", "german": "Bitte sehr. Gibt es noch etwas anderes, womit ich helfen kann?", "english": "You're welcome. Is there anything else I can help you with?"},
+                {"speaker": "You", "swissGerman": "Nei, das isch alles. En schöne Nachmittag!", "german": "Nein, das ist alles. Einen schönen Nachmittag!", "english": "No, that's everything. Have a nice afternoon!"},
             ],
             "differences": [
                 {"swissGerman": "Exgüsi", "german": "Entschuldigung", "explanation": "From French 'excusez-moi'. Very common casual way to get attention in Swiss German."},
@@ -85,6 +91,8 @@ SUBTOPIC_POLITENESS_ESSENTIALS = {
                 {"speaker": "You", "swissGerman": "Isch hie so eng, sorry nomol.", "german": "Ist hier so eng, sorry nochmal.", "english": "It's so cramped here, sorry again."},
                 {"speaker": "Person", "swissGerman": "Isch alles guet, passiert jedem mol.", "german": "Ist alles gut, passiert jedem mal.", "english": "It's all good, happens to everyone."},
                 {"speaker": "You", "swissGerman": "Danke, Sie sind nett!", "german": "Danke, Sie sind nett!", "english": "Thanks, you're kind!"},
+                {"speaker": "Person", "swissGerman": "Gern! S'Tram isch halt wirkli z'voll am Abig.", "german": "Gerne! Die Tram ist halt wirklich zu voll am Abend.", "english": "Don't mention it! The tram really is too full in the evening."},
+                {"speaker": "You", "swissGerman": "Ja, genau! Ich warte meischtens bis nach de Rushourstunde.", "german": "Ja, genau! Ich warte meistens bis nach der Rushhour.", "english": "Yes, exactly! I usually wait until after rush hour."},
             ],
             "differences": [
                 {"swissGerman": "Tuet mer leid", "german": "Tut mir leid", "explanation": "'Tuet' = 'tut', 'mer' = 'mir'. Standard everyday apology."},
@@ -109,7 +117,7 @@ SUBTOPIC_POLITENESS_ESSENTIALS = {
                 {"speaker": "Host", "swissGerman": "Das isch lieb, danke! S'Rezäpt schicki der no.", "german": "Das ist lieb, danke! Das Rezept schicke ich dir noch.", "english": "That's sweet, thanks! I'll send you the recipe."},
                 {"speaker": "You", "swissGerman": "Uh ja, gern! Nomol merci für alles. Mir gsehnd üs!", "german": "Oh ja, gern! Nochmal danke für alles. Wir sehen uns!", "english": "Oh yes, please! Thanks again for everything. See you!"},
                 {"speaker": "Host", "swissGerman": "Bitteschön! Chumm guet hei. Tschau!", "german": "Bitteschön! Komm gut heim. Tschüss!", "english": "You're welcome! Get home safe. Bye!"},
-            ],
+                {"speaker": "You", "swissGerman": "Tschau! Und gruss mir d'Familie!", "german": "Tschüss! Und grüß mir die Familie!", "english": "Bye! And say hello to the family!"},            ],
             "differences": [
                 {"swissGerman": "härzliche Dank", "german": "herzlichen Dank", "explanation": "'härzlich' = 'herzlich'. The 'e' → 'ä' vowel shift is typical."},
                 {"swissGerman": "dass du cho bisch", "german": "dass du gekommen bist", "explanation": "'cho' = 'gekommen', 'bisch' = 'bist'. Past participle drops 'ge-' entirely."},

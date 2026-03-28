@@ -15,6 +15,7 @@ SUBTOPIC_SOCIAL_ETIQUETTE = {
                 {"speaker": "Neighbor", "swissGerman": "Kei Problem! Das macht me doch under Nachbare.", "german": "Kein Problem! Das macht man doch unter Nachbarn.", "english": "No problem! That's what you do among neighbors."},
                 {"speaker": "You", "swissGerman": "Trotzdem, ich bii echt dankbar. Chani dir mol en Kafi bringe?", "german": "Trotzdem, ich bin echt dankbar. Kann ich dir mal einen Kaffee bringen?", "english": "Still, I'm really grateful. Can I bring you a coffee sometime?"},
                 {"speaker": "Neighbor", "swissGerman": "Ach, das musch du nöd! Aber en Kafi isch immer willkomme, hehe.", "german": "Ach, das musst du nicht! Aber ein Kaffee ist immer willkommen, hehe.", "english": "Oh, you don't have to! But a coffee is always welcome, hehe."},
+                {"speaker": "Neighbor", "swissGerman": "Haha, de Kafi isch wörklich nöd nötig. Aber es macht Spass mit dir z'plaudere!", "german": "Haha, der Kaffee ist wirklich nicht nötig. Aber es macht Spaß mit dir zu plaudern!", "english": "Haha, the coffee really isn't necessary. But it's fun chatting with you!"},
                 {"speaker": "You", "swissGerman": "Abgemacht! Ich bring dir morn eine verbi. Nochmals danke!", "german": "Abgemacht! Ich bringe dir morgen einen vorbei. Nochmals danke!", "english": "Deal! I'll bring you one tomorrow. Thanks again!"},
             ],
             "differences": [
@@ -40,6 +41,7 @@ SUBTOPIC_SOCIAL_ETIQUETTE = {
                 {"speaker": "Mrs. Müller", "swissGerman": "Grüezi! Sehr erfreut. Mir händ scho vill vo Ihne ghört.", "german": "Guten Tag! Sehr erfreut. Wir haben schon viel von Ihnen gehört.", "english": "Hello! Very pleased. We've heard a lot about you."},
                 {"speaker": "You", "swissGerman": "Nur Guets, hoffentlich! Und bitte — Sie chönd ruhig 'du' säge.", "german": "Nur Gutes, hoffentlich! Und bitte — Sie können ruhig 'du' sagen.", "english": "Only good things, hopefully! And please — you can use 'du'."},
                 {"speaker": "Mrs. Müller", "swissGerman": "Bisch du sicher? Das isch lieb. Denn säg ich du — und ich bi d'Margrit.", "german": "Bist du sicher? Das ist lieb. Dann sage ich du — und ich bin Margrit.", "english": "Are you sure? That's kind. Then I'll use du — and I'm Margrit."},
+                {"speaker": "Mrs. Müller", "swissGerman": "Ja, mir Schwiizer sind meischtens unkompliziert — aber Grüezi saget mir trotzdem zu fremde Lüt.", "german": "Ja, wir Schweizer sind meistens unkompliziert — aber Grüezi sagen wir trotzdem zu fremden Leuten.", "english": "Yes, we Swiss are mostly uncomplicated — but we still say Grüezi to strangers."},
                 {"speaker": "You", "swissGerman": "Freut mich, Margrit! D'Schwiizer sind so nett — in andere Länder isch das alles formeller.", "german": "Freut mich, Margrit! Die Schweizer sind so nett — in anderen Ländern ist das alles formeller.", "english": "Nice to meet you, Margrit! The Swiss are so kind — in other countries it's all more formal."},
             ],
             "differences": [
@@ -65,6 +67,7 @@ SUBTOPIC_SOCIAL_ETIQUETTE = {
                 {"speaker": "You", "swissGerman": "Puh, guet! Ich hät en schlechts Gwüsse gha.", "german": "Puh, gut! Ich hätte ein schlechtes Gewissen gehabt.", "english": "Phew, good! I would have felt guilty."},
                 {"speaker": "Friend", "swissGerman": "Quatsch! S'isch doch kei Ding. Sit abe und nimm en Kafi!", "german": "Quatsch! Es ist doch kein Ding. Setz dich und nimm einen Kaffee!", "english": "Nonsense! It's nothing. Sit down and have a coffee!"},
                 {"speaker": "You", "swissGerman": "Merci! Und s'nöchste Mol bin ich pünktlich — Schwiizer-Style!", "german": "Danke! Und nächstes Mal bin ich pünktlich — auf Schweizer Art!", "english": "Thanks! And next time I'll be on time — Swiss-style!"},
+                {"speaker": "You", "swissGerman": "Und wenn ich zu spat bi, send ich vorher e Whatsapp — so macht me das doch, oder?", "german": "Und wenn ich zu spät bin, schicke ich vorher eine WhatsApp — so macht man das doch, oder?", "english": "And if I'm late I'll send a WhatsApp in advance — that's what you do, right?"},
                 {"speaker": "Friend", "swissGerman": "Haha, genau! Denn bisch du richtig integriert!", "german": "Haha, genau! Dann bist du richtig integriert!", "english": "Haha, exactly! Then you'll be properly integrated!"},
             ],
             "differences": [
@@ -90,6 +93,7 @@ SUBTOPIC_SOCIAL_ETIQUETTE = {
                 {"speaker": "Friend", "swissGerman": "Haha, rechts-links-rechts. Eifach mitmache!", "german": "Haha, rechts-links-rechts. Einfach mitmachen!", "english": "Haha, right-left-right. Just go along with it!"},
                 {"speaker": "You", "swissGerman": "Und bi Manne? Gits au Küssli?", "german": "Und bei Männern? Gibt es auch Küsschen?", "english": "And with men? Are there kisses too?"},
                 {"speaker": "Friend", "swissGerman": "Manne gönd sich meischtens d'Hand. Oder en kurze Umarmig, wenns gueti Kolleege sind.", "german": "Männer geben sich meistens die Hand. Oder eine kurze Umarmung, wenn es gute Freunde sind.", "english": "Men usually shake hands. Or a brief hug if they're close friends."},
+                {"speaker": "Friend", "swissGerman": "Haha, no en Tipp: fang immer rechts ah — de erscht Küssli isch uf d'recht Bagge.", "german": "Haha, noch ein Tipp: fang immer rechts an — der erste Kuss ist auf die rechte Wange.", "english": "Haha, one more tip: always start right — the first kiss is on the right cheek."},
                 {"speaker": "You", "swissGerman": "Okay, ich versuchs! Hoffentlich küss ich niemer uf d'Nase!", "german": "Okay, ich versuche es! Hoffentlich küsse ich niemanden auf die Nase!", "english": "Okay, I'll try! Hopefully I don't kiss anyone on the nose!"},
             ],
             "differences": [
@@ -115,6 +119,7 @@ SUBTOPIC_SOCIAL_ETIQUETTE = {
                 {"speaker": "You", "swissGerman": "Okay, guet z'wüsse! In andere Kulturen isch das nöd immer so.", "german": "Okay, gut zu wissen! In anderen Kulturen ist das nicht immer so.", "english": "Okay, good to know! In other cultures that's not always the case."},
                 {"speaker": "Friend", "swissGerman": "I de Schwiiz ghört sich das. Und nie mit leere Händ cho!", "german": "In der Schweiz gehört sich das. Und nie mit leeren Händen kommen!", "english": "In Switzerland that's expected. And never come empty-handed!"},
                 {"speaker": "You", "swissGerman": "Verstande! Ich nimm en guete Fendant mit.", "german": "Verstanden! Ich nehme einen guten Fendant mit.", "english": "Understood! I'll bring a good Fendant."},
+                {"speaker": "You", "swissGerman": "Und soll ich de Wii kalt mitbringe oder isch das egal?", "german": "Und soll ich den Wein kalt mitbringen oder ist das egal?", "english": "And should I bring the wine cold or does it not matter?"},
                 {"speaker": "Friend", "swissGerman": "Perfekt! Und no es 'Merci für d'Iiladig' — denn machsch alles richtig.", "german": "Perfekt! Und noch ein 'Danke für die Einladung' — dann machst du alles richtig.", "english": "Perfect! And also a 'thank you for the invitation' — then you're doing everything right."},
             ],
             "differences": [

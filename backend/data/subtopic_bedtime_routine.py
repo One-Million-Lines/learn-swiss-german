@@ -16,6 +16,8 @@ SUBTOPIC_BEDTIME_ROUTINE = {
                 {"speaker": "Child", "swissGerman": "Yay, Schaum! Lueg, ich ha en Bart wie de Samichlaus!", "german": "Yay, Schaum! Schau, ich habe einen Bart wie der Nikolaus!", "english": "Yay, bubbles! Look, I have a beard like Santa!"},
                 {"speaker": "You", "swissGerman": "Haha! Aber jetzt Haar wäsche. Mach d'Auge zue.", "german": "Haha! Aber jetzt Haare waschen. Mach die Augen zu.", "english": "Haha! But now hair washing. Close your eyes."},
                 {"speaker": "Child", "swissGerman": "Nei, s'Shampoo brennt! Chasch du s'Baby-Shampoo näh?", "german": "Nein, das Shampoo brennt! Kannst du das Baby-Shampoo nehmen?", "english": "No, the shampoo stings! Can you use the baby shampoo?"},
+                {"speaker": "You", "swissGerman": "Ja, do isch es. Und jetzt d'Auge guet zue!", "german": "Ja, hier ist es. Und jetzt die Augen gut zu!", "english": "Yes, here it is. And now eyes tight shut!"},
+                {"speaker": "Child", "swissGerman": "Okay... Mami, ich glaub ich schmöck jetzt wie Erdbeeri!", "german": "Okay... Mama, ich glaube ich rieche jetzt nach Erdbeeren!", "english": "Okay... Mom, I think I smell like strawberries now!"},
             ],
             "differences": [
                 {"swissGerman": "Wannen", "german": "Wanne/Badewanne", "explanation": "'Wannen' = 'Badewanne'. Swiss form."},
@@ -41,6 +43,8 @@ SUBTOPIC_BEDTIME_ROUTINE = {
                 {"speaker": "Child", "swissGerman": "Chasch du mir hälfe? Ich chum nöd i d'Ärmel ine.", "german": "Kannst du mir helfen? Ich komme nicht in die Ärmel rein.", "english": "Can you help me? I can't get into the sleeves."},
                 {"speaker": "You", "swissGerman": "Do, de rächt Arm zerscht... und jetzt de lingg.", "german": "Hier, der rechte Arm zuerst... und jetzt der linke.", "english": "Here, right arm first... and now the left."},
                 {"speaker": "Child", "swissGerman": "Danke! Jetzt bin ich en Dino! Raawr!", "german": "Danke! Jetzt bin ich ein Dino! Raawr!", "english": "Thanks! Now I'm a dino! Raawr!"},
+                {"speaker": "You", "swissGerman": "Sehr guet! Und jetzt muess de Dino go Zähni putze!", "german": "Sehr gut! Und jetzt muss der Dino Zähne putzen!", "english": "Very good! And now the dino has to brush teeth!"},
+                {"speaker": "Child", "swissGerman": "Dinos putze kei Zähni! Raawr!", "german": "Dinos putzen keine Zähne! Raawr!", "english": "Dinos don't brush teeth! Raawr!"},
             ],
             "differences": [
                 {"swissGerman": "Pyjama", "german": "Schlafanzug", "explanation": "'Pyjama' is used more commonly in Swiss German than 'Schlafanzug'."},
@@ -66,6 +70,8 @@ SUBTOPIC_BEDTIME_ROUTINE = {
                 {"speaker": "You", "swissGerman": "'Es war einmal...' Nei wart, falschs Buech. Ah do: 'Uf sim Planeet...'", "german": "'Es war einmal...' Nein warte, falsches Buch. Ah hier: 'Auf seinem Planeten...'", "english": "'Once upon a time...' No wait, wrong book. Ah here: 'On his planet...'"},
                 {"speaker": "Child", "swissGerman": "Mach d'Stimme vo de Schlange! Die isch so lustig!", "german": "Mach die Stimme der Schlange! Die ist so lustig!", "english": "Do the snake's voice! It's so funny!"},
                 {"speaker": "You", "swissGerman": "'Sssss... Ich ha scho en Elefant verschluckt...' So, jetzt isch gnueg. Guet Nacht!", "german": "'Sssss... Ich habe schon einen Elefanten verschluckt...' So, jetzt ist genug. Gute Nacht!", "english": "'Sssss... I've already swallowed an elephant...' Alright, that's enough now. Good night!"},
+                {"speaker": "Child", "swissGerman": "No e Siite! Nur eine bitte!", "german": "Noch eine Seite! Nur eine bitte!", "english": "One more page! Just one please!"},
+                {"speaker": "You", "swissGerman": "Kei Siite meh. De Prinz schlaft au schon. Bis morn, Schatz!", "german": "Keine Seite mehr. Der Prinz schläft auch schon. Bis morgen, Schatz!", "english": "No more pages. The Prince is already asleep too. Until tomorrow, sweetheart!"},
             ],
             "differences": [
                 {"swissGerman": "Gschicht", "german": "Geschichte", "explanation": "'Gschicht' = 'Geschichte'. 'Ge-' → 'G-'."},
@@ -91,6 +97,8 @@ SUBTOPIC_BEDTIME_ROUTINE = {
                 {"speaker": "You", "swissGerman": "Ja, ich lah sie en Spalt offe. Und din Teddy isch au bi dir.", "german": "Ja, ich lasse sie einen Spalt offen. Und dein Teddy ist auch bei dir.", "english": "Yes, I'll leave it open a crack. And your teddy is with you too."},
                 {"speaker": "Child", "swissGerman": "Was wenn es Monster under em Bett hät?", "german": "Was wenn ein Monster unter dem Bett ist?", "english": "What if there's a monster under the bed?"},
                 {"speaker": "You", "swissGerman": "Do isch keis Monster. Lueg, ich check... Gsesch? Nüüt! Jetzt schlaf guet.", "german": "Da ist kein Monster. Schau, ich checke... Siehst du? Nichts! Jetzt schlaf gut.", "english": "There's no monster. Look, I'll check... See? Nothing! Now sleep well."},
+                {"speaker": "Child", "swissGerman": "Und warum raschlet es denn so?", "german": "Und warum raschelt es dann so?", "english": "And why does it rustle then?"},
+                {"speaker": "You", "swissGerman": "Das isch de Wind am Fänschter. Alles guet. Ich bi da, schlaf.", "german": "Das ist der Wind am Fenster. Alles gut. Ich bin da, schlaf.", "english": "That's the wind at the window. All good. I'm here, sleep."},
             ],
             "differences": [
                 {"swissGerman": "Nachtliecht", "german": "Nachtlicht", "explanation": "'Nachtliecht' = 'Nachtlicht'. Swiss pronunciation."},
@@ -116,6 +124,8 @@ SUBTOPIC_BEDTIME_ROUTINE = {
                 {"speaker": "You", "swissGerman": "Lina, s'isch scho Nüni. Was isch?", "german": "Lina, es ist schon neun. Was ist?", "english": "Lina, it's already nine. What is it?"},
                 {"speaker": "Child", "swissGerman": "Ich ha morn en Ufsatz und ich weiss s'Thema nöd meh.", "german": "Ich habe morgen einen Aufsatz und ich weiß das Thema nicht mehr.", "english": "I have an essay tomorrow and I can't remember the topic."},
                 {"speaker": "You", "swissGerman": "Das luege mir morn am Morge. Jetzt mach d'Auge zue und schlaf.", "german": "Das schauen wir morgen früh. Jetzt mach die Augen zu und schlaf.", "english": "We'll look at that tomorrow morning. Now close your eyes and sleep."},
+                {"speaker": "Child", "swissGerman": "Chömmer morn früeh luege? Vor de Schuel?", "german": "Können wir morgen früh schauen? Vor der Schule?", "english": "Can we look tomorrow morning early? Before school?"},
+                {"speaker": "You", "swissGerman": "Ja, um siibe. Aber jetzt wirklich Guet Nacht. Schlaf guet!", "german": "Ja, um sieben. Aber jetzt wirklich Gute Nacht. Schlaf gut!", "english": "Yes, at seven. But now really good night. Sleep well!"},
             ],
             "differences": [
                 {"swissGerman": "Nüni", "german": "neun Uhr", "explanation": "'Nüni' = nine o'clock. Swiss time expression."},

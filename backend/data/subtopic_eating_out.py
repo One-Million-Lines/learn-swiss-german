@@ -16,6 +16,8 @@ SUBTOPIC_EATING_OUT = {
                 {"speaker": "You", "swissGerman": "Mit Röschti, natürlich! Und zum Trinke es Mineralwasser.", "german": "Mit Rösti, natürlich! Und zum Trinken ein Mineralwasser.", "english": "With rösti, of course! And a mineral water to drink."},
                 {"speaker": "Waiter", "swissGerman": "Mit oder ohni Kohlesüüri?", "german": "Mit oder ohne Kohlensäure?", "english": "With or without sparkling?"},
                 {"speaker": "You", "swissGerman": "Mit, bitte. Und no e Stange zum Start.", "german": "Mit, bitte. Und noch ein kleines Bier zum Start.", "english": "With, please. And a small beer to start."},
+                {"speaker": "Waiter", "swissGerman": "Gärn! Und wänd Sie e Vorspeise oder direkt s'Hauptgricht?", "german": "Gerne! Und möchten Sie eine Vorspeise oder direkt das Hauptgericht?", "english": "Gladly! And would you like a starter or straight to the main course?"},
+                {"speaker": "You", "swissGerman": "Direkt s'Hauptgricht danke — ich bi gnueg hungrig!", "german": "Direkt das Hauptgericht danke — ich bin hungrig genug!", "english": "Straight to the main course thanks — I'm hungry enough!"},
             ],
             "differences": [
                 {"swissGerman": "Züri-Gschnetzelts", "german": "Zürcher Geschnetzeltes", "explanation": "Classic Zurich dish: sliced veal in cream sauce with mushrooms."},
@@ -41,6 +43,8 @@ SUBTOPIC_EATING_OUT = {
                 {"speaker": "Waiter", "swissGerman": "Hörnli sind chliini, chrummi Nudeln. Das isch s'typische Schwizer Comfort-Food.", "german": "Hörnli sind kleine, krumme Nudeln. Das ist das typische Schweizer Comfort-Food.", "english": "Hörnli are small, curved pasta. It's the typical Swiss comfort food."},
                 {"speaker": "You", "swissGerman": "Mit Apfelmuus dezue?", "german": "Mit Apfelmus dazu?", "english": "With applesauce on the side?"},
                 {"speaker": "Waiter", "swissGerman": "Genau, s'ghört dezue! Das isch de Klassiker.", "german": "Genau, das gehört dazu! Das ist der Klassiker.", "english": "Exactly, it's part of it! That's the classic."},
+                {"speaker": "You", "swissGerman": "Gut, ich nimm dann d'Hörnli! Und chunnt geriibener Käs automatisch dezue?", "german": "Gut, ich nehme dann die Hörnli! Und kommt geriebener Käse automatisch dazu?", "english": "Good, I'll take the Hörnli then! And does grated cheese come automatically?"},
+                {"speaker": "Waiter", "swissGerman": "Ja klar, Bergkäs isch immer dezue. En Guete!", "german": "Ja klar, Bergkäse ist immer dabei. Guten Appetit!", "english": "Yes of course, mountain cheese is always included. Enjoy!"},
             ],
             "differences": [
                 {"swissGerman": "Capuns", "german": "Capuns", "explanation": "Traditional Graubünden dish. Chard-wrapped dough parcels."},
@@ -66,6 +70,8 @@ SUBTOPIC_EATING_OUT = {
                 {"speaker": "Waiter", "swissGerman": "Ja leider scho. Aber ich cha de Koch frage, ob er die ohni mache cha.", "german": "Ja leider schon. Aber ich kann den Koch fragen, ob er sie ohne machen kann.", "english": "Yes unfortunately. But I can ask the chef if he can make it without."},
                 {"speaker": "You", "swissGerman": "Das wär super. Und ich bi au allergisch uf Nöss. Isch das en Problem?", "german": "Das wäre super. Und ich bin auch allergisch auf Nüsse. Ist das ein Problem?", "english": "That'd be great. And I'm also allergic to nuts. Is that a problem?"},
                 {"speaker": "Waiter", "swissGerman": "Ich prüef das mit de Chuchi. Mir nämed Allergene sehr ernst.", "german": "Ich prüfe das mit der Küche. Wir nehmen Allergien sehr ernst.", "english": "I'll check with the kitchen. We take allergies very seriously."},
+                {"speaker": "You", "swissGerman": "Merci vielmal! Das isch wichtig für mich.", "german": "Vielen Dank! Das ist wichtig für mich.", "english": "Thank you very much! That's important to me."},
+                {"speaker": "Waiter", "swissGerman": "Selbstverständlich. Ich chume i ere Minute zrugg mit de Info.", "german": "Selbstverständlich. Ich komme in einer Minute zurück mit der Information.", "english": "Of course. I'll be back in a minute with the information."},
             ],
             "differences": [
                 {"swissGerman": "Gricht", "german": "Gerichte", "explanation": "'Gricht' = 'Gerichte'. Dishes."},
@@ -91,6 +97,8 @@ SUBTOPIC_EATING_OUT = {
                 {"speaker": "Waiter", "swissGerman": "Das macht drüedrissg Sächzg. Wie wänd Sie zahle?", "german": "Das macht dreiunddreißig sechzig. Wie möchten Sie zahlen?", "english": "That's thirty-three sixty. How would you like to pay?"},
                 {"speaker": "You", "swissGerman": "Mit TWINT, bitte. Und ich gib gärn no drüü Franke Trinkgäld.", "german": "Mit TWINT, bitte. Und ich gebe gerne noch drei Franken Trinkgeld.", "english": "With TWINT, please. And I'd like to add three francs as a tip."},
                 {"speaker": "Waiter", "swissGerman": "Merci vilmal! Das isch nett. Ich scann de QR-Code für Sie.", "german": "Vielen Dank! Das ist nett. Ich scanne den QR-Code für Sie.", "english": "Thank you very much! That's kind. I'll scan the QR code for you."},
+                {"speaker": "You", "swissGerman": "Und no e Frag — isch d'Chuchi no offe für en Dessert?", "german": "Und noch eine Frage — ist die Küche noch für einen Dessert geöffnet?", "english": "And one more question — is the kitchen still open for a dessert?"},
+                {"speaker": "Waiter", "swissGerman": "Ja, bis zähni! Mir händ hüt es herrligs Schoggimousse.", "german": "Ja, bis zehn! Wir haben heute ein herrliches Schokoladenmousse.", "english": "Yes, until ten! We have a wonderful chocolate mousse today."},
             ],
             "differences": [
                 {"swissGerman": "getrennt", "german": "getrennt", "explanation": "Splitting the bill. Very common in Switzerland (unlike some countries)."},
@@ -116,6 +124,8 @@ SUBTOPIC_EATING_OUT = {
                 {"speaker": "You", "swissGerman": "Ja, scharfi bitte! Und dezue no en Ayran.", "german": "Ja, scharfe bitte! Und dazu noch einen Ayran.", "english": "Yes, spicy please! And also an Ayran."},
                 {"speaker": "Employee", "swissGerman": "Isch i füf Minute parat. Wänd Sie doo warte?", "german": "Ist in fünf Minuten bereit. Wollen Sie hier warten?", "english": "Ready in five minutes. Want to wait here?"},
                 {"speaker": "You", "swissGerman": "Ja klar, ich wart. Was macht das?", "german": "Ja klar, ich warte. Was macht das?", "english": "Sure, I'll wait. How much is it?"},
+                {"speaker": "Employee", "swissGerman": "Sibäzäh Franke füfzg.", "german": "Siebzehn Franken fünfzig.", "english": "Seventeen francs fifty."},
+                {"speaker": "You", "swissGerman": "Do isch zwänzg. Stimmt so!", "german": "Hier ist zwanzig. Stimmt so!", "english": "Here's twenty. Keep the change!"},
             ],
             "differences": [
                 {"swissGerman": "zum mitneh", "german": "zum Mitnehmen", "explanation": "'zum mitneh' = 'zum Mitnehmen'. Takeaway. Very common question."},

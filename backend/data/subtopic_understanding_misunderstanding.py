@@ -14,6 +14,8 @@ SUBTOPIC_UNDERSTANDING_MISUNDERSTANDING = {
                 {"speaker": "You", "swissGerman": "Exgüsi, ich ha das nöd verstande. Chönd Sie bitte langsamer rede?", "german": "Entschuldigung, ich habe das nicht verstanden. Können Sie bitte langsamer reden?", "english": "Sorry, I didn't understand that. Can you speak more slowly please?"},
                 {"speaker": "Clerk", "swissGerman": "Klar! Wänd Sie es Retour oder eifach?", "german": "Klar! Wollen Sie ein Retour oder einfach?", "english": "Sure! Do you want a return or single?"},
                 {"speaker": "You", "swissGerman": "Ah jetzt verstani! Eifach bitte.", "german": "Ah jetzt verstehe ich! Einfach bitte.", "english": "Ah now I understand! Single please."},
+                {"speaker": "You", "swissGerman": "Hät das Billett en Zuschlag wäge em GA oder de Halbtax?", "german": "Hat das Ticket einen Aufpreis wegen dem GA oder der Halbtax?", "english": "Does the ticket have a surcharge because of the GA or Halbtax?"},
+                {"speaker": "Clerk", "swissGerman": "Nei, mit Ihrem Halbtax isch de Priis scho ibegrifffe.", "german": "Nein, mit Ihrer Halbtax ist der Preis schon inklusive.", "english": "No, with your Halbtax the price is already included."},
                 {"speaker": "Clerk", "swissGerman": "Perfekt. Zwänzg Franke bitte.", "german": "Perfekt. Zwanzig Franken bitte.", "english": "Perfect. Twenty francs please."},
             ],
             "differences": [
@@ -37,6 +39,8 @@ SUBTOPIC_UNDERSTANDING_MISUNDERSTANDING = {
                 {"speaker": "You", "swissGerman": "Was heisst 'gnuschtig'? Das Wort kenni nöd.", "german": "Was heisst 'gnuschtig'? Das Wort kenne ich nicht.", "english": "What does 'gnuschtig' mean? I don't know that word."},
                 {"speaker": "Colleague", "swissGerman": "Ah, das heisst so öppis wie schlecht druuf oder grummlig.", "german": "Ah, das bedeutet so etwas wie schlecht drauf oder grummelig.", "english": "Ah, it means something like in a bad mood or grumpy."},
                 {"speaker": "You", "swissGerman": "Ah, eso! Jetzt han ich's. Gnuschtig — luschtig Wort!", "german": "Ah, so! Jetzt hab ich's. Gnuschtig — lustiges Wort!", "english": "Ah, I see! Now I get it. Gnuschtig — funny word!"},
+                {"speaker": "You", "swissGerman": "Gibt's no meh so Wörter wo ich lerne sötti?", "german": "Gibt es noch mehr solche Wörter die ich lernen sollte?", "english": "Are there more such words I should learn?"},
+                {"speaker": "Colleague", "swissGerman": "Ja, z.B. 'grümpelig' – heisst grantig. Und 'hässig' – also wüetend.", "german": "Ja, z.B. 'grümpelig' – heißt mürrisch. Und 'hässig' – also wütend.", "english": "Yes, e.g. 'grümpelig' – means grumpy. And 'hässig' – meaning angry."},
                 {"speaker": "Colleague", "swissGerman": "Ja, es git viel so Wörter. Frog eifach, wenn öppis unklar isch!", "german": "Ja, es gibt viele solche Wörter. Frag einfach, wenn etwas unklar ist!", "english": "Yeah, there are many such words. Just ask if something is unclear!"},
             ],
             "differences": [
@@ -61,6 +65,8 @@ SUBTOPIC_UNDERSTANDING_MISUNDERSTANDING = {
                 {"speaker": "You", "swissGerman": "Da, am Rügge. So wie... brennt? Ich weiss nöd s'richtige Wort.", "german": "Da, am Rücken. So wie... brennt? Ich weiss nicht das richtige Wort.", "english": "Here, on my back. Like... burning? I don't know the right word."},
                 {"speaker": "Doctor", "swissGerman": "Sie meine es Brenne oder Steche? Tuet's eher stiiche?", "german": "Sie meinen ein Brennen oder Stechen? Tut es eher stechen?", "english": "You mean a burning or stinging? Does it sting more?"},
                 {"speaker": "You", "swissGerman": "Ja, genau! Steche! Das isch s'Wort.", "german": "Ja, genau! Stechen! Das ist das Wort.", "english": "Yes, exactly! Stinging! That's the word."},
+                {"speaker": "You", "swissGerman": "Und in de Ärme, tuet das au weh?", "german": "Und in den Armen, tut das auch weh?", "english": "And in the arms, does that hurt too?"},
+                {"speaker": "Doctor", "swissGerman": "Nei, das lebt im Rügge isoliert. Ich schriib Ihne öppis uf.", "german": "Nein, das bleibt im Rücken isoliert. Ich schreibe Ihnen etwas auf.", "english": "No, it stays isolated in the back. I'll write you something."},
                 {"speaker": "Doctor", "swissGerman": "Guet, das hilft mir. Ich lueg mer das aa.", "german": "Gut, das hilft mir. Ich schaue mir das an.", "english": "Good, that helps. I'll take a look."},
             ],
             "differences": [
@@ -85,6 +91,8 @@ SUBTOPIC_UNDERSTANDING_MISUNDERSTANDING = {
                 {"speaker": "Receptionist", "swissGerman": "Nöchschte Mittwuch um zähni?", "german": "Nächsten Mittwoch um zehn?", "english": "Next Wednesday at ten?"},
                 {"speaker": "You", "swissGerman": "Nomol bitte? Ich ghöre Sie schlecht.", "german": "Nochmal bitte? Ich höre Sie schlecht.", "english": "Once more please? I can barely hear you."},
                 {"speaker": "Receptionist", "swissGerman": "MITTWUCH. UM. ZÄHNI.", "german": "MITTWOCH. UM. ZEHN.", "english": "WEDNESDAY. AT. TEN."},
+                {"speaker": "You", "swissGerman": "Isch Dienstag au möglich? Ich ha Mittwuch scho en andere Termin.", "german": "Ist Dienstag auch möglich? Ich habe Mittwoch schon einen anderen Termin.", "english": "Is Tuesday also possible? I already have another appointment Wednesday."},
+                {"speaker": "Receptionist", "swissGerman": "Ja, Dienstag um elfi. Isch das guet?", "german": "Ja, Dienstag um elf. Ist das gut?", "english": "Yes, Tuesday at eleven. Is that good?"},
                 {"speaker": "You", "swissGerman": "Ah, Mittwuch zähni! Perfekt, das passt!", "german": "Ah, Mittwoch zehn! Perfekt, das passt!", "english": "Ah, Wednesday ten! Perfect, that works!"},
             ],
             "differences": [
@@ -109,6 +117,8 @@ SUBTOPIC_UNDERSTANDING_MISUNDERSTANDING = {
                 {"speaker": "Friend", "swissGerman": "Ha ha! Chuchichäschtli! Das isch de Chuchischrank.", "german": "Ha ha! Chuchichäschtli! Das ist der Küchenschrank.", "english": "Ha ha! Chuchichäschtli! That's the kitchen cabinet."},
                 {"speaker": "You", "swissGerman": "Ah! S'berüehmte Chuchichäschtli! Das Wort chan ich nie usspräche.", "german": "Ah! Das berühmte Chuchichäschtli! Das Wort kann ich nie aussprechen.", "english": "Ah! The famous Chuchichäschtli! I can never pronounce that word."},
                 {"speaker": "Friend", "swissGerman": "Kei Sorg, viel Usländer händ Müeh demit. Probier's: Chu-chi-chäscht-li.", "german": "Keine Sorge, viele Ausländer haben Mühe damit. Probier's: Chu-chi-chäscht-li.", "english": "No worries, many foreigners struggle with it. Try: Chu-chi-chäscht-li."},
+                {"speaker": "You", "swissGerman": "Ha ich's? Chuchi... chäschtli. Das isch würkli e Zungeverrenkig!", "german": "Habe ich's? Küche... schränkchen. Das ist wirklich ein Zungenbrecher!", "english": "Did I get it? Kitchen... cabinet-ling. That's really a tongue twister!"},
+                {"speaker": "Friend", "swissGerman": "Fascht! Aber vom Klang isch s'Schwiirigschte de dopplete Chuchi-Laut am Aafang.", "german": "Fast! Aber vom Klang ist das Schwierigste der doppelte K-Laut am Anfang.", "english": "Almost! But soundwise the hardest is the double K sound at the start."},
                 {"speaker": "You", "swissGerman": "Chuchi... chäschtli. Ha, ich üebs!", "german": "Kuchi... kästchen. Ha, ich übe!", "english": "Kitchen... cabinet. Ha, I'll practice!"},
             ],
             "differences": [

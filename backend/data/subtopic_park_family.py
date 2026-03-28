@@ -16,6 +16,8 @@ SUBTOPIC_PARK_FAMILY = {
                 {"speaker": "You", "swissGerman": "Ja, aber fahr nöd z'schnäll, und bliib uf em Wäg.", "german": "Ja, aber fahr nicht zu schnell, und bleib auf dem Weg.", "english": "Yes, but don't ride too fast, and stay on the path."},
                 {"speaker": "Child", "swissGerman": "Lueg Mami, Äntli! Dörf ich sie füettere?", "german": "Schau Mama, Enten! Darf ich sie füttern?", "english": "Look Mom, ducks! Can I feed them?"},
                 {"speaker": "You", "swissGerman": "Nei, leider nöd. Brot isch nöd guet für d'Änte. Aber mir chönd sie beobachte.", "german": "Nein, leider nicht. Brot ist nicht gut für die Enten. Aber wir können sie beobachten.", "english": "No, unfortunately not. Bread isn't good for ducks. But we can watch them."},
+                {"speaker": "Child", "swissGerman": "Warum isch Brot schlecht für d'Änte? Die ässed es doch gern!", "german": "Warum ist Brot schlecht für die Enten? Die essen es doch gern!", "english": "Why is bread bad for ducks? They like it!"},
+                {"speaker": "You", "swissGerman": "S hät z'viel Zuecher und kei Vitamine. Die Ente bruuched Gräs und Chriischwasser-Pflanzen.", "german": "Es hat zu viel Zucker und keine Vitamine. Die Enten brauchen Gras und Wasserpflanzen.", "english": "It has too much sugar and no vitamins. Ducks need grass and aquatic plants."},
             ],
             "differences": [
                 {"swissGerman": "spaziere", "german": "spazieren", "explanation": "'spaziere' = 'spazieren'. Dropped '-n'."},
@@ -41,6 +43,8 @@ SUBTOPIC_PARK_FAMILY = {
                 {"speaker": "Partner", "swissGerman": "Und ich ha no Chäs und Trube mitgnoh.", "german": "Und ich habe noch Käse und Trauben mitgenommen.", "english": "And I also brought cheese and grapes."},
                 {"speaker": "Child", "swissGerman": "Fein! Chani de Saft ha?", "german": "Lecker! Kann ich den Saft haben?", "english": "Yummy! Can I have the juice?"},
                 {"speaker": "You", "swissGerman": "Ja, aber trink langsam. Und pass uf d'Ameise uf! Die chömed uf euses Ässe.", "german": "Ja, aber trink langsam. Und pass auf die Ameisen auf! Die kommen an unser Essen.", "english": "Yes, but drink slowly. And watch out for the ants! They'll come to our food."},
+                {"speaker": "Partner", "swissGerman": "Ich ha de Salat no vergesse! Ich han e griechischer Salat gmacht mit Feta.", "german": "Ich habe den Salat noch vergessen! Ich habe einen griechischen Salat mit Feta gemacht.", "english": "I forgot the salad! I made a Greek salad with feta."},
+                {"speaker": "Child", "swissGerman": "Ich will kei Salat... mir gänd de Ameise d'Karote!", "german": "Ich will keinen Salat... wir geben den Ameisen die Karotten!", "english": "I don't want salad... let's give the ants the carrots!"},
             ],
             "differences": [
                 {"swissGerman": "uusbräitet", "german": "ausgebreitet", "explanation": "'uusbräitet' = 'ausgebreitet'. 'Aus-' → 'Uus-'."},
@@ -66,6 +70,8 @@ SUBTOPIC_PARK_FAMILY = {
                 {"speaker": "Partner", "swissGerman": "Das isch en Eichbaum. D'Eichhörnli sammled d'Eichle im Herbscht.", "german": "Das ist eine Eiche. Die Eichhörnchen sammeln die Eicheln im Herbst.", "english": "That's an oak tree. Squirrels collect the acorns in autumn."},
                 {"speaker": "Child", "swissGerman": "Lueg, es Eichhörnli! Es chletteret uf de Baum!", "german": "Schau, ein Eichhörnchen! Es klettert auf den Baum!", "english": "Look, a squirrel! It's climbing up the tree!"},
                 {"speaker": "You", "swissGerman": "Pscht, ruhig! Suscht verschwinded s'.", "german": "Pscht, leise! Sonst verschwindet es.", "english": "Shh, quiet! Otherwise it'll disappear."},
+                {"speaker": "Child", "swissGerman": "Papi, het es au Igäl im Park? Ich ha mol eis im Garte gseh!", "german": "Papa, gibt es auch Igel im Park? Ich habe mal einen im Garten gesehen!", "english": "Dad, are there also hedgehogs in the park? I once saw one in the garden!"},
+                {"speaker": "Partner", "swissGerman": "Ja, aber d'Igäl schlafed am Tag. Abig chann mer glick han eis z'gseh.", "german": "Ja, aber die Igel schlafen am Tag. Abends kann man Glück haben einen zu sehen.", "english": "Yes, but hedgehogs sleep during the day. In the evenings you might be lucky to see one."},
             ],
             "differences": [
                 {"swissGerman": "Buech", "german": "Buche", "explanation": "'Buech' = 'Buche'. Beech tree."},
@@ -91,7 +97,8 @@ SUBTOPIC_PARK_FAMILY = {
                 {"speaker": "You", "swissGerman": "Mega schön! D'Chind lehrned Verantwortig. Sie gönd jede Tag mit ihre go gassi.", "german": "Mega schön! Die Kinder lernen Verantwortung. Sie gehen jeden Tag mit ihr Gassi.", "english": "Really nice! The kids learn responsibility. They walk her every day."},
                 {"speaker": "Other Parent", "swissGerman": "Das tönt guet. Mir wohned i de Nöchi — vilicht chönd d'Chind mol zäme spile?", "german": "Das klingt gut. Wir wohnen in der Nähe — vielleicht können die Kinder mal zusammen spielen?", "english": "That sounds good. We live nearby — maybe the kids can play together sometime?"},
                 {"speaker": "You", "swissGerman": "Gärn! Mir sind meistens am Sunntig do im Park.", "german": "Gerne! Wir sind meistens am Sonntag hier im Park.", "english": "Gladly! We're usually here in the park on Sundays."},
-            ],
+                {"speaker": "Other Parent", "swissGerman": "Super! Mir chömed au am Sunntig — mir syänd öppe um Zwölfi am grösse Brunne.", "german": "Super! Wir kommen auch am Sonntag — wir sind ungefähr um zwölf am großen Brunnen.", "english": "Great! We come on Sundays too — we're at the big fountain around noon."},
+                {"speaker": "You", "swissGerman": "Wir chömed gern! Da isch mängsmal au der Hundekurs — d'Luna freut sich.", "german": "Wir kommen gerne! Da ist manchmal auch der Hundekurs — Luna freut sich.", "english": "We'd love to! The dog training is sometimes there too — Luna will be happy."},            ],
             "differences": [
                 {"swissGerman": "herzig", "german": "süß/niedlich", "explanation": "'herzig' = 'süß'. Very Swiss word for cute."},
                 {"swissGerman": "Verantwortig", "german": "Verantwortung", "explanation": "'Verantwortig' = 'Verantwortung'. '-ung' → '-ig'."},
@@ -116,6 +123,8 @@ SUBTOPIC_PARK_FAMILY = {
                 {"speaker": "You", "swissGerman": "Guet, aber denn gasch du direkt id Badi... äh, id Badwanne nachher.", "german": "Gut, aber dann gehst du direkt in die Badewanne nachher.", "english": "Fine, but then you go straight into the bathtub afterwards."},
                 {"speaker": "Child", "swissGerman": "Lueg, en Rägebooge! Mega schön!", "german": "Schau, ein Regenbogen! Mega schön!", "english": "Look, a rainbow! So beautiful!"},
                 {"speaker": "Partner", "swissGerman": "Gsesch, drum lohnt sichs, au bim Räge go spaziere.", "german": "Siehst du, darum lohnt es sich, auch bei Regen spazieren zu gehen.", "english": "See, that's why it's worth going for a walk even in the rain."},
+                {"speaker": "You", "swissGerman": "Und s'isch sö schön leer hie — bim Schii-Wetter sind alli derhei!", "german": "Und es ist so schön leer hier — bei schlechtem Wetter sind alle zuhause!", "english": "And it's so wonderfully empty here — in bad weather everyone stays home!"},
+                {"speaker": "Child", "swissGerman": "Chamer morgen au no einmal go spaziere? Ich will wieder i d'Pfutz!", "german": "Dürfen wir morgen auch nochmal spazieren gehen? Ich will wieder in die Pfütze!", "english": "Can we go for a walk again tomorrow? I want to jump in puddles again!"},
             ],
             "differences": [
                 {"swissGerman": "Chleidig", "german": "Kleidung", "explanation": "'Chleidig' = 'Kleidung'. K→Ch, '-ung' → '-ig'."},

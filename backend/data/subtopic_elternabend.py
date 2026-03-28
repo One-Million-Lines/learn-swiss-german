@@ -16,6 +16,8 @@ SUBTOPIC_ELTERNABEND = {
                 {"speaker": "Lehrerin", "swissGerman": "Franzöisch isch für vieli schwierig am Afang. Mir starte im Novämber mit Nachhilf-Angebot.", "german": "Französisch ist für viele schwierig am Anfang. Wir starten im November mit Nachhilfe-Angeboten.", "english": "French is difficult for many at the start. We're starting tutoring options in November."},
                 {"speaker": "Parent 2", "swissGerman": "Und was isch mit em Skilager? Wänn isch das?", "german": "Und was ist mit dem Skilager? Wann ist das?", "english": "And what about the ski camp? When is that?"},
                 {"speaker": "Lehrerin", "swissGerman": "S'Skilager isch im Februar. D'Info-Brief chömed nöchsti Wuche.", "german": "Das Skilager ist im Februar. Die Info-Briefe kommen nächste Woche.", "english": "The ski camp is in February. The info letters come next week."},
+                {"speaker": "Parent", "swissGerman": "Isch das Skilager obligatorisch oder chasch du abmelde?", "german": "Ist das Skilager obligatorisch oder kann man sich abmelden?", "english": "Is the ski camp compulsory or can you opt out?"},
+                {"speaker": "Lehrerin", "swissGerman": "Es isch empfohle, aber bi medizinische Gründ isch e Abmäldig möglich.", "german": "Es ist empfohlen, aber bei medizinischen Gründen ist eine Abmeldung möglich.", "english": "It is recommended, but for medical reasons opting out is possible."},
             ],
             "differences": [
                 {"swissGerman": "Eltereabig", "german": "Elternabend", "explanation": "'Eltereabig' = 'Elternabend'. Swiss form."},
@@ -41,6 +43,8 @@ SUBTOPIC_ELTERNABEND = {
                 {"speaker": "Parent 2", "swissGerman": "Und falls es rägnet?", "german": "Und falls es regnet?", "english": "And if it rains?"},
                 {"speaker": "Lehrerin", "swissGerman": "Mir gönd trotzdem. Nur bi Gwitter verschiebe mir de Usflug.", "german": "Wir gehen trotzdem. Nur bei Gewitter verschieben wir den Ausflug.", "english": "We go anyway. Only in case of thunderstorms do we postpone the outing."},
                 {"speaker": "Parent", "swissGerman": "Sehr guet. Bruuchts no Begleitpersone?", "german": "Sehr gut. Braucht es noch Begleitpersonen?", "english": "Very good. Are more chaperones needed?"},
+                {"speaker": "Lehrerin", "swissGerman": "Ja, mir sueched no zwei. Wer hät Ziit und chunt gärn mit?", "german": "Ja, wir suchen noch zwei. Wer hat Zeit und kommt gerne mit?", "english": "Yes, we're looking for two more. Who has time and wants to join?"},
+                {"speaker": "Parent 2", "swissGerman": "Ich würd gärn mitkumme, ich ha de Mittwuch frei.", "german": "Ich würde gerne mitkommen, ich habe den Mittwoch frei.", "english": "I'd like to join, I have Wednesday off."},
             ],
             "differences": [
                 {"swissGerman": "Schulreis", "german": "Schulreise", "explanation": "'Schulreis' = 'Schulreise'. Dropped '-e'."},
@@ -65,6 +69,8 @@ SUBTOPIC_ELTERNABEND = {
                 {"speaker": "Lehrerin", "swissGerman": "Mir empfähle maximal eini Stund pro Tag und kei Bildschirm vor em Schlafengah.", "german": "Wir empfehlen maximal eine Stunde pro Tag und keinen Bildschirm vor dem Schlafengehen.", "english": "We recommend maximum one hour per day and no screens before going to sleep."},
                 {"speaker": "Parent 2", "swissGerman": "Und s'Handy? Ab welem Alter findet sie isch das okay?", "german": "Und das Handy? Ab welchem Alter finden Sie ist das okay?", "english": "And the phone? From what age do you think that's okay?"},
                 {"speaker": "Lehrerin", "swissGerman": "Mir empfähle ab de fünfte Chlass. Aber jedi Familie entscheidet sälber.", "german": "Wir empfehlen ab der fünften Klasse. Aber jede Familie entscheidet selbst.", "english": "We recommend from fifth grade. But each family decides for themselves."},
+                {"speaker": "Parent 2", "swissGerman": "Gits denn auch App-Alternatieve für d'Chind, wo besser sind?", "german": "Gibt es denn auch App-Alternativen für die Kinder, die besser sind?", "english": "Are there also better app alternatives for children?"},
+                {"speaker": "Lehrerin", "swissGerman": "Ja, mir empfähle zum Biispiel Anton und Antolin — lernförderndi Apps ohni Werbig.", "german": "Ja, wir empfehlen zum Beispiel Anton und Antolin — lernfördernde Apps ohne Werbung.", "english": "Yes, we recommend for example Anton and Antolin — educational apps without ads."},
                 {"speaker": "Parent", "swissGerman": "Guet z'wüsse. Mir mached au dehei klari Regle.", "german": "Gut zu wissen. Wir machen auch zu Hause klare Regeln.", "english": "Good to know. We also set clear rules at home."},
             ],
             "differences": [
@@ -90,6 +96,8 @@ SUBTOPIC_ELTERNABEND = {
                 {"speaker": "You", "swissGerman": "Das wär mega lieb! Am Mittwuch Namittag hätt sie frei.", "german": "Das wäre mega lieb! Am Mittwochnachmittag hätte sie frei.", "english": "That would be so nice! Wednesday afternoon she's free."},
                 {"speaker": "Parent", "swissGerman": "Perfekt! Mir chönd Nummere tuusche.", "german": "Perfekt! Wir können Nummern tauschen.", "english": "Perfect! We can exchange numbers."},
                 {"speaker": "You", "swissGerman": "Super Idee! Ich gib Ihne mini Natel-Nummer.", "german": "Super Idee! Ich gebe Ihnen meine Handynummer.", "english": "Great idea! I'll give you my mobile number."},
+                {"speaker": "Parent", "swissGerman": "Und vilicht chönd d'Chind au emol zäme spiele — de Leon freut sich sicher.", "german": "Und vielleicht können die Kinder auch mal zusammen spielen — Leon freut sich sicher.", "english": "And perhaps the kids can play together sometime — Leon would love that."},
+                {"speaker": "You", "swissGerman": "Ja gärn! D'Lina redt sowieso ständig vo ihm.", "german": "Ja gerne! Lina redet sowieso ständig von ihm.", "english": "Yes please! Lina talks about him all the time anyway."},
             ],
             "differences": [
                 {"swissGerman": "verzellt", "german": "erzählt", "explanation": "'verzellt' = 'erzählt'. Swiss form."},
@@ -114,6 +122,8 @@ SUBTOPIC_ELTERNABEND = {
                 {"speaker": "You", "swissGerman": "Ich cha en Chueche mitbringe und bim Verchauf hälfe.", "german": "Ich kann einen Kuchen mitbringen und beim Verkauf helfen.", "english": "I can bring a cake and help with sales."},
                 {"speaker": "Parent", "swissGerman": "Ich chume au und bring Würscht und Brot mit füre Grill.", "german": "Ich komme auch und bringe Würste und Brot mit für den Grill.", "english": "I'll come too and bring sausages and bread for the grill."},
                 {"speaker": "Lehrerin", "swissGerman": "Danke vilmal! S'Schulfescht fängt am Zäni aa.", "german": "Vielen Dank! Das Schulfest fängt um zehn an.", "english": "Thank you! The school festival starts at ten."},
+                {"speaker": "You", "swissGerman": "Isch de Iitritt für d'Eltere gratis oder zahle mir öppis?", "german": "Ist der Eintritt für die Eltern gratis oder zahlen wir etwas?", "english": "Is admission free for parents or do we pay something?"},
+                {"speaker": "Lehrerin", "swissGerman": "Gratis iizoge, aber mir freued eus über jeden Chueche-Stückli für de Buffet!", "german": "Gratis reinzukommen, aber wir freuen uns über jedes Kuchenstück für das Buffet!", "english": "Free entry, but we appreciate every cake piece for the buffet!"},
             ],
             "differences": [
                 {"swissGerman": "Schulfescht", "german": "Schulfest", "explanation": "'Schulfescht' = 'Schulfest'. Added 'ch'."},

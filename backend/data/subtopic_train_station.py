@@ -14,6 +14,8 @@ SUBTOPIC_TRAIN_STATION = {
                 {"speaker": "Staff", "swissGerman": "Vo Gleis drü. Er fahrt in zehn Minute.", "german": "Von Gleis drei. Er fährt in zehn Minuten.", "english": "From platform three. It leaves in ten minutes."},
                 {"speaker": "You", "swissGerman": "Isch das de Schnällzug?", "german": "Ist das der Schnellzug?", "english": "Is that the express train?"},
                 {"speaker": "Staff", "swissGerman": "Ja, de IC. Er bruucht öppe eini Stund.", "german": "Ja, der IC. Er braucht etwa eine Stunde.", "english": "Yes, the IC. It takes about one hour."},
+                {"speaker": "You", "swissGerman": "Stoppt de IC no z'Olte oder fahrt er direkt uf Bern?", "german": "Hält der IC noch in Olten oder fährt er direkt nach Bern?", "english": "Does the IC stop in Olten or go directly to Bern?"},
+                {"speaker": "Staff", "swissGerman": "Er stopped z'Olte — aber nur zwei Minute. De direkte IC175 fahrt erst um nüüni.", "german": "Er hält in Olten — aber nur zwei Minuten. Der direkte IC175 fährt erst um neun.", "english": "It stops at Olten — but only two minutes. The direct IC175 doesn't run until nine."},
                 {"speaker": "You", "swissGerman": "Perfekt, merci vilmal!", "german": "Perfekt, vielen Dank!", "english": "Perfect, thanks a lot!"},
                 {"speaker": "Staff", "swissGerman": "Gueti Reis!", "german": "Gute Reise!", "english": "Have a good trip!"},
             ],
@@ -65,6 +67,8 @@ SUBTOPIC_TRAIN_STATION = {
                 {"speaker": "Staff", "swissGerman": "Ja, de Zug uf Thun warted normalerwiis.", "german": "Ja, der Zug nach Thun wartet normalerweise.", "english": "Yes, the train to Thun normally waits."},
                 {"speaker": "You", "swissGerman": "Ah guet. Und vo wellem Gleis fahrt de Aschlusszug?", "german": "Ah gut. Und von welchem Gleis fährt der Anschlusszug?", "english": "Oh good. And from which platform does the connecting train leave?"},
                 {"speaker": "Staff", "swissGerman": "Normalerwiis vo Gleis siebni. Aber lueged Sie uf d'Aazeigtafle.", "german": "Normalerweise von Gleis sieben. Aber schauen Sie auf die Anzeigetafel.", "english": "Usually from platform seven. But check the display board."},
+                {"speaker": "You", "swissGerman": "Und falls de Aaschluss nöd chlappet — gits no en spöötere Zug uf Thun?", "german": "Und falls der Anschluss nicht klappt — gibt es noch einen späteren Zug nach Thun?", "english": "And if the connection doesn't work — is there a later train to Thun?"},
+                {"speaker": "Staff", "swissGerman": "Ja, d'S-Bahn fahrt jedi halbi Stund bis Thun. Die letscht Bahn gaht um drüü zwänzg ab.", "german": "Ja, die S-Bahn fährt jede halbe Stunde bis Thun. Die letzte Bahn geht um drei Uhr zwanzig ab.", "english": "Yes, the S-Bahn runs every half hour to Thun. The last one leaves at twenty past three."},
                 {"speaker": "You", "swissGerman": "Okay, merci vilmal für d'Information!", "german": "Okay, vielen Dank für die Information!", "english": "Okay, thank you for the information!"},
             ],
             "differences": [

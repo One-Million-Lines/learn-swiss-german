@@ -15,6 +15,8 @@ SUBTOPIC_MAKING_PLANS_AFTER_WORK = {
                 {"speaker": "You", "swissGerman": "Super! Sägemer um föifi?", "german": "Super! Sagen wir um fünf?", "english": "Great! Shall we say at five?"},
                 {"speaker": "Colleague", "swissGerman": "Passt! Wer chunnt no mit?", "german": "Passt! Wer kommt noch mit?", "english": "Works! Who else is coming?"},
                 {"speaker": "You", "swissGerman": "Ich frage de Marco und d'Lisa.", "german": "Ich frage Marco und Lisa.", "english": "I'll ask Marco and Lisa."},
+                {"speaker": "Colleague", "swissGerman": "Cool! Welcher Biergarte? De Rimini am See oder lieber de Neumarkt?", "german": "Cool! Welcher Biergarten? Der Rimini am See oder lieber der Neumarkt?", "english": "Cool! Which beer garden? The Rimini at the lake or the Neumarkt?"},
+                {"speaker": "You", "swissGerman": "Am See natürlich — by schönem Wetter isch das mega!", "german": "Am See natürlich — bei schönem Wetter ist das mega!", "english": "At the lake of course — in nice weather it's awesome!"},
                 {"speaker": "Colleague", "swissGerman": "Top! Bis denn!", "german": "Top! Bis dann!", "english": "Great! See you then!"},
             ],
             "differences": [
@@ -39,6 +41,8 @@ SUBTOPIC_MAKING_PLANS_AFTER_WORK = {
                 {"speaker": "You", "swissGerman": "Wämmer go znacht? Ich kenne es guets Thai-Restaurant.", "german": "Wollen wir Abendessen gehen? Ich kenne ein gutes Thai-Restaurant.", "english": "Shall we go for dinner? I know a good Thai restaurant."},
                 {"speaker": "Colleague", "swissGerman": "Ja mega! Muess mer reserviere?", "german": "Ja mega! Muss man reservieren?", "english": "Yes awesome! Do we need to reserve?"},
                 {"speaker": "You", "swissGerman": "Ich glaub nöd, am Dienschtig isch's meischtens ruhig.", "german": "Ich glaube nicht, am Dienstag ist es meistens ruhig.", "english": "I don't think so, on Tuesday it's usually quiet."},
+                {"speaker": "Colleague", "swissGerman": "Händ die au Veggi-Optione? Ich ässe keis Fleisch.", "german": "Haben die auch Veggi-Optionen? Ich esse kein Fleisch.", "english": "Do they have veggie options? I don't eat meat."},
+                {"speaker": "You", "swissGerman": "Ja, die händ en guets Currymenü ohni Fleisch. Super Wahl!", "german": "Ja, die haben ein gutes Currymenu ohne Fleisch. Super Wahl!", "english": "Yes, they have a good curry menu without meat. Great choice!"},
                 {"speaker": "Colleague", "swissGerman": "Perfekt, denn gömer nach de Arbet grad deet ane!", "german": "Perfekt, dann gehen wir nach der Arbeit gleich dort hin!", "english": "Perfect, then we'll go there right after work!"},
             ],
             "differences": [
@@ -64,6 +68,8 @@ SUBTOPIC_MAKING_PLANS_AFTER_WORK = {
                 {"speaker": "Friend 2", "swissGerman": "Wie wär's mit em Neue am Bellevue? Ich ha ghört s'söll mega guet sii.", "german": "Wie wäre es mit dem Neuen am Bellevue? Ich habe gehört es soll mega gut sein.", "english": "How about the new one at Bellevue? I heard it's supposed to be really good."},
                 {"speaker": "You", "swissGerman": "Tönt super! Sölli en Tisch reserviere? Für wieviel Lüt?", "german": "Klingt super! Soll ich einen Tisch reservieren? Für wie viele Leute?", "english": "Sounds great! Shall I reserve a table? For how many people?"},
                 {"speaker": "Friend 1", "swissGerman": "Mach mol für sächs. De Thomas und d'Lisa chömed vilicht au.", "german": "Mach mal für sechs. Thomas und Lisa kommen vielleicht auch.", "english": "Make it for six. Thomas and Lisa might come too."},
+                {"speaker": "You", "swissGerman": "Weisch, die händ Reservation online — ich machs grad uf ihrer Website.", "german": "Weißt du, die haben Reservation online — ich mache es gleich auf ihrer Website.", "english": "You know, they have online reservations — I'll do it now on their website."},
+                {"speaker": "Friend 1", "swissGerman": "Super, und sag bescheid wenn's bestätigt isch, gäll?", "german": "Super, und melde dich wenn es bestätigt ist, oder?", "english": "Great, and let us know when it's confirmed, right?"},
                 {"speaker": "You", "swissGerman": "Perfekt. Ich mache de Tisch für achti klar. Bis Samschtig!", "german": "Perfekt. Ich mache den Tisch für acht Uhr klar. Bis Samstag!", "english": "Perfect. I'll arrange the table for eight o'clock. See you Saturday!"},
             ],
             "differences": [

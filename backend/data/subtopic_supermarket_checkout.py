@@ -15,6 +15,7 @@ SUBTOPIC_SUPERMARKET_CHECKOUT = {
                 {"speaker": "You", "swissGerman": "Merci! Und händ Sie au Weggli?", "german": "Danke! Und haben Sie auch Brötchen?", "english": "Thanks! And do you also have bread rolls?"},
                 {"speaker": "Staff", "swissGerman": "Ja, bim Igang links.", "german": "Ja, beim Eingang links.", "english": "Yes, by the entrance on the left."},
                 {"speaker": "You", "swissGerman": "Super, danke vilmal!", "german": "Super, vielen Dank!", "english": "Great, thank you!"},
+                {"speaker": "You", "swissGerman": "Und d'Bio-Eier — sind die im Chueelregal bi de Milch oder im Regal?", "german": "Und die Bio-Eier — sind die im Kühlregal bei der Milch oder im Regal?", "english": "And the organic eggs — are they in the fridge with the milk or on the shelf?"},
                 {"speaker": "Staff", "swissGerman": "Gärn gscheh!", "german": "Gern geschehen!", "english": "You're welcome!"},
             ],
             "differences": [
@@ -38,6 +39,7 @@ SUBTOPIC_SUPERMARKET_CHECKOUT = {
                 {"speaker": "You", "swissGerman": "Nei, ich ha keini.", "german": "Nein, ich habe keine.", "english": "No, I don't have one."},
                 {"speaker": "Staff", "swissGerman": "Okay, denn drücked Sie eif uf 'Wiiter'.", "german": "Okay, dann drücken Sie einfach auf 'Weiter'.", "english": "Okay, then just press 'Next'."},
                 {"speaker": "You", "swissGerman": "Ah, jetzt gaht's. Merci!", "german": "Ah, jetzt geht es. Danke!", "english": "Ah, now it works. Thanks!"},
+                {"speaker": "Staff", "swissGerman": "Und falls Sie öft hie chaufed — e Cumulus-Charte isch kostenlos, die brängt Punkte.", "german": "Und falls Sie oft hier kaufen — eine Cumulus-Karte ist kostenlos, die bringt Punkte.", "english": "And if you shop here often — a Cumulus card is free and earns points."},
                 {"speaker": "Staff", "swissGerman": "Gärn gscheh. Guete Iilouf!", "german": "Gern geschehen. Guten Einkauf!", "english": "You're welcome. Happy shopping!"},
             ],
             "differences": [
@@ -88,6 +90,7 @@ SUBTOPIC_SUPERMARKET_CHECKOUT = {
                 {"speaker": "Staff", "swissGerman": "Perfekt. Wänd Sie's umtuusche oder s'Gäld zrugg?", "german": "Perfekt. Wollen Sie es umtauschen oder das Geld zurück?", "english": "Perfect. Do you want to exchange it or get a refund?"},
                 {"speaker": "You", "swissGerman": "S'Gäld zrugg bitte, wenns gaht.", "german": "Das Geld zurück bitte, wenn es geht.", "english": "A refund please, if possible."},
                 {"speaker": "Staff", "swissGerman": "Ja, gaht problemlos. Ich gib Ihne s'Gäld uf d'Charte zrugg.", "german": "Ja, geht problemlos. Ich gebe Ihnen das Geld auf die Karte zurück.", "english": "Yes, no problem. I'll refund it to your card."},
+                {"speaker": "Staff", "swissGerman": "Kei Problem, das isch bim Migros Standard. Ab Chauf chan me innerhalb vo 30 Taag zürüggeh.", "german": "Kein Problem, das ist beim Migros Standard. Ab Kauf kann man innerhalb von 30 Tagen zurückgeben.", "english": "No problem, that's standard at Migros. From purchase date you can return within 30 days."},
                 {"speaker": "You", "swissGerman": "Super, merci vilmal!", "german": "Super, vielen Dank!", "english": "Great, thank you!"},
             ],
             "differences": [

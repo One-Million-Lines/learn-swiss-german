@@ -14,6 +14,8 @@ SUBTOPIC_OFFICE_IT_PROBLEMS = {
                 {"speaker": "Colleague", "swissGerman": "Nei, bi mir gaht alles. Hesch probiert, en neu z'starte?", "german": "Nein, bei mir geht alles. Hast du probiert, ihn neu zu starten?", "english": "No, everything works for me. Have you tried restarting it?"},
                 {"speaker": "You", "swissGerman": "Ja, aber nüt passiert. De Bildschirm blibt schwarz.", "german": "Ja, aber nichts passiert. Der Bildschirm bleibt schwarz.", "english": "Yes, but nothing happens. The screen stays black."},
                 {"speaker": "Colleague", "swissGerman": "Lüt doch mal de IT-Support aa. D'Numere isch 4400.", "german": "Ruf doch mal den IT-Support an. Die Nummer ist 4400.", "english": "Why don't you call IT support. The number is 4400."},
+                {"speaker": "You", "swissGerman": "Und söll ich grad es Ticket uföffne oder eifach aaluute?", "german": "Und soll ich gleich ein Ticket eröffnen oder einfach anrufen?", "english": "And should I open a ticket right away or just call?"},
+                {"speaker": "Colleague", "swissGerman": "Büürsch aaluute — die chend's am schnellschte löse, bsunders wenn de Bildschirm nid gaht.", "german": "Besser anrufen — die können es am schnellsten lösen, besonders wenn der Bildschirm nicht geht.", "english": "Better to call — they can fix it fastest, especially when the screen doesn't work."},
                 {"speaker": "You", "swissGerman": "Gueti Idee, danke! Ich mache das grad.", "german": "Gute Idee, danke! Ich mache das gleich.", "english": "Good idea, thanks! I'll do that right away."},
             ],
             "differences": [
@@ -37,6 +39,8 @@ SUBTOPIC_OFFICE_IT_PROBLEMS = {
                 {"speaker": "Colleague", "swissGerman": "Scho wieder? Das isch scho s'dritte Mal die Wuche.", "german": "Schon wieder? Das ist schon das dritte Mal diese Woche.", "english": "Again? That's already the third time this week."},
                 {"speaker": "You", "swissGerman": "Ich muess die Sache aber dringend usdruche.", "german": "Ich muss die Sachen aber dringend ausdrucken.", "english": "But I urgently need to print these things."},
                 {"speaker": "Colleague", "swissGerman": "Probier de Drucker im zweite Stock. De funktioniert meistens.", "german": "Probier den Drucker im zweiten Stock. Der funktioniert meistens.", "english": "Try the printer on the second floor. That one usually works."},
+                {"speaker": "You", "swissGerman": "Und de Drucker da — isch der under Garantie? De macht jede Wuche Trouble.", "german": "Und der Drucker hier — ist der unter Garantie? Der macht jede Woche Probleme.", "english": "And this printer here — is it under warranty? It causes trouble every week."},
+                {"speaker": "Colleague", "swissGerman": "Ich glaub ja. Ich sag de IT Bescheid dass mir en neue bruuched.", "german": "Ich glaube ja. Ich sage der IT Bescheid dass wir einen neuen brauchen.", "english": "I think so. I'll let IT know that we need a new one."},
                 {"speaker": "You", "swissGerman": "Ah stimmt, danke! Ich gang grad ufe.", "german": "Ah stimmt, danke! Ich gehe gleich hoch.", "english": "Oh right, thanks! I'll head up right away."},
             ],
             "differences": [
@@ -62,6 +66,8 @@ SUBTOPIC_OFFICE_IT_PROBLEMS = {
                 {"speaker": "IT Support", "swissGerman": "Momänt bitte... Ah, ich gseh's. Ihri Berächtigung isch abglaufe. Ich erneuere das grad.", "german": "Moment bitte... Ah, ich sehe es. Ihre Berechtigung ist abgelaufen. Ich erneuere das gleich.", "english": "One moment please... Ah, I see it. Your permission expired. I'll renew it right away."},
                 {"speaker": "You", "swissGerman": "Ah super, merci vilmal!", "german": "Ah super, vielen Dank!", "english": "Ah great, thank you very much!"},
                 {"speaker": "IT Support", "swissGerman": "Bitte. Probiered Sie's in föif Minute nomal.", "german": "Bitte. Probieren Sie es in fünf Minuten nochmal.", "english": "You're welcome. Try again in five minutes."},
+                {"speaker": "You", "swissGerman": "Und falls s'no nid gaht — söll ich wider aaluute oder en Ticket uföffne?", "german": "Und falls es noch nicht geht — soll ich wieder anrufen oder ein Ticket eröffnen?", "english": "And if it still doesn't work — should I call again or open a ticket?"},
+                {"speaker": "IT Support", "swissGerman": "Ticket isch besser, denn cha mer's dokumentiere. Ufem Intranet under 'IT-Hilfe'.", "german": "Ticket ist besser, dann kann man es dokumentieren. Im Intranet unter 'IT-Hilfe'.", "english": "Ticket is better, then we can document it. On the intranet under 'IT-Help'."},
             ],
             "differences": [
                 {"swissGerman": "Zuegriff", "german": "Zugriff", "explanation": "'Zuegriff' preserves an extra vowel, typical Swiss German."},
@@ -86,6 +92,8 @@ SUBTOPIC_OFFICE_IT_PROBLEMS = {
                 {"speaker": "You", "swissGerman": "De Thomas hät vor zehn Minute en Ticket eröffnet.", "german": "Thomas hat vor zehn Minuten ein Ticket eröffnet.", "english": "Thomas opened a ticket ten minutes ago."},
                 {"speaker": "Colleague", "swissGerman": "Okay, denn chömmer nüt mache usser warte.", "german": "Okay, dann können wir nichts machen außer warten.", "english": "Okay, then we can't do anything except wait."},
                 {"speaker": "You", "swissGerman": "Wämmer go en Kafi näh? Bis es wider gaht.", "german": "Wollen wir einen Kaffee nehmen gehen? Bis es wieder geht.", "english": "Shall we go grab a coffee? Until it works again."},
+                {"speaker": "Colleague", "swissGerman": "Ja! Und ich check uf em Handy ob de IT scho geantwortet hett.", "german": "Ja! Und ich schaue auf dem Handy ob die IT schon geantwortet hat.", "english": "Yes! And I'll check on my phone if IT has already replied."},
+                {"speaker": "You", "swissGerman": "Gueti Idee. Falls's bis Zmittag nid löst isch, meld ich's bi de Chefin.", "german": "Gute Idee. Falls es bis Mittag nicht gelöst ist, melde ich es bei der Chefin.", "english": "Good idea. If it's not fixed by noon, I'll report it to the boss."},
             ],
             "differences": [
                 {"swissGerman": "usgfalle", "german": "ausgefallen", "explanation": "'usgfalle' = 'ausgefallen'. 'us-' = 'aus-', dropped '-en'."},
@@ -110,6 +118,8 @@ SUBTOPIC_OFFICE_IT_PROBLEMS = {
                 {"speaker": "IT Support", "swissGerman": "Ich setze dir s'Passwort zrugg. Du überchunsch es nöis per Mail uf dis Handy.", "german": "Ich setze dir das Passwort zurück. Du bekommst ein neues per Mail auf dein Handy.", "english": "I'll reset your password. You'll get a new one by email on your phone."},
                 {"speaker": "You", "swissGerman": "Perfekt, merci!", "german": "Perfekt, danke!", "english": "Perfect, thanks!"},
                 {"speaker": "IT Support", "swissGerman": "Bitte, und dänk dra, s'Passwort denn z'ändere!", "german": "Bitte, und denk daran, das Passwort dann zu ändern!", "english": "You're welcome, and remember to change the password then!"},
+                {"speaker": "You", "swissGerman": "Ja, ich mache das grad. Und ich speichere's im Passwortmanager bim nächschte Mal.", "german": "Ja, ich mache das gleich. Und ich speichere es im Passwortmanager beim nächsten Mal.", "english": "Yes, I'll do that now. And I'll save it in the password manager next time."},
+                {"speaker": "IT Support", "swissGerman": "Super Idee. Mir empfähle KeePass oder den internen Passwortmanager.", "german": "Super Idee. Wir empfehlen KeePass oder den internen Passwortmanager.", "english": "Great idea. We recommend KeePass or the internal password manager."},
             ],
             "differences": [
                 {"swissGerman": "vergässe", "german": "vergessen", "explanation": "'vergässe' = 'vergessen'. Vowel shift 'e' → 'ä'."},

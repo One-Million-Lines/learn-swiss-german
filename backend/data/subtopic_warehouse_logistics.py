@@ -15,6 +15,8 @@ SUBTOPIC_WAREHOUSE_LOGISTICS = {
                 {"speaker": "Driver", "swissGerman": "Sächs Palette. Wo chan ich die ane stelle?", "german": "Sechs Paletten. Wo kann ich die hinstellen?", "english": "Six pallets. Where can I put them?"},
                 {"speaker": "You", "swissGerman": "Bim Ladetor. Ich mach grad uf.", "german": "Beim Ladetor. Ich mache gleich auf.", "english": "At the loading dock. I'll open up right away."},
                 {"speaker": "Driver", "swissGerman": "Guet. Und ich bruuch no en Unterschrift uf de Liferschiin.", "german": "Gut. Und ich brauche noch eine Unterschrift auf dem Lieferschein.", "english": "Good. And I need a signature on the delivery slip."},
+                {"speaker": "Driver", "swissGerman": "Alles stimmt. Euses System zeigt die sächs Palette au. Darf ich jetzt entlade?", "german": "Alles stimmt. Unser System zeigt die sechs Paletten auch. Darf ich jetzt entladen?", "english": "Everything matches. Our system shows the six pallets too. May I unload now?"},
+                {"speaker": "You", "swissGerman": "Ja, fahred voraa bim Ladetor. Ich hole de Gabelstapler.", "german": "Ja, fahren Sie vor beim Ladetor. Ich hole den Gabelstapler.", "english": "Yes, pull up to the loading dock. I'll get the forklift."},
                 {"speaker": "You", "swissGerman": "Klar, mach ich. Momänt, ich zell schnäll d'Karton.", "german": "Klar, mach ich. Moment, ich zähle schnell die Kartons.", "english": "Sure, will do. One moment, I'll quickly count the boxes."},
             ],
             "differences": [
@@ -39,6 +41,8 @@ SUBTOPIC_WAREHOUSE_LOGISTICS = {
                 {"speaker": "Colleague", "swissGerman": "Ah, danke! Und häts au no Muetere i de Nöchi?", "german": "Ah, danke! Und gibt es auch noch Muttern in der Nähe?", "english": "Ah, thanks! And are there also nuts nearby?"},
                 {"speaker": "You", "swissGerman": "Ja, eis Regal wiiter. Wenn's nüt meh hät, gsehn ich s'im System nach.", "german": "Ja, ein Regal weiter. Wenn nichts mehr da ist, schaue ich im System nach.", "english": "Yes, one shelf over. If there's nothing left, I'll check the system."},
                 {"speaker": "Colleague", "swissGerman": "Super, merci! Wie viel Stuck sölli mitnäh?", "german": "Super, danke! Wie viele Stück soll ich mitnehmen?", "english": "Great, thanks! How many pieces should I take?"},
+                {"speaker": "Colleague", "swissGerman": "Guet, ich gah luege. Häts no Platz uf em Regal oder muess ich e nöii Chischte uufmache?", "german": "Gut, ich schaue. Hat es noch Platz auf dem Regal oder muss ich eine neue Kiste aufmachen?", "english": "Good, I'll go look. Is there still space on the shelf or do I need to open a new box?"},
+                {"speaker": "You", "swissGerman": "Luegs im SAP nach — dört gsesch de aktuelli Bestand vor Ort.", "german": "Schau es im SAP nach — dort siehst du den aktuellen Bestand vor Ort.", "english": "Check it in SAP — there you can see the current stock on site."},
                 {"speaker": "You", "swissGerman": "Nimm hundert. Und schriib's uf de Entnahm-Zettel!", "german": "Nimm hundert. Und schreib es auf den Entnahme-Zettel!", "english": "Take a hundred. And write it on the withdrawal slip!"},
             ],
             "differences": [
@@ -64,6 +68,8 @@ SUBTOPIC_WAREHOUSE_LOGISTICS = {
                 {"speaker": "Manager", "swissGerman": "Ja, drumm lueged mir dört bsunders gnau ane.", "german": "Ja, darum schauen wir dort besonders genau hin.", "english": "Yes, that's why we look extra carefully there."},
                 {"speaker": "You", "swissGerman": "Ich fang mit em Lager A aa. De Scanner funktioniert?", "german": "Ich fange mit Lager A an. Funktioniert der Scanner?", "english": "I'll start with warehouse A. Does the scanner work?"},
                 {"speaker": "Manager", "swissGerman": "Ja, isch gstern gladen worde. Und dänk dra, jedi Chischte ufmache und ine luege!", "german": "Ja, wurde gestern geladen. Und denk daran, jede Kiste aufmachen und reinschauen!", "english": "Yes, it was charged yesterday. And remember, open every box and look inside!"},
+                {"speaker": "You", "swissGerman": "Und wänn mir e Differänz finde, söll ich dich sofort informiere?", "german": "Und wenn wir eine Differenz finden, soll ich dich sofort informieren?", "english": "And if we find a discrepancy, should I inform you right away?"},
+                {"speaker": "Manager", "swissGerman": "Ja, sofort. Und dokumentier alles im Inventurboge — kei mündliche Mäldig.", "german": "Ja, sofort. Und dokumentiere alles im Inventurbogen — keine mündliche Meldung.", "english": "Yes, immediately. And document everything on the inventory sheet — no verbal reports."},
                 {"speaker": "You", "swissGerman": "Mach ich. Ich schätze, mir bruched so drü Stund derfür.", "german": "Mach ich. Ich schätze, wir brauchen so drei Stunden dafür.", "english": "Will do. I estimate we need about three hours for it."},
             ],
             "differences": [
@@ -89,6 +95,8 @@ SUBTOPIC_WAREHOUSE_LOGISTICS = {
                 {"speaker": "You", "swissGerman": "Klar. Ich ha min Staplerschiin debii.", "german": "Klar. Ich habe meinen Staplerschein dabei.", "english": "Of course. I have my forklift license with me."},
                 {"speaker": "Manager", "swissGerman": "Guet. Und d'Warnjacke nöd vergässe!", "german": "Gut. Und die Warnweste nicht vergessen!", "english": "Good. And don't forget the safety vest!"},
                 {"speaker": "You", "swissGerman": "Ich ha si scho aazoge. Wie hoch dörf ich lade?", "german": "Ich habe sie schon angezogen. Wie hoch darf ich laden?", "english": "I'm already wearing it. How high can I load?"},
+                {"speaker": "You", "swissGerman": "Und wenn es keis Platz meh uf em dritte Regal hät, wohii söll ich d'Palette stelle?", "german": "Und wenn es keinen Platz mehr auf dem dritten Regal hat, wohin soll ich die Palette stellen?", "english": "And if there's no more space on the third shelf, where should I put the pallet?"},
+                {"speaker": "Manager", "swissGerman": "Übergangslageri isch Bereich D am Bode. Bitte markier se mit emne Zettel!", "german": "Übergangslager ist Bereich D am Boden. Bitte markiere sie mit einem Zettel!", "english": "Temporary storage is area D on the floor. Please mark them with a note!"},
                 {"speaker": "Manager", "swissGerman": "Maximal drü Meter. Und gib Bescheid falls du Hilf bruchsch!", "german": "Maximal drei Meter. Und gib Bescheid falls du Hilfe brauchst!", "english": "Maximum three meters. And let me know if you need help!"},
             ],
             "differences": [
@@ -114,6 +122,8 @@ SUBTOPIC_WAREHOUSE_LOGISTICS = {
                 {"speaker": "You", "swissGerman": "Guet, isch das en Express-Lieferig?", "german": "Gut, ist das eine Express-Lieferung?", "english": "Good, is this an express delivery?"},
                 {"speaker": "Colleague", "swissGerman": "Nei, normali Post. Muess bis am Fünfi uf de Rampe si.", "german": "Nein, normale Post. Muss bis fünf auf der Rampe sein.", "english": "No, regular post. Needs to be on the ramp by five."},
                 {"speaker": "You", "swissGerman": "Kei Problem. Ich stell sie grad parat.", "german": "Kein Problem. Ich stelle sie gleich bereit.", "english": "No problem. I'll get it ready right away."},
+                {"speaker": "You", "swissGerman": "Und de Retour-Zettel vom Vormonet — isch de au i däm Box?", "german": "Und der Rücksendezettel vom Vormonat — ist der auch in dem Box?", "english": "And the return slip from last month — is that also in that box?"},
+                {"speaker": "Colleague", "swissGerman": "Nei, Retour-Zettel lege mir ins rote Fach beim Büro. Dört sammle mir alli.", "german": "Nein, Rücksendescheine legen wir ins rote Fach beim Büro. Dort sammeln wir alle.", "english": "No, return slips go in the red compartment by the office. That's where we collect all of them."},
                 {"speaker": "Colleague", "swissGerman": "Perfekt. De Poschti chunnt immer um halb sächsi.", "german": "Perfekt. Der Postbote kommt immer um halb sechs.", "english": "Perfect. The mailman always comes at five thirty."},
             ],
             "differences": [

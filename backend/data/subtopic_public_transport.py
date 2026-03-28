@@ -16,6 +16,8 @@ SUBTOPIC_PUBLIC_TRANSPORT = {
                 {"speaker": "Clerk", "swissGerman": "Händ Sie es Halbtax?", "german": "Haben Sie ein Halbtax?", "english": "Do you have a Halbtax?"},
                 {"speaker": "You", "swissGerman": "Ja, do isch mis Halbtax-Abo.", "german": "Ja, hier ist mein Halbtax-Abo.", "english": "Yes, here's my Halbtax card."},
                 {"speaker": "Clerk", "swissGerman": "Perfekt. Das macht 25 Franke. De nöchscht Zug gaat um Vierzäni ab Gleis 8.", "german": "Perfekt. Das macht 25 Franken. Der nächste Zug geht um vierzehn Uhr ab Gleis 8.", "english": "Perfect. That's 25 francs. The next train leaves at two PM from platform 8."},
+                {"speaker": "You", "swissGerman": "Danke! Und chani au en Sitzplatz reserviiire?", "german": "Danke! Und kann ich auch einen Sitzplatz reservieren?", "english": "Thanks! And can I also reserve a seat?"},
+                {"speaker": "Clerk", "swissGerman": "Bi de zwöite Klass isch das nid obligatorisch, aber mögliich. Chostet 5 Franke zuesätzliich.", "german": "Bei der zweiten Klasse ist das nicht obligatorisch, aber m\u00f6glich. Kostet 5 Franken zus\u00e4tzlich.", "english": "In second class it's not mandatory, but possible. Costs 5 francs extra."},
             ],
             "differences": [
                 {"swissGerman": "Billett", "german": "Fahrkarte/Ticket", "explanation": "'Billett' = ticket. Swiss word from French 'billet'."},
@@ -41,6 +43,8 @@ SUBTOPIC_PUBLIC_TRANSPORT = {
                 {"speaker": "Person", "swissGerman": "Öppe drüssig Minute. De Zug fahrt jedi halbi Stund.", "german": "Ungefähr dreißig Minuten. Der Zug fährt jede halbe Stunde.", "english": "About thirty minutes. The train runs every half hour."},
                 {"speaker": "You", "swissGerman": "Und ab welem Gleis?", "german": "Und von welchem Gleis?", "english": "And from which platform?"},
                 {"speaker": "Person", "swissGerman": "Luege Sie uf d'Aazeigetafel. Meischtens Gleis 3 oder 4.", "german": "Schauen Sie auf die Anzeigetafel. Meistens Gleis 3 oder 4.", "english": "Check the display board. Usually platform 3 or 4."},
+                {"speaker": "You", "swissGerman": "Und bruich ich en zusätzliche Billettautomat oder gilt mis ZVV-Ticket?", "german": "Und brauche ich einen zusätzlichen Fahrkartenautomat oder gilt mein ZVV-Ticket?", "english": "And do I need an extra ticket machine or does my ZVV ticket count?"},
+                {"speaker": "Person", "swissGerman": "Falls Sie scho es Gültig-Abo händ, gilts bis Rapperswil. Checki kurz d'Zonen.", "german": "Falls Sie schon ein gültiges Abo haben, gilt es bis Rapperswil. Check kurz die Zonen.", "english": "If you already have a valid pass, it covers to Rapperswil. Just check the zones briefly."},
             ],
             "differences": [
                 {"swissGerman": "chumi", "german": "komme ich", "explanation": "'chumi' = 'komme ich'. Contracted."},
@@ -66,6 +70,8 @@ SUBTOPIC_PUBLIC_TRANSPORT = {
                 {"speaker": "You", "swissGerman": "Schaff ich no de Aaschluss z'Bärn?", "german": "Schaffe ich noch den Anschluss in Bern?", "english": "Will I still make the connection in Bern?"},
                 {"speaker": "Stranger", "swissGerman": "Wahrschinli nöd. Luege Sie uf de SBB-App, die zeigt Alternativen.", "german": "Wahrscheinlich nicht. Schauen Sie in die SBB-App, die zeigt Alternativen.", "english": "Probably not. Check the SBB app, it shows alternatives."},
                 {"speaker": "You", "swissGerman": "Guet, merci! Isch immer stressig mit Verspötige.", "german": "Gut, danke! Ist immer stressig mit Verspätungen.", "english": "Good, thanks! Delays are always stressful."},
+                {"speaker": "Stranger", "swissGerman": "Ja, äber mis Konzert fangt erst um Achti aa. Ich hoff's langt no.", "german": "Ja, aber mein Konzert fängt erst um acht an. Ich hoffe es reicht noch.", "english": "Yes, but my concert doesn't start until eight. I hope there's still time."},
+                {"speaker": "You", "swissGerman": "Dann händ Si chli Luft. D'SBB-App zeigt au weli Züg no passe.", "german": "Dann haben Sie etwas Spielraum. Die SBB-App zeigt auch welche Züge noch passen.", "english": "Then you have a bit of buffer. The SBB app also shows which trains still work."},
             ],
             "differences": [
                 {"swissGerman": "Durchsag", "german": "Durchsage", "explanation": "'Durchsag' = 'Durchsage'. Announcement."},
@@ -91,6 +97,8 @@ SUBTOPIC_PUBLIC_TRANSPORT = {
                 {"speaker": "Passenger", "swissGerman": "Uf de anderi Siite vo de Strass. Die chunnt in drüü Minute.", "german": "Auf der anderen Seite der Straße. Die kommt in drei Minuten.", "english": "On the other side of the street. It comes in three minutes."},
                 {"speaker": "You", "swissGerman": "Super! Und wie vill Halteställe sind's bis zum Paradeplatz?", "german": "Super! Und wie viele Haltestellen sind es bis zum Paradeplatz?", "english": "Great! And how many stops is it to Paradeplatz?"},
                 {"speaker": "Passenger", "swissGerman": "Vier Halteställe. De fünft isch Paradeplatz.", "german": "Vier Haltestellen. Die fünfte ist Paradeplatz.", "english": "Four stops. The fifth is Paradeplatz."},
+                {"speaker": "You", "swissGerman": "Super merci! Und isch d'Endhalteststell au bim Paradeplatz?", "german": "Super danke! Und ist die Endhaltstelle auch beim Paradeplatz?", "english": "Super thanks! And is the final stop also at Paradeplatz?"},
+                {"speaker": "Passenger", "swissGerman": "Nei, d'Endhalteststell vo de Elfer isch Buerkliplatz. Aber Sie stiegend am Paradeplatz us.", "german": "Nein, die Endhaltstelle der 11 ist B\u00fcrkliplatz. Aber Sie steigen am Paradeplatz aus.", "english": "No, the final stop of the 11 is B\u00fcrkliplatz. But you get off at Paradeplatz."},
             ],
             "differences": [
                 {"swissGerman": "Tram", "german": "Straßenbahn/Tram", "explanation": "'Tram' = used in Swiss cities. Not 'Straßenbahn'."},
@@ -116,6 +124,8 @@ SUBTOPIC_PUBLIC_TRANSPORT = {
                 {"speaker": "SBB Employee", "swissGerman": "Guet. De S12 uf Gleis 2 fahrt direkt uf Winterthur. I zää Minute.", "german": "Gut. Die S12 auf Gleis 2 fährt direkt nach Winterthur. In zehn Minuten.", "english": "Good. The S12 on platform 2 goes directly to Winterthur. In ten minutes."},
                 {"speaker": "You", "swissGerman": "Danke! Muess ich no es Billett löse oder gaat mis ZVV-Abo?", "german": "Danke! Muss ich noch ein Ticket lösen oder geht mein ZVV-Abo?", "english": "Thanks! Do I need to buy a ticket or does my ZVV pass work?"},
                 {"speaker": "SBB Employee", "swissGerman": "S'ZVV-Abo gaat bis Winterthur, kei Problem. Gueti Reis!", "german": "Das ZVV-Abo geht bis Winterthur, kein Problem. Gute Reise!", "english": "The ZVV pass works to Winterthur, no problem. Have a good trip!"},
+                {"speaker": "You", "swissGerman": "Merci vilmal für d'Hilf! Ich bi s'nöchschte Mol besser vorbereitet.", "german": "Vielen Dank für die Hilfe! Ich bin beim nächsten Mal besser vorbereitet.", "english": "Many thanks for the help! I'll be better prepared next time."},
+                {"speaker": "SBB Employee", "swissGerman": "Gern gschäh! Und ladet die SBB-App aa, die isch wirklich hilfriich.", "german": "Gerne geschehen! Und laden Sie die SBB-App herunter, die ist wirklich hilfreich.", "english": "You're welcome! And download the SBB app, it's really helpful."},
             ],
             "differences": [
                 {"swissGerman": "verlore", "german": "verloren", "explanation": "'verlore' = 'verloren'. Lost."},

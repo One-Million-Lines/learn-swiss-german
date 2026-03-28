@@ -15,6 +15,7 @@ SUBTOPIC_SEKUNDARSCHULE = {
                 {"speaker": "Lehrerin", "swissGerman": "D'Lina hät en guete Noteschnitt. Ich gseh sie i de Sek A.", "german": "Lina hat einen guten Notendurchschnitt. Ich sehe sie in der Sek A.", "english": "Lina has a good grade average. I see her in Sek A."},
                 {"speaker": "You", "swissGerman": "Und s'Gymi? Wär das au e Option?", "german": "Und das Gymnasium? Wäre das auch eine Option?", "english": "And the Gymnasium? Would that also be an option?"},
                 {"speaker": "Lehrerin", "swissGerman": "Falls sie d'Ufnahmeprüefig macht und bstaht, ja. Die isch im März.", "german": "Falls sie die Aufnahmeprüfung macht und besteht, ja. Die ist im März.", "english": "If she takes and passes the entrance exam, yes. It's in March."},
+                {"speaker": "Lehrerin", "swissGerman": "Bitte gäbed Bescheid bis nid speter als Mitti Januar — denn muess ich d'Formulare iischicke.", "german": "Bitte geben Sie Bescheid bis spätestens Mitte Januar — dann muss ich die Formulare einschicken.", "english": "Please let me know by mid-January at the latest — then I need to submit the forms."},
                 {"speaker": "You", "swissGerman": "Okay, mir bsprächid das dehei und gäbed Ihne Bescheid.", "german": "Okay, wir besprechen das zu Hause und geben Ihnen Bescheid.", "english": "Okay, we'll discuss it at home and let you know."},
             ],
             "differences": [
@@ -40,6 +41,7 @@ SUBTOPIC_SEKUNDARSCHULE = {
                 {"speaker": "Child", "swissGerman": "Ich kenn fast niemer! Nur de Tim vo de alte Chlass.", "german": "Ich kenne fast niemanden! Nur Tim aus der alten Klasse.", "english": "I know almost nobody! Only Tim from the old class."},
                 {"speaker": "You", "swissGerman": "Das isch normal. Du findsch schnäll nöii Fründe.", "german": "Das ist normal. Du findest schnell neue Freunde.", "english": "That's normal. You'll find new friends quickly."},
                 {"speaker": "Child", "swissGerman": "Ja, und mir händ jetzt au Physik und Chemie. Das isch mega spannend!", "german": "Ja, und wir haben jetzt auch Physik und Chemie. Das ist mega spannend!", "english": "Yes, and we now have physics and chemistry too. That's super exciting!"},
+                {"speaker": "Child", "swissGerman": "Ja, und mir händ üs scho eini Klassechassierer gwählt — e Kollegin vo mir hät sich gmoldet.", "german": "Ja, und wir haben schon eine Klassensprecherin gewählt — eine Kollegin von mir hat sich gemeldet.", "english": "Yes, and we already chose a class rep — a friend of mine volunteered."},
                 {"speaker": "You", "swissGerman": "Toll! Und vergiss de Stundeplan nöd, damit du weisch weli Büecher mitnäh.", "german": "Toll! Und vergiss den Stundenplan nicht, damit du weißt welche Bücher mitnehmen.", "english": "Great! And don't forget the schedule, so you know which books to bring."},
             ],
             "differences": [
@@ -65,6 +67,7 @@ SUBTOPIC_SEKUNDARSCHULE = {
                 {"speaker": "Child", "swissGerman": "Italiänisch, Latiin, Technischs Gstalte und Bildnerischs Gstalte.", "german": "Italienisch, Latein, Technisches Gestalten und Bildnerisches Gestalten.", "english": "Italian, Latin, Technical Design, and Visual Arts."},
                 {"speaker": "You", "swissGerman": "Und was interessiert dich am meischte?", "german": "Und was interessiert dich am meisten?", "english": "And what interests you the most?"},
                 {"speaker": "Child", "swissGerman": "Ich find Italiänisch cool wäge de Ferie am Meer. Aber Technischs Gstalte isch au mega.", "german": "Ich finde Italienisch cool wegen der Ferien am Meer. Aber Technisches Gestalten ist auch mega.", "english": "I think Italian is cool because of vacations at the sea. But Technical Design is also great."},
+                {"speaker": "Child", "swissGerman": "Gueti Idee! Ich frag morn d'Klasseleere ob s'no Platz git im Italiänisch.", "german": "Gute Idee! Ich frage morgen die Klassenlehrerin ob es noch Platz gibt im Italienisch.", "english": "Good idea! I'll ask the class teacher tomorrow if there's still space in Italian."},
                 {"speaker": "You", "swissGerman": "Du chasch zwei wähle. Nimm doch beides!", "german": "Du kannst zwei wählen. Nimm doch beides!", "english": "You can choose two. Just take both!"},
             ],
             "differences": [
@@ -90,6 +93,7 @@ SUBTOPIC_SEKUNDARSCHULE = {
                 {"speaker": "Child", "swissGerman": "Ich ha d'Jahreszahle verwächslet! Und d'Frage über de Zwöite Wältchrieg ha ich vergässe.", "german": "Ich habe die Jahreszahlen verwechselt! Und die Frage über den Zweiten Weltkrieg habe ich vergessen.", "english": "I mixed up the dates! And the question about WWII I forgot."},
                 {"speaker": "You", "swissGerman": "Nöchsts Mal machsch en Zämesfassig. Das hilft bim Lehre.", "german": "Nächstes Mal machst du eine Zusammenfassung. Das hilft beim Lernen.", "english": "Next time make a summary. That helps with studying."},
                 {"speaker": "Child", "swissGerman": "Ja, gueti Idee. D'Sara hät e Sächser gha. Die lehrt immer mit Chärtli.", "german": "Ja, gute Idee. Sara hatte eine Sechs. Die lernt immer mit Kärtchen.", "english": "Yes, good idea. Sara got a six. She always studies with flashcards."},
+                {"speaker": "Child", "swissGerman": "Ja ich probier's. De Lehrplan isch doch ganz anders als i de Primar — vill me Stoff.", "german": "Ja ich probiere es. Der Lehrplan ist doch ganz anders als in der Primarschule — viel mehr Stoff.", "english": "Yes I'll try it. The curriculum is quite different from primary school — much more material."},
                 {"speaker": "You", "swissGerman": "Gsesch! Jede hät sin eigene Weg. Du findsch din.", "german": "Siehst du! Jeder hat seinen eigenen Weg. Du findest deinen.", "english": "See! Everyone has their own way. You'll find yours."},
             ],
             "differences": [
@@ -115,6 +119,7 @@ SUBTOPIC_SEKUNDARSCHULE = {
                 {"speaker": "Child", "swissGerman": "Ich find beides guet. Aber ich möcht öppis mit Computer mache.", "german": "Ich finde beides gut. Aber ich möchte etwas mit Computern machen.", "english": "I think both are good. But I want to do something with computers."},
                 {"speaker": "You", "swissGerman": "Denn gäbts e Informatik-Lehr oder s'Gymi und denn d'ETH.", "german": "Dann gibt es eine Informatiklehre oder das Gymnasium und dann die ETH.", "english": "Then there's an IT apprenticeship or the Gymnasium and then ETH."},
                 {"speaker": "Child", "swissGerman": "Chan ich au d'BMS mache nochere Lehr?", "german": "Kann ich auch die BMS machen nach einer Lehre?", "english": "Can I also do the BMS after an apprenticeship?"},
+                {"speaker": "Child", "swissGerman": "Und darf ich au en Schnupperlehr mache, bevor ich mich entscheid?", "german": "Und darf ich auch eine Schnupperlehre machen, bevor ich mich entscheide?", "english": "And can I also do a trial apprenticeship before I decide?"},
                 {"speaker": "You", "swissGerman": "Ja klar! Mir gönd mol an d'Berufsberatig, die hälfed dir.", "german": "Ja klar! Wir gehen mal zur Berufsberatung, die helfen dir.", "english": "Yes of course! We'll go to career counseling, they'll help you."},
             ],
             "differences": [

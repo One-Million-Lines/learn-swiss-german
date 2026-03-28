@@ -42,6 +42,8 @@ SUBTOPIC_MAKING_APPOINTMENT = {
                 {"speaker": "Receptionist", "swissGerman": "Kei Problem. Wänd Si verschübe?", "german": "Kein Problem. Wollen Sie verschieben?", "english": "No problem. Do you want to reschedule?"},
                 {"speaker": "You", "swissGerman": "Ja bitte. Gaat's au nächsti Wuche?", "german": "Ja bitte. Geht es auch nächste Woche?", "english": "Yes please. Is next week also possible?"},
                 {"speaker": "Receptionist", "swissGerman": "Mir händ am Mäntig um drüüzäni öppis frei.", "german": "Wir haben am Montag um dreizehn Uhr etwas frei.", "english": "We have something free on Monday at one o'clock."},
+                {"speaker": "You", "swissGerman": "Isch das bim glichi Zahnarzt Dr. Keller?", "german": "Ist das beim gleichen Zahnarzt Dr. Keller?", "english": "Is that with the same dentist Dr. Keller?"},
+                {"speaker": "Receptionist", "swissGerman": "Ja, genau. Ich trage Sie als Frau Müller ii.", "german": "Ja, genau. Ich trage Sie als Frau Müller ein.", "english": "Yes exactly. I'll enter you as Ms. Müller."},
                 {"speaker": "You", "swissGerman": "Perfekt, das passt! Merci.", "german": "Perfekt, das passt! Danke.", "english": "Perfect, that works! Thanks."},
             ],
             "differences": [
@@ -122,6 +124,8 @@ SUBTOPIC_MAKING_APPOINTMENT = {
                 {"speaker": "Receptionist", "swissGerman": "Am Fritig, de 15. März, um vierzäni.", "german": "Am Freitag, den 15. März, um vierzehn Uhr.", "english": "On Friday, March 15th, at two o'clock."},
                 {"speaker": "You", "swissGerman": "Ja, das passt mir. Wie lang duured das öppe?", "german": "Ja, das passt mir. Wie lange dauert das ungefähr?", "english": "Yes, that works for me. About how long does it take?"},
                 {"speaker": "Receptionist", "swissGerman": "Öppe en halbi Stund.", "german": "Ungefähr eine halbe Stunde.", "english": "About half an hour."},
+                {"speaker": "You", "swissGerman": "Muess ich öppis mitbringe? En Röntgenbillig oder so?", "german": "Muss ich etwas mitbringen? Ein Röntgenbild oder so?", "english": "Do I need to bring anything? An X-ray or something?"},
+                {"speaker": "Receptionist", "swissGerman": "Nei, das händ mir alles hie. Eifach pünktlich sii!", "german": "Nein, das haben wir alles hier. Einfach pünktlich sein!", "english": "No, we have everything here. Just be punctual!"},
                 {"speaker": "You", "swissGerman": "Guet, denn chum ich am Fritig. Merci!", "german": "Gut, dann komme ich am Freitag. Danke!", "english": "Good, then I'll come on Friday. Thanks!"},
             ],
             "differences": [

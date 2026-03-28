@@ -16,6 +16,8 @@ SUBTOPIC_BASIC_QUESTIONS = {
                 {"speaker": "Local", "swissGerman": "Vo achti bis nüni am Aabig. Am Sunntig isch er zue.", "german": "Von acht bis neun Uhr abends. Am Sonntag ist er zu.", "english": "From eight to nine in the evening. On Sunday it's closed."},
                 {"speaker": "You", "swissGerman": "Ah, guet z'wüsse! Wieviel choschtet öppe es Brot?", "german": "Ah, gut zu wissen! Wieviel kostet etwa ein Brot?", "english": "Ah, good to know! How much does a bread cost roughly?"},
                 {"speaker": "Local", "swissGerman": "So öppe drüü bis vier Franke.", "german": "So etwa drei bis vier Franken.", "english": "About three to four francs."},
+                {"speaker": "You", "swissGerman": "Super, merci! Und dörf ich no e Frag stelle?", "german": "Super, danke! Und darf ich noch eine Frage stellen?", "english": "Great, thanks! And may I ask one more question?"},
+                {"speaker": "Local", "swissGerman": "Klar! Ich bin au no nöi do, hälf gärn.", "german": "Klar! Ich bin auch noch neu hier, ich helfe gerne.", "english": "Sure! I'm also still new here, happy to help."},
             ],
             "differences": [
                 {"swissGerman": "Wo isch...?", "german": "Wo ist...?", "explanation": "'isch' = 'ist'. The most basic question word stays the same: 'wo'."},
@@ -65,6 +67,8 @@ SUBTOPIC_BASIC_QUESTIONS = {
                 {"speaker": "Seller", "swissGerman": "Denn wür ich vierevierzgi empfähle. Weli Farb händ Sie gern?", "german": "Dann würde ich vierundvierzig empfehlen. Welche Farbe hätten Sie gern?", "english": "Then I'd recommend forty-four. What color would you like?"},
                 {"speaker": "You", "swissGerman": "Was händ er so? Öppis in Blau oder Grau?", "german": "Was haben Sie so? Etwas in Blau oder Grau?", "english": "What do you have? Something in blue or gray?"},
                 {"speaker": "Seller", "swissGerman": "Mir händ beidi. Weli wänd Sie probiere?", "german": "Wir haben beide. Welche wollen Sie probieren?", "english": "We have both. Which ones would you like to try?"},
+                {"speaker": "You", "swissGerman": "D'blaui bitte. Cha ich si kurz aalaufe?", "german": "Die blaue bitte. Kann ich sie kurz anlaufen?", "english": "The blue ones please. Can I try walking in them?"},
+                {"speaker": "Seller", "swissGerman": "Na sicher, das isch wichtig bi Wanderschueh. Laufed Sie e chli Runde.", "german": "Natürlich, das ist wichtig bei Wanderschuhen. Laufen Sie eine kleine Runde.", "english": "Of course, that's important with hiking shoes. Walk around a bit."},
             ],
             "differences": [
                 {"swissGerman": "Weli", "german": "Welche", "explanation": "'Weli' / 'Wele' = 'welche/welcher'. Shortened form that changes with gender."},
@@ -89,6 +93,8 @@ SUBTOPIC_BASIC_QUESTIONS = {
                 {"speaker": "Vendor", "swissGerman": "So öppe sechs bis acht Stück.", "german": "So etwa sechs bis acht Stück.", "english": "About six to eight pieces."},
                 {"speaker": "You", "swissGerman": "Guet, denn nimmi es Kilo Rüebli und es Pfund Tomaten.", "german": "Gut, dann nehme ich ein Kilo Karotten und ein Pfund Tomaten.", "english": "Good, then I'll take a kilo of carrots and a pound of tomatoes."},
                 {"speaker": "Vendor", "swissGerman": "Sechs fufzg zäme. Bruuched Sie no öppis?", "german": "Sechs fünfzig zusammen. Brauchen Sie noch etwas?", "english": "Six fifty together. Do you need anything else?"},
+                {"speaker": "You", "swissGerman": "Ja, hätted Sie au no frische Lauch? Ich bruuchi en für e Suppe.", "german": "Ja, hätten Sie auch noch frischen Lauch? Ich brauche ihn für eine Suppe.", "english": "Yes, do you also have fresh leeks? I need them for a soup."},
+                {"speaker": "Vendor", "swissGerman": "Ja, do isch de letzte. Nomol achtzg Räppe.", "german": "Ja, hier ist der letzte. Noch einmal achtzig Rappen.", "english": "Yes, here's the last one. Another eighty centimes."},
             ],
             "differences": [
                 {"swissGerman": "Wie viel choschted", "german": "Wie viel kosten", "explanation": "'Wie viel' for uncountable / price. 'choschted' = 'kosten'. Note: singular verb form used."},
@@ -113,6 +119,8 @@ SUBTOPIC_BASIC_QUESTIONS = {
                 {"speaker": "Friend", "swissGerman": "Us de Bärge, d'Hirte händ's bruucht zum Kommuniziere.", "german": "Aus den Bergen, die Hirten haben es zum Kommunizieren benutzt.", "english": "From the mountains, shepherds used it to communicate."},
                 {"speaker": "You", "swissGerman": "Wie lang isch so es Ding?", "german": "Wie lang ist so ein Ding?", "english": "How long is such a thing?"},
                 {"speaker": "Friend", "swissGerman": "So öppe drüü bis vier Meter!", "german": "So etwa drei bis vier Meter!", "english": "About three to four meters!"},
+                {"speaker": "You", "swissGerman": "Und tönt das guet? Ich stell mer vor, es isch wahnsinnig laut!", "german": "Und klingt das gut? Ich stelle mir vor, es ist wahnsinnig laut!", "english": "And does it sound good? I imagine it's incredibly loud!"},
+                {"speaker": "Friend", "swissGerman": "De Chlang isch wunderschön! I de Bärge chliingt's eifach magisch.", "german": "Der Klang ist wunderschön! In den Bergen klingt es einfach magisch.", "english": "The sound is beautiful! In the mountains it simply sounds magical."},
             ],
             "differences": [
                 {"swissGerman": "Was isch das?", "german": "Was ist das?", "explanation": "The most basic question. 'Was' stays the same, 'isch' = 'ist'."},

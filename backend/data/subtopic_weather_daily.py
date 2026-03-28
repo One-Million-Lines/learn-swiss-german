@@ -15,6 +15,8 @@ SUBTOPIC_WEATHER_DAILY = {
                 {"speaker": "Colleague", "swissGerman": "Gömmer am Mittag use? En Salat am See?", "german": "Gehen wir mittags raus? Ein Salat am See?", "english": "Shall we go outside at lunch? A salad by the lake?"},
                 {"speaker": "You", "swissGerman": "Ja, super Idee! Aber d'Wettervorhersag seit, am Namittag chönnts gwittere.", "german": "Ja, super Idee! Aber die Wettervorhersage sagt, am Nachmittag könnte es gewittern.", "english": "Yes, great idea! But the forecast says it might thunder in the afternoon."},
                 {"speaker": "Colleague", "swissGerman": "Denn am beschte am Zwölfi go. Bevor d'Gwitter chömed.", "german": "Dann am besten um zwölf gehen. Bevor die Gewitter kommen.", "english": "Then best to go at twelve. Before the thunderstorms come."},
+                {"speaker": "Colleague", "swissGerman": "Ich ha s'Zmittag scho parat — en Salat vom Migros. Bisch debii?", "german": "Ich habe das Mittagessen schon parat — ein Salat vom Migros. Bist du dabei?", "english": "I already have lunch ready — a salad from Migros. Are you in?"},
+                {"speaker": "You", "swissGerman": "Mega! Ich bring au es Wasser mit. Mir treffe eus am Zwölfi bim Brunne.", "german": "Mega! Ich bringe auch Wasser mit. Wir treffen uns um zwölf beim Brunnen.", "english": "Awesome! I'll bring water too. Let's meet at twelve at the fountain."},
                 {"speaker": "You", "swissGerman": "Guet Plan! Ich nimm min Schirm trotzdem mit.", "german": "Guter Plan! Ich nehme meinen Schirm trotzdem mit.", "english": "Good plan! I'll take my umbrella anyway."},
             ],
             "differences": [
@@ -40,6 +42,8 @@ SUBTOPIC_WEATHER_DAILY = {
                 {"speaker": "You", "swissGerman": "Wie heiss wirds am Samschtig?", "german": "Wie heiß wird es am Samstag?", "english": "How hot will it be on Saturday?"},
                 {"speaker": "Friend", "swissGerman": "D'MeteoSchwiiz seit 28 Grad. Fast Badiwätter!", "german": "MeteoSchweiz sagt 28 Grad. Fast Badewetter!", "english": "MeteoSwiss says 28 degrees. Almost swimming weather!"},
                 {"speaker": "You", "swissGerman": "Perfekt! Denn gömmer am Samschtig ad Badi und am Sunntig is Muuseum.", "german": "Perfekt! Dann gehen wir am Samstag ins Schwimmbad und am Sonntag ins Museum.", "english": "Perfect! Then we'll go to the pool on Saturday and to the museum on Sunday."},
+                {"speaker": "You", "swissGerman": "Und am Sunntig Nachmittag — isch s'Muuseum innen guet lüpft?", "german": "Und am Sonntagsnachmittag — ist das Museum innen gut belüftet?", "english": "And Sunday afternoon — is the museum well ventilated inside?"},
+                {"speaker": "Friend", "swissGerman": "Ja, s'Landesmuuseum isch grosszügig und küehl — perfekt für Rägetag.", "german": "Ja, das Landesmuseum ist großzügig und kühl — perfekt für Regentage.", "english": "Yes, the National Museum is spacious and cool — perfect for rainy days."},
                 {"speaker": "Friend", "swissGerman": "Guete Plan. Aber lueg no mal am Fritig — i de Schwiz isch s'Wätter unberechebar!", "german": "Guter Plan. Aber schau nochmal am Freitag — in der Schweiz ist das Wetter unberechenbar!", "english": "Good plan. But check again on Friday — in Switzerland the weather is unpredictable!"},
             ],
             "differences": [
@@ -65,6 +69,8 @@ SUBTOPIC_WEATHER_DAILY = {
                 {"speaker": "You", "swissGerman": "Wie chalt isch es etz? Ich ha kei Winterjacke aagha.", "german": "Wie kalt ist es jetzt? Ich hatte keine Winterjacke an.", "english": "How cold is it now? I wasn't wearing a winter jacket."},
                 {"speaker": "Friend", "swissGerman": "Öppe 8 Grad. Und de Wind machts no chälter.", "german": "Ungefähr 8 Grad. Und der Wind macht es noch kälter.", "english": "About 8 degrees. And the wind makes it even colder."},
                 {"speaker": "You", "swissGerman": "Mir isch chalt! Gömmer ine go en warme Tee trinke?", "german": "Mir ist kalt! Gehen wir rein und trinken einen warmen Tee?", "english": "I'm cold! Shall we go inside for a warm tea?"},
+                {"speaker": "You", "swissGerman": "Chöme mir noch en warme Schoggi beschtelle? Da isch s'Kafi ganz gmüetlich.", "german": "Können wir noch eine warme Schokolade bestellen? Hier ist das Café sehr gemütlich.", "english": "Can we also order a warm chocolate? This café is very cozy."},
+                {"speaker": "Friend", "swissGerman": "Ja, und ich nimm en Ziimt-Gipfeli dezue. Perfekts Räge-Ritual!", "german": "Ja, und ich nehme ein Zimt-Gipfeli dazu. Perfektes Regen-Ritual!", "english": "Yes, and I'll take a cinnamon croissant too. Perfect rainy day ritual!"},
                 {"speaker": "Friend", "swissGerman": "Ja, gueti Idee. Im Kafi isch es gmüetlich.", "german": "Ja, gute Idee. Im Café ist es gemütlich.", "english": "Yes, good idea. It's cozy in the café."},
             ],
             "differences": [
@@ -90,6 +96,8 @@ SUBTOPIC_WEATHER_DAILY = {
                 {"speaker": "Colleague", "swissGerman": "Isch din Zug au verspötet gsi?", "german": "War dein Zug auch verspätet?", "english": "Was your train delayed too?"},
                 {"speaker": "You", "swissGerman": "Zwänzg Minute! Und de Bus isch gar nöd cho.", "german": "Zwanzig Minuten! Und der Bus ist gar nicht gekommen.", "english": "Twenty minutes! And the bus didn't come at all."},
                 {"speaker": "Colleague", "swissGerman": "Typisch. Und am Wuchenänd söll's no meh schneie.", "german": "Typisch. Und am Wochenende soll es noch mehr schneien.", "english": "Typical. And this weekend it's supposed to snow even more."},
+                {"speaker": "Colleague", "swissGerman": "Häsch scho uf SBB.ch gluegt ob es Ersatzzüg git?", "german": "Hast du schon auf SBB.ch nachgeschaut ob es Ersatzzüge gibt?", "english": "Have you already checked on SBB.ch if there are replacement trains?"},
+                {"speaker": "You", "swissGerman": "Ja, mir fahred direkt mit em RE — de IC isch aagsäit bis Mittag.", "german": "Ja, wir fahren direkt mit dem RE — der IC ist abgesagt bis Mittag.", "english": "Yes, we take the RE directly — the IC is cancelled until noon."},
                 {"speaker": "You", "swissGerman": "Denn gömmer go Ski fahre! Ändlich gnueg Schnee.", "german": "Dann gehen wir Ski fahren! Endlich genug Schnee.", "english": "Then let's go skiing! Finally enough snow."},
             ],
             "differences": [
@@ -115,6 +123,8 @@ SUBTOPIC_WEATHER_DAILY = {
                 {"speaker": "You", "swissGerman": "Hmm, viiicht besser dihei bliibe und choche?", "german": "Hmm, vielleicht besser daheim bleiben und kochen?", "english": "Hmm, maybe better to stay home and cook?"},
                 {"speaker": "Friend", "swissGerman": "Oder mir chönd i de überdachte Grillplatz im Park gah.", "german": "Oder wir können zum überdachten Grillplatz im Park gehen.", "english": "Or we can go to the covered barbecue spot in the park."},
                 {"speaker": "You", "swissGerman": "Ah, stimmt! De hät es Dach. Perfekt bi schlechtem Wätter.", "german": "Ah, stimmt! Der hat ein Dach. Perfekt bei schlechtem Wetter.", "english": "Ah, right! That one has a roof. Perfect in bad weather."},
+                {"speaker": "You", "swissGerman": "Und falls s'doch rägnet — wär zuständig für s'Uufräume?", "german": "Und falls es doch regnet — wer ist zuständig fürs Aufräumen?", "english": "And if it does rain — who is in charge of cleaning up?"},
+                {"speaker": "Friend", "swissGerman": "Mir teile s'uf. Du räumsch d'Grill aa, ich pack d'Disch und Stüehl weg.", "german": "Wir teilen es auf. Du räumst den Grill ab, ich packe die Tische und Stühle weg.", "english": "We'll split it. You clear the grill, I'll put away the tables and chairs."},
                 {"speaker": "Friend", "swissGerman": "Abgmacht! Ich bring s'Fleisch, du de Salat.", "german": "Abgemacht! Ich bringe das Fleisch, du den Salat.", "english": "Deal! I'll bring the meat, you the salad."},
             ],
             "differences": [

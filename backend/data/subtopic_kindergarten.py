@@ -16,6 +16,8 @@ SUBTOPIC_KINDERGARTEN = {
                 {"speaker": "You", "swissGerman": "Sie hät ihres Znüni im Rucksack. Bruchts no sunscht öppis?", "german": "Sie hat ihr Znüni im Rucksack. Braucht es sonst noch etwas?", "english": "She has her snack in her backpack. Is anything else needed?"},
                 {"speaker": "Lehrerin", "swissGerman": "Nei, alles guet. Mir gönd hüt in Chreis und lernid eus kenne.", "german": "Nein, alles gut. Wir gehen heute in den Kreis und lernen uns kennen.", "english": "No, all good. Today we'll sit in a circle and get to know each other."},
                 {"speaker": "You", "swissGerman": "Schön! Lina, ich chume um Elfi go dich hole. Viel Spass!", "german": "Schön! Lina, ich komme um elf dich abholen. Viel Spaß!", "english": "Great! Lina, I'll come at eleven to pick you up. Have fun!"},
+                {"speaker": "Child", "swissGerman": "Papi, bleibsch au?", "german": "Papa, bleibst du auch?", "english": "Daddy, are you staying too?"},
+                {"speaker": "You", "swissGerman": "Ich muess gaah, aber d'Frau Brunner isch do. Du bisch tapfer! Bis zämä!", "german": "Ich muss gehen, aber Frau Brunner ist da. Du bist tapfer! Bis nachher!", "english": "I have to go, but Mrs. Brunner is here. You're brave! See you soon!"},
             ],
             "differences": [
                 {"swissGerman": "Chindsgi", "german": "Kindergarten", "explanation": "'Chindsgi' = informal Swiss word for Kindergarten."},
@@ -41,6 +43,8 @@ SUBTOPIC_KINDERGARTEN = {
                 {"speaker": "Lina", "swissGerman": "Mami hät mir Trüübli und Chracker iipackt.", "german": "Mama hat mir Trauben und Cracker eingepackt.", "english": "Mommy packed me grapes and crackers."},
                 {"speaker": "Lehrerin", "swissGerman": "Fein! Und dänked dra — mir ässe am Tisch und nachher rüüme mir uf.", "german": "Lecker! Und denkt daran — wir essen am Tisch und nachher räumen wir auf.", "english": "Yummy! And remember — we eat at the table and afterwards we clean up."},
                 {"speaker": "Child 1", "swissGerman": "Dörf ich nachher go uf d'Schaukle?", "german": "Darf ich nachher auf die Schaukel gehen?", "english": "Can I go on the swing afterwards?"},
+                {"speaker": "Lehrerin", "swissGerman": "Wenn du ufgrüumt hesch, ja. Und denn chemmers zrugg.", "german": "Wenn du aufgeräumt hast, ja. Und dann kommen wir zurück.", "english": "When you've tidied up, yes. And then we'll come back inside."},
+                {"speaker": "Child 1", "swissGerman": "Ich rüum sofort uf! (räumt) Darf ich jetzt?", "german": "Ich räume sofort auf! (räumt) Darf ich jetzt?", "english": "I'll clean up right away! (tidies) Can I now?"},
             ],
             "differences": [
                 {"swissGerman": "Dösli", "german": "Dosen", "explanation": "'Dösli' = 'Döschen'. Snack box with '-li' diminutive."},
@@ -66,7 +70,8 @@ SUBTOPIC_KINDERGARTEN = {
                 {"speaker": "Lina", "swissGerman": "Ich will en Stärn uf mini Laterne chlebe!", "german": "Ich will einen Stern auf meine Laterne kleben!", "english": "I want to stick a star on my lantern!"},
                 {"speaker": "Lehrerin", "swissGerman": "Schöni Idee! Schneide zerscht de Stärn us und denn chlebsch en druf.", "german": "Schöne Idee! Schneide zuerst den Stern aus und dann klebst du ihn drauf.", "english": "Nice idea! First cut out the star and then stick it on."},
                 {"speaker": "Child", "swissGerman": "Ich bruuch Hilf, d'Schäre schniidet nöd!", "german": "Ich brauche Hilfe, die Schere schneidet nicht!", "english": "I need help, the scissors won't cut!"},
-            ],
+                {"speaker": "Lehrerin", "swissGerman": "Komm, ich hilf dir. Du müessch de Daumen oobe halte. So!", "german": "Komm, ich helfe dir. Du musst den Daumen oben halten. So!", "english": "Come, I'll help you. You need to keep your thumb on top. Like this!"},
+                {"speaker": "Child", "swissGerman": "Ah, jetzt gaat’s! De Starn isch schön grate!", "german": "Ah, jetzt geht's! Der Stern ist schön geworden!", "english": "Ah, now it works! The star turned out beautifully!"},            ],
             "differences": [
                 {"swissGerman": "bastled", "german": "basteln", "explanation": "'bastled' = 'basteln'. Swiss conjugated form."},
                 {"swissGerman": "Räbeliechtli", "german": "Räbeliechtli", "explanation": "Turnip lantern. Swiss tradition (Räben = turnips carved into lanterns)."},
@@ -91,6 +96,8 @@ SUBTOPIC_KINDERGARTEN = {
                 {"speaker": "Child", "swissGerman": "Lina, chunnsch mit mir go rutsche?", "german": "Lina, kommst du mit mir rutschen?", "english": "Lina, do you want to go on the slide with me?"},
                 {"speaker": "Lina", "swissGerman": "Ja! Und denn gönd mir id Sandchischte!", "german": "Ja! Und dann gehen wir in den Sandkasten!", "english": "Yes! And then we go to the sandbox!"},
                 {"speaker": "Child", "swissGerman": "Cool! Ich bi de König vo de Sandburg!", "german": "Cool! Ich bin der König der Sandburg!", "english": "Cool! I'm the king of the sandcastle!"},
+                {"speaker": "Lina", "swissGerman": "Und ich bi d'Königin! Mir mached e grossi Burg mit Turm!", "german": "Und ich bin die Königin! Wir machen eine große Burg mit Turm!", "english": "And I'm the queen! We'll make a big castle with a tower!"},
+                {"speaker": "Child", "swissGerman": "Ja! Und en Wassergrabe! D'Lehrerin bringt villücht Wasser!", "german": "Ja! Und einen Wassergraben! Die Lehrerin bringt vielleicht Wasser!", "english": "Yes! And a moat! The teacher might bring water!"},
             ],
             "differences": [
                 {"swissGerman": "use", "german": "raus/hinaus", "explanation": "'use' = 'hinaus/raus'."},
@@ -116,6 +123,8 @@ SUBTOPIC_KINDERGARTEN = {
                 {"speaker": "Child 1", "swissGerman": "Aber er hät mi gstupft!", "german": "Aber er hat mich geschubst!", "english": "But he pushed me!"},
                 {"speaker": "Lehrerin", "swissGerman": "Mir stipfe niemer. Mer säit 'Bitte hör uf' und wenn's nöd gaht, chunnsch zu mir.", "german": "Wir schubsen niemanden. Man sagt 'Bitte hör auf' und wenn es nicht geht, kommst du zu mir.", "english": "We don't push anyone. You say 'Please stop' and if it doesn't work, you come to me."},
                 {"speaker": "Child 2", "swissGerman": "Entschuldigung. Chasch du zerscht fahre.", "german": "Entschuldigung. Kannst du zuerst fahren.", "english": "Sorry. You can ride first."},
+                {"speaker": "Child 1", "swissGerman": "Danke! Und denn bisch du dra. Ich zäl bis fünf.", "german": "Danke! Und dann bist du dran. Ich zähle bis fünf.", "english": "Thanks! And then it's your turn. I'll count to five."},
+                {"speaker": "Lehrerin", "swissGerman": "Sehr guet! Das isch genau richtig. Ihr sind echti Fründe!", "german": "Sehr gut! Das ist genau richtig. Ihr seid echte Freunde!", "english": "Very good! That's exactly right. You're real friends!"},
             ],
             "differences": [
                 {"swissGerman": "Velo", "german": "Fahrrad", "explanation": "'Velo' = 'Fahrrad'. Swiss/French word for bike."},

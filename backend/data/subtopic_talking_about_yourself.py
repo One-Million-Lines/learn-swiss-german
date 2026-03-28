@@ -15,6 +15,7 @@ SUBTOPIC_TALKING_ABOUT_YOURSELF = {
                 {"speaker": "Person", "swissGerman": "Ah, cool! Was für eis? Maschine-Ingenieur?", "german": "Ah, cool! Was für einer? Maschineningenieur?", "english": "Ah, cool! What kind? Mechanical engineer?"},
                 {"speaker": "You", "swissGerman": "Nei, Software. Mir entwickled Stüürigssysteem für Züüg.", "german": "Nein, Software. Wir entwickeln Steuerungssysteme für Züge.", "english": "No, software. We develop control systems for trains."},
                 {"speaker": "Person", "swissGerman": "Oh, SBB und so? Das isch ja mega relevant i de Schwiiz!", "german": "Oh, SBB und so? Das ist ja mega relevant in der Schweiz!", "english": "Oh, SBB and such? That's super relevant in Switzerland!"},
+                {"speaker": "You", "swissGerman": "Ja, und ds Schöönscht: d'SBB isch parat uf Minute — ich cha jede Tag d'Ur dernoch stelle.", "german": "Ja, und das Schönste: die SBB ist auf die Minute pünktlich — ich kann jeden Tag die Uhr danach stellen.", "english": "Yes, and the best part: the SBB is on the minute — I can set my watch by it every day."},
                 {"speaker": "You", "swissGerman": "Ja, genau! Ohni Züüg funktioniert d'Schwiiz nöd, haha.", "german": "Ja, genau! Ohne Züge funktioniert die Schweiz nicht, haha.", "english": "Yes, exactly! Without trains Switzerland doesn't work, haha."},
             ],
             "differences": [
@@ -40,6 +41,7 @@ SUBTOPIC_TALKING_ABOUT_YOURSELF = {
                 {"speaker": "Parent", "swissGerman": "Oh süess! Und dini Frau? Isch sie au us Italie?", "german": "Oh süß! Und deine Frau? Ist sie auch aus Italien?", "english": "Oh sweet! And your wife? Is she also from Italy?"},
                 {"speaker": "You", "swissGerman": "Ja, mir händ eus z'Züri kennelehrt. Sie schafft bi de UBS.", "german": "Ja, wir haben uns in Zürich kennengelernt. Sie arbeitet bei der UBS.", "english": "Yes, we met in Zurich. She works at UBS."},
                 {"speaker": "Parent", "swissGerman": "Schön! Und lebed dini Eltere no i Italie?", "german": "Schön! Und leben deine Eltern noch in Italien?", "english": "Nice! And do your parents still live in Italy?"},
+                {"speaker": "Parent", "swissGerman": "Wie schön! Mir händ üs au z'Züri kenneglehrt — am Seefäscht vor füfzeh Jahr!", "german": "Wie schön! Wir haben uns auch in Zürich kennengelernt — am Seefest vor fünfzehn Jahren!", "english": "How nice! We also met in Zurich — at the lake festival fifteen years ago!"},
                 {"speaker": "You", "swissGerman": "Ja, i de Nöchi vo Como. Die chömed eus ab und zue bsueche.", "german": "Ja, in der Nähe von Como. Die kommen uns ab und zu besuchen.", "english": "Yes, near Como. They come visit us from time to time."},
             ],
             "differences": [
@@ -65,6 +67,7 @@ SUBTOPIC_TALKING_ABOUT_YOURSELF = {
                 {"speaker": "Person", "swissGerman": "Am Zürisee? Do gaht s'halbe Züri go jogge, haha!", "german": "Am Zürichsee? Da geht das halbe Zürich joggen, haha!", "english": "At Lake Zurich? Half of Zurich goes jogging there, haha!"},
                 {"speaker": "You", "swissGerman": "Stimmt! Und ich choche au gärn. Italiänisch natürlich.", "german": "Stimmt! Und ich koche auch gerne. Italienisch natürlich.", "english": "True! And I also like to cook. Italian, of course."},
                 {"speaker": "Person", "swissGerman": "Oh, top! Denn muesch du eus mol iilade!", "german": "Oh, top! Dann musst du uns mal einladen!", "english": "Oh great! Then you have to invite us sometime!"},
+                {"speaker": "Person", "swissGerman": "Und de Carbonara-Abig isch reserviert! Ich bring de Speck vom Metzger Meyer mit — der isch guat.", "german": "Und der Carbonara-Abend ist reserviert! Ich bringe den Speck vom Metzger Meyer mit — der ist gut.", "english": "And the Carbonara evening is booked! I'll bring the bacon from Metzger Meyer — he's good."},
                 {"speaker": "You", "swissGerman": "Gärn! Ich mach e legendäri Carbonara. Die isch killer.", "german": "Gerne! Ich mache eine legendäre Carbonara. Die ist der Hammer.", "english": "Gladly! I make a legendary Carbonara. It's amazing."},
             ],
             "differences": [
@@ -90,6 +93,7 @@ SUBTOPIC_TALKING_ABOUT_YOURSELF = {
                 {"speaker": "Person", "swissGerman": "Und jetzt? Bliibsch du?", "german": "Und jetzt? Bleibst du?", "english": "And now? Are you staying?"},
                 {"speaker": "You", "swissGerman": "Ja, mir gfallts mega. D'Natur, d'Sicherheit, d'Lääbensqualität.", "german": "Ja, es gefällt mir sehr. Die Natur, die Sicherheit, die Lebensqualität.", "english": "Yes, I like it a lot. The nature, the safety, the quality of life."},
                 {"speaker": "Person", "swissGerman": "Und was vermissisch vo dehei?", "german": "Und was vermisst du von zu Hause?", "english": "And what do you miss from home?"},
+                {"speaker": "Person", "swissGerman": "Und s'Essen kannsch au i de Schwiiz fiääre — bim Fondue im Winter bisch zürück dehei!", "german": "Und das Essen kannst du auch in der Schweiz feiern — beim Fondue im Winter bist du zurück zuhause!", "english": "And you can also celebrate food in Switzerland — with fondue in winter you'll feel at home!"},
                 {"speaker": "You", "swissGerman": "S'Ässe natürlich! Und d'Familie. Und s'Meer. Aber suscht — ich bi happy.", "german": "Das Essen natürlich! Und die Familie. Und das Meer. Aber sonst — ich bin glücklich.", "english": "The food of course! And the family. And the sea. But otherwise — I'm happy."},
             ],
             "differences": [
@@ -115,6 +119,7 @@ SUBTOPIC_TALKING_ABOUT_YOURSELF = {
                 {"speaker": "Person", "swissGerman": "Ah, Chreis 3 isch en tolli Gegend! Mega läbig.", "german": "Ah, Kreis 3 ist eine tolle Gegend! Mega lebendig.", "english": "Ah, district 3 is a great area! Super lively."},
                 {"speaker": "You", "swissGerman": "Ja, mir gfallts. Villi Beizli und gueti Träm-Verbindig.", "german": "Ja, es gefällt mir. Viele Kneipen und gute Tram-Verbindung.", "english": "Yes, I like it. Lots of pubs and good tram connections."},
                 {"speaker": "Person", "swissGerman": "Wohnsch du zur Mieti oder häsch kauft?", "german": "Wohnst du zur Miete oder hast du gekauft?", "english": "Do you rent or did you buy?"},
+                {"speaker": "Person", "swissGerman": "Haha, stimmt! Eigetum i Züri isch mega tüür — drü Zimmer-Wohnig i Chreis 3 chostet locker 1.5 Milli.", "german": "Haha, stimmt! Eigentum in Zürich ist mega teuer — eine Drei-Zimmer-Wohnung in Kreis 3 kostet locker 1.5 Millionen.", "english": "Haha, true! Property in Zurich is crazy expensive — a three-room apartment in district 3 easily costs 1.5 million."},
                 {"speaker": "You", "swissGerman": "Zur Mieti natürlich! Chaufe i Züri — das chani vergässe, haha.", "german": "Zur Miete natürlich! Kaufen in Zürich — das kann ich vergessen, haha.", "english": "Renting of course! Buying in Zurich — I can forget about that, haha."},
             ],
             "differences": [

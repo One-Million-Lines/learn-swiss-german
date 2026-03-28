@@ -15,6 +15,7 @@ SUBTOPIC_SIMPLE_REACTIONS = {
                 {"speaker": "Friend", "swissGerman": "Ja, bi ere Bank in Züri!", "german": "Ja, bei einer Bank in Zürich!", "english": "Yes, at a bank in Zurich!"},
                 {"speaker": "You", "swissGerman": "Wow, krass! Gratuliere!", "german": "Wow, krass! Gratuliere!", "english": "Wow, amazing! Congrats!"},
                 {"speaker": "Friend", "swissGerman": "Merci! Aber ich muess umzieh.", "german": "Danke! Aber ich muss umziehen.", "english": "Thanks! But I have to move."},
+                {"speaker": "Friend", "swissGerman": "Ja, ich suech scho nach Zimmere in Züri. Weisch du öppert dä döt wohnt?", "german": "Ja, ich suche schon nach Zimmern in Zürich. Kennst du jemanden der dort wohnt?", "english": "Yes, I'm already looking for rooms in Zurich. Do you know anyone who lives there?"},
                 {"speaker": "You", "swissGerman": "Oh nei, das isch schad. Aber trotzdem toll!", "german": "Oh nein, das ist schade. Aber trotzdem toll!", "english": "Oh no, that's too bad. But still great!"},
             ],
             "differences": [
@@ -39,6 +40,7 @@ SUBTOPIC_SIMPLE_REACTIONS = {
                 {"speaker": "Colleague", "swissGerman": "De Drucker isch scho wider kaputt.", "german": "Der Drucker ist schon wieder kaputt.", "english": "The printer is broken again."},
                 {"speaker": "You", "swissGerman": "Ugh, das isch doof.", "german": "Ugh, das ist doof.", "english": "Ugh, that's annoying."},
                 {"speaker": "Another colleague", "swissGerman": "Ich ha Guetzli mitbracht!", "german": "Ich habe Kekse mitgebracht!", "english": "I brought cookies!"},
+                {"speaker": "Another colleague", "swissGerman": "Ich ha sie selber bache — s'isch e Rezäpt vo mini Grosi.", "german": "Ich habe sie selbst gebacken — es ist ein Rezept von meiner Großmutter.", "english": "I baked them myself — it's a recipe from my grandmother."},
                 {"speaker": "You", "swissGerman": "Uh, fein! Wie nett vo dir!", "german": "Oh, lecker! Wie nett von dir!", "english": "Ooh, yummy! How nice of you!"},
             ],
             "differences": [
@@ -63,6 +65,7 @@ SUBTOPIC_SIMPLE_REACTIONS = {
                 {"speaker": "Friend", "swissGerman": "Doch! D'Polizei hät müesse cho.", "german": "Doch! Die Polizei musste kommen.", "english": "Yes! The police had to come."},
                 {"speaker": "You", "swissGerman": "Haha, das isch ja verruckt! Und denn?", "german": "Haha, das ist ja verrückt! Und dann?", "english": "Haha, that's crazy! And then?"},
                 {"speaker": "Friend", "swissGerman": "D'Chue isch eifach witerglaufe. Total entspannt.", "german": "Die Kuh ist einfach weitergelaufen. Total entspannt.", "english": "The cow just kept walking. Totally relaxed."},
+                {"speaker": "Friend", "swissGerman": "Ich ha's sogar gfilmt! Wotsch de Clip gseh?", "german": "Ich habe es sogar gefilmt! Willst du den Clip sehen?", "english": "I even filmed it! Do you want to see the clip?"},
                 {"speaker": "You", "swissGerman": "Haha, das isch gnial! Ohni Witz!", "german": "Haha, das ist genial! Ohne Witz!", "english": "Haha, that's genius! No joke!"},
             ],
             "differences": [
@@ -87,6 +90,7 @@ SUBTOPIC_SIMPLE_REACTIONS = {
                 {"speaker": "Partner", "swissGerman": "Und danach go is Kafi?", "german": "Und danach ins Café gehen?", "english": "And go to a café after?"},
                 {"speaker": "You", "swissGerman": "Ja guet, passt mer.", "german": "Ja gut, passt mir.", "english": "Yeah sure, works for me."},
                 {"speaker": "Partner", "swissGerman": "Und am Aabig choche mir zäme?", "german": "Und am Abend kochen wir zusammen?", "english": "And in the evening we cook together?"},
+                {"speaker": "Partner", "swissGerman": "Super! Denn mach ich am Morge schnäll en Migros-Run für s'Znacht.", "german": "Super! Dann mache ich morgens schnell einen Migros-Run für das Abendessen.", "english": "Super! Then I'll do a quick Migros run in the morning for dinner."},
                 {"speaker": "You", "swissGerman": "In Ornig. Isch alles guet für mich.", "german": "In Ordnung. Ist alles gut für mich.", "english": "Alright. Everything's fine with me."},
             ],
             "differences": [
@@ -111,6 +115,7 @@ SUBTOPIC_SIMPLE_REACTIONS = {
                 {"speaker": "Friend", "swissGerman": "Und lueg, d'Chuchi isch ganz neu.", "german": "Und schau, die Küche ist ganz neu.", "english": "And look, the kitchen is brand new."},
                 {"speaker": "You", "swissGerman": "Lässig! Die gfallt mir voll. S'Liecht isch au schön.", "german": "Klasse! Die gefällt mir total. Das Licht ist auch schön.", "english": "Awesome! I really like it. The light is nice too."},
                 {"speaker": "Friend", "swissGerman": "Und da isch de Balkon.", "german": "Und hier ist der Balkon.", "english": "And here's the balcony."},
+                {"speaker": "Friend", "swissGerman": "Merci! De Usblick isch genau wäg däm warum ich d'Wohnig gnoh ha — obwohl sie im dritte Stock isch ohni Lift.", "german": "Danke! Die Aussicht ist genau der Grund warum ich die Wohnung genommen habe — obwohl sie im dritten Stock ist ohne Lift.", "english": "Thanks! The view is exactly why I took the apartment — even though it's on the third floor without a lift."},
                 {"speaker": "You", "swissGerman": "Hammer! De Usblick isch wunderschön! Da chani nur gratuliere.", "german": "Hammer! Die Aussicht ist wunderschön! Da kann ich nur gratulieren.", "english": "Amazing! The view is gorgeous! I can only congratulate you."},
             ],
             "differences": [

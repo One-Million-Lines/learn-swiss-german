@@ -16,6 +16,8 @@ SUBTOPIC_CLEANING_JOB = {
                 {"speaker": "You", "swissGerman": "Guet. Wo sind d'Putzmittel?", "german": "Gut. Wo sind die Reinigungsmittel?", "english": "Good. Where are the cleaning supplies?"},
                 {"speaker": "Supervisor", "swissGerman": "Im Putzchämmerli uf em vierte Stock. De Schlüssel isch am Bund.", "german": "Im Putzraum auf dem vierten Stock. Der Schlüssel ist am Bund.", "english": "In the cleaning closet on the fourth floor. The key is on the ring."},
                 {"speaker": "You", "swissGerman": "Alles klar, ich fang obä aa und schaffe mich abe.", "german": "Alles klar, ich fange oben an und arbeite mich nach unten.", "english": "All clear, I'll start at the top and work my way down."},
+                {"speaker": "Supervisor", "swissGerman": "Guet! Und meld dich kurz, wann du fertig bisch.", "german": "Gut! Und meld dich kurz, wenn du fertig bist.", "english": "Good! And let me know briefly when you're done."},
+                {"speaker": "You", "swissGerman": "Mach ich. So öppe um zähni sollti ich fertig si.", "german": "Mach ich. So etwa um zehn sollte ich fertig sein.", "english": "Will do. Around ten I should be finished."},
             ],
             "differences": [
                 {"swissGerman": "Staubsuge", "german": "Staubsaugen", "explanation": "'Staubsuge' = 'Staubsaugen'. Swiss verb form."},
@@ -41,6 +43,8 @@ SUBTOPIC_CLEANING_JOB = {
                 {"speaker": "Supervisor", "swissGerman": "De Glasreiniger und de Abzieher. D'Fenster müend striifefrei si.", "german": "Den Glasreiniger und den Abzieher. Die Fenster müssen streifenfrei sein.", "english": "The glass cleaner and the squeegee. The windows need to be streak-free."},
                 {"speaker": "You", "swissGerman": "Okay. Und bim WC nimm ich de scharfe Reiniger, oder?", "german": "Okay. Und beim WC nehme ich den scharfen Reiniger, oder?", "english": "Okay. And for the toilet I use the strong cleaner, right?"},
                 {"speaker": "Supervisor", "swissGerman": "Ja, aber dänk a d'Händsched! De Reiniger isch aggressiv.", "german": "Ja, aber denk an die Handschuhe! Der Reiniger ist aggressiv.", "english": "Yes, but remember gloves! The cleaner is aggressive."},
+                {"speaker": "You", "swissGerman": "Händsched ha ich. Und de Putzchittel isch au im Chämerli?", "german": "Handschuhe habe ich. Und der Putzkittel ist auch im Putzraum?", "english": "I have gloves. And the work apron is in the cleaning room too?"},
+                {"speaker": "Supervisor", "swissGerman": "Ja, hängt do am Hake. Und vergiss nöd: uf jedem Bode s'richtige Mittel!", "german": "Ja, hängt dort am Haken. Und vergiss nicht: für jeden Boden das richtige Mittel!", "english": "Yes, it's hanging on the hook there. And don't forget: the right product for each floor!"},
             ],
             "differences": [
                 {"swissGerman": "Schuufpulver", "german": "Scheuerpulver", "explanation": "'Schuufpulver' = 'Scheuerpulver'. Swiss German form."},
@@ -66,6 +70,8 @@ SUBTOPIC_CLEANING_JOB = {
                 {"speaker": "You", "swissGerman": "Das darf natürlich nöd passiere. Ich mach das jetzt sofort und stell sicher, dass es nöd meh vorchunnt.", "german": "Das darf natürlich nicht passieren. Ich mache das jetzt sofort und stelle sicher, dass es nicht mehr vorkommt.", "english": "That shouldn't happen, of course. I'll do it right now and make sure it doesn't happen again."},
                 {"speaker": "Office Manager", "swissGerman": "Danke. De Ruum wird morn für en wichtige Kund bruucht.", "german": "Danke. Der Raum wird morgen für einen wichtigen Kunden gebraucht.", "english": "Thanks. The room is needed tomorrow for an important client."},
                 {"speaker": "You", "swissGerman": "Ich mach en immer extra gründlich. Versprooche!", "german": "Ich mache ihn extra gründlich. Versprochen!", "english": "I'll do it extra thoroughly. Promised!"},
+                {"speaker": "Office Manager", "swissGerman": "Guet. Und isch de Spiegel bi de Iigangstür au in Ihrem Bereich?", "german": "Gut. Und ist der Spiegel bei der Eingangstür auch in Ihrem Bereich?", "english": "Good. And is the mirror by the entrance in your area too?"},
+                {"speaker": "You", "swissGerman": "Ja, der isch au bim mir. Ich mach de sofort mit.", "german": "Ja, der ist auch bei mir. Ich mache den sofort mit.", "english": "Yes, that one is in my area too. I'll do it straight away."},
             ],
             "differences": [
                 {"swissGerman": "chlöbrig", "german": "klebrig", "explanation": "'chlöbrig' = 'klebrig'. K→Ch, vowel shift."},
@@ -91,6 +97,8 @@ SUBTOPIC_CLEANING_JOB = {
                 {"speaker": "You", "swissGerman": "Und d'Lüftige? Die sind immer voll Staub.", "german": "Und die Lüftungen? Die sind immer voller Staub.", "english": "And the ventilation? They're always full of dust."},
                 {"speaker": "Supervisor", "swissGerman": "Guete Punkt! Die chömed au dra. Und denn no d'Sockelleischte feucht abwüsche.", "german": "Guter Punkt! Die kommen auch dran. Und dann noch die Sockelleisten feucht abwischen.", "english": "Good point! Those too. And then wipe down the baseboards with a damp cloth."},
                 {"speaker": "You", "swissGerman": "Alles klar. Das git en lange Tag, aber nachher glänzt alles!", "german": "Alles klar. Das wird ein langer Tag, aber nachher glänzt alles!", "english": "All clear. It'll be a long day, but afterwards everything will shine!"},
+                {"speaker": "Supervisor", "swissGerman": "Genau! Und vergiss nöd — de Dampfreiniger muess vor de Mittagspuus zrugg.", "german": "Genau! Und vergiss nicht — der Dampfreiniger muss vor der Mittagspause zurück.", "english": "Exactly! And don't forget — the steam cleaner must be back before lunch break."},
+                {"speaker": "You", "swissGerman": "Alles klar. Isch de Dampfreiniger scho ufgfüllt?", "german": "Alles klar. Ist der Dampfreiniger schon aufgefüllt?", "english": "Understood. Is the steam cleaner already filled up?"},
             ],
             "differences": [
                 {"swissGerman": "Grundreinigig", "german": "Grundreinigung", "explanation": "'Grundreinigig' = 'Grundreinigung'. '-ung' → '-ig'."},
@@ -117,6 +125,8 @@ SUBTOPIC_CLEANING_JOB = {
                 {"speaker": "You", "swissGerman": "Ja, im drütte Stock isch en Lampe kaputt. Und s'WC im vierte Stock tropft.", "german": "Ja, im dritten Stock ist eine Lampe kaputt. Und das WC im vierten Stock tropft.", "english": "Yes, a lamp is broken on the third floor. And the toilet on the fourth floor drips."},
                 {"speaker": "Supervisor", "swissGerman": "Guet dass du das gmeldet hesch. Ich gib's em Hauswart wiiter.", "german": "Gut dass du das gemeldet hast. Ich gebe es dem Hauswart weiter.", "english": "Good that you reported that. I'll pass it on to the caretaker."},
                 {"speaker": "You", "swissGerman": "Okay, suuber! Denn bis Mäntig.", "german": "Okay, sauber! Dann bis Montag.", "english": "Okay, great! Then see you Monday."},
+                {"speaker": "Supervisor", "swissGerman": "Bis Mäntig! Und guets Wuchenänd!", "german": "Bis Montag! Und ein schönes Wochenende!", "english": "See you Monday! And have a nice weekend!"},
+                {"speaker": "You", "swissGerman": "Merci! Hend Sie au es schöns Wuchenänd.", "german": "Danke! Haben Sie auch ein schönes Wochenende.", "english": "Thanks! You have a nice weekend too."},
             ],
             "differences": [
                 {"swissGerman": "Staubgsugt", "german": "Staubgesaugt", "explanation": "'Staubgsugt' = 'Staubgesaugt'. 'ge-' → 'g-'."},

@@ -16,6 +16,8 @@ SUBTOPIC_DAILY_SERVICES = {
                 {"speaker": "You", "swissGerman": "Ja, die isch scho druf. Wie lang dauerts nach Dütschland?", "german": "Ja, die ist schon drauf. Wie lange dauert es nach Deutschland?", "english": "Yes, it's already on. How long does it take to Germany?"},
                 {"speaker": "Clerk", "swissGerman": "Priority isch drü bis füf Werktäg. Eco isch günstiger, aber e Wuche.", "german": "Priority ist drei bis fünf Werktage. Eco ist günstiger, aber eine Woche.", "english": "Priority is three to five business days. Eco is cheaper but a week."},
                 {"speaker": "You", "swissGerman": "Ich nimm Priority. Und chan ich au Briefmarke chaufe?", "german": "Ich nehme Priority. Und kann ich auch Briefmarken kaufen?", "english": "I'll take Priority. And can I also buy stamps?"},
+                {"speaker": "Clerk", "swissGerman": "Ja klar. Wie vill wänd Sie?", "german": "Ja klar. Wie viele möchten Sie?", "english": "Of course. How many would you like?"},
+                {"speaker": "You", "swissGerman": "Zehn Stück bitte — für d'Briefpost.", "german": "Zehn Stück bitte — für die Briefpost.", "english": "Ten please — for letters."},
             ],
             "differences": [
                 {"swissGerman": "Päckli", "german": "Päckchen", "explanation": "'Päckli' = 'Päckchen'. Small package. Swiss diminutive."},
@@ -41,6 +43,8 @@ SUBTOPIC_DAILY_SERVICES = {
                 {"speaker": "You", "swissGerman": "500 Franke. Do isch mini ID.", "german": "500 Franken. Hier ist meine ID.", "english": "500 francs. Here's my ID."},
                 {"speaker": "Teller", "swissGerman": "Merci. Wänd Sie grossi oder chliini Nötli?", "german": "Danke. Möchten Sie große oder kleine Noten?", "english": "Thanks. Would you like large or small bills?"},
                 {"speaker": "You", "swissGerman": "Chliini bitte. Zwöi Hunderter und de Räscht i Zwänzger.", "german": "Kleine bitte. Zwei Hunderter und den Rest in Zwanzigern.", "english": "Small please. Two hundreds and the rest in twenties."},
+                {"speaker": "Teller", "swissGerman": "Moment — dö isch s'Gäld. Und chani au en Fufzger dezue tür?", "german": "Moment — hier ist das Geld. Und darf ich auch einen Fünfziger dazu?", "english": "Just a moment — here's the money. And may I add a fifty too?"},
+                {"speaker": "You", "swissGerman": "Nei danke — Zwänzger isch perfekt so. Merci!", "german": "Nein danke — Zwanziger sind perfekt so. Danke!", "english": "No thanks — twenties are perfect like that. Thanks!"},
             ],
             "differences": [
                 {"swissGerman": "abghobe", "german": "abgehoben", "explanation": "'abghobe' = 'abgehoben'. To withdraw."},
@@ -66,6 +70,8 @@ SUBTOPIC_DAILY_SERVICES = {
                 {"speaker": "Employee", "swissGerman": "Mir probiered's! Was isch das für en Fleck?", "german": "Wir versuchen es! Was ist das für ein Fleck?", "english": "We'll try! What kind of stain is it?"},
                 {"speaker": "You", "swissGerman": "Rotwii, leider. Und wänn isch alles fertig?", "german": "Rotwein, leider. Und wann ist alles fertig?", "english": "Red wine, unfortunately. And when will everything be ready?"},
                 {"speaker": "Employee", "swissGerman": "In drü Werktäg. Sie überchömed en SMS wänns parat isch.", "german": "In drei Werktagen. Sie bekommen eine SMS wenn es bereit ist.", "english": "In three business days. You'll get a text when it's ready."},
+                {"speaker": "You", "swissGerman": "Super. Und chan ich ördshalber au am Mittag abholen?", "german": "Super. Und kann ich der Einfachheit halber auch mittags abholen?", "english": "Great. And can I also pick it up at lunchtime for convenience?"},
+                {"speaker": "Employee", "swissGerman": "Ja, mir sind durchgehend offe bis sächsi.", "german": "Ja, wir haben durchgehend bis sechs geöffnet.", "english": "Yes, we're continuously open until six."},
             ],
             "differences": [
                 {"swissGerman": "reinige lah", "german": "reinigen lassen", "explanation": "'reinige lah' = 'reinigen lassen'. To have cleaned."},
@@ -91,6 +97,8 @@ SUBTOPIC_DAILY_SERVICES = {
                 {"speaker": "You", "swissGerman": "Do isch alles. Muess ich no öppis usfülle?", "german": "Hier ist alles. Muss ich noch etwas ausfüllen?", "english": "Here's everything. Do I need to fill out anything else?"},
                 {"speaker": "Clerk", "swissGerman": "Ja, das Formular do. Name, alti und nöii Adrässe, und Ziizugsdatum.", "german": "Ja, dieses Formular hier. Name, alte und neue Adresse, und Einzugsdatum.", "english": "Yes, this form here. Name, old and new address, and move-in date."},
                 {"speaker": "You", "swissGerman": "Okay. Und chostet d'Ummeldig öppis?", "german": "Okay. Und kostet die Ummeldung etwas?", "english": "Okay. And does the address change cost anything?"},
+                {"speaker": "Clerk", "swissGerman": "Nei, d'Ummeldig isch gratis. Sie bechömed en Beständigung per Post.", "german": "Nein, die Ummeldung ist gratis. Sie bekommen eine Bestätigung per Post.", "english": "No, the address change is free. You'll receive a confirmation by post."},
+                {"speaker": "You", "swissGerman": "Perfekt. Und chönnt ich grad au de Ausweis verlängere?", "german": "Perfekt. Und könnte ich gleich auch den Ausweis verlängern?", "english": "Perfect. And could I also renew my ID while I'm here?"},
             ],
             "differences": [
                 {"swissGerman": "Ummeldig", "german": "Ummeldung", "explanation": "'Ummeldig' = 'Ummeldung'. Address change registration. Required by law in Switzerland."},
@@ -116,6 +124,8 @@ SUBTOPIC_DAILY_SERVICES = {
                 {"speaker": "Employee", "swissGerman": "Ja, hinne links bim Schuemacher. De macht au Schlüssel.", "german": "Ja, hinten links beim Schuhmacher. Der macht auch Schlüssel.", "english": "Yes, in the back left by the cobbler. He also makes keys."},
                 {"speaker": "You", "swissGerman": "Ah super, danke! Und isch de no offe?", "german": "Ah super, danke! Und ist der noch offen?", "english": "Ah great, thanks! And is he still open?"},
                 {"speaker": "Employee", "swissGerman": "Ja, bis Sächsi. Sie händ no gnueg Ziit.", "german": "Ja, bis sechs. Sie haben noch genug Zeit.", "english": "Yes, until six. You still have enough time."},
+                {"speaker": "You", "swissGerman": "Super! Und macht er au Spare-Schlüssel?", "german": "Super! Und macht er auch Ersatz-Schlüssel?", "english": "Great! And does he also make spare keys?"},
+                {"speaker": "Employee", "swissGerman": "Ja, de meischt Standard-Schlüssel isch innert zehn Minute fertig.", "german": "Ja, die meisten Standard-Schlüssel sind innerhalb von zehn Minuten fertig.", "english": "Yes, most standard keys are done within ten minutes."},
             ],
             "differences": [
                 {"swissGerman": "hälfe", "german": "helfen", "explanation": "'hälfe' = 'helfen'. To help. Swiss form."},

@@ -15,6 +15,7 @@ SUBTOPIC_SPIELPLATZ = {
                 {"speaker": "Child", "swissGerman": "Yay! Ich will uf d'Schaukle! Und denn uf d'Rutschbahn!", "german": "Yay! Ich will auf die Schaukel! Und dann auf die Rutsche!", "english": "Yay! I want to go on the swings! And then the slide!"},
                 {"speaker": "You", "swissGerman": "Pass uf und renn nöd uf de nasse Wiese. Du gliitsch uus!", "german": "Pass auf und renn nicht auf der nassen Wiese. Du rutschst aus!", "english": "Be careful and don't run on the wet grass. You'll slip!"},
                 {"speaker": "Child", "swissGerman": "Okay! Lueg, de grooss Spielplatz isch ganz leer! Mir händ alles für eus!", "german": "Okay! Schau, der große Spielplatz ist ganz leer! Wir haben alles für uns!", "english": "Okay! Look, the big playground is completely empty! We have everything to ourselves!"},
+                {"speaker": "Child", "swissGerman": "Mami, chasch du mi am Schluss zum Waasserfounte bringe? Ich ha Dursch.", "german": "Mama, kannst du mich am Schluss zum Wasserbrunnen bringen? Ich habe Durst.", "english": "Mom, can you take me to the water fountain at the end? I'm thirsty."},
                 {"speaker": "You", "swissGerman": "Super! Ich sitz uf de Bank und lueg dir zue.", "german": "Super! Ich sitze auf der Bank und schaue dir zu.", "english": "Great! I'll sit on the bench and watch you."},
             ],
             "differences": [
@@ -64,6 +65,7 @@ SUBTOPIC_SPIELPLATZ = {
                 {"speaker": "Child", "swissGerman": "Okay! Mir chönd tuusche. Mir bauet e riisigi Sandburg!", "german": "Okay! Wir können tauschen. Wir bauen eine riesige Sandburg!", "english": "Okay! We can swap. Let's build a huge sandcastle!"},
                 {"speaker": "Other Child", "swissGerman": "Ja! Und en Grabe drumume mit Wasser!", "german": "Ja! Und einen Graben drumherum mit Wasser!", "english": "Yes! And a moat around it with water!"},
                 {"speaker": "You", "swissGerman": "Sehr schön, ihr zwei! Aber nöd de Sand umewerfe, gäll?", "german": "Sehr schön, ihr zwei! Aber nicht den Sand herumwerfen, ja?", "english": "Very nice, you two! But don't throw sand around, okay?"},
+                {"speaker": "You", "swissGerman": "Und wend ihr fertig sind — wotted ihr Glacee? Ich ha no en Guttsch vom Glaceemää debii.", "german": "Und wenn ihr fertig seid — möchtet ihr Eis? Ich habe noch einen Gutschein vom Eismann dabei.", "english": "And when you're done — would you like ice cream? I have a voucher from the ice cream man."},
                 {"speaker": "Child", "swissGerman": "Nei nei, mir sind vorsichtig!", "german": "Nein nein, wir sind vorsichtig!", "english": "No no, we're careful!"},
             ],
             "differences": [
@@ -89,7 +91,8 @@ SUBTOPIC_SPIELPLATZ = {
                 {"speaker": "Child", "swissGerman": "Es brennt! Chasch du puuschte?", "german": "Es brennt! Kannst du pusten?", "english": "It stings! Can you blow on it?"},
                 {"speaker": "You", "swissGerman": "So, ich puuschte... Und jetzt s'Pflaster druf. Besser?", "german": "So, ich puste... Und jetzt das Pflaster drauf. Besser?", "english": "There, I'm blowing... And now the Band-Aid on. Better?"},
                 {"speaker": "Child", "swissGerman": "Ja... Chani wieder go spile?", "german": "Ja... Kann ich wieder spielen gehen?", "english": "Yes... Can I go play again?"},
-                {"speaker": "You", "swissGerman": "Klar, aber pass besser uf bim Chlettergerüscht!", "german": "Klar, aber pass besser auf beim Klettergerüst!", "english": "Sure, but be more careful on the climbing frame!"},
+                {"speaker": "Child", "swissGerman": "Und chasch mir e Pflaster mit de Sterntli geh? Das isch s'Helden-Pflaster!", "german": "Und kannst du mir ein Pflaster mit Sternchen geben? Das ist das Helden-Pflaster!", "english": "And can you give me a Band-Aid with stars? That's the hero Band-Aid!"},
+                {"speaker": "You", "swissGerman": "Klar, aber pass besser uf bim Chlettergerüsch!", "german": "Klar, aber pass besser auf beim Klettergerüst!", "english": "Sure, but be more careful on the climbing frame!"},
             ],
             "differences": [
                 {"swissGerman": "Chnü", "german": "Knie", "explanation": "'Chnü' = 'Knie'. K→Ch."},
@@ -114,6 +117,7 @@ SUBTOPIC_SPIELPLATZ = {
                 {"speaker": "You", "swissGerman": "Okay, no eis Mal. Denn gömer aber.", "german": "Okay, noch einmal. Dann gehen wir aber.", "english": "Okay, one more time. Then we go though."},
                 {"speaker": "Child", "swissGerman": "Und chan ich de Leon morn wieder gseh?", "german": "Und kann ich Leon morgen wieder sehen?", "english": "And can I see Leon again tomorrow?"},
                 {"speaker": "You", "swissGerman": "Mir luege. Jetzt säg Tschüss zu dim Fründ.", "german": "Mal sehen. Jetzt sag Tschüss zu deinem Freund.", "english": "We'll see. Now say bye to your friend."},
+                {"speaker": "Child", "swissGerman": "Tschau Leon! De Spielplatz isch de bescht i de ganzi Stadt!", "german": "Tschüss Leon! Der Spielplatz ist der beste in der ganzen Stadt!", "english": "Bye Leon! This playground is the best in the whole city!"},
                 {"speaker": "Child", "swissGerman": "Tschau Leon! Bis morn! Tschüss!", "german": "Tschüss Leon! Bis morgen! Tschüss!", "english": "Bye Leon! See you tomorrow! Bye!"},
             ],
             "differences": [

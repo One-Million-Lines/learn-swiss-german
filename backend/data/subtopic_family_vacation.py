@@ -15,6 +15,8 @@ SUBTOPIC_FAMILY_VACATION = {
                 {"speaker": "Child", "swissGerman": "Meer! Meer! Ich wott go schwümme und Sandburge baue!", "german": "Meer! Meer! Ich will schwimmen gehen und Sandburgen bauen!", "english": "Sea! Sea! I want to go swimming and build sandcastles!"},
                 {"speaker": "You", "swissGerman": "Okay, ich lueg mol uf Booking. Weli Wuche passt?", "german": "Okay, ich schaue mal auf Booking. Welche Woche passt?", "english": "Okay, I'll check Booking. Which week works?"},
                 {"speaker": "Partner", "swissGerman": "D'zweiti Feriewuche. Do isch es meischtens günstiger.", "german": "Die zweite Ferienwoche. Da ist es meistens günstiger.", "english": "The second holiday week. It's usually cheaper then."},
+                {"speaker": "Child", "swissGerman": "Und chasch du en Wohnig finde wo en Schwimmbad hät?", "german": "Und kannst du eine Wohnung finden die einen Pool hat?", "english": "And can you find an apartment that has a pool?"},
+                {"speaker": "You", "swissGerman": "Ich schau — aber s'isch teurer. Vilicht hats eis im Dörfli.", "german": "Ich schaue — aber das ist teurer. Vielleicht gibt es eins im Dorf.", "english": "I'll check — but that's more expensive. Maybe there's one in the village."},
                 {"speaker": "You", "swissGerman": "Guet, ich buech en Ferienwohnig. Mit Chuchi, denn chömer sälber choche.", "german": "Gut, ich buche eine Ferienwohnung. Mit Küche, dann können wir selbst kochen.", "english": "Good, I'll book a holiday apartment. With a kitchen, then we can cook ourselves."},
             ],
             "differences": [
@@ -40,6 +42,8 @@ SUBTOPIC_FAMILY_VACATION = {
                 {"speaker": "You", "swissGerman": "Nei, nur drü Spielsache. Suscht hämmer kei Platz im Auto.", "german": "Nein, nur drei Spielsachen. Sonst haben wir keinen Platz im Auto.", "english": "No, only three toys. Otherwise we have no room in the car."},
                 {"speaker": "Partner", "swissGerman": "Häsch d'Badeanzüg ipackt? Und d'Sonnecreme?", "german": "Hast du die Badeanzüge eingepackt? Und die Sonnencreme?", "english": "Did you pack the swimsuits? And the sunscreen?"},
                 {"speaker": "You", "swissGerman": "Ja, und d'Rääsapothek. Pflaster, Muggestich-Gäl und Fiebermesser.", "german": "Ja, und die Reiseapotheke. Pflaster, Mückenstich-Gel und Fieberthermometer.", "english": "Yes, and the travel first-aid kit. Band-Aids, mosquito bite gel and thermometer."},
+                {"speaker": "Child", "swissGerman": "Ich nemm mi Taucherbrülle mit und mi Flossen!", "german": "Ich nehme meine Taucherbrille mit und meine Flossen!", "english": "I'm bringing my goggles and my flippers!"},
+                {"speaker": "You", "swissGerman": "Die sind scho im Bagaschi. Ich ha di nöd vergässe.", "german": "Die sind schon im Gepäck. Ich habe dich nicht vergessen.", "english": "They're already in the luggage. I didn't forget you."},
                 {"speaker": "Partner", "swissGerman": "Perfekt. Vergiss s'Ladegraät fürs Natel nöd!", "german": "Perfekt. Vergiss das Ladegerät fürs Handy nicht!", "english": "Perfect. Don't forget the phone charger!"},
             ],
             "differences": [
@@ -65,6 +69,8 @@ SUBTOPIC_FAMILY_VACATION = {
                 {"speaker": "Child", "swissGerman": "Chömer en Halt mache? Ich muess uf s'WC!", "german": "Können wir eine Pause machen? Ich muss aufs WC!", "english": "Can we make a stop? I need the bathroom!"},
                 {"speaker": "Partner", "swissGerman": "Ja, dört isch en Raststätte. Mir tanked au grad.", "german": "Ja, dort ist eine Raststätte. Wir tanken auch gleich.", "english": "Yes, there's a rest stop. We'll fill up gas too."},
                 {"speaker": "You", "swissGerman": "Und mir chaufen au no Wasser. Es isch mega heiss hüt.", "german": "Und wir kaufen auch noch Wasser. Es ist mega heiß heute.", "english": "And we'll buy water too. It's super hot today."},
+                {"speaker": "Partner", "swissGerman": "Ich ha no Schoggistängel im Handschuhfach — tönd die gad nöd schmelze.", "german": "Ich habe noch Schokoriegel im Handschuhfach — die schmelzen gerade.", "english": "I still have chocolate bars in the glove compartment — they're melting right now."},
+                {"speaker": "You", "swissGerman": "Haha! Ess sie schnell bevo mir no Schogglisuppe händ.", "german": "Haha! Esst sie schnell bevor wir noch Schokoladensuppe haben.", "english": "Haha! Eat them fast before we end up with chocolate soup."},
                 {"speaker": "Child", "swissGerman": "Lueg Mami, d'Palme! Mir sind fasch i de Ferie!", "german": "Schau Mama, die Palmen! Wir sind fast in den Ferien!", "english": "Look Mom, palm trees! We're almost on vacation!"},
             ],
             "differences": [
@@ -90,6 +96,8 @@ SUBTOPIC_FAMILY_VACATION = {
                 {"speaker": "Child", "swissGerman": "Nei, ich wott kei Creme! Die isch so grusig!", "german": "Nein, ich will keine Creme! Die ist so eklig!", "english": "No, I don't want cream! It's so gross!"},
                 {"speaker": "You", "swissGerman": "Ohni Creme gahsch nöd ins Wasser. Kei Diskussion!", "german": "Ohne Creme gehst du nicht ins Wasser. Keine Diskussion!", "english": "Without cream you don't go in the water. No discussion!"},
                 {"speaker": "Child", "swissGerman": "Okay okay... Machsch du mir de Rugge? Ich chan nöd sälber.", "german": "Okay okay... Machst du mir den Rücken? Ich kann nicht selbst.", "english": "Okay okay... Can you do my back? I can't reach myself."},
+                {"speaker": "You", "swissGerman": "Und nach zwöi Stund chunnsch wieder us em Wasser — mir schmiereds denn no einisch.", "german": "Und nach zwei Stunden kommst du wieder aus dem Wasser — wir schmieren dann nochmal.", "english": "And after two hours you come out of the water — we'll apply some more then."},
+                {"speaker": "Child", "swissGerman": "Versprooche! Jetzt gang ich go schwümme!", "german": "Versprochen! Jetzt gehe ich schwimmen!", "english": "Promised! Now I'm going swimming!"},
                 {"speaker": "You", "swissGerman": "So, fertig! Jetzt chasch go schwümme.", "german": "So, fertig! Jetzt kannst du schwimmen gehen.", "english": "There, done! Now you can go swim."},
             ],
             "differences": [
@@ -114,6 +122,8 @@ SUBTOPIC_FAMILY_VACATION = {
                 {"speaker": "Partner", "swissGerman": "Ja, aber jetzt müemer uspacke und d'Wösch mache.", "german": "Ja, aber jetzt müssen wir auspacken und die Wäsche machen.", "english": "Yes, but now we need to unpack and do the laundry."},
                 {"speaker": "You", "swissGerman": "Lina, bring dini dreckige Chleidir id Waschmaschine.", "german": "Lina, bring deine dreckigen Kleider in die Waschmaschine.", "english": "Lina, bring your dirty clothes to the washing machine."},
                 {"speaker": "Child", "swissGerman": "Okay... Und ich ha no Muschle gsammlet! Die stell ich uf mis Gstell.", "german": "Okay... Und ich habe noch Muscheln gesammelt! Die stelle ich auf mein Regal.", "english": "Okay... And I collected shells! I'll put them on my shelf."},
+                {"speaker": "You", "swissGerman": "De schönste Fund chunt i es Glas — so häsch en chleins Meerli dehei.", "german": "Der schönste Fund kommt in ein Glas — so hast du ein kleines Meer zu Hause.", "english": "The nicest find goes in a jar — that way you have a little sea at home."},
+                {"speaker": "Child", "swissGerman": "Ich ha au sand mitbracht! Oh... de isch irgendwo im Koffer...", "german": "Ich habe auch Sand mitgebracht! Oh... der ist irgendwo im Koffer...", "english": "I brought sand too! Oh... it's somewhere in the suitcase..."},
                 {"speaker": "Partner", "swissGerman": "Schöni Erinnerig. Am Mäntig fängt d'Schuel wider aa.", "german": "Schöne Erinnerung. Am Montag fängt die Schule wieder an.", "english": "Nice memory. School starts again on Monday."},
             ],
             "differences": [

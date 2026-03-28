@@ -16,6 +16,8 @@ SUBTOPIC_BANK_OFFICE = {
                 {"speaker": "Customer", "swissGerman": "Ja, da isch si.", "german": "Ja, da ist sie.", "english": "Yes, here it is."},
                 {"speaker": "You", "swissGerman": "Wie viel möchted Sie abhebe?", "german": "Wie viel möchten Sie abheben?", "english": "How much would you like to withdraw?"},
                 {"speaker": "Customer", "swissGerman": "Driihundert Franke bitte.", "german": "Dreihundert Franken bitte.", "english": "Three hundred francs please."},
+                {"speaker": "You", "swissGerman": "Uf welchi Notegruppe? Hunderter oder Füfzgere?", "german": "In welcher Stückelung? Hundert- oder Fünfziger?", "english": "In which denomination? Hundreds or fifties?"},
+                {"speaker": "Customer", "swissGerman": "Füfzgere bitte, sind eifacher zum uusgä.", "german": "Fünfziger bitte, sind einfacher zum Ausgeben.", "english": "Fifties please, easier to spend."},
             ],
             "differences": [
                 {"swissGerman": "hälfä", "german": "helfen", "explanation": "'hälfä' = 'helfen'. Vowel shift."},
@@ -41,6 +43,8 @@ SUBTOPIC_BANK_OFFICE = {
                 {"speaker": "You", "swissGerman": "Perfekt. Wänd Sie en Sparkonto oder es Privatekonto?", "german": "Perfekt. Wollen Sie ein Sparkonto oder ein Privatkonto?", "english": "Perfect. Do you want a savings account or a personal account?"},
                 {"speaker": "Customer", "swissGerman": "Es Privatekonto mit ere Maestro-Charte bitte.", "german": "Ein Privatkonto mit einer Maestro-Karte bitte.", "english": "A personal account with a Maestro card please."},
                 {"speaker": "You", "swissGerman": "Guet, ich fülle d'Formulare mit Ihne us.", "german": "Gut, ich fülle die Formulare mit Ihnen aus.", "english": "Good, I'll fill out the forms with you."},
+                {"speaker": "Customer", "swissGerman": "Und wie lang dauret das, bis d'Charte chunt?", "german": "Und wie lange dauert das, bis die Karte kommt?", "english": "And how long does it take until the card arrives?"},
+                {"speaker": "You", "swissGerman": "D'Charte chunt i öppe fünf Werktäg per Post. Danach chönd Sie TWINT aktiviere.", "german": "Die Karte kommt in etwa fünf Werktagen per Post. Danach können Sie TWINT aktivieren.", "english": "The card arrives in about five working days by post. After that you can activate TWINT."},
             ],
             "differences": [
                 {"swissGerman": "Uswis", "german": "Ausweis", "explanation": "'Uswis' = 'Ausweis'. Vowel simplification."},
@@ -65,6 +69,8 @@ SUBTOPIC_BANK_OFFICE = {
                 {"speaker": "You", "swissGerman": "Okay. Sie müend mindestens 20 Prozänt Eigekapital bringe.", "german": "Okay. Sie müssen mindestens 20 Prozent Eigenkapital bringen.", "english": "Okay. You need to bring at least 20 percent equity capital."},
                 {"speaker": "Customer", "swissGerman": "Das hämmer. Wie hoch isch de Zins im Momänt?", "german": "Das haben wir. Wie hoch ist der Zins im Moment?", "english": "We have that. How high is the interest rate right now?"},
                 {"speaker": "You", "swissGerman": "Bi ere Feschthypothek uf zehn Jahr liged mir bi 1.8 Prozänt.", "german": "Bei einer Festhypothek auf zehn Jahre liegen wir bei 1.8 Prozent.", "english": "For a fixed mortgage over ten years, we're at 1.8 percent."},
+                {"speaker": "Customer", "swissGerman": "Und git's au e variable Hypo?", "german": "Und gibt es auch eine variable Hypothek?", "english": "And is there also a variable mortgage option?"},
+                {"speaker": "You", "swissGerman": "Ja, die isch im Moment tüürer, aber flexibler. Ich empfähl Ihne, beidi z'vergliiche.", "german": "Ja, die ist im Moment teurer, aber flexibler. Ich empfehle Ihnen, beide zu vergleichen.", "english": "Yes, it's currently more expensive but more flexible. I recommend comparing both options."},
             ],
             "differences": [
                 {"swissGerman": "Hypo", "german": "Hypothek", "explanation": "'Hypo' = colloquial Swiss German for 'Hypothek' (mortgage)."},
@@ -90,6 +96,8 @@ SUBTOPIC_BANK_OFFICE = {
                 {"speaker": "Colleague", "swissGerman": "Super, denn passt alles. Chasch du no de Tresor zuemache?", "german": "Super, dann passt alles. Kannst du noch den Tresor zumachen?", "english": "Great, then everything checks out. Can you still close the safe?"},
                 {"speaker": "You", "swissGerman": "Ja, mach ich. Und denn chömmer go Fiirig mache!", "german": "Ja, mach ich. Und dann können wir Feierabend machen!", "english": "Yes, will do. And then we can call it a day!"},
                 {"speaker": "Colleague", "swissGerman": "Endlich! En lange Tag isch's gsi hüt.", "german": "Endlich! Es war ein langer Tag heute.", "english": "Finally! It was a long day today."},
+                {"speaker": "You", "swissGerman": "Und morn isch's no stressiger. Häsch du d'Compliance-Schulig um nüüni?", "german": "Und morgen ist es noch stressiger. Hast du die Compliance-Schulung um neun?", "english": "And tomorrow is even busier. Do you have the compliance training at nine?"},
+                {"speaker": "Colleague", "swissGerman": "Ja, leider. Pflichtprogramm. Aber guet, bis morn!", "german": "Ja, leider. Pflichtprogramm. Aber gut, bis morgen!", "english": "Yes, unfortunately. Mandatory programme. Fine, see you tomorrow!"},
             ],
             "differences": [
                 {"swissGerman": "zelle", "german": "zählen", "explanation": "'zelle' = 'zählen'. Different form."},
@@ -114,6 +122,8 @@ SUBTOPIC_BANK_OFFICE = {
                 {"speaker": "You", "swissGerman": "De aktuell Kurs isch 0.94. Das git 470 Franke.", "german": "Der aktuelle Kurs ist 0.94. Das ergibt 470 Franken.", "english": "The current rate is 0.94. That gives 470 francs."},
                 {"speaker": "Customer", "swissGerman": "Ja, das passt. Und git's e Gebühr?", "german": "Ja, das passt. Und gibt es eine Gebühr?", "english": "Yes, that works. And is there a fee?"},
                 {"speaker": "You", "swissGerman": "Nei, für Kontokunde isch de Wächsel gratis.", "german": "Nein, für Kontokunden ist der Wechsel gratis.", "english": "No, for account holders the exchange is free."},
+                {"speaker": "Customer", "swissGerman": "Super. Und cha ich au US-Dollar wächsle?", "german": "Super. Und kann ich auch US-Dollar wechseln?", "english": "Great. And can I also exchange US dollars?"},
+                {"speaker": "You", "swissGerman": "Ja, mir wächsled alli gängige Währige. Chömed Si eifach zum Schalter.", "german": "Ja, wir wechseln alle gängigen Währungen. Kommen Sie einfach zum Schalter.", "english": "Yes, we exchange all common currencies. Just come to the counter."},
             ],
             "differences": [
                 {"swissGerman": "wächsle", "german": "wechseln", "explanation": "'wächsle' = 'wechseln'. Vowel shift and '-n' dropped."},

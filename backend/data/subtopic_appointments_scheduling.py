@@ -16,6 +16,8 @@ SUBTOPIC_APPOINTMENTS_SCHEDULING = {
                 {"speaker": "You", "swissGerman": "Es isch nöd dringend, aber disi Wuche wär guet.", "german": "Es ist nicht dringend, aber diese Woche wäre gut.", "english": "It's not urgent, but this week would be good."},
                 {"speaker": "Receptionist", "swissGerman": "Am Dunschtig um Nüüni hätt's no Platz. Passt das?", "german": "Am Donnerstag um neun hätte es noch Platz. Passt das?", "english": "Thursday at nine there's still an opening. Does that work?"},
                 {"speaker": "You", "swissGerman": "Ja perfekt, Dunschtig um Nüüni isch guet!", "german": "Ja perfekt, Donnerstag um neun ist gut!", "english": "Yes perfect, Thursday at nine works!"},
+                {"speaker": "Receptionist", "swissGerman": "Darf ich no Ihren Name ufnäh, bitte?", "german": "Darf ich noch Ihren Namen aufnehmen, bitte?", "english": "May I take your name, please?"},
+                {"speaker": "You", "swissGerman": "Ja, Berger, Klaus Berger. Merci und bis Dunschtig!", "german": "Ja, Berger, Klaus Berger. Danke und bis Donnerstag!", "english": "Yes, Berger, Klaus Berger. Thanks and see you Thursday!"},
             ],
             "differences": [
                 {"swissGerman": "Dunschtig", "german": "Donnerstag", "explanation": "'Dunschtig' = 'Donnerstag'. Thursday. Swiss form."},
@@ -41,6 +43,8 @@ SUBTOPIC_APPOINTMENTS_SCHEDULING = {
                 {"speaker": "Receptionist", "swissGerman": "Ah ja, ich gseh de. Wänn wär Ihne besser?", "german": "Ah ja, ich sehe ihn. Wann wäre Ihnen besser?", "english": "Ah yes, I see it. When would be better for you?"},
                 {"speaker": "You", "swissGerman": "Nöchsti Wuche wär guet. Am liebschte am Morge.", "german": "Nächste Woche wäre gut. Am liebsten am Morgen.", "english": "Next week would be good. Preferably in the morning."},
                 {"speaker": "Receptionist", "swissGerman": "Am Mäntig um Halbi Elfi hätt's no öppis. Passt das?", "german": "Am Montag um halb elf hätte es noch etwas. Passt das?", "english": "Monday at half past ten there's still something. Does that work?"},
+                {"speaker": "You", "swissGerman": "Ja, Halbi Elfi am Mäntig passt perfekt!", "german": "Ja, halb elf am Montag passt perfekt!", "english": "Yes, half past ten on Monday works perfectly!"},
+                {"speaker": "Receptionist", "swissGerman": "Guet, ich ha Sie umbuecht. Bis Mäntig, Frau Meier!", "german": "Gut, ich habe Sie umgebucht. Bis Montag, Frau Meier!", "english": "Good, I've rescheduled you. See you Monday, Mrs. Meier!"},
             ],
             "differences": [
                 {"swissGerman": "umbuche", "german": "umbuchen", "explanation": "'umbuche' = 'umbuchen'. To reschedule."},
@@ -66,6 +70,8 @@ SUBTOPIC_APPOINTMENTS_SCHEDULING = {
                 {"speaker": "Receptionist", "swissGerman": "Ja, ich gsehne — morn Mittwuch um Zäni. Bestätiget!", "german": "Ja, ich sehe ihn — morgen Mittwoch um zehn. Bestätigt!", "english": "Yes, I see it — tomorrow Wednesday at ten. Confirmed!"},
                 {"speaker": "You", "swissGerman": "Super! Muess ich öppis mitneh?", "german": "Super! Muss ich etwas mitnehmen?", "english": "Great! Do I need to bring anything?"},
                 {"speaker": "Receptionist", "swissGerman": "Ja, bitte d'Versicherigscharte und e Überwisig, falls vorhande.", "german": "Ja, bitte die Versicherungskarte und eine Überweisung, falls vorhanden.", "english": "Yes, please bring the insurance card and a referral, if available."},
+                {"speaker": "You", "swissGerman": "Ich ha d'Überwisig vo mim Hausarzt debii. Isch das gnueg?", "german": "Ich habe die Überweisung von meinem Hausarzt dabei. Reicht das?", "english": "I have the referral from my GP with me. Is that enough?"},
+                {"speaker": "Receptionist", "swissGerman": "Perfekt, das isch genau richtig. Mer gsehnd üs morn, Herr Brunner!", "german": "Perfekt, das ist genau richtig. Wir sehen uns morgen, Herr Brunner!", "english": "Perfect, that's exactly right. See you tomorrow, Mr. Brunner!"},
             ],
             "differences": [
                 {"swissGerman": "bestätige", "german": "bestätigen", "explanation": "'bestätige' = 'bestätigen'. To confirm."},
@@ -91,6 +97,8 @@ SUBTOPIC_APPOINTMENTS_SCHEDULING = {
                 {"speaker": "Receptionist", "swissGerman": "Guet, de isch gstrichä. Wänd Sie grad en neue Termin abmache?", "german": "Gut, der ist gestrichen. Möchten Sie gleich einen neuen Termin ausmachen?", "english": "Good, it's cancelled. Would you like to set a new appointment right away?"},
                 {"speaker": "You", "swissGerman": "Ja gärn, aber nöd vor übermorn.", "german": "Ja gerne, aber nicht vor übermorgen.", "english": "Yes please, but not before the day after tomorrow."},
                 {"speaker": "Receptionist", "swissGerman": "Wie wärs am nöchschte Mäntig? Am Namittag?", "german": "Wie wäre es am nächsten Montag? Am Nachmittag?", "english": "How about next Monday? In the afternoon?"},
+                {"speaker": "You", "swissGerman": "Ja, Mäntig am Namittag passt. Um drüü wänn möglech.", "german": "Ja, Montag am Nachmittag passt. Um drei wenn möglich.", "english": "Yes, Monday afternoon works. At three if possible."},
+                {"speaker": "Receptionist", "swissGerman": "Mäntig, de Fünfte, um drüü — ich ha Sie iitreit. Bis denn!", "german": "Montag, den Fünften, um drei — ich habe Sie eingetragen. Bis dann!", "english": "Monday the fifth at three — I've put you in. See you then!"},
             ],
             "differences": [
                 {"swissGerman": "absäge", "german": "absagen", "explanation": "'absäge' = 'absagen'. To cancel."},
@@ -115,6 +123,8 @@ SUBTOPIC_APPOINTMENTS_SCHEDULING = {
                 {"speaker": "You", "swissGerman": "Öppe 15 Minute. Ich stah im Stau.", "german": "Ungefähr 15 Minuten. Ich stehe im Stau.", "english": "About 15 minutes. I'm stuck in traffic."},
                 {"speaker": "Receptionist", "swissGerman": "Das gaat i Ornig. De Dokter hät eh no en Patient vor Ihne.", "german": "Das geht in Ordnung. Der Doktor hat eh noch einen Patienten vor Ihnen.", "english": "That's fine. The doctor still has a patient before you anyway."},
                 {"speaker": "You", "swissGerman": "Ah, guet z'wüsse! Denn mach ich mir kei Stress.", "german": "Ah, gut zu wissen! Dann mache ich mir keinen Stress.", "english": "Ah, good to know! Then I won't stress."},
+                {"speaker": "Receptionist", "swissGerman": "Und wenn Si cho, eifach direkt zum Empfang — kei Warteziit für Sie.", "german": "Und wenn Sie kommen, einfach direkt zum Empfang — keine Wartezeit für Sie.", "english": "And when you arrive, come straight to reception — no waiting for you."},
+                {"speaker": "You", "swissGerman": "Oh, das isch wirklich nett. Merci fürs Entgägekomme!", "german": "Oh, das ist wirklich nett. Danke fürs Entgegenkommen!", "english": "Oh, that's really kind. Thanks for accommodating me!"},
                 {"speaker": "Receptionist", "swissGerman": "Genau, nämed Sie sich Ziit. Bis gli!", "german": "Genau, nehmen Sie sich Zeit. Bis gleich!", "english": "Exactly, take your time. See you soon!"},
             ],
             "differences": [

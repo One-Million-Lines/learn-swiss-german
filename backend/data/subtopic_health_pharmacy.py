@@ -16,6 +16,8 @@ SUBTOPIC_HEALTH_PHARMACY = {
                 {"speaker": "Pharmacist", "swissGerman": "Ich empfehl Ihne NeoCitran für de Aabig und Halstablätte für zwüschedure.", "german": "Ich empfehle Ihnen NeoCitran für den Abend und Halstabletten für zwischendurch.", "english": "I recommend NeoCitran for the evening and throat lozenges for in between."},
                 {"speaker": "You", "swissGerman": "Guet, ich nimm beides. Und händ ihr Nasetröpfli?", "german": "Gut, ich nehme beides. Und haben Sie Nasentropfen?", "english": "Good, I'll take both. And do you have nasal drops?"},
                 {"speaker": "Pharmacist", "swissGerman": "Ja, Otrivin ohni Rezäpt. Aber nöd länger als e Wuche bruuche.", "german": "Ja, Otrivin ohne Rezept. Aber nicht länger als eine Woche benutzen.", "english": "Yes, Otrivin without prescription. But don't use it longer than a week."},
+                {"speaker": "You", "swissGerman": "Und händ ihr au Ingwer-Tee oder öppis Natürlichi gäge Halswee?", "german": "Und haben Sie auch Ingwer-Tee oder etwas Natürliches gegen Halsschmerzen?", "english": "And do you also have ginger tea or something natural for the sore throat?"},
+                {"speaker": "Pharmacist", "swissGerman": "Ja, do — der Tee mit Honig und Ingwer isch sehr guet. Warm trinke, so oft wie möglich.", "german": "Ja, hier — der Tee mit Honig und Ingwer ist sehr gut. Warm trinken, so oft wie möglich.", "english": "Yes, here — the tea with honey and ginger is very good. Drink warm, as often as possible."},
             ],
             "differences": [
                 {"swissGerman": "verchältet", "german": "erkältet", "explanation": "'verchältet' = 'erkältet'. Having a cold."},
@@ -41,6 +43,8 @@ SUBTOPIC_HEALTH_PHARMACY = {
                 {"speaker": "Pharmacist", "swissGerman": "Okay. Ich gib Ihne Kohletablätte und en Elektrolyt-Löösig. Vill Wasser trinke!", "german": "Okay. Ich gebe Ihnen Kohletabletten und eine Elektrolyt-Lösung. Viel Wasser trinken!", "english": "Okay. I'll give you charcoal tablets and an electrolyte solution. Drink lots of water!"},
                 {"speaker": "You", "swissGerman": "Und wänn's nöd besser wird?", "german": "Und wenn es nicht besser wird?", "english": "And if it doesn't get better?"},
                 {"speaker": "Pharmacist", "swissGerman": "Wänn's nach drüü Täg nöd besser isch, gönd Sie zum Dokter.", "german": "Wenn es nach drei Tagen nicht besser ist, gehen Sie zum Arzt.", "english": "If it's not better after three days, go to the doctor."},
+                {"speaker": "You", "swissGerman": "Und de schlaffe — dräffe ich mit de Chohletablätte au normal ässe?", "german": "Und das Schlafen — darf ich mit den Kohletabletten auch normal essen?", "english": "And sleeping — with the charcoal tablets can I also eat normally?"},
+                {"speaker": "Pharmacist", "swissGerman": "Leichte Choscht nur — Riis, Karotte, trochni Biscott. Kei Fätt und kei Milchprodukti.", "german": "Leichte Kost nur — Reis, Karotten, trockene Zwiebäcke. Kein Fett und keine Milchprodukte.", "english": "Light foods only — rice, carrots, dry rusks. No fat and no dairy."},
             ],
             "differences": [
                 {"swissGerman": "Buuchweh", "german": "Bauchschmerzen", "explanation": "'Buuchweh' = stomach ache. 'Buuch' = belly, 'Weeh' = pain."},
@@ -66,6 +70,8 @@ SUBTOPIC_HEALTH_PHARMACY = {
                 {"speaker": "Pharmacist", "swissGerman": "Ja, do — de isch speziell für d'Bärge. Wasserfescht.", "german": "Ja, hier — der ist speziell für die Berge. Wasserfest.", "english": "Yes, here — this one is specially for the mountains. Waterproof."},
                 {"speaker": "You", "swissGerman": "Perfekt! Ich nimm beides. Was macht das?", "german": "Perfekt! Ich nehme beides. Was macht das?", "english": "Perfect! I'll take both. How much is it?"},
                 {"speaker": "Pharmacist", "swissGerman": "40 Franke zäme. Guets Wandere und vergässed nöd: au im Schatte iischmiere!", "german": "40 Franken zusammen. Gutes Wandern und vergessen Sie nicht: auch im Schatten eincremen!", "english": "40 francs together. Happy hiking and don't forget: apply sunscreen even in the shade!"},
+                {"speaker": "You", "swissGerman": "Guet z'wüsse — ich hätt nöd dra denkt. Und vo weli Höhi aa?", "german": "Gut zu wissen — ich hätte nicht daran gedacht. Und ab welcher Höhe?", "english": "Good to know — I wouldn't have thought of that. And from what altitude?"},
+                {"speaker": "Pharmacist", "swissGerman": "Ab tausend Meter isch d'UV-Stralig stark. Ab zweitusig brauchen Sie Faktor 50+.", "german": "Ab tausend Metern ist die UV-Strahlung stark. Ab zweitausend brauchen Sie Faktor 50+.", "english": "From a thousand meters UV radiation is strong. From two thousand you need factor 50+."},
             ],
             "differences": [
                 {"swissGerman": "Sunnecrème", "german": "Sonnencreme", "explanation": "'Sunnecrème' = sunscreen. Swiss uses French 'crème'."},
@@ -91,6 +97,8 @@ SUBTOPIC_HEALTH_PHARMACY = {
                 {"speaker": "You", "swissGerman": "Wie lang muess ich die neh?", "german": "Wie lange muss ich die nehmen?", "english": "How long do I have to take them?"},
                 {"speaker": "Pharmacist", "swissGerman": "Siebe Täg. Und ganz wichtig — nöd früener ufhöre, au wänn's besser gaat.", "german": "Sieben Tage. Und ganz wichtig — nicht früher aufhören, auch wenn es besser geht.", "english": "Seven days. And very important — don't stop earlier, even if you feel better."},
                 {"speaker": "You", "swissGerman": "Verstande! Und darf ich debii Alkohol trinke?", "german": "Verstanden! Und darf ich dabei Alkohol trinken?", "english": "Understood! And am I allowed to drink alcohol with it?"},
+                {"speaker": "Pharmacist", "swissGerman": "Nei, bitte kein Alkohol während de Behandlig. Das kann d'Wirchig verstärke oder verminderig.", "german": "Nein, bitte keinen Alkohol während der Behandlung. Das kann die Wirkung verstärken oder vermindern.", "english": "No, please no alcohol during the treatment. It can increase or reduce the effect."},
+                {"speaker": "You", "swissGerman": "Wärschd das stimmen au für Kafi oder Energy Drink?", "german": "Gilt das auch für Kaffee oder Energy Drink?", "english": "Does that also apply for coffee or energy drink?"},
             ],
             "differences": [
                 {"swissGerman": "Tablätte", "german": "Tabletten", "explanation": "'Tablätte' = 'Tabletten'. Tablets/pills."},
@@ -116,6 +124,8 @@ SUBTOPIC_HEALTH_PHARMACY = {
                 {"speaker": "Pharmacist", "swissGerman": "Es git en Selbstbehalt vo 10 Prozänt. Also 8 Franke für Sie.", "german": "Es gibt einen Selbstbehalt von 10 Prozent. Also 8 Franken für Sie.", "english": "There's a co-pay of 10 percent. So 8 francs for you."},
                 {"speaker": "You", "swissGerman": "Guet. Chan ich mit Charte zahle?", "german": "Gut. Kann ich mit Karte zahlen?", "english": "Good. Can I pay by card?"},
                 {"speaker": "Pharmacist", "swissGerman": "Ja klar. Und vergässed nöd: d'Bipackzettel ganz läse!", "german": "Ja klar. Und vergessen Sie nicht: den Beipackzettel ganz lesen!", "english": "Yes of course. And don't forget: read the package insert completely!"},
+                {"speaker": "You", "swissGerman": "Selbstverständlich! Und wänn ich noch Frage ha, chan ich hie aaluege?", "german": "Selbstverständlich! Und wenn ich noch Fragen habe, kann ich hier anrufen?", "english": "Of course! And if I have more questions, can I call here?"},
+                {"speaker": "Pharmacist", "swissGerman": "Ja, mir sind Montag bis Samstig erreichbar. Oder chömed eifach verbi.", "german": "Ja, wir sind Montag bis Samstag erreichbar. Oder kommen Sie einfach vorbei.", "english": "Yes, we're reachable Monday through Saturday. Or just come in."},
             ],
             "differences": [
                 {"swissGerman": "Rezäpt", "german": "Rezept", "explanation": "'Rezäpt' = 'Rezept'. Prescription."},

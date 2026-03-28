@@ -15,6 +15,8 @@ SUBTOPIC_NEWBORN_BABY = {
                 {"speaker": "Hebamme", "swissGerman": "S'Baby wiegt drü Kilo zwöihundert. Alles tipptopp.", "german": "Das Baby wiegt drei Kilo zweihundert. Alles bestens.", "english": "The baby weighs three kilos two hundred. Everything's great."},
                 {"speaker": "You", "swissGerman": "Wenn chömmer hei?", "german": "Wann können wir nach Hause?", "english": "When can we go home?"},
                 {"speaker": "Hebamme", "swissGerman": "Normalerwiis noch zwöi bis drü Täg. Mir luege no wie's Stille gaht.", "german": "Normalerweise nach zwei bis drei Tagen. Wir schauen noch wie das Stillen geht.", "english": "Normally after two to three days. We'll see how the breastfeeding goes."},
+                {"speaker": "Hebamme", "swissGerman": "Ja, aber bitte nöd zu vili uf einmal — d'Muetter bruucht Rueh.", "german": "Ja, aber bitte nicht zu viele auf einmal — die Mutter braucht Ruhe.", "english": "Yes, but please not too many at once — the mother needs rest."},
+                {"speaker": "You", "swissGerman": "Natürlich. Mir säged de Verwandschafte, sie sönd staffelwiis cho.", "german": "Natürlich. Wir sagen den Verwandten, sie sollen gestaffelt kommen.", "english": "Of course. We'll tell the relatives to come in shifts."},
                 {"speaker": "You", "swissGerman": "Guet. Und d'Bsuecher? Dörfe mir scho Bsuech ha?", "german": "Gut. Und die Besucher? Dürfen wir schon Besuch haben?", "english": "Good. And visitors? Can we have visitors already?"},
             ],
             "differences": [
@@ -40,6 +42,8 @@ SUBTOPIC_NEWBORN_BABY = {
                 {"speaker": "Friend", "swissGerman": "Aaah, so härzig! Sie hät dini Auge!", "german": "Aaah, so süß! Sie hat deine Augen!", "english": "Aaah, so cute! She has your eyes!"},
                 {"speaker": "You", "swissGerman": "Findsch? Alli säged das! Wänd ihr en Kafi?", "german": "Findest du? Alle sagen das! Wollt ihr einen Kaffee?", "english": "You think? Everyone says that! Would you like a coffee?"},
                 {"speaker": "Friend", "swissGerman": "Ja gärn. Und mir händ es Gschänkli mitbracht für d'Chlini.", "german": "Ja gern. Und wir haben ein Geschenk mitgebracht für die Kleine.", "english": "Yes please. And we brought a little gift for the little one."},
+                {"speaker": "You", "swissGerman": "Ihr händ nöd müesse — das isch wirklich lieb vo eu!", "german": "Ihr hättet nicht müssen — das ist wirklich lieb von euch!", "english": "You didn't have to — that's really sweet of you!"},
+                {"speaker": "Friend", "swissGerman": "Es isch es Strampler-Set vo Frey de Sutter. Für d'erschte Wuche derhei.", "german": "Es ist ein Strampler-Set von Frey de Sutter. Für die ersten Wochen zuhause.", "english": "It's a onesie set from Frey de Sutter. For the first weeks at home."},
                 {"speaker": "You", "swissGerman": "Oh wie lieb! Das isch so nett vo eu. Merci vilmal!", "german": "Oh wie lieb! Das ist so nett von euch. Vielen Dank!", "english": "Oh how sweet! That's so nice of you. Thanks so much!"},
             ],
             "differences": [
@@ -64,6 +68,8 @@ SUBTOPIC_NEWBORN_BABY = {
                 {"speaker": "Officer", "swissGerman": "Guet. Ich bruuch de Familienamme, de Vorname und de Geburtsort.", "german": "Gut. Ich brauche den Familiennamen, den Vornamen und den Geburtsort.", "english": "Good. I need the family name, first name, and place of birth."},
                 {"speaker": "You", "swissGerman": "Lea Müller, gebore im Kantonsspital Züri.", "german": "Lea Müller, geboren im Kantonsspital Zürich.", "english": "Lea Müller, born at Zurich Cantonal Hospital."},
                 {"speaker": "Officer", "swissGerman": "Und sind d'Eltere verhürotet? Denn bruuch ich no d'Heiratsurkund.", "german": "Und sind die Eltern verheiratet? Dann brauche ich noch die Heiratsurkunde.", "english": "And are the parents married? Then I also need the marriage certificate."},
+                {"speaker": "Officer", "swissGerman": "Danke. Ich stelle jetzt s'Geburtsregister-Auszug aus. Das duured öppe zäh Minute.", "german": "Danke. Ich stelle jetzt den Geburtsregisterauszug aus. Das dauert ungefähr zehn Minuten.", "english": "Thank you. I'll now issue the birth register extract. That takes about ten minutes."},
+                {"speaker": "You", "swissGerman": "Und de Schweizer Reisepass für s'Chind — wänn chönne mir de aanträge?", "german": "Und den Schweizer Reisepass für das Kind — wann können wir den beantragen?", "english": "And the Swiss passport for the child — when can we apply for that?"},
                 {"speaker": "You", "swissGerman": "Ja, mir sind verhürotet. Da isch d'Urkund.", "german": "Ja, wir sind verheiratet. Da ist die Urkunde.", "english": "Yes, we're married. Here's the certificate."},
             ],
             "differences": [
@@ -89,6 +95,8 @@ SUBTOPIC_NEWBORN_BABY = {
                 {"speaker": "Kinderarzt", "swissGerman": "Das isch ganz normal i dem Alter. Wie oft wacht sie uf?", "german": "Das ist ganz normal in dem Alter. Wie oft wacht sie auf?", "english": "That's completely normal at this age. How often does she wake up?"},
                 {"speaker": "You", "swissGerman": "So alli drü Stund. Und sie hät mängisch Bouchweeh.", "german": "So alle drei Stunden. Und sie hat manchmal Bauchschmerzen.", "english": "About every three hours. And she sometimes has tummy aches."},
                 {"speaker": "Kinderarzt", "swissGerman": "Das chönnt Choliken si. Ich zeig eu e Massage-Technik.", "german": "Das könnten Koliken sein. Ich zeige euch eine Massage-Technik.", "english": "That could be colic. I'll show you a massage technique."},
+                {"speaker": "Kinderarzt", "swissGerman": "Ich zeig eu au wie mer s'Baby richtig treit — Kopfhaltung isch wichtig bim Massiere.", "german": "Ich zeige euch auch wie man das Baby richtig hält — Kopfhaltung ist wichtig beim Massieren.", "english": "I'll also show you how to hold the baby correctly — head position is important when massaging."},
+                {"speaker": "You", "swissGerman": "Sehr guet! Und sölle mir au Fenschelteeli versuche bim Bouchweeh?", "german": "Sehr gut! Und sollen wir auch Fencheltee versuchen bei Bauchschmerzen?", "english": "Very good! And should we also try fennel tea for tummy aches?"},
                 {"speaker": "You", "swissGerman": "Danke! Und wänn isch de nöchscht Impftermin?", "german": "Danke! Und wann ist der nächste Impftermin?", "english": "Thanks! And when is the next vaccination appointment?"},
             ],
             "differences": [
@@ -115,6 +123,8 @@ SUBTOPIC_NEWBORN_BABY = {
                 {"speaker": "Salesperson", "swissGerman": "D'Fläschli sind bi de Babypfleg. Weli Marke wänd Sie?", "german": "Die Fläschchen sind bei der Babypflege. Welche Marke wollen Sie?", "english": "The bottles are in the baby care section. Which brand do you want?"},
                 {"speaker": "You", "swissGerman": "Ich nimm die vo MAM. Und händ Sie au Babychleider i Grössi 56?", "german": "Ich nehme die von MAM. Und haben Sie auch Babykleidung in Größe 56?", "english": "I'll take the MAM ones. And do you have baby clothes in size 56?"},
                 {"speaker": "Salesperson", "swissGerman": "Ja, im obere Stock. Strampler und Bodys häts gnueg.", "german": "Ja, im oberen Stock. Strampler und Bodys gibt es genug.", "english": "Yes, on the upper floor. There are plenty of onesies and bodysuits."},
+                {"speaker": "You", "swissGerman": "Und was empfehled Sie? Baumwoll oder Bio-Baumwoll für Neugebori?", "german": "Und was empfehlen Sie? Baumwolle oder Bio-Baumwolle für Neugeborene?", "english": "And what do you recommend? Cotton or organic cotton for newborns?"},
+                {"speaker": "Salesperson", "swissGerman": "Bio-Baumwoll isch besser — kei Rückständ und dä Stoff isch weicher für d'Hut.", "german": "Bio-Baumwolle ist besser — keine Rückstände und der Stoff ist weicher für die Haut.", "english": "Organic cotton is better — no residues and the fabric is softer on the skin."},
             ],
             "differences": [
                 {"swissGerman": "Wundle", "german": "Windeln", "explanation": "'Wundle' = 'Windeln'. Different vowels."},

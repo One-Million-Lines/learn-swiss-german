@@ -14,6 +14,7 @@ SUBTOPIC_SOCIAL_FLOW = {
                 {"speaker": "Person A", "swissGerman": "Klar, chum derzue! Mir redid grad über de Marathon am Wuchenänd.", "german": "Klar, komm dazu! Wir reden gerade über den Marathon am Wochenende.", "english": "Sure, join us! We're talking about the marathon this weekend."},
                 {"speaker": "You", "swissGerman": "Ah cool! Macht öpper vo eu mit?", "german": "Ah cool! Macht jemand von euch mit?", "english": "Oh cool! Is anyone of you participating?"},
                 {"speaker": "Person B", "swissGerman": "Ja, de Marco und ich lönd mit! Zerst Halbmarathon.", "german": "Ja, Marco und ich laufen mit! Erstmal Halbmarathon.", "english": "Yes, Marco and I are running! Half marathon first."},
+                {"speaker": "Person A", "swissGerman": "Ja, los do au! Es git e Pärse-Lauf, de gaat 5 km — de wär perfekt für Afanger.", "german": "Ja, lauf doch auch mit! Es gibt einen Paar-Lauf, der geht 5 km — der wäre perfekt für Anfänger.", "english": "Yes, join too! There's a pairs run, it's 5 km — that would be perfect for beginners."},
                 {"speaker": "You", "swissGerman": "Wow, Respekt! Ich bin scho nach füf Kilometer am Schnuufe.", "german": "Wow, Respekt! Ich bin schon nach fünf Kilometern am Schnaufen.", "english": "Wow, respect! I'm already gasping after five kilometers."},
                 {"speaker": "Person A", "swissGerman": "Haha, mir trainiere scho sit Monet. Aber en Afänger-Lauf gits au!", "german": "Haha, wir trainieren schon seit Monaten. Aber einen Anfänger-Lauf gibt es auch!", "english": "Haha, we've been training for months. But there's a beginner run too!"},
             ],
@@ -40,6 +41,7 @@ SUBTOPIC_SOCIAL_FLOW = {
                 {"speaker": "You", "swissGerman": "Dankä! Es isch ganz toll gsi mit euch z'ploudere. Mir gsehnd eus!", "german": "Danke! Es war ganz toll mit euch zu plaudern. Wir sehen uns!", "english": "Thanks! It was great chatting with you. See you around!"},
                 {"speaker": "Person", "swissGerman": "Jo, mached guet! Mir gsehnd eus spöter vilicht no?", "german": "Ja, macht's gut! Wir sehen uns später vielleicht noch?", "english": "Yeah, take care! Maybe we'll see each other later?"},
                 {"speaker": "You", "swissGerman": "Ja sicher! Ich chume spöter wider. Bis nachher!", "german": "Ja sicher! Ich komme später wieder. Bis nachher!", "english": "Definitely! I'll come back later. See you in a bit!"},
+                {"speaker": "You", "swissGerman": "Mmh, ich lueg scho nöd gsi. Isch das e guetes Zeiche?", "german": "Mmh, ich habe schon gar nicht nachgeschaut. Ist das ein gutes Zeichen?", "english": "Mmh, I haven't even checked. Is that a good sign?"},
                 {"speaker": "Person", "swissGerman": "Super, bis denn!", "german": "Super, bis dann!", "english": "Great, see you then!"},
             ],
             "differences": [
@@ -65,6 +67,7 @@ SUBTOPIC_SOCIAL_FLOW = {
                 {"speaker": "You", "swissGerman": "En Buchlade mit Kafi-Ecke. Mega schön igrichtet!", "german": "Eine Buchhandlung mit Café-Ecke. Mega schön eingerichtet!", "english": "A bookshop with a coffee corner. Really nicely decorated!"},
                 {"speaker": "Friend", "swissGerman": "Oh, tönt mega! Wo isch de genau?", "german": "Oh, klingt mega! Wo ist der genau?", "english": "Oh, sounds great! Where exactly is it?"},
                 {"speaker": "You", "swissGerman": "Grad näbem Coop an der Bahnhofstrass. Die händ au lokali Autore.", "german": "Gleich neben dem Coop an der Bahnhofstraße. Die haben auch lokale Autoren.", "english": "Right next to the Coop on Bahnhofstrasse. They also have local authors."},
+                {"speaker": "You", "swissGerman": "Und sie händ au Lesigs veranstaltet — ich ha gredt mit em Buechhändler, de macht's jede zweite Mittwuch.", "german": "Und sie haben auch Lesungen veranstaltet — ich habe mit dem Buchhändler gesprochen, er macht es jeden zweiten Mittwoch.", "english": "And they also organize readings — I spoke with the bookseller, he does it every other Wednesday."},
                 {"speaker": "Friend", "swissGerman": "Mir müessed dört ane go luege! Am nöchste Wuchenänd?", "german": "Wir müssen dort hingehen! Am nächsten Wochenende?", "english": "We need to go check it out! Next weekend?"},
             ],
             "differences": [
@@ -90,6 +93,7 @@ SUBTOPIC_SOCIAL_FLOW = {
                 {"speaker": "You", "swissGerman": "Isch die uf Schwizerdütsch?", "german": "Ist die auf Schweizerdeutsch?", "english": "Is it in Swiss German?"},
                 {"speaker": "Person", "swissGerman": "Ja, Walliserdütsch sogar! Mega luschtig. Und guet für s'Lerne.", "german": "Ja, Walliserdeutsch sogar! Mega lustig. Und gut zum Lernen.", "english": "Yes, Valais German even! Super fun. And good for learning."},
                 {"speaker": "You", "swissGerman": "Walliserdütsch? Ich verstah ja chuum Züridütsch, haha!", "german": "Walliserdeutsch? Ich verstehe ja kaum Zürideutsch, haha!", "english": "Valais German? I barely understand Zurich German, haha!"},
+                {"speaker": "You", "swissGerman": "Und wie lang sind d'Episoode? Ich ha nid immer lang Ziit a öme Stuck.", "german": "Und wie lang sind die Episoden? Ich habe nicht immer lange Zeit am Stück.", "english": "And how long are the episodes? I don't always have a long stretch of time."},
                 {"speaker": "Person", "swissGerman": "Haha, es git Untertitel! Sogar d'Schwiizer bruuched die!", "german": "Haha, es gibt Untertitel! Sogar die Schweizer brauchen die!", "english": "Haha, there are subtitles! Even the Swiss need them!"},
             ],
             "differences": [
@@ -114,6 +118,7 @@ SUBTOPIC_SOCIAL_FLOW = {
                 {"speaker": "Marta", "swissGerman": "Oh, ich han nur zuegloset. Aber ich find, ihr händ recht!", "german": "Oh, ich habe nur zugehört. Aber ich finde, ihr habt recht!", "english": "Oh, I was just listening. But I think you're right!"},
                 {"speaker": "You", "swissGerman": "Du häsch doch au mol gsäit, du warsch am Zürifäscht? Wie isch das gsi?", "german": "Du hast doch auch mal gesagt, du warst am Zürifest? Wie war das?", "english": "You also said you were at the Zürich festival? How was it?"},
                 {"speaker": "Marta", "swissGerman": "Ja, mega! S'Füürwerk isch unbeschriiblich gsi!", "german": "Ja, mega! Das Feuerwerk war unbeschreiblich!", "english": "Yes, amazing! The fireworks were indescribable!"},
+                {"speaker": "Marta", "swissGerman": "Ich organisier eigentlich mini Ferie gern drumuum — aber de Vourchauf isch mega schnell uäs.", "german": "Ich organisiere eigentlich meine Ferien gern darum — aber der Vorverkauf ist mega schnell ausverkauft.", "english": "I actually like to plan my vacation around it — but the presale sells out crazy fast."},
                 {"speaker": "You", "swissGerman": "Lueg, das wett ich au mol erläbe! Muesch mir alles devo verzelle.", "german": "Schau, das möchte ich auch mal erleben! Du musst mir alles davon erzählen.", "english": "See, I'd love to experience that too! You have to tell me all about it."},
                 {"speaker": "Marta", "swissGerman": "Gärn! S'nöchste Zürifäscht isch in zwöi Jahr. Mir chöntid zäme ane!", "german": "Gerne! Das nächste Zürifest ist in zwei Jahren. Wir könnten zusammen hingehen!", "english": "Happy to! The next Zürich festival is in two years. We could go together!"},
             ],

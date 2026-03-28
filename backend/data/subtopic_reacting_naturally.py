@@ -16,6 +16,8 @@ SUBTOPIC_REACTING_NATURALLY = {
                 {"speaker": "You", "swissGerman": "Genau! Mir händ drei Mönet gsuecht. S'isch de Horror.", "german": "Genau! Wir haben drei Monate gesucht. Es ist der Horror.", "english": "Exactly! We searched for three months. It's a horror."},
                 {"speaker": "Person", "swissGerman": "Und denn muesch du no en Bewerbig schriibe wie für en Job!", "german": "Und dann musst du noch eine Bewerbung schreiben wie für einen Job!", "english": "And then you have to write an application like for a job!"},
                 {"speaker": "You", "swissGerman": "Ebe! Total absurd. Aber so isch es halt i de Schwiiz.", "german": "Eben! Total absurd. Aber so ist es halt in der Schweiz.", "english": "Exactly! Totally absurd. But that's just how it is in Switzerland."},
+                {"speaker": "Person", "swissGerman": "Und d'Lage muesch noch erkläre: We der Wohnigsspiegel gut isch, git's drü Bewerbig pro Wohnig!", "german": "Und die Lage muss man noch erklären: Wenn der Wohnungsspiegel gut ist, gibt es drei Bewerbungen pro Wohnung!", "english": "And you have to explain the location: When the housing market is tight, there are three applications per apartment!"},
+                {"speaker": "You", "swissGerman": "Genau. Mrüü das eifach accäptiire — und suuberi Bewerbigsmappedu mache!", "german": "Genau. Man muss das einfach akzeptieren — und eine ordentliche Bewerbungsmappe machen!", "english": "Exactly. You just have to accept it — and make a proper application folder!"},
             ],
             "differences": [
                 {"swissGerman": "voll", "german": "voll/total", "explanation": "'voll' = intensifier. Very common in casual Swiss German."},
@@ -41,6 +43,8 @@ SUBTOPIC_REACTING_NATURALLY = {
                 {"speaker": "You", "swissGerman": "Ja, klar, das isch anders. Aber Züri hät au sini Qualitäte — d'Natur, de See...", "german": "Ja, klar, das ist anders. Aber Zürich hat auch seine Qualitäten — die Natur, der See...", "english": "Yes, sure, that's different. But Zurich has its qualities too — nature, the lake..."},
                 {"speaker": "Person", "swissGerman": "Do häsch du scho rächt. De See isch mega.", "german": "Da hast du schon recht. Der See ist mega.", "english": "You have a point there. The lake is awesome."},
                 {"speaker": "You", "swissGerman": "Gsesch! Es isch halt en anderi Art vo Lebensqualität.", "german": "Siehst du! Es ist halt eine andere Art von Lebensqualität.", "english": "See! It's just a different kind of quality of life."},
+                {"speaker": "Person", "swissGerman": "Stimmt, stimmt. Und d'Berge si natürlich unscäggbar.", "german": "Stimmt, stimmt. Und die Berge sind natürlich unschlagbar.", "english": "True, true. And the mountains are of course unbeatable."},
+                {"speaker": "You", "swissGerman": "Sisch! De See im Summer und d'Berge im Winter — mišt niemert do weg.", "german": "Eben! Der See im Sommer und die Berge im Winter — möchte niemand weg.", "english": "Exactly! The lake in summer and the mountains in winter — nobody wants to leave."},
             ],
             "differences": [
                 {"swissGerman": "ich weiss nöd", "german": "ich weiß nicht", "explanation": "'ich weiss nöd' — polite disagreement opener."},
@@ -66,7 +70,8 @@ SUBTOPIC_REACTING_NATURALLY = {
                 {"speaker": "You", "swissGerman": "Wow, das isch unglaublich! Wie heissed sie?", "german": "Wow, das ist unglaublich! Wie heißen sie?", "english": "Wow, that's incredible! What are their names?"},
                 {"speaker": "Person", "swissGerman": "Nora und Mila.", "german": "Nora und Mila.", "english": "Nora and Mila."},
                 {"speaker": "You", "swissGerman": "Wunderschön! Ich freu mich mega für euch! Das isch soo schön!", "german": "Wunderschön! Ich freue mich mega für euch! Das ist sooo schön!", "english": "Beautiful! I'm so happy for you! That's soo lovely!"},
-            ],
+                {"speaker": "Person", "swissGerman": "Merci! Mir sind so müed aber so glückliich. E ganz nöii Welt.", "german": "Danke! Wir sind so müde aber so glücklich. Eine ganz neue Welt.", "english": "Thanks! We're so tired but so happy. A completely new world."},
+                {"speaker": "You", "swissGerman": "Das glaub ich dir! Wemer no euse Gschank vorbibringe därfed — saged eifach Bscheid!", "german": "Das glaube ich dir! Wenn wir unser Geschenk vorbeibringen dürfen — sagt einfach Bescheid!", "english": "I believe you! If we can bring our gift over — just let us know!"},            ],
             "differences": [
                 {"swissGerman": "Isch nöd wohr!", "german": "Ist nicht wahr!", "explanation": "'Isch nöd wohr!' = 'Ist nicht wahr!' Expressing disbelief/surprise."},
                 {"swissGerman": "Meitli", "german": "Mädchen", "explanation": "'Meitli' = 'Mädchen'. Swiss word for girls."},
@@ -91,6 +96,8 @@ SUBTOPIC_REACTING_NATURALLY = {
                 {"speaker": "You", "swissGerman": "Das chan ich mir vorstelle! Und s'Ässe? Isch es echt so guet?", "german": "Das kann ich mir vorstellen! Und das Essen? Ist es echt so gut?", "english": "I can imagine! And the food? Is it really that good?"},
                 {"speaker": "Person", "swissGerman": "No besser! D'Ramen — ich chan nümme zrugg zu de normale Nudle.", "german": "Noch besser! Die Ramen — ich kann nicht mehr zurück zu normalen Nudeln.", "english": "Even better! The ramen — I can never go back to normal noodles."},
                 {"speaker": "You", "swissGerman": "Haha, so schlimm? Das muesch du mir no gnauer verzelle. Ich will au mol ane!", "german": "Haha, so schlimm? Das musst du mir noch genauer erzählen. Ich will auch mal hin!", "english": "Haha, that bad? You need to tell me more. I want to go too!"},
+                {"speaker": "Person", "swissGerman": "Unbedingt! Aber spar vorher guet — s'isch nid billig aber jeden Rappens wärt.", "german": "Unbedingt! Aber spar vorher gut — es ist nicht billig aber jeden Rappen wert.", "english": "Definitely! But save up well beforehand — it's not cheap but worth every cent."},
+                {"speaker": "You", "swissGerman": "Haha, guet z'wisse! Ich fangi mol aa spare für Japan.", "german": "Haha, gut zu wissen! Ich fange mal an zu sparen für Japan.", "english": "Haha, good to know! I'll start saving for Japan."},
             ],
             "differences": [
                 {"swissGerman": "Verzell!", "german": "Erzähl!", "explanation": "'Verzell!' = 'Erzähl!' Swiss imperative for 'tell me'."},
@@ -116,6 +123,8 @@ SUBTOPIC_REACTING_NATURALLY = {
                 {"speaker": "You", "swissGerman": "Schmutzli? Chasch du das erkläre? Ich verstah nöd ganz.", "german": "Schmutzli? Kannst du das erklären? Ich verstehe nicht ganz.", "english": "Schmutzli? Can you explain that? I don't fully understand."},
                 {"speaker": "Person", "swissGerman": "De Schmutzli isch sin Begleiter. De hät en Ruete und schmutzig Gsicht.", "german": "Der Schmutzli ist sein Begleiter. Der hat eine Rute und ein schmutziges Gesicht.", "english": "The Schmutzli is his companion. He has a switch and a dirty face."},
                 {"speaker": "You", "swissGerman": "Aah, jetzt verstah ich! Das isch ja speziell! Merci für s'Erkläre.", "german": "Aah, jetzt verstehe ich! Das ist ja speziell! Danke fürs Erklären.", "english": "Aah, now I understand! That's quite special! Thanks for explaining."},
+                {"speaker": "Person", "swissGerman": "Ja! Und am Sechse isch uberall Samichlaus-Abig. D'Chinder freu sich mega.", "german": "Ja! Und am Sechsten ist überall Nikolausabend. Die Kinder freuen sich mega.", "english": "Yes! And on the sixth there's St. Nicholas evening everywhere. The kids are super excited."},
+                {"speaker": "You", "swissGerman": "Das kling wunderschyön. Ich will das ämol miterlebid!", "german": "Das klingt wunderschön. Ich will das mal miterleben!", "english": "That sounds wonderful. I want to experience that sometime!"},
             ],
             "differences": [
                 {"swissGerman": "Samichlaus", "german": "Nikolaus", "explanation": "'Samichlaus' = 'Nikolaus'. Swiss name for St. Nicholas."},

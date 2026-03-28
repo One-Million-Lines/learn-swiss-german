@@ -16,6 +16,9 @@ SUBTOPIC_RETAIL_SHOP = {
                 {"speaker": "Customer", "swissGerman": "Medium. Händ Sie die au in Blau?", "german": "Medium. Haben Sie die auch in Blau?", "english": "Medium. Do you also have them in blue?"},
                 {"speaker": "You", "swissGerman": "Ja, ich lueg grad nach... Da, die da isch in Blau und in Grössi M.", "german": "Ja, ich schaue gleich nach... Da, die hier ist in Blau und in Größe M.", "english": "Yes, I'll check right away... Here, this one is in blue and size M."},
                 {"speaker": "Customer", "swissGerman": "Super, chan ich die aprobiere?", "german": "Super, kann ich die anprobieren?", "english": "Great, can I try it on?"},
+                {"speaker": "You", "swissGerman": "Natürlich! D'Umchleide sind ganz hingäre, d'zweeti Tür links.", "german": "Natürlich! Die Umkleide ist ganz hinten, zweite Tür links.", "english": "Of course! The fitting room is at the very back, second door on the left."},
+                {"speaker": "Customer", "swissGerman": "Merci! Und falls si z'gross isch, händ Sie si au in S?", "german": "Danke! Und falls sie zu groß ist, haben Sie sie auch in S?", "english": "Thanks! And if it's too big, do you also have it in S?"},
+                {"speaker": "You", "swissGerman": "Ja, ich lege Ihne eine in S vor die Umchleide, für alle Fäll.", "german": "Ja, ich lege Ihnen eine in S vor die Umkleidekabine, für alle Fälle.", "english": "Yes, I'll put an S in front of the fitting room for you, just in case."},
             ],
             "differences": [
                 {"swissGerman": "sueche", "german": "suche", "explanation": "'sueche' = 'suche'. Added vowel."},
@@ -40,6 +43,8 @@ SUBTOPIC_RETAIL_SHOP = {
                 {"speaker": "Customer", "swissGerman": "Chan ich mit Charte zahle?", "german": "Kann ich mit Karte zahlen?", "english": "Can I pay by card?"},
                 {"speaker": "You", "swissGerman": "Ja natürlich! TWINT gaht au.", "german": "Ja natürlich! TWINT geht auch.", "english": "Yes of course! TWINT works too."},
                 {"speaker": "Customer", "swissGerman": "Ich nimm TWINT. So... fertig. Merci!", "german": "Ich nehme TWINT. So... fertig. Danke!", "english": "I'll use TWINT. There... done. Thanks!"},
+                {"speaker": "You", "swissGerman": "S'Belegexemplar chunnt automatisch uf Ihres Handy. Schöne Tag!", "german": "Der Beleg kommt automatisch auf Ihr Handy. Schönen Tag!", "english": "The receipt comes automatically to your phone. Have a nice day!"},
+                {"speaker": "Customer", "swissGerman": "Super, das isch pratisch! Bis zum nächschte Mal. Tschüü!", "german": "Super, das ist praktisch! Bis zum nächsten Mal. Tschüss!", "english": "Great, that's convenient! Until next time. Bye!"},
             ],
             "differences": [
                 {"swissGerman": "gfunde", "german": "gefunden", "explanation": "'gfunde' = 'gefunden'. 'ge-' → 'g-', '-en' dropped."},
@@ -64,6 +69,8 @@ SUBTOPIC_RETAIL_SHOP = {
                 {"speaker": "You", "swissGerman": "Guet, das isch innert de 30-Täg-Frischt. Wänd Sie umtuusche oder s'Gäld zrugg?", "german": "Gut, das ist innerhalb der 30-Tage-Frist. Wollen Sie umtauschen oder das Geld zurück?", "english": "Good, that's within the 30-day period. Would you like to exchange or get a refund?"},
                 {"speaker": "Customer", "swissGerman": "Ich nimm lieber en anderi Grössi falls Sie die händ.", "german": "Ich nehme lieber eine andere Größe falls Sie die haben.", "english": "I'd rather take a different size if you have it."},
                 {"speaker": "You", "swissGerman": "Ich lueg grad... Ja, mir händ no eini in L. Wänd Sie die probiere?", "german": "Ich schaue gleich... Ja, wir haben noch eine in L. Wollen Sie die probieren?", "english": "I'll check... Yes, we still have one in L. Would you like to try it?"},
+                {"speaker": "Customer", "swissGerman": "Ja bitte! Und falls die au nid passt, chani en Gutschiin de neh?", "german": "Ja bitte! Und falls die auch nicht passt, kann ich einen Gutschein nehmen?", "english": "Yes please! And if that one doesn't fit either, can I take a voucher?"},
+                {"speaker": "You", "swissGerman": "Selbstverständlich. Mir stelled Ihne gern en Gutschiin us — gült drei Monet.", "german": "Selbstverständlich. Wir stellen Ihnen gerne einen Gutschein aus — gültig drei Monate.", "english": "Of course. We're happy to issue you a voucher — valid for three months."},
             ],
             "differences": [
                 {"swissGerman": "zruggäh", "german": "zurückgeben", "explanation": "'zrugg-' = 'zurück-', 'gäh' = 'geben'."},
@@ -88,6 +95,8 @@ SUBTOPIC_RETAIL_SHOP = {
                 {"speaker": "You", "swissGerman": "Und d'alti Sache? Gönd die uf de Sale-Tisch?", "german": "Und die alten Sachen? Gehen die auf den Sale-Tisch?", "english": "And the old stuff? Does that go on the sale table?"},
                 {"speaker": "Manager", "swissGerman": "Ja, mit 30 Prozänt Rabatt. Mach e nöis Priisschild.", "german": "Ja, mit 30 Prozent Rabatt. Mach ein neues Preisschild.", "english": "Yes, with 30 percent discount. Make a new price tag."},
                 {"speaker": "You", "swissGerman": "Alles klar, isch bis am Elfi parat.", "german": "Alles klar, ist bis elf fertig.", "english": "All clear, it'll be ready by eleven."},
+                {"speaker": "Manager", "swissGerman": "Guet. Und lueg au, dass die neu Kollektion gut präsäntiert isch bim Schaufeschter.", "german": "Gut. Und schau auch, dass die neue Kollektion gut präsentiert ist im Schaufenster.", "english": "Good. And also make sure the new collection is well displayed in the shop window."},
+                {"speaker": "You", "swissGerman": "Mach ich au. Die Sommersache in d'Front, d'Sale-Sticker drüf.", "german": "Mache ich auch. Die Sommersachen in die Front, die Sale-Sticker drauf.", "english": "I'll do that too. Summer items to the front, sale stickers on them."},
             ],
             "differences": [
                 {"swissGerman": "bechömed", "german": "bekommen", "explanation": "'bechömed' = 'bekommen'. K→Ch, conjugated."},
@@ -113,6 +122,8 @@ SUBTOPIC_RETAIL_SHOP = {
                 {"speaker": "Colleague", "swissGerman": "Stimmt! Müemmer morn nomal bstelle?", "german": "Stimmt! Müssen wir morgen nochmal bestellen?", "english": "True! Do we need to reorder tomorrow?"},
                 {"speaker": "You", "swissGerman": "Ja, mir händ nur no drü Stuck i de Grössi M.", "german": "Ja, wir haben nur noch drei Stück in Größe M.", "english": "Yes, we only have three left in size M."},
                 {"speaker": "Colleague", "swissGerman": "Okay, ich schriib's uf d'Lischt. Tschöö, bis morn!", "german": "Okay, ich schreibe es auf die Liste. Tschüss, bis morgen!", "english": "Okay, I'll put it on the list. Bye, see you tomorrow!"},
+                {"speaker": "You", "swissGerman": "Bis morn! Und vergiss nid d'Lischt dem Chef z'gee am Morge.", "german": "Bis morgen! Und vergiss nicht die Liste dem Chef zu geben am Morgen.", "english": "See you tomorrow! And don't forget to give the list to the boss in the morning."},
+                {"speaker": "Colleague", "swissGerman": "Nei nei, ich häängs grad bim Büro a. Dänn gseht er's scho. Tschöö!", "german": "Nein nein, ich hänge es gleich beim Büro auf. Dann sieht er's schon. Tschüss!", "english": "No no, I'll put it up at the office now. Then he'll see it. Bye!"},
             ],
             "differences": [
                 {"swissGerman": "siibni", "german": "sieben", "explanation": "Swiss German time: 'siibni' = 'sieben Uhr'. '-i' time suffix."},
