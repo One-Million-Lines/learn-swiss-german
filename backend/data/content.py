@@ -114,6 +114,49 @@ from data.subtopic_social_flow import SUBTOPIC_SOCIAL_FLOW
 from data.subtopic_social_etiquette import SUBTOPIC_SOCIAL_ETIQUETTE
 from data.subtopic_ending_interactions import SUBTOPIC_ENDING_INTERACTIONS
 from data.subtopic_staying_in_touch import SUBTOPIC_STAYING_IN_TOUCH
+from data.subtopic_shopping_local_shops import SUBTOPIC_SHOPPING_LOCAL_SHOPS
+from data.subtopic_daily_services import SUBTOPIC_DAILY_SERVICES
+from data.subtopic_eating_out import SUBTOPIC_EATING_OUT
+from data.subtopic_public_transport import SUBTOPIC_PUBLIC_TRANSPORT
+from data.subtopic_understanding_directions import SUBTOPIC_UNDERSTANDING_DIRECTIONS
+from data.subtopic_appointments_scheduling import SUBTOPIC_APPOINTMENTS_SCHEDULING
+from data.subtopic_time_planning import SUBTOPIC_TIME_PLANNING
+from data.subtopic_housing_daily import SUBTOPIC_HOUSING_DAILY
+from data.subtopic_utilities_basic_needs import SUBTOPIC_UTILITIES_BASIC_NEEDS
+from data.subtopic_health_pharmacy import SUBTOPIC_HEALTH_PHARMACY
+from data.subtopic_personal_errands import SUBTOPIC_PERSONAL_ERRANDS
+from data.subtopic_weather_daily import SUBTOPIC_WEATHER_DAILY
+from data.subtopic_handling_problems import SUBTOPIC_HANDLING_PROBLEMS
+from data.subtopic_safety_urgent import SUBTOPIC_SAFETY_URGENT
+from data.subtopic_greetings_goodbyes import SUBTOPIC_GREETINGS_GOODBYES
+from data.subtopic_politeness_essentials import SUBTOPIC_POLITENESS_ESSENTIALS
+from data.subtopic_yes_no_maybe import SUBTOPIC_YES_NO_MAYBE
+from data.subtopic_basic_needs_requests import SUBTOPIC_BASIC_NEEDS_REQUESTS
+from data.subtopic_understanding_misunderstanding import SUBTOPIC_UNDERSTANDING_MISUNDERSTANDING
+from data.subtopic_basic_questions import SUBTOPIC_BASIC_QUESTIONS
+from data.subtopic_numbers_quantities import SUBTOPIC_NUMBERS_QUANTITIES
+from data.subtopic_time_basics import SUBTOPIC_TIME_BASICS
+from data.subtopic_directions_basic import SUBTOPIC_DIRECTIONS_BASIC
+from data.subtopic_common_verbs import SUBTOPIC_COMMON_VERBS
+from data.subtopic_basic_connectors import SUBTOPIC_BASIC_CONNECTORS
+from data.subtopic_simple_reactions import SUBTOPIC_SIMPLE_REACTIONS
+from data.subtopic_confirming_clarifying import SUBTOPIC_CONFIRMING_CLARIFYING
+from data.subtopic_closing_micro_interactions import SUBTOPIC_CLOSING_MICRO_INTERACTIONS
+from data.subtopic_healthcare_insurance import SUBTOPIC_HEALTHCARE_INSURANCE
+from data.subtopic_pharmacy_swiss import SUBTOPIC_PHARMACY_SWISS
+from data.subtopic_appointments_formal import SUBTOPIC_APPOINTMENTS_FORMAL
+from data.subtopic_gemeinde_admin import SUBTOPIC_GEMEINDE_ADMIN
+from data.subtopic_permits_residency import SUBTOPIC_PERMITS_RESIDENCY
+from data.subtopic_insurance_general import SUBTOPIC_INSURANCE_GENERAL
+from data.subtopic_housing_swiss import SUBTOPIC_HOUSING_SWISS
+from data.subtopic_mail_official_letters import SUBTOPIC_MAIL_OFFICIAL_LETTERS
+from data.subtopic_banking_payments import SUBTOPIC_BANKING_PAYMENTS
+from data.subtopic_taxes_basic import SUBTOPIC_TAXES_BASIC
+from data.subtopic_work_admin import SUBTOPIC_WORK_ADMIN
+from data.subtopic_school_childcare import SUBTOPIC_SCHOOL_CHILDCARE
+from data.subtopic_waste_recycling import SUBTOPIC_WASTE_RECYCLING
+from data.subtopic_transport_swiss import SUBTOPIC_TRANSPORT_SWISS
+from data.subtopic_rules_compliance import SUBTOPIC_RULES_COMPLIANCE
 
 SUBTOPICS = [
     SUBTOPIC_SAYING_HELLO,
@@ -178,6 +221,49 @@ SUBTOPICS = [
     SUBTOPIC_SOCIAL_ETIQUETTE,
     SUBTOPIC_ENDING_INTERACTIONS,
     SUBTOPIC_STAYING_IN_TOUCH,
+    SUBTOPIC_SHOPPING_LOCAL_SHOPS,
+    SUBTOPIC_DAILY_SERVICES,
+    SUBTOPIC_EATING_OUT,
+    SUBTOPIC_PUBLIC_TRANSPORT,
+    SUBTOPIC_UNDERSTANDING_DIRECTIONS,
+    SUBTOPIC_APPOINTMENTS_SCHEDULING,
+    SUBTOPIC_TIME_PLANNING,
+    SUBTOPIC_HOUSING_DAILY,
+    SUBTOPIC_UTILITIES_BASIC_NEEDS,
+    SUBTOPIC_HEALTH_PHARMACY,
+    SUBTOPIC_PERSONAL_ERRANDS,
+    SUBTOPIC_WEATHER_DAILY,
+    SUBTOPIC_HANDLING_PROBLEMS,
+    SUBTOPIC_SAFETY_URGENT,
+    SUBTOPIC_GREETINGS_GOODBYES,
+    SUBTOPIC_POLITENESS_ESSENTIALS,
+    SUBTOPIC_YES_NO_MAYBE,
+    SUBTOPIC_BASIC_NEEDS_REQUESTS,
+    SUBTOPIC_UNDERSTANDING_MISUNDERSTANDING,
+    SUBTOPIC_BASIC_QUESTIONS,
+    SUBTOPIC_NUMBERS_QUANTITIES,
+    SUBTOPIC_TIME_BASICS,
+    SUBTOPIC_DIRECTIONS_BASIC,
+    SUBTOPIC_COMMON_VERBS,
+    SUBTOPIC_BASIC_CONNECTORS,
+    SUBTOPIC_SIMPLE_REACTIONS,
+    SUBTOPIC_CONFIRMING_CLARIFYING,
+    SUBTOPIC_CLOSING_MICRO_INTERACTIONS,
+    SUBTOPIC_HEALTHCARE_INSURANCE,
+    SUBTOPIC_PHARMACY_SWISS,
+    SUBTOPIC_APPOINTMENTS_FORMAL,
+    SUBTOPIC_GEMEINDE_ADMIN,
+    SUBTOPIC_PERMITS_RESIDENCY,
+    SUBTOPIC_INSURANCE_GENERAL,
+    SUBTOPIC_HOUSING_SWISS,
+    SUBTOPIC_MAIL_OFFICIAL_LETTERS,
+    SUBTOPIC_BANKING_PAYMENTS,
+    SUBTOPIC_TAXES_BASIC,
+    SUBTOPIC_WORK_ADMIN,
+    SUBTOPIC_SCHOOL_CHILDCARE,
+    SUBTOPIC_WASTE_RECYCLING,
+    SUBTOPIC_TRANSPORT_SWISS,
+    SUBTOPIC_RULES_COMPLIANCE,
 ]
 
 
