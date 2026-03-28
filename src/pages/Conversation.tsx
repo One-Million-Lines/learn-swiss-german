@@ -95,34 +95,36 @@ const SubtopicPage = () => {
             <MessageCircle className="h-5 w-5 text-primary" />
             <h2 className="text-2xl font-bold">Dialogue</h2>
           </div>
-          <div className="space-y-4">
-            {dialogue.lines.map((line, i) => {
-              const isYou = line.speaker === "You";
-              return (
-                <div key={i} className={`flex ${isYou ? "justify-end" : "justify-start"}`}>
-                  <div className={`max-w-[80%] ${isYou ? "items-end" : "items-start"}`}>
-                    <p className={`text-xs font-semibold uppercase tracking-wide mb-1 ${
-                      isYou ? "text-right text-primary" : "text-secondary-foreground"
-                    }`}>
-                      {line.speaker}
-                    </p>
-                    <div className={`rounded-2xl px-4 py-3 ${
-                      isYou
-                        ? "bg-primary text-primary-foreground rounded-br-md"
-                        : "bg-muted rounded-bl-md"
-                    }`}>
-                      <p className="font-semibold">{line.swissGerman}</p>
-                      <p className={`text-sm mt-1 ${isYou ? "text-primary-foreground/70" : "text-muted-foreground"}`}>
-                        {line.german}
+          <div className="rounded-2xl border border-border bg-muted/30 p-5 shadow-inner">
+            <div className="space-y-4">
+              {dialogue.lines.map((line, i) => {
+                const isYou = line.speaker === "You";
+                return (
+                  <div key={i} className={`flex ${isYou ? "justify-end" : "justify-start"}`}>
+                    <div className={`max-w-[80%] ${isYou ? "items-end" : "items-start"}`}>
+                      <p className={`text-xs font-semibold uppercase tracking-wide mb-1 ${
+                        isYou ? "text-right text-primary" : "text-secondary"
+                      }`}>
+                        {line.speaker}
                       </p>
-                      <p className={`text-sm italic ${isYou ? "text-primary-foreground/60" : "text-muted-foreground/80"}`}>
-                        {line.english}
-                      </p>
+                      <div className={`rounded-2xl px-4 py-3 ${
+                        isYou
+                          ? "bg-primary text-primary-foreground rounded-br-md"
+                          : "bg-background rounded-bl-md shadow-sm"
+                      }`}>
+                        <p className="font-semibold">{line.swissGerman}</p>
+                        <p className={`text-sm mt-1 ${isYou ? "text-primary-foreground/70" : "text-muted-foreground"}`}>
+                          {line.german}
+                        </p>
+                        <p className={`text-sm italic ${isYou ? "text-primary-foreground/60" : "text-muted-foreground/80"}`}>
+                          {line.english}
+                        </p>
+                      </div>
                     </div>
                   </div>
-                </div>
-              );
-            })}
+                );
+              })}
+            </div>
           </div>
         </section>
 
