@@ -5,6 +5,7 @@ import path from "path";
 
 // https://vitejs.dev/config/
 export default defineConfig(() => ({
+  base: "/demo/learn-swiss-german/",
   server: {
     host: "::",
     port: 5306,

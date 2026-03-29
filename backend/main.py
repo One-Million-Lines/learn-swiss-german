@@ -29,7 +29,6 @@ app.add_middleware(
         "www.onemillionlines.com",
         "https://onemillionlines.com",
         "https://www.onemillionlines.com",
-        "https://api.onemillionlines.com",
     ],
     allow_credentials=True,
     allow_methods=["*"],
