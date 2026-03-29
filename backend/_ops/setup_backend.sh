@@ -1,8 +1,7 @@
 #!/bin/bash
-set -e
 
 # Resolve the backend directory (one level up from _ops/)
-SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 BACKEND_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
 
 echo "Setting up Python environment in: $BACKEND_DIR"
@@ -37,5 +36,4 @@ fi
 echo ""
 echo "Setup complete. To start the server:"
 echo "  source $BACKEND_DIR/.venv/bin/activate"
-echo "  cd $BACKEND_DIR && uvicorn main:app --host 0.0.0.0 --port 5020"
 
