@@ -25,7 +25,7 @@ const App = () => (
         <ProgressProvider>
           <Toaster />
           <Sonner />
-          <BrowserRouter>
+          <BrowserRouter basename={import.meta.env.BASE_URL}>
             <div className="flex flex-col min-h-screen">
               <Navigation />
               <Routes>
