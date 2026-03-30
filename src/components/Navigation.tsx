@@ -71,15 +71,7 @@ const Navigation = () => {
                   <span className="hidden md:inline">Logout</span>
                 </Button>
               </>
-            ) : (
-              <Button 
-                variant="default" 
-                size="sm" 
-                onClick={() => navigate('/auth')}
-              >
-                Sign In
-              </Button>
-            )}
+            ) : null}
           </div>
 
           <div className="md:hidden flex items-center space-x-1 overflow-x-auto">
