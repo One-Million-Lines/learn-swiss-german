@@ -1,147 +1,503 @@
 import json
+import math
 import os
 import re
-
-from yaml import tokens
-
-from vtutils.vtlogger import getLog
-from openai import APIError, APIConnectionError, APITimeoutError, OpenAIError, RateLimitError, PermissionDeniedError
 import time
+from typing import List, Optional
 
-# from litellm import completion
-# TODO > Remove this class and use generativeLLM2 with this name.
+import litellm
+from litellm import completion, embedding
+
+from vtutils.misc import resolve_project_file_path
+from vtutils.vtlogger import getLog
+
+# silence litellm's own logging unless needed
+litellm.suppress_debug_info = True
+
+# TODO > replace old generative_llm.py with this new one and remove old one
 
 
+# map of known provider prefixes used by litellm
+_PROVIDER_PREFIXES = {
+    "openai":    "",              # gpt-4o-mini → gpt-4o-mini
+    "anthropic": "anthropic/",    # claude-3-… → anthropic/claude-3-…
+    "gemini":    "gemini/",       # gemini-1.5-flash → gemini/gemini-1.5-flash
+    "vertexai":  "vertex_ai/",    # gemini-2.5-flash → vertex_ai/gemini-2.5-flash
+}
 
-class GenerativeLLM(object):
-    def __init__(self, openai_client, genai_client=None):
-        self.openai_client = openai_client
-        self.genai_client = genai_client    
+
+class GenerativeLLM:
+    """Unified LLM wrapper powered by litellm.
+
+    Accepts a configuration dict with ``env_config`` containing API keys::
+
+        configuration["env_config"] = {
+            "openai":    {"apiKey": "sk-..."},
+            "gemini":    {"apiKey": "AIza..."},
+            "anthropic": {"apiKey": "sk-ant-..."},
+        }
+
+    Any model string accepted by litellm can be passed to ``call()``.
+    Short-hand names (e.g. ``"gpt-4o-mini"``, ``"claude-sonnet-4-20250514"``,
+    ``"gemini-1.5-flash"``) are auto-prefixed for litellm.
+    """
+
+    DEFAULT_MODEL = "gpt-4o-mini"
+
+    def __init__(self, configuration: dict):
+
         self.vtlog = getLog("genai")
 
-    def call_openai_tools (self, message_list, tools_list=None, llm_model="gpt-4o-mini", temperature=0.1, response_format="json", retry_count=0, reasoning_effort=None):
-        # self.vtlog.debug("openai_call", llm_model=llm_model, temperature=temperature, response_format=response_format, retry_count=retry_count)
-        # make_openai_request
-        # had "gpt-3.5-turbo" or "gpt-4o"
-        if not llm_model:
-            llm_model = "gpt-4o-mini"
-        try:
-            openai_params = {
-                "model": llm_model,
-                "messages": message_list
-            } 
-            # gpt-5 doesn't accept temperature
-            if temperature is not None and not llm_model.startswith("gpt-5"):
-                openai_params["temperature"] = temperature
-            # we configure response_format
-            if response_format == "json":
-                openai_params["response_format"] = {"type": "json_object"}
-            if tools_list:
-                openai_params["tools"] = tools_list
-                openai_params["tool_choice"] = "none"
+        # set API keys as env vars so litellm picks them up
+        self.gemini_key    = configuration.get("GOOGLE_GENAI_APIKEY") or ""
+        self.openai_key    = configuration.get("OPENAI_APIKEY") or ""
+        self.anthropic_key = configuration.get("ANTHROPIC_API_KEY") or ""
 
-            if llm_model.startswith("gpt-5") and reasoning_effort:
-                openai_params["reasoning_effort"] = reasoning_effort
+        self.vertexai_key = configuration.get("VERTEXAI_APIKEY") or ""
 
-            response = self.openai_client.chat.completions.create(**openai_params)
-            # we might have a problem from openai
-            if not response:
-                self.vtlog.error("no_response_from_openai",exc=exc, message_list=message_list[0]["content"])
-                return None, {"tokens": 0}
-            # it returns the content
-            response_message = response.choices[0].message.content
-            # print (response['usage']['total_tokens']) # prompt_tokens and completion_tokens available
-            # add response.usage.total_tokens to the response
-            if response_format == "json":
-                try:
-                    # simple cleaning of response_message. Sometimes this includes huge number of empty lines
-                    s = re.sub(r"(?m)(?:\r?\n[ \t]*){3,}", "\n", response_message)
-                    response_message = json.loads(s)
-                except Exception as exc:
-                    self.vtlog.error("no_valid_json_response", exc=exc, response_message=response_message)
-            
-            # we return response.usage.total_tokens
-            tokens = getattr(response, "usage", None)
-            total_tokens = getattr(tokens, "total_tokens", 0) if tokens else 0
-            return response_message, {"tokens": total_tokens}
-        
-        except APIError as e:
-            # This is the most common exception for API-related errors
-            status_code = getattr(e, "status_code", None)
-            if status_code is None:
-                status_code = getattr(e, "code", None)
-            error_message = getattr(e, "message", str(e))
-            # retries for 500 errors max 3 times.
-            if status_code == 500 and retry_count < 3:
-                # Retry logic for 500 errors
-                self.vtlog.debug(
-                    "openai_api_retry",
-                    status_code=status_code,
-                    exc=e,
-                    message_list=message_list[0]["content"][:100],
-                    retry_count=retry_count
+        self.google_sa_json = configuration.get("GOOGLE_SA") or None
+        self.vertex_credentials_json = None
+        if self.google_sa_json:
+            json_file_path = resolve_project_file_path(
+                self.google_sa_json.get("json_file")
+            )
+            if json_file_path and os.path.isfile(json_file_path):
+                with open(json_file_path, "r") as file:
+                    vertex_credentials = json.load(file)
+                    self.vertex_credentials_json = json.dumps(vertex_credentials)
+            else:
+                self.vtlog.error(
+                    "google_sa_file_not_found",
+                    json_file=self.google_sa_json.get("json_file"),
+                    resolved_path=json_file_path,
                 )
-                # some backoff
-                time.sleep(2 ** retry_count)  # Exponential backoff
-                return self.call_openai_tools(message_list, tools_list, llm_model, temperature, 
-                                              response_format=response_format, retry_count=retry_count + 1)
-
-            elif status_code == 400 and "context_length_exceeded" in e.message:
-                # Handle 400 errors (Bad Request)
-                pass
-
-            # we log the errror
-            self.vtlog.error(
-                "openai_api_error",
-                status_code=status_code,
-                exc=e,
-                message_list=message_list[0]["content"][:100]
-            )
-            # You can decide how to handle or re-raise the error here
-            return None, {"tokens": 0, "error": f"API Error: {status_code} - {error_message}"}
         
-        except APITimeoutError as e:
-            # Specific error for timeouts
-            self.vtlog.error(
-                "openai_api_timeout",
-                exc=e, # Timeout error might not have a status_code attribute directly
-                message_list=message_list[0]["content"][:100]
+
+        # # sets the keys as environment variables for litellm to use
+        # if openai_key:
+        #     os.environ.setdefault("OPENAI_API_KEY", openai_key)
+        # if gemini_key:
+        #     os.environ.setdefault("GEMINI_API_KEY", gemini_key)
+        # if anthropic_key:
+        #     os.environ.setdefault("ANTHROPIC_API_KEY", anthropic_key)
+
+    # ── public API ───────────────────────────────────────────────────────────
+
+
+    def get_models(
+        self,
+        provider: Optional[str] = None,
+        grouped: bool = False,
+        check_provider_endpoint: bool = False,
+    ):
+        """Return provider-aware model lists.
+
+        Args:
+            provider: One of openai, gemini, vertexai, anthropic.
+                If set, returns a list only for that provider.
+            grouped: If True, returns a dict grouped by provider.
+            check_provider_endpoint: If True, ask provider APIs via LiteLLM when possible.
+                Falls back to LiteLLM's local provider model catalog on failure.
+        """
+        supported = ["openai", "gemini", "vertexai", "anthropic"]
+
+        if provider:
+            normalized_provider = self._normalize_provider_name(provider)
+            if normalized_provider not in supported:
+                self.vtlog.error("unsupported_provider_for_model_list", provider=provider)
+                return []
+            return self._get_models_for_provider(
+                normalized_provider, check_provider_endpoint=check_provider_endpoint
             )
-            return None, {"tokens": 0, "error": f"API Timeout: {e}"}
 
-        except APIConnectionError as e:
-            # Specific error for connection issues
-            self.vtlog.error(
-                "openai_api_connection_error",
-                exc=e,
-                message_list=message_list[0]["content"][:100]
+        by_provider = {
+            p: self._get_models_for_provider(
+                p, check_provider_endpoint=check_provider_endpoint
             )
-            return None, {"tokens": 0, "error": f"API Connection Error: {e}"}
+            for p in supported
+        }
 
-        except Exception as e:
-            # we only print first element from the list because it might be too long
-            if "context_length_exceeded" in str(e):
-                message_list[0]["content"] = message_list[0]["content"][:100]
-            
+        if grouped:
+            return by_provider
 
-            self.vtlog.error("openai_error", exc=e, msg_list=message_list[0])
-            return None, {"tokens": 0}
-    
+        # backward-compatible: flattened unique list
+        all_models = []
+        for p in supported:
+            all_models.extend(by_provider[p])
+        return sorted(set(all_models))
 
+    def call(self, message_list: list, *,
+             tools_list: list = None,
+             llm_model: str = None,
+             temperature: float = 0.1,
+             response_format: str = "json",
+             max_tokens: int = None,
+             reasoning_effort: str = None,
+            logprobs: bool = False,
+             retry_count: int = 0) -> tuple:
+        """Send a chat completion via litellm. Returns (response, meta).
 
-    def get_embeddings(self, input_message, model="text-embedding-3-small"):
+        ``response_format`` can be ``"json"`` or ``"text"``.
+        """
+        model = self._resolve_model(llm_model or self.DEFAULT_MODEL)
+
         try:
-            # we replace new lines with space
-            input_message = input_message.replace("\n", ' ').replace("\r", "")
-            openai_params = {
+            params: dict = {
                 "model": model,
-                "input": input_message,
-                "encoding_format": "float"
+                "messages": message_list,
             }
-            response = self.openai_client.embeddings.create(**openai_params)
-            # it returns the content
-            return response.data[0].embedding
+
+            api_key = self._api_key_for_model(model)
+            if api_key:
+                params["api_key"] = api_key
+
+            # temperature (some reasoning models ignore it)
+            if temperature is not None and not model.startswith(("o5", "gpt-5")):
+                params["temperature"] = temperature
+
+            if max_tokens:
+                params["max_tokens"] = max_tokens
+
+            # json mode
+            if response_format == "json":
+                params["response_format"] = {"type": "json_object"}
+
+            # tools
+            if tools_list:
+                params["tools"] = tools_list
+                params["tool_choice"] = "auto"
+            
+            # vertexai authenticates with credentials
+            if model.startswith("vertex_ai/") and self.vertex_credentials_json:
+                params["vertex_credentials"] = self.vertex_credentials_json
+                params["vertex_location"] = "global" # "us-central1"  # or "europe-west1", etc. - this is required for reasoning_effort to work with vertex_ai models
+
+            # vertex_ai_location
+
+            # reasoning effort (o-series / gpt-5)
+            # this param needs to be added depending on the model capabilities, otherwise it can cause errors
+            if reasoning_effort and model.startswith(("o4", "gpt-5")):
+                params["reasoning_effort"] = reasoning_effort
+
+            if reasoning_effort and model.startswith("vertex_ai/"):
+                # can be low or high or minimal, low, medium, or high (gemini 3 flash)
+                params["thinking_level"] = reasoning_effort
+                
+            # logprobs params are only supported by some models, so we add them conditionally
+            if logprobs and (model.startswith("o3") or model.startswith("gpt-4o")):
+                # this works only when response schema is simple?
+                # response_schema = {"type": "STRING", "enum": ["Positive", "Negative", "Neutral"]}
+                params["logprobs"] = True  # default is False
+                params["top_logprobs"] = logprobs # get logprobs for top 5 tokens [1-20]
+                """
+                Prompt must be like this. Must answer with 0,1,2,3 or A,B,C,D according to options. Text only short.
+                "Based on the email above, choose the best category ID from the list:
+                [List of 1-10 with definitions]
+
+                Category ID:"
+
+                TODO > also set
+                max_tokens: 1
+                temperature: 0
+                """
+
+
+            # this is actually the call to litellm
+            response = completion(**params)
+
+            if not response:
+                self.vtlog.error("no_response", model=model)
+                return None, {"tokens": 0}
+
+            response_message = response.choices[0].message.content
+
+            # token usage
+            usage = getattr(response, "usage", None)
+            total_tokens = getattr(usage, "total_tokens", 0) if usage else 0
+            meta = {"tokens": total_tokens, "model": model}
+            if logprobs:
+                meta["logprobs"] = self._extract_logprobs(response.choices[0])
+
+            # parse json if requested
+            if response_format == "json" and isinstance(response_message, str):
+                response_message = self._parse_json(response_message)
+
+            return response_message, meta
 
         except Exception as e:
-            self.vtlog.error("openai_error", exc=e, input_data=input_message)
+            return self._handle_error(
+                e, message_list, tools_list, model, temperature,
+                response_format, max_tokens, reasoning_effort, retry_count,
+            )
+
+    # keep backward-compat aliases
+    def call_openai_tools(self, message_list, tools_list=None,
+                          llm_model="gpt-4o-mini", temperature=0.1,
+                          response_format="json", retry_count=0,
+                          reasoning_effort=None):
+        return self.call(message_list, tools_list=tools_list,
+                         llm_model=llm_model, temperature=temperature,
+                         response_format=response_format,
+                         reasoning_effort=reasoning_effort,
+                         retry_count=retry_count)
+
+    def get_embeddings(self, input_message: str,
+                       model: str = "text-embedding-3-small"):
+        """Return embedding vector via litellm."""
+        try:
+            input_message = input_message.replace("\n", " ").replace("\r", "")
+            resolved_model = self._resolve_model(model)
+            params = {
+                "model": resolved_model,
+                "input": [input_message],
+            }
+            api_key = self._api_key_for_model(resolved_model)
+            if api_key:
+                params["api_key"] = api_key
+
+            if model.startswith("vertex_ai/") and self.vertex_credentials_json:
+                params["vertex_credentials"] = self.vertex_credentials_json
+                params["vertex_location"] = "global" # "us-central1"  # or "europe-west1", etc. - this is required for reasoning_effort to work with vertex_ai models
+                
+            # this is the call to embedding endpoint in litellm
+            # can also have api_key, api_base here
+            response = embedding(**params)
+            return response.data[0]["embedding"]
+        except Exception as e:
+            self.vtlog.error("embedding_error", exc=e, model=model,
+                             input_data=input_message[:200])
             return None
+
+    # ── internals ────────────────────────────────────────────────────────────
+
+    @staticmethod
+    def _resolve_model(model: str) -> str:
+        """Add litellm provider prefix if the model name is bare."""
+        if "/" in model:
+            return model  # already prefixed (e.g. anthropic/claude-…)
+
+        if model.startswith(("gpt-", "o1", "o3", "o4")):
+            return model  # openai models don't need prefix
+        if model.startswith("claude"):
+            return f"anthropic/{model}"
+        if model.startswith("gemini"):
+            return f"gemini/{model}"
+
+        return model  # unknown → pass through
+
+    @staticmethod
+    def _provider_for_model(model: str):
+        if not model:
+            return None
+
+        if model.startswith("models/gemini"):
+            return "gemini"
+
+        if "/" in model:
+            provider_prefix = model.split("/", 1)[0]
+            if provider_prefix in _PROVIDER_PREFIXES:
+                return provider_prefix
+
+        if model.startswith("claude"):
+            return "anthropic"
+        if model.startswith("gemini"):
+            return "gemini"
+        if model.startswith("vertex_ai"):
+            return "vertexai"
+        if model.startswith(("gpt-", "o1", "o3", "o4", "o5", "text-embedding-")):
+            return "openai"
+
+        return None
+
+    @staticmethod
+    def _normalize_provider_name(provider: str) -> Optional[str]:
+        if not provider:
+            return None
+        p = provider.strip().lower()
+        aliases = {
+            "vertex_ai": "vertexai",
+            "vertexai": "vertexai",
+            "google": "gemini",
+            "google_genai": "gemini",
+        }
+        return aliases.get(p, p)
+
+    @staticmethod
+    def _to_litellm_provider_name(provider: str) -> str:
+        return "vertex_ai" if provider == "vertexai" else provider
+
+    @staticmethod
+    def _normalize_model_name_for_provider(provider: str, model_name: str) -> str:
+        model_name = (model_name or "").strip()
+        if not model_name:
+            return ""
+
+        # preserve already-prefixed or special gemini "models/..." naming
+        if "/" in model_name:
+            if provider == "openai":
+                return model_name
+            if provider == "gemini" and model_name.startswith("models/"):
+                return model_name
+            if provider == "vertexai" and model_name.startswith("models/"):
+                return f"vertex_ai/{model_name}"
+
+            provider_prefix = {
+                "anthropic": "anthropic/",
+                "gemini": "gemini/",
+                "vertexai": "vertex_ai/",
+            }.get(provider)
+            if provider_prefix and model_name.startswith(provider_prefix):
+                return model_name
+            if provider_prefix:
+                return provider_prefix + model_name
+            return model_name
+
+        prefix = _PROVIDER_PREFIXES.get(provider, "")
+        return f"{prefix}{model_name}" if prefix else model_name
+
+    def _list_provider_models_from_litellm(
+        self, provider: str, check_provider_endpoint: bool
+    ) -> List[str]:
+        litellm_provider = self._to_litellm_provider_name(provider)
+        api_key = self._api_key_for_provider(provider)
+
+        models = litellm.get_valid_models(
+            custom_llm_provider=litellm_provider,
+            check_provider_endpoint=check_provider_endpoint,
+            api_key=api_key,
+        )
+        return models or []
+
+    def _list_provider_models_from_catalog(self, provider: str) -> List[str]:
+        litellm_provider = self._to_litellm_provider_name(provider)
+        provider_models = litellm.models_by_provider.get(litellm_provider, [])
+        if isinstance(provider_models, (set, tuple)):
+            provider_models = list(provider_models)
+        return provider_models or []
+
+    def _get_models_for_provider(
+        self, provider: str, check_provider_endpoint: bool = False
+    ) -> List[str]:
+        models = []
+        try:
+            models = self._list_provider_models_from_litellm(
+                provider, check_provider_endpoint=check_provider_endpoint
+            )
+        except Exception as e:
+            self.vtlog.error(
+                "provider_model_list_error",
+                provider=provider,
+                check_provider_endpoint=check_provider_endpoint,
+                exc=e,
+            )
+
+        # fallback to local LiteLLM model catalog
+        if not models:
+            models = self._list_provider_models_from_catalog(provider)
+
+        normalized = [
+            self._normalize_model_name_for_provider(provider, m) for m in models
+        ]
+        return sorted({m for m in normalized if m})
+
+    def _api_key_for_model(self, model: str):
+        provider = self._provider_for_model(model)
+        if provider == "openai":
+            return self.openai_key or None
+        if provider == "gemini":
+            return self.gemini_key or None
+        if provider == "vertexai":
+            return self.vertexai_key or None
+        if provider == "anthropic":
+            return self.anthropic_key or None
+        return None
+
+    def _api_key_for_provider(self, provider: str):
+        if provider == "openai":
+            return self.openai_key or None
+        if provider == "gemini":
+            return self.gemini_key or None
+        if provider == "vertexai":
+            return self.vertexai_key or None
+        if provider == "anthropic":
+            return self.anthropic_key or None
+        return None
+
+    @staticmethod
+    def _extract_logprobs(choice) -> Optional[dict]:
+        """Normalize LiteLLM/OpenAI logprobs into token -> probability mappings."""
+        choice_logprobs = getattr(choice, "logprobs", None)
+        content = getattr(choice_logprobs, "content", None) or []
+        if not content:
+            return None
+
+        tokens = []
+        for token_info in content:
+            token_logprob = getattr(token_info, "logprob", None)
+            top_logprobs = getattr(token_info, "top_logprobs", None) or []
+
+            tokens.append({
+                "token": getattr(token_info, "token", None),
+                "logprob": token_logprob,
+                "probability": math.exp(token_logprob) if token_logprob is not None else None,
+                "top_logprobs": {
+                    item.token: math.exp(item.logprob)
+                    for item in top_logprobs
+                    if getattr(item, "token", None) is not None and getattr(item, "logprob", None) is not None
+                },
+            })
+
+        return {
+            "tokens": tokens,
+            "first_token_top_logprobs": tokens[0]["top_logprobs"],
+        }
+
+    def _parse_json(self, text: str):
+        """Try to parse JSON from response text."""
+        try:
+            # we might be sending prompt like this and getting response like this, so we need to clean it before parsing
+            if isinstance(text, str):
+                if text.startswith("```json"):
+                    text = text[7:].strip()
+                if text.startswith("```"):
+                    text = text[3:].strip()
+                if text.endswith("```"):
+                    text = text[:-3].strip()
+
+            s = re.sub(r"(?m)(?:\r?\n[ \t]*){3,}", "\n", text)
+            return json.loads(s)
+        except Exception as exc:
+            self.vtlog.error("no_valid_json_response", exc=exc,
+                             response_message=text[:500])
+            return text
+
+    def _handle_error(self, e, message_list, tools_list, model,
+                      temperature, response_format, max_tokens,
+                      reasoning_effort, retry_count) -> tuple:
+        """Unified error handling with exponential-backoff retry."""
+        status_code = getattr(e, "status_code", None) or getattr(e, "code", None)
+        error_message = getattr(e, "message", str(e))
+        first_msg = (message_list[0]["content"][:100]
+                     if message_list else "")
+
+        # retry on 500 up to 3 times
+        if status_code == 500 and retry_count < 3:
+            self.vtlog.debug("llm_retry", model=model,
+                             status_code=status_code, exc=e,
+                             message_list=first_msg,
+                             retry_count=retry_count)
+            time.sleep(2 ** retry_count)
+            return self.call(
+                message_list, tools_list=tools_list,
+                llm_model=model, temperature=temperature,
+                response_format=response_format,
+                max_tokens=max_tokens,
+                reasoning_effort=reasoning_effort,
+                retry_count=retry_count + 1,
+            )
+
+        self.vtlog.error("llm_error", model=model,
+                         status_code=status_code, exc=e,
+                         message_list=first_msg)
+        return None, {"tokens": 0,
+                      "error": f"{type(e).__name__}: {status_code} - {error_message}"}
