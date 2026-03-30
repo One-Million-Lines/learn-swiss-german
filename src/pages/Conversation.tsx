@@ -13,8 +13,23 @@ const SubtopicPage = () => {
   const { subtopicId } = useParams<{ subtopicId: string }>();
   const [dialogueIdx, setDialogueIdx] = useState(0);
   const [visited, setVisited] = useState<Set<number>>(new Set([0]));
-  const [showEnglish, setShowEnglish] = useState(true);
-  const [showSpanish, setShowSpanish] = useState(false);
+  const [showEnglish, setShowEnglish] = useState(() => {
+    const saved = localStorage.getItem("lsg-lang-english");
+    return saved !== null ? saved === "true" : true;
+  });
+  const [showSpanish, setShowSpanish] = useState(() => {
+    const saved = localStorage.getItem("lsg-lang-spanish");
+    return saved !== null ? saved === "true" : false;
+  });
+
+  const toggleEnglish = (v: boolean) => {
+    setShowEnglish(v);
+    localStorage.setItem("lsg-lang-english", String(v));
+  };
+  const toggleSpanish = (v: boolean) => {
+    setShowSpanish(v);
+    localStorage.setItem("lsg-lang-spanish", String(v));
+  };
 
   const { data: sub, isLoading } = useQuery<Subtopic>({
     queryKey: ["subtopic", subtopicId],
@@ -104,7 +119,7 @@ const SubtopicPage = () => {
                 variant="outline"
                 size="sm"
                 pressed={showEnglish}
-                onPressedChange={setShowEnglish}
+                onPressedChange={toggleEnglish}
                 aria-label="Toggle English"
                 className="text-xs gap-1.5"
               >
@@ -114,7 +129,7 @@ const SubtopicPage = () => {
                 variant="outline"
                 size="sm"
                 pressed={showSpanish}
-                onPressedChange={setShowSpanish}
+                onPressedChange={toggleSpanish}
                 aria-label="Toggle Spanish"
                 className="text-xs gap-1.5"
               >
