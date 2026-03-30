@@ -46,7 +46,7 @@ const Home = () => {
               Grüezi! 🇨🇭
             </h1>
             <p className="text-xl md:text-2xl text-white/90 mb-8 leading-relaxed">
-              Learn Swiss German through real conversations and everyday situations.
+              Learn Swiss German through real conversations and everyday situations. Using English, German and Spanish.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <Link to="/topics">
