@@ -1,0 +1,523 @@
+{
+  "id": "weather-daily",
+  "topicId": "daily-life",
+  "title": "Weather & Daily Plans",
+  "description": "Understanding forecasts, asking about weather conditions, and planning activities around the weather",
+  "dialogues": [
+    {
+      "id": "weather-1",
+      "level": "beginner",
+      "title": "Talking about today's weather",
+      "situation": "You chat about the weather with a colleague.",
+      "lines": [
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Hüt isch es aber schön! Häsch gseh wie blau de Himmel isch?",
+          "german": "Heute ist es aber schön! Hast du gesehen wie blau der Himmel ist?",
+          "english": "It's really nice today! Have you seen how blue the sky is?",
+          "spanish": "¡Hace muy buen tiempo hoy! ¿Has visto qué azul está el cielo?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, mega! Und warm isch es au — sicher 25 Grad.",
+          "german": "Ja, mega! Und warm ist es auch — sicher 25 Grad.",
+          "english": "Yes, amazing! And it's warm too — surely 25 degrees.",
+          "spanish": "Sí, ¡increíble! Y también hace calor — seguro que 25 grados."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Gömmer am Mittag use? En Salat am See?",
+          "german": "Gehen wir mittags raus? Ein Salat am See?",
+          "english": "Shall we go outside at lunch? A salad by the lake?",
+          "spanish": "¿Salimos a comer fuera al mediodía? Una ensalada junto al lago."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, super Idee! Aber d'Wettervorhersag seit, am Namittag chönnts gwittere.",
+          "german": "Ja, super Idee! Aber die Wettervorhersage sagt, am Nachmittag könnte es gewittern.",
+          "english": "Yes, great idea! But the forecast says it might thunder in the afternoon.",
+          "spanish": "Sí, ¡buena idea! Pero el pronóstico dice que puede tronar por la tarde."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Denn am beschte am Zwölfi go. Bevor d'Gwitter chömed.",
+          "german": "Dann am besten um zwölf gehen. Bevor die Gewitter kommen.",
+          "english": "Then best to go at twelve. Before the thunderstorms come.",
+          "spanish": "Entonces mejor ir a las doce. Antes de que lleguen las tormentas."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Ich ha s'Zmittag scho parat — en Salat vom Migros. Bisch debii?",
+          "german": "Ich habe das Mittagessen schon parat — ein Salat vom Migros. Bist du dabei?",
+          "english": "I already have lunch ready — a salad from Migros. Are you in?",
+          "spanish": "Ya tengo el almuerzo listo — una ensalada de Migros. ¿Te apuntas?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Mega! Ich bring au es Wasser mit. Mir treffe eus am Zwölfi bim Brunne.",
+          "german": "Mega! Ich bringe auch Wasser mit. Wir treffen uns um zwölf beim Brunnen.",
+          "english": "Awesome! I'll bring water too. Let's meet at twelve at the fountain.",
+          "spanish": "¡Genial! También traeré agua. Quedamos a las doce en la fuente."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Guet Plan! Ich nimm min Schirm trotzdem mit.",
+          "german": "Guter Plan! Ich nehme meinen Schirm trotzdem mit.",
+          "english": "Good plan! I'll take my umbrella anyway.",
+          "spanish": "¡Buen plan! De todas formas me llevo el paraguas."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "mega",
+          "german": "mega/toll",
+          "explanation": "'mega' = amazing/great. Very common Swiss expression."
+        },
+        {
+          "swissGerman": "use",
+          "german": "raus/nach draußen",
+          "explanation": "'use' = outside/out. Swiss form."
+        },
+        {
+          "swissGerman": "gwittere",
+          "german": "gewittern",
+          "explanation": "'gwittere' = to thunder. Swiss form."
+        },
+        {
+          "swissGerman": "Schirm",
+          "german": "Regenschirm",
+          "explanation": "'Schirm' = umbrella. Short form used in Swiss German."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "mega",
+          "german": "toll/super",
+          "english": "amazing"
+        },
+        {
+          "swissGerman": "gwittere",
+          "german": "gewittern",
+          "english": "to thunder"
+        },
+        {
+          "swissGerman": "Schirm",
+          "german": "Regenschirm",
+          "english": "umbrella"
+        }
+      ]
+    },
+    {
+      "id": "weather-2",
+      "level": "intermediate",
+      "title": "Asking about the forecast",
+      "situation": "You ask about the weather forecast for the weekend.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Häsch gluegt wie s'Wätter am Wuchenänd wird?",
+          "german": "Hast du geschaut wie das Wetter am Wochenende wird?",
+          "english": "Have you checked what the weather will be like this weekend?",
+          "spanish": "¿Has visto qué tiempo hará este fin de semana?"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Ja! Am Samschtig sölls schön wärde, aber am Sunntig Räge.",
+          "german": "Ja! Am Samstag soll es schön werden, aber am Sonntag Regen.",
+          "english": "Yes! Saturday should be nice, but Sunday rain.",
+          "spanish": "Sí, el sábado debería hacer buen tiempo, pero el domingo llueve."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Wie heiss wirds am Samschtig?",
+          "german": "Wie heiß wird es am Samstag?",
+          "english": "How hot will it be on Saturday?",
+          "spanish": "¿Cuánto calor hará el sábado?"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "D'MeteoSchwiiz seit 28 Grad. Fast Badiwätter!",
+          "german": "MeteoSchweiz sagt 28 Grad. Fast Badewetter!",
+          "english": "MeteoSwiss says 28 degrees. Almost swimming weather!",
+          "spanish": "MeteoSwiss dice 28 grados. ¡Casi tiempo de piscina!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt! Denn gömmer am Samschtig ad Badi und am Sunntig is Muuseum.",
+          "german": "Perfekt! Dann gehen wir am Samstag ins Schwimmbad und am Sonntag ins Museum.",
+          "english": "Perfect! Then we'll go to the pool on Saturday and to the museum on Sunday.",
+          "spanish": "¡Perfecto! Entonces el sábado vamos a la piscina y el domingo al museo."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und am Sunntig Nachmittag — isch s'Muuseum innen guet lüpft?",
+          "german": "Und am Sonntagsnachmittag — ist das Museum innen gut belüftet?",
+          "english": "And Sunday afternoon — is the museum well ventilated inside?",
+          "spanish": "¿Y el domingo por la tarde — el museo está bien ventilado por dentro?"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Ja, s'Landesmuuseum isch grosszügig und küehl — perfekt für Rägetag.",
+          "german": "Ja, das Landesmuseum ist großzügig und kühl — perfekt für Regentage.",
+          "english": "Yes, the National Museum is spacious and cool — perfect for rainy days.",
+          "spanish": "Sí, el Museo Nacional es espacioso y fresco — perfecto para los días lluviosos."
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Guete Plan. Aber lueg no mal am Fritig — i de Schwiz isch s'Wätter unberechebar!",
+          "german": "Guter Plan. Aber schau nochmal am Freitag — in der Schweiz ist das Wetter unberechenbar!",
+          "english": "Good plan. But check again on Friday — in Switzerland the weather is unpredictable!",
+          "spanish": "Buen plan. Pero comprueba de nuevo el viernes — ¡en Suiza el tiempo es impredecible!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Wätter",
+          "german": "Wetter",
+          "explanation": "'Wätter' = 'Wetter'. Weather. Swiss form."
+        },
+        {
+          "swissGerman": "Badi",
+          "german": "Schwimmbad/Freibad",
+          "explanation": "'Badi' = outdoor swimming pool. Very Swiss word."
+        },
+        {
+          "swissGerman": "MeteoSchwiiz",
+          "german": "MeteoSchweiz",
+          "explanation": "Swiss national weather service. Very trusted."
+        },
+        {
+          "swissGerman": "unberechebar",
+          "german": "unberechenbar",
+          "explanation": "'unberechebar' = unpredictable. Swiss alpine weather."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Wätter",
+          "german": "Wetter",
+          "english": "weather"
+        },
+        {
+          "swissGerman": "Badi",
+          "german": "Schwimmbad",
+          "english": "swimming pool"
+        },
+        {
+          "swissGerman": "MeteoSchwiiz",
+          "german": "MeteoSchweiz",
+          "english": "Swiss weather service"
+        }
+      ]
+    },
+    {
+      "id": "weather-3",
+      "level": "beginner",
+      "title": "Cold and rainy day",
+      "situation": "It's a cold, rainy day and you talk about it.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Ugh, es rägnet scho de ganz Tag!",
+          "german": "Ugh, es regnet schon den ganzen Tag!",
+          "english": "Ugh, it's been raining all day!",
+          "spanish": "¡Ugh, ha estado lloviendo todo el día!"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Ja, und s'isch huuchalt. De Föhn isch verbi.",
+          "german": "Ja, und es ist eiskalt. Der Föhn ist vorbei.",
+          "english": "Yes, and it's freezing. The Föhn wind is over.",
+          "spanish": "Sí, y hace frío. El viento Föhn ha terminado."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Wie chalt isch es etz? Ich ha kei Winterjacke aagha.",
+          "german": "Wie kalt ist es jetzt? Ich hatte keine Winterjacke an.",
+          "english": "How cold is it now? I wasn't wearing a winter jacket.",
+          "spanish": "¿Cuánto frío hace ahora? No iba con chaqueta de invierno."
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Öppe 8 Grad. Und de Wind machts no chälter.",
+          "german": "Ungefähr 8 Grad. Und der Wind macht es noch kälter.",
+          "english": "About 8 degrees. And the wind makes it even colder.",
+          "spanish": "Unos 8 grados. Y el viento lo hace aún más frío."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Mir isch chalt! Gömmer ine go en warme Tee trinke?",
+          "german": "Mir ist kalt! Gehen wir rein und trinken einen warmen Tee?",
+          "english": "I'm cold! Shall we go inside for a warm tea?",
+          "spanish": "¡Tengo frío! ¿Entramos a tomar un té caliente?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Chöme mir noch en warme Schoggi beschtelle? Da isch s'Kafi ganz gmüetlich.",
+          "german": "Können wir noch eine warme Schokolade bestellen? Hier ist das Café sehr gemütlich.",
+          "english": "Can we also order a warm chocolate? This café is very cozy.",
+          "spanish": "¿También podemos pedir un chocolate caliente? Este café es muy acogedor."
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Ja, und ich nimm en Ziimt-Gipfeli dezue. Perfekts Räge-Ritual!",
+          "german": "Ja, und ich nehme ein Zimt-Gipfeli dazu. Perfektes Regen-Ritual!",
+          "english": "Yes, and I'll take a cinnamon croissant too. Perfect rainy day ritual!",
+          "spanish": "Sí, y también pediré un croissant de canela. ¡El ritual perfecto para un día lluvioso!"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Ja, gueti Idee. Im Kafi isch es gmüetlich.",
+          "german": "Ja, gute Idee. Im Café ist es gemütlich.",
+          "english": "Yes, good idea. It's cozy in the café.",
+          "spanish": "Sí, buena idea. Es acogedor en el café."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "rägnet",
+          "german": "regnet",
+          "explanation": "'rägnet' = 'regnet'. It rains. Swiss form."
+        },
+        {
+          "swissGerman": "Föhn",
+          "german": "Föhn",
+          "explanation": "Warm dry wind from the Alps. Can cause sudden temperature changes."
+        },
+        {
+          "swissGerman": "chalt",
+          "german": "kalt",
+          "explanation": "'chalt' = 'kalt'. Cold. K→Ch."
+        },
+        {
+          "swissGerman": "gmüetlich",
+          "german": "gemütlich",
+          "explanation": "'gmüetlich' = 'gemütlich'. Cozy. Important Swiss concept."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "rägnet",
+          "german": "regnet",
+          "english": "it rains"
+        },
+        {
+          "swissGerman": "Föhn",
+          "german": "Föhn",
+          "english": "warm alpine wind"
+        },
+        {
+          "swissGerman": "gmüetlich",
+          "german": "gemütlich",
+          "english": "cozy"
+        }
+      ]
+    },
+    {
+      "id": "weather-4",
+      "level": "intermediate",
+      "title": "Winter and snow",
+      "situation": "You talk about winter weather and its effects.",
+      "lines": [
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Häsch gseh? S'hät geschne über Nacht!",
+          "german": "Hast du gesehen? Es hat über Nacht geschneit!",
+          "english": "Did you see? It snowed overnight!",
+          "spanish": "¿Viste? ¡Nevó durante la noche!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, mega schön! Aber d'Strasse sind glatig.",
+          "german": "Ja, mega schön! Aber die Straßen sind glatt.",
+          "english": "Yes, really beautiful! But the roads are slippery.",
+          "spanish": "Sí, ¡realmente bonito! Pero las carreteras están resbaladizas."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Isch din Zug au verspötet gsi?",
+          "german": "War dein Zug auch verspätet?",
+          "english": "Was your train delayed too?",
+          "spanish": "¿Tu tren también llegó con retraso?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Zwänzg Minute! Und de Bus isch gar nöd cho.",
+          "german": "Zwanzig Minuten! Und der Bus ist gar nicht gekommen.",
+          "english": "Twenty minutes! And the bus didn't come at all.",
+          "spanish": "¡Veinte minutos! Y el autobús no llegó en absoluto."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Typisch. Und am Wuchenänd söll's no meh schneie.",
+          "german": "Typisch. Und am Wochenende soll es noch mehr schneien.",
+          "english": "Typical. And this weekend it's supposed to snow even more.",
+          "spanish": "Típico. Y este fin de semana se supone que va a nevar aún más."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Häsch scho uf SBB.ch gluegt ob es Ersatzzüg git?",
+          "german": "Hast du schon auf SBB.ch nachgeschaut ob es Ersatzzüge gibt?",
+          "english": "Have you already checked on SBB.ch if there are replacement trains?",
+          "spanish": "¿Ya has comprobado en SBB.ch si hay trenes de sustitución?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, mir fahred direkt mit em RE — de IC isch aagsäit bis Mittag.",
+          "german": "Ja, wir fahren direkt mit dem RE — der IC ist abgesagt bis Mittag.",
+          "english": "Yes, we take the RE directly — the IC is cancelled until noon.",
+          "spanish": "Sí, tomamos el RE directamente — el IC está cancelado hasta el mediodía."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Denn gömmer go Ski fahre! Ändlich gnueg Schnee.",
+          "german": "Dann gehen wir Ski fahren! Endlich genug Schnee.",
+          "english": "Then let's go skiing! Finally enough snow.",
+          "spanish": "¡Entonces vamos a esquiar! Por fin hay suficiente nieve."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "geschne",
+          "german": "geschneit",
+          "explanation": "'geschne' = 'geschneit'. Snowed. Swiss past participle."
+        },
+        {
+          "swissGerman": "glatig",
+          "german": "glatt/rutschig",
+          "explanation": "'glatig' = slippery/icy. Swiss form."
+        },
+        {
+          "swissGerman": "gar nöd cho",
+          "german": "gar nicht gekommen",
+          "explanation": "'gar nöd cho' = didn't come at all. Swiss form."
+        },
+        {
+          "swissGerman": "Ski fahre",
+          "german": "Ski fahren",
+          "explanation": "Skiing. National pastime in Switzerland."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "geschne",
+          "german": "geschneit",
+          "english": "snowed"
+        },
+        {
+          "swissGerman": "glatig",
+          "german": "glatt/rutschig",
+          "english": "slippery"
+        },
+        {
+          "swissGerman": "Ski fahre",
+          "german": "Ski fahren",
+          "english": "to go skiing"
+        }
+      ]
+    },
+    {
+      "id": "weather-5",
+      "level": "beginner",
+      "title": "Planning around the weather",
+      "situation": "You check the weather before making plans.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Söll mir morn go grille oder isch z'unsicher?",
+          "german": "Sollen wir morgen grillen gehen oder ist es zu unsicher?",
+          "english": "Should we go barbecue tomorrow or is it too uncertain?",
+          "spanish": "¿Hacemos una barbacoa mañana o es demasiado inseguro?"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "D'App seit bewölkt mit Summergwitter möglich.",
+          "german": "Die App sagt bewölkt mit Sommergewitter möglich.",
+          "english": "The app says cloudy with possible summer thunderstorms.",
+          "spanish": "La app dice nublado con posibles tormentas de verano."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Hmm, viiicht besser dihei bliibe und choche?",
+          "german": "Hmm, vielleicht besser daheim bleiben und kochen?",
+          "english": "Hmm, maybe better to stay home and cook?",
+          "spanish": "Hmm, ¿quizás mejor quedarse en casa y cocinar?"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Oder mir chönd i de überdachte Grillplatz im Park gah.",
+          "german": "Oder wir können zum überdachten Grillplatz im Park gehen.",
+          "english": "Or we can go to the covered barbecue spot in the park.",
+          "spanish": "O podemos ir al área de barbacoa cubierta del parque."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ah, stimmt! De hät es Dach. Perfekt bi schlechtem Wätter.",
+          "german": "Ah, stimmt! Der hat ein Dach. Perfekt bei schlechtem Wetter.",
+          "english": "Ah, right! That one has a roof. Perfect in bad weather.",
+          "spanish": "Ah, ¡ese tiene techo. Perfecto cuando hace mal tiempo!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und falls s'doch rägnet — wär zuständig für s'Uufräume?",
+          "german": "Und falls es doch regnet — wer ist zuständig fürs Aufräumen?",
+          "english": "And if it does rain — who is in charge of cleaning up?",
+          "spanish": "¿Y si llueve — quién se encarga de limpiar?"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Mir teile s'uf. Du räumsch d'Grill aa, ich pack d'Disch und Stüehl weg.",
+          "german": "Wir teilen es auf. Du räumst den Grill ab, ich packe die Tische und Stühle weg.",
+          "english": "We'll split it. You clear the grill, I'll put away the tables and chairs.",
+          "spanish": "Lo dividiremos. Tú limpias la parrilla, yo guardo las mesas y sillas."
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Abgmacht! Ich bring s'Fleisch, du de Salat.",
+          "german": "Abgemacht! Ich bringe das Fleisch, du den Salat.",
+          "english": "Deal! I'll bring the meat, you the salad.",
+          "spanish": "¡Trato! Yo traigo la carne, tú la ensalada."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "grille",
+          "german": "grillen",
+          "explanation": "'grille' = to barbecue. Very popular Swiss summer activity."
+        },
+        {
+          "swissGerman": "Summergwitter",
+          "german": "Sommergewitter",
+          "explanation": "'Summergwitter' = summer thunderstorm. Common in Swiss afternoons."
+        },
+        {
+          "swissGerman": "dihei",
+          "german": "daheim/zuhause",
+          "explanation": "'dihei' = at home. Very Swiss word."
+        },
+        {
+          "swissGerman": "Abgmacht!",
+          "german": "Abgemacht!",
+          "explanation": "'Abgmacht!' = Deal!/Agreed! Swiss form."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "grille",
+          "german": "grillen",
+          "english": "to barbecue"
+        },
+        {
+          "swissGerman": "dihei",
+          "german": "zuhause",
+          "english": "at home"
+        },
+        {
+          "swissGerman": "Abgmacht!",
+          "german": "Abgemacht!",
+          "english": "Deal!/Agreed!"
+        }
+      ]
+    }
+  ]
+}

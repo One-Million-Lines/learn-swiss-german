@@ -1,0 +1,518 @@
+{
+  "id": "morning-routine-family",
+  "topicId": "family-school",
+  "title": "Morning Routine",
+  "description": "Getting the family ready in the morning — breakfast, dressing, and rushing out the door",
+  "dialogues": [
+    {
+      "id": "morning-1",
+      "level": "beginner",
+      "title": "Waking up the kids",
+      "situation": "You try to wake your kids up for school.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Lina, ufstah! S'isch scho Sibni. Du chunnsch z'spot!",
+          "german": "Lina, aufstehen! Es ist schon sieben. Du kommst zu spät!",
+          "english": "Lina, get up! It's already seven. You'll be late!",
+          "spanish": "¡Lina, levántate! Ya son las siete. ¡Vas a llegar tarde!"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Mmmh... no füf Minute bitte...",
+          "german": "Mmmh... noch fünf Minuten bitte...",
+          "english": "Mmmh... five more minutes please...",
+          "spanish": "Mmh... cinco minutos más, por favor..."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Nei, jetzt! S'Zmorge isch parat. Chum abe!",
+          "german": "Nein, jetzt! Das Frühstück ist fertig. Komm runter!",
+          "english": "No, now! Breakfast is ready. Come down!",
+          "spanish": "No, ¡ahora! El desayuno está listo. ¡Baja!"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Ugh... Ich bi so müed. Han ich hüt Turne?",
+          "german": "Ugh... Ich bin so müde. Habe ich heute Sport?",
+          "english": "Ugh... I'm so tired. Do I have PE today?",
+          "spanish": "Ugh... Estoy tan cansado. ¿Tengo educación física hoy?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, am Morge. Also zieh s'Turne-Züüg aa.",
+          "german": "Ja, am Morgen. Also zieh die Sportsachen an.",
+          "english": "Yes, in the morning. So put on your PE clothes.",
+          "spanish": "Sí, por la mañana. Así que ponte la ropa de deporte."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Han ich au Schwimme hüt? Ich will d'Badehose mitnäh!",
+          "german": "Habe ich auch Schwimmen heute? Ich will die Badehose mitnehmen!",
+          "english": "Do I also have swimming today? I want to take my swimsuit!",
+          "spanish": "¿También tengo natación hoy? ¡Quiero llevar el bañador!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Nei, Schwimme isch am Donnschtig. Hüt nurume Turne — Leichtatletik, glaub ich.",
+          "german": "Nein, Schwimmen ist am Donnerstag. Heute nur Turnen — Leichtathletik, glaube ich.",
+          "english": "No, swimming is on Thursday. Today just PE — athletics, I think.",
+          "spanish": "No, la natación es el jueves. Hoy solo educación física — atletismo, creo."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Wo sind mini Turnschueh? Ich find sie nöd!",
+          "german": "Wo sind meine Turnschuhe? Ich finde sie nicht!",
+          "english": "Where are my PE shoes? I can't find them!",
+          "spanish": "¿Dónde están mis zapatillas de gimnasia? ¡No las encuentro!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "ufstah",
+          "german": "aufstehen",
+          "explanation": "'ufstah' = 'aufstehen'. 'Auf-' → 'Uf-'."
+        },
+        {
+          "swissGerman": "Sibni",
+          "german": "sieben Uhr",
+          "explanation": "'Sibni' = seven o'clock. Swiss time expression."
+        },
+        {
+          "swissGerman": "Zmorge",
+          "german": "Frühstück",
+          "explanation": "'Zmorge' = 'Frühstück'. Swiss word for breakfast."
+        },
+        {
+          "swissGerman": "parat",
+          "german": "fertig/bereit",
+          "explanation": "'parat' = 'fertig'. Swiss word (from French 'paré')."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "ufstah",
+          "german": "aufstehen",
+          "english": "to get up"
+        },
+        {
+          "swissGerman": "Zmorge",
+          "german": "Frühstück",
+          "english": "breakfast"
+        },
+        {
+          "swissGerman": "parat",
+          "german": "fertig",
+          "english": "ready"
+        }
+      ]
+    },
+    {
+      "id": "morning-2",
+      "level": "beginner",
+      "title": "Breakfast chaos",
+      "situation": "The family has a hectic breakfast before school.",
+      "lines": [
+        {
+          "speaker": "Child",
+          "swissGerman": "Ich wott Schoggi-Müesli! Nöd Brot!",
+          "german": "Ich will Schoko-Müsli! Nicht Brot!",
+          "english": "I want chocolate cereal! Not bread!",
+          "spanish": "¡Quiero cereales de chocolate! ¡No pan!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "S'Müesli isch alli. Nimm Brot mit Konfi oder en Joghurt.",
+          "german": "Das Müsli ist alle. Nimm Brot mit Konfitüre oder einen Joghurt.",
+          "english": "The cereal is finished. Have bread with jam or a yogurt.",
+          "spanish": "Los cereales se acabaron. Come pan con mermelada o un yogur."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Okay, denn Joghurt. Und chan ich Ovomaltine trinke?",
+          "german": "Okay, dann Joghurt. Und kann ich Ovomaltine trinken?",
+          "english": "Okay, then yogurt. And can I drink Ovomaltine?",
+          "spanish": "Bien, entonces yogur. ¿Y puedo beber Ovomaltine?"
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "Ja. Und trink au es Glas Milch. Das isch gsund.",
+          "german": "Ja. Und trink auch ein Glas Milch. Das ist gesund.",
+          "english": "Yes. And also drink a glass of milk. That's healthy.",
+          "spanish": "Sí. Y también bebe un vaso de leche. Es sano."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Häsch du s'Znüni ipackt? Vergiss de Öpfel nöd!",
+          "german": "Hast du den Pausensnack eingepackt? Vergiss den Apfel nicht!",
+          "english": "Did you pack the snack? Don't forget the apple!",
+          "spanish": "¿Preparaste el tentempié? ¡No olvides la manzana!"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Ich ha en Gipfeli gnoh — isch das okay fürs Znüni?",
+          "german": "Ich habe ein Gipfeli genommen — ist das okay für die Pause?",
+          "english": "I took a croissant — is that okay for the snack break?",
+          "spanish": "Cogí un croissant — ¿está bien para la pausa del tentempié?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Es Gipfeli und e Frucht — nimm no en Nektarin dezue, ja?",
+          "german": "Ein Gipfeli und eine Frucht — nimm noch eine Nektarine dazu, ja?",
+          "english": "A croissant and a fruit — take a nectarine too, okay?",
+          "spanish": "Un cruasán y una fruta — coge también una nectarina, ¿de acuerdo?"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Ja ja, alles parat! Chani jetzt go?",
+          "german": "Ja ja, alles fertig! Kann ich jetzt gehen?",
+          "english": "Yes yes, everything ready! Can I go now?",
+          "spanish": "Sí, sí, ¡todo listo! ¿Puedo irme ya?"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Konfi",
+          "german": "Konfitüre/Marmelade",
+          "explanation": "'Konfi' = 'Konfitüre'. Swiss abbreviation for jam."
+        },
+        {
+          "swissGerman": "Ovomaltine",
+          "german": "Ovomaltine",
+          "explanation": "Swiss chocolate malt drink. Iconic Swiss brand."
+        },
+        {
+          "swissGerman": "gsund",
+          "german": "gesund",
+          "explanation": "'gsund' = 'gesund'. 'Ge-' → 'G-'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Konfi",
+          "german": "Konfitüre",
+          "english": "jam"
+        },
+        {
+          "swissGerman": "Ovomaltine",
+          "german": "Ovomaltine",
+          "english": "Ovomaltine (Swiss drink)"
+        },
+        {
+          "swissGerman": "gsund",
+          "german": "gesund",
+          "english": "healthy"
+        }
+      ]
+    },
+    {
+      "id": "morning-3",
+      "level": "beginner",
+      "title": "Getting dressed",
+      "situation": "Your child picks out clothes for school.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Zieh dich aa! Es isch chalt hüt — nimm en Pullover.",
+          "german": "Zieh dich an! Es ist kalt heute — nimm einen Pullover.",
+          "english": "Get dressed! It's cold today — take a sweater.",
+          "spanish": "¡Vístete! Hoy hace frío — ponte un jersey."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Ich wott min Lieblingspulli mit em Dinosaurier!",
+          "german": "Ich will meinen Lieblingspulli mit dem Dinosaurier!",
+          "english": "I want my favorite sweater with the dinosaur!",
+          "spanish": "¡Quiero mi jersey favorito con el dinosaurio!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "De isch id Wösch. Nimm de blaue.",
+          "german": "Der ist in der Wäsche. Nimm den blauen.",
+          "english": "That one's in the laundry. Take the blue one.",
+          "spanish": "Ese está en la lavandería. Coge el azul."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Nei! Ich wott de roti!",
+          "german": "Nein! Ich will den roten!",
+          "english": "No! I want the red one!",
+          "spanish": "¡No! ¡Quiero el rojo!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Guet, nimm de roti. Und zieh d'Winterjacke aa — und d'Mutz!",
+          "german": "Gut, nimm den roten. Und zieh die Winterjacke an — und die Mütze!",
+          "english": "Fine, take the red one. And put on the winter jacket — and the beanie!",
+          "spanish": "Bien, coge el rojo. ¡Y ponte la chaqueta de invierno — y el gorro!"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Muess ich au en Halstuech mache? De Lehrer säit immer ich söll warm ii.",
+          "german": "Muss ich auch einen Schal machen? Der Lehrer sagt immer ich soll warm eingepackt sein.",
+          "english": "Do I also need a scarf? The teacher always says I should be warmly wrapped up.",
+          "spanish": "¿También necesito una bufanda? ¡La profesora siempre dice que debo abrigarme bien!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, gueti Idee — de grüene Halstuech isch bim Garderobehaake.",
+          "german": "Ja, gute Idee — der grüne Schal ist am Garderobehaken.",
+          "english": "Yes, good idea — the green scarf is on the coat hook.",
+          "spanish": "Sí, buena idea — la bufanda verde está en el perchero."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Okay! Und mini Handschueh?",
+          "german": "Okay! Und meine Handschuhe?",
+          "english": "Okay! And my gloves?",
+          "spanish": "¡Bien! ¿Y mis guantes?"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Lieblingspulli",
+          "german": "Lieblingspullover",
+          "explanation": "'Pulli' = 'Pullover'. Shortened."
+        },
+        {
+          "swissGerman": "Wösch",
+          "german": "Wäsche",
+          "explanation": "'Wösch' = 'Wäsche'. Laundry."
+        },
+        {
+          "swissGerman": "Mutz",
+          "german": "Mütze",
+          "explanation": "'Mutz' = 'Mütze'. Swiss word for beanie."
+        },
+        {
+          "swissGerman": "Handschueh",
+          "german": "Handschuhe",
+          "explanation": "'Handschueh' = 'Handschuhe'. Swiss form."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Mutz",
+          "german": "Mütze",
+          "english": "beanie/cap"
+        },
+        {
+          "swissGerman": "Handschueh",
+          "german": "Handschuhe",
+          "english": "gloves"
+        },
+        {
+          "swissGerman": "aaziieh",
+          "german": "anziehen",
+          "english": "to put on/dress"
+        }
+      ]
+    },
+    {
+      "id": "morning-4",
+      "level": "intermediate",
+      "title": "Running late",
+      "situation": "The family is running late and rushing to get out.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Beilt euch! De Bus chunnt in füf Minute!",
+          "german": "Beeilt euch! Der Bus kommt in fünf Minuten!",
+          "english": "Hurry up! The bus comes in five minutes!",
+          "spanish": "¡Date prisa! ¡El autobús llega en cinco minutos!"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Ich find min Thek nöd! Wo isch er?",
+          "german": "Ich finde meinen Schulranzen nicht! Wo ist er?",
+          "english": "I can't find my backpack! Where is it?",
+          "spanish": "¡No encuentro mi mochila! ¿Dónde está?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Im Wohnzimmer, bim Sofa! Schnäll!",
+          "german": "Im Wohnzimmer, beim Sofa! Schnell!",
+          "english": "In the living room, by the sofa! Quick!",
+          "spanish": "¡En el salón, junto al sofá! ¡Rápido!"
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "Häsch du d'Schlüssel? Und s'Portemonnaie?",
+          "german": "Hast du die Schlüssel? Und das Portemonnaie?",
+          "english": "Do you have the keys? And the wallet?",
+          "spanish": "¿Tienes las llaves? ¿Y la cartera?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja! Lina, Schueh aa und los!",
+          "german": "Ja! Lina, Schuhe an und los!",
+          "english": "Yes! Lina, shoes on and go!",
+          "spanish": "Sí, Lina, ¡ponte los zapatos y sal!"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Chasch du mich hüt abhole? Ich ha nach de Schuel Turnverein!",
+          "german": "Kannst du mich heute abholen? Ich habe nach der Schule Turnverein!",
+          "english": "Can you pick me up today? I have gymnastics club after school!",
+          "spanish": "¿Puedes recogerme hoy? ¡Tengo club de gimnasia después del colegio!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Turnverein isch am Mittwuch — hüt isch Dienschtig! Aber ich hol dich ab, versprooche.",
+          "german": "Turnverein ist am Mittwoch — heute ist Dienstag! Aber ich hole dich ab, versprochen.",
+          "english": "Gymnastics club is on Wednesday — today is Tuesday! But I'll pick you up, promised.",
+          "spanish": "El club de gimnasia es el miércoles — ¡hoy es martes! Pero te recogeré, prometido."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Tschau Papi! Bis am Abig!",
+          "german": "Tschüss Papa! Bis heute Abend!",
+          "english": "Bye Dad! See you tonight!",
+          "spanish": "¡Adiós, papá! ¡Hasta esta noche!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Beilt",
+          "german": "Beeilt",
+          "explanation": "'Beilt' = 'Beeilt'. Shortened."
+        },
+        {
+          "swissGerman": "Thek",
+          "german": "Schulranzen",
+          "explanation": "'Thek' = 'Schulranzen'. Swiss word for school backpack."
+        },
+        {
+          "swissGerman": "Portemonnaie",
+          "german": "Geldbeutel/Portemonnaie",
+          "explanation": "Swiss/French word for wallet. Used in standard German too."
+        },
+        {
+          "swissGerman": "Bis am Abig",
+          "german": "Bis heute Abend",
+          "explanation": "'Bis am Abig' = 'Bis heute Abend'. See you tonight."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Thek",
+          "german": "Schulranzen",
+          "english": "school backpack"
+        },
+        {
+          "swissGerman": "Portemonnaie",
+          "german": "Geldbeutel",
+          "english": "wallet"
+        },
+        {
+          "swissGerman": "Bis am Abig",
+          "german": "Bis heute Abend",
+          "english": "see you tonight"
+        }
+      ]
+    },
+    {
+      "id": "morning-5",
+      "level": "beginner",
+      "title": "Brushing teeth drama",
+      "situation": "Getting your child to brush their teeth.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Häsch du scho d'Zähn putzt?",
+          "german": "Hast du schon die Zähne geputzt?",
+          "english": "Have you already brushed your teeth?",
+          "spanish": "¿Ya te has lavado los dientes?"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Ääh... nei, ich ha vergässe.",
+          "german": "Ähh... nein, ich habe vergessen.",
+          "english": "Uhh... no, I forgot.",
+          "spanish": "Uhh... no, se me olvidó."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Lina! Jede Morge s'gliiche! Gang is Badzimmer!",
+          "german": "Lina! Jeden Morgen das Gleiche! Geh ins Badezimmer!",
+          "english": "Lina! Every morning the same thing! Go to the bathroom!",
+          "spanish": "¡Lina! ¡Cada mañana lo mismo! ¡Ve al baño!"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Aber ich ha kei Ziit meh! De Bus chunnt!",
+          "german": "Aber ich habe keine Zeit mehr! Der Bus kommt!",
+          "english": "But I have no more time! The bus is coming!",
+          "spanish": "¡Pero no tengo más tiempo! ¡Viene el autobús!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Zwei Minute reiche. Nimm d'Zahnbürste und mach schnäll!",
+          "german": "Zwei Minuten reichen. Nimm die Zahnbürste und mach schnell!",
+          "english": "Two minutes are enough. Take the toothbrush and be quick!",
+          "spanish": "¡Dos minutos son suficientes. Coge el cepillo de dientes y date prisa!"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Ha ich au Zahnpasta? D'Tube isch halb leer!",
+          "german": "Habe ich auch Zahnpasta? Die Tube ist halb leer!",
+          "english": "Do I have toothpaste too? The tube is half empty!",
+          "spanish": "¿También tengo pasta de dientes? ¡El tubo está medio vacío!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "D'Tube reicht no für en Monet. Und drüümal büürschte: obe, unge, inne!",
+          "german": "Die Tube reicht noch für einen Monat. Und dreimal bürsten: oben, unten, innen!",
+          "english": "The tube lasts another month. And brush three times: top, bottom, inside!",
+          "spanish": "El tubo dura otro mes. ¡Y cepíllate tres veces: arriba, abajo y por dentro!"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Fertig! Chani jetzt go? Tschüüüss!",
+          "german": "Fertig! Kann ich jetzt gehen? Tschüüüss!",
+          "english": "Done! Can I go now? Byeee!",
+          "spanish": "¡Listo! ¿Puedo irme ya? ¡Adiósss!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Zähn",
+          "german": "Zähne",
+          "explanation": "'Zähn' = 'Zähne'. Dropped '-e'."
+        },
+        {
+          "swissGerman": "Badzimmer",
+          "german": "Badezimmer",
+          "explanation": "'Badzimmer' = 'Badezimmer'. Shortened."
+        },
+        {
+          "swissGerman": "Zahnbürste",
+          "german": "Zahnbürste",
+          "explanation": "Same word: toothbrush."
+        },
+        {
+          "swissGerman": "s'gliiche",
+          "german": "das Gleiche",
+          "explanation": "'s'gliiche' = 'das Gleiche'. The same thing."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Zähn putze",
+          "german": "Zähne putzen",
+          "english": "to brush teeth"
+        },
+        {
+          "swissGerman": "Badzimmer",
+          "german": "Badezimmer",
+          "english": "bathroom"
+        },
+        {
+          "swissGerman": "vergässe",
+          "german": "vergessen",
+          "english": "forgot"
+        }
+      ]
+    }
+  ]
+}

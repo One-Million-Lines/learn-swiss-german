@@ -1,0 +1,484 @@
+{
+  "id": "closing-micro-interactions",
+  "topicId": "everyday-basics",
+  "title": "Closing Micro-Interactions",
+  "description": "That's it, done, all good, perfect — wrapping up any exchange",
+  "dialogues": [
+    {
+      "id": "closing-micro-interactions-1",
+      "level": "beginner",
+      "title": "Finishing up at the post office",
+      "situation": "You've sent your packages and the clerk wraps up the interaction.",
+      "lines": [
+        {
+          "speaker": "Clerk",
+          "swissGerman": "So, das wärs. Bruuched Sie süscht no öppis?",
+          "german": "So, das wäre es. Brauchen Sie sonst noch etwas?",
+          "english": "So, that's it. Do you need anything else?",
+          "spanish": "Bueno, eso es todo. ¿Necesitas algo más?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Nei, das isch alles. Merci!",
+          "german": "Nein, das ist alles. Danke!",
+          "english": "No, that's all. Thanks!",
+          "spanish": "No, eso es todo. ¡Gracias!"
+        },
+        {
+          "speaker": "Clerk",
+          "swissGerman": "Wänd Sie e Quittung derfür?",
+          "german": "Möchten Sie eine Quittung dafür?",
+          "english": "Would you like a receipt for that?",
+          "spanish": "¿Le gustaría un recibo para eso?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja bitte, gärn — ich behalts für mii Unterlage.",
+          "german": "Ja bitte, gerne — ich behalte es für meine Unterlagen.",
+          "english": "Yes please — I'll keep it for my records.",
+          "spanish": "Sí, por favor — lo guardaré para mis registros."
+        },
+        {
+          "speaker": "Clerk",
+          "swissGerman": "Bitteschön! Schöne Tag no.",
+          "german": "Bitteschön! Schönen Tag noch.",
+          "english": "You're welcome! Have a nice day.",
+          "spanish": "¡De nada! Que tengas un buen día."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Danke, gliichfalls! Ade!",
+          "german": "Danke, gleichfalls! Tschüss!",
+          "english": "Thanks, same to you! Bye!",
+          "spanish": "¡Gracias, igualmente! ¡Hasta luego!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Das wärs",
+          "german": "Das wäre es",
+          "explanation": "'Das wärs' = 'Das wäre es' (that would be it / that's it). Common closing phrase."
+        },
+        {
+          "swissGerman": "Das isch alles",
+          "german": "Das ist alles",
+          "explanation": "'Das isch alles' = 'that's all'. Simple and clear conclusion."
+        },
+        {
+          "swissGerman": "Gliichfalls",
+          "german": "Gleichfalls",
+          "explanation": "'Gliichfalls' = 'gleichfalls' (likewise/same to you). Universal response to good wishes."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Das wärs",
+          "german": "Das wäre es",
+          "english": "That's it / That'll be all"
+        },
+        {
+          "swissGerman": "Das isch alles",
+          "german": "Das ist alles",
+          "english": "That's all"
+        },
+        {
+          "swissGerman": "Gliichfalls!",
+          "german": "Gleichfalls!",
+          "english": "Same to you!"
+        }
+      ]
+    },
+    {
+      "id": "closing-micro-interactions-2",
+      "level": "beginner",
+      "title": "Job done — finishing a task",
+      "situation": "You helped a friend assemble furniture and it's done.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "So! Fertig! S'Regal staht.",
+          "german": "So! Fertig! Das Regal steht.",
+          "english": "There! Done! The shelf is up.",
+          "spanish": "¡Ahí está! ¡Listo! El estante está puesto."
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Perfekt! Staht tip-top.",
+          "german": "Perfekt! Steht tiptop.",
+          "english": "Perfect! Looks great.",
+          "spanish": "¡Perfecto! Queda genial."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, alles guet. Hämer no öppis vergässe?",
+          "german": "Ja, alles gut. Haben wir noch etwas vergessen?",
+          "english": "Yes, all good. Did we forget anything?",
+          "spanish": "Sí, todo bien. ¿Nos olvidamos de algo?"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Nei, passt alles. Mir händ's gschafft!",
+          "german": "Nein, passt alles. Wir haben es geschafft!",
+          "english": "No, everything's fine. We did it!",
+          "spanish": "No, todo está bien. ¡Lo conseguimos!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Uf das stosse mer aa! Bier?",
+          "german": "Darauf stossen wir an! Bier?",
+          "english": "Let's toast to that! Beer?",
+          "spanish": "¡Brindemos por eso! ¿Cerveza?"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Aber sicher! Häsch verdient!",
+          "german": "Aber sicher! Hast du verdient!",
+          "english": "Of course! You've earned it!",
+          "spanish": "¡Por supuesto! ¡Te lo has ganado!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Mir händ's mit Bravuur gschafft — ohni überi Schrufe!",
+          "german": "Wir haben es mit Bravour geschafft — ohne übrige Schrauben!",
+          "english": "We did it brilliantly — without any leftover screws!",
+          "spanish": "¡Lo hicimos de maravilla — sin tornillos sobrantes!"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "...Oder mit eine — lueg moll, de isch übrig bliibe!",
+          "german": "...Oder mit einer — schau mal, die ist übrig geblieben!",
+          "english": "...Or with one — look, this one is left over!",
+          "spanish": "...¡O con uno — mira, este ha sobrado!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Fertig!",
+          "german": "Fertig!",
+          "explanation": "'Fertig!' = 'Done! / Finished!' The single most common word for closure."
+        },
+        {
+          "swissGerman": "tip-top",
+          "german": "tiptop / einwandfrei",
+          "explanation": "'tip-top' = 'perfect/flawless'. Widely used Swiss expression."
+        },
+        {
+          "swissGerman": "Mir händ's gschafft!",
+          "german": "Wir haben es geschafft!",
+          "explanation": "'gschafft' = 'geschafft'. Celebratory closure: 'We made it!'"
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Fertig!",
+          "german": "Fertig!",
+          "english": "Done!"
+        },
+        {
+          "swissGerman": "Alles guet!",
+          "german": "Alles gut!",
+          "english": "All good!"
+        },
+        {
+          "swissGerman": "Mir händ's gschafft!",
+          "german": "Wir haben es geschafft!",
+          "english": "We did it!"
+        }
+      ]
+    },
+    {
+      "id": "closing-micro-interactions-3",
+      "level": "intermediate",
+      "title": "All good — resolving a small issue",
+      "situation": "A waiter brought you the wrong dish, you sorted it out, and now everything's fine.",
+      "lines": [
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Exgüsi, da isch s'richtige Gricht. Tuet mer leid wäg vorher.",
+          "german": "Entschuldigung, hier ist das richtige Gericht. Tut mir leid wegen vorhin.",
+          "english": "Sorry, here's the correct dish. Apologies about earlier.",
+          "spanish": "Lo siento, aquí está el plato correcto. Disculpa lo de antes."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Kei Problem, alles guet! Passiert.",
+          "german": "Kein Problem, alles gut! Passiert.",
+          "english": "No problem, all good! It happens.",
+          "spanish": "Sin problema, ¡no pasó nada! Pasa."
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Isch jetzt alles in Ornig?",
+          "german": "Ist jetzt alles in Ordnung?",
+          "english": "Is everything alright now?",
+          "spanish": "¿Ya está todo bien?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, alles bestens. Merci!",
+          "german": "Ja, alles bestens. Danke!",
+          "english": "Yes, everything's great. Thanks!",
+          "spanish": "Sí, ¡todo genial. Gracias!"
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Guet, en Guete!",
+          "german": "Gut, guten Appetit!",
+          "english": "Good, enjoy your meal!",
+          "spanish": "¡Bien, que aproveche!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Danke, isch perfekt!",
+          "german": "Danke, ist perfekt!",
+          "english": "Thanks, it's perfect!",
+          "spanish": "¡Gracias, está perfecto!"
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Sehr guet! Und falls Si no öppis wänd — ich bi gleich dört.",
+          "german": "Sehr gut! Und falls Sie noch etwas möchten — ich bin gleich dort.",
+          "english": "Very good! And if you need anything else — I'm right there.",
+          "spanish": "¡Muy bien! Y si necesitas algo más — estoy justo aquí."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Merci! Es isch alles guet so. En Guete mitenand!",
+          "german": "Danke! Es ist alles gut so. Guten Appetit zusammen!",
+          "english": "Thanks! Everything's fine. Enjoy your meal everyone!",
+          "spanish": "¡Gracias! Todo bien. ¡Que aproveche a todos!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Alles guet!",
+          "german": "Alles gut!",
+          "explanation": "'Alles guet!' resolves tension. Means 'it's all fine / no worries'. Very versatile."
+        },
+        {
+          "swissGerman": "Alles bestens",
+          "german": "Alles bestens",
+          "explanation": "'Alles bestens' = 'everything's great'. Slightly stronger than 'alles guet'."
+        },
+        {
+          "swissGerman": "En Guete!",
+          "german": "Guten Appetit!",
+          "explanation": "'En Guete!' = 'Guten Appetit!' Shortened Swiss version. Said before every meal."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Alles guet!",
+          "german": "Alles gut!",
+          "english": "All good!"
+        },
+        {
+          "swissGerman": "Alles bestens!",
+          "german": "Alles bestens!",
+          "english": "Everything's great!"
+        },
+        {
+          "swissGerman": "En Guete!",
+          "german": "Guten Appetit!",
+          "english": "Enjoy your meal!"
+        }
+      ]
+    },
+    {
+      "id": "closing-micro-interactions-4",
+      "level": "beginner",
+      "title": "Perfect! — quick positive closures",
+      "situation": "Various quick exchanges that end with a satisfied closure.",
+      "lines": [
+        {
+          "speaker": "Hairdresser",
+          "swissGerman": "So, wie gfallt's Ihne?",
+          "german": "So, wie gefällt es Ihnen?",
+          "english": "So, how do you like it?",
+          "spanish": "Bueno, ¿qué te parece?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt! Genau so han ich's welle.",
+          "german": "Perfekt! Genau so habe ich es gewollt.",
+          "english": "Perfect! Exactly what I wanted.",
+          "spanish": "¡Perfecto! Exactamente lo que quería."
+        },
+        {
+          "speaker": "Hairdresser",
+          "swissGerman": "Freut mi! Süscht no öppis?",
+          "german": "Freut mich! Sonst noch etwas?",
+          "english": "Glad to hear! Anything else?",
+          "spanish": "¡Me alegra saber eso! ¿Algo más?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Nei, das passt. Wunderbar!",
+          "german": "Nein, das passt. Wunderbar!",
+          "english": "No, that's good. Wonderful!",
+          "spanish": "No, está bien. ¡Perfecto!"
+        },
+        {
+          "speaker": "Hairdresser",
+          "swissGerman": "Denn mached mir d'Kasse. Drüüefüfzg Franke.",
+          "german": "Dann machen wir die Kasse. Dreiundfünfzig Franken.",
+          "english": "Then let's settle up. Fifty-three francs.",
+          "spanish": "Entonces hagamos cuentas. Cincuenta y tres francos."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Bitteschön. Merci und schöne Tag!",
+          "german": "Bitteschön. Danke und schönen Tag!",
+          "english": "Here you go. Thanks and have a nice day!",
+          "spanish": "Aquí tiene. Gracias y que tenga un buen día."
+        },
+        {
+          "speaker": "Hairdresser",
+          "swissGerman": "Danke! Und chömed Sie bald moll wider!",
+          "german": "Danke! Und kommen Sie bald wieder!",
+          "english": "Thank you! And come back soon!",
+          "spanish": "¡Gracias! ¡Y vuelva pronto!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Bestimmt! Uf Wiedersähe!",
+          "german": "Bestimmt! Auf Wiedersehen!",
+          "english": "Definitely! Goodbye!",
+          "spanish": "¡Claro! ¡Adiós!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Perfekt!",
+          "german": "Perfekt!",
+          "explanation": "'Perfekt!' is universal. The ultimate positive closure word."
+        },
+        {
+          "swissGerman": "So han ich's welle",
+          "german": "So habe ich es gewollt",
+          "explanation": "'welle' = 'gewollt'. Past participle of 'wollen' in Swiss German."
+        },
+        {
+          "swissGerman": "Wunderbar!",
+          "german": "Wunderbar!",
+          "explanation": "'Wunderbar!' = 'Wonderful!' Same in both. A warm closure."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Perfekt!",
+          "german": "Perfekt!",
+          "english": "Perfect!"
+        },
+        {
+          "swissGerman": "Wunderbar!",
+          "german": "Wunderbar!",
+          "english": "Wonderful!"
+        },
+        {
+          "swissGerman": "Das passt!",
+          "german": "Das passt!",
+          "english": "That works! / That's fine!"
+        }
+      ]
+    },
+    {
+      "id": "closing-micro-interactions-5",
+      "level": "intermediate",
+      "title": "Wrapping up after a small street quarrel",
+      "situation": "You accidentally blocked someone's driveway. After a tense exchange, you resolve it and part ways.",
+      "lines": [
+        {
+          "speaker": "Neighbor",
+          "swissGerman": "Chönd Sie bitte Ihres Auto verschiebe? Sie blockiered min Usgang!",
+          "german": "Können Sie bitte Ihr Auto verschieben? Sie blockieren meinen Ausgang!",
+          "english": "Can you please move your car? You're blocking my exit!",
+          "spanish": "¿Puedes mover tu coche, por favor? ¡Estás bloqueando mi salida!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Oh, Exgüsi! Ich has nöd gmerkt. Ich fahr sofort wäg.",
+          "german": "Oh, Entschuldigung! Ich habe es nicht gemerkt. Ich fahre sofort weg.",
+          "english": "Oh, sorry! I didn't notice. I'll move it right away.",
+          "spanish": "¡Oh, perdona! No me di cuenta. Lo muevo enseguida."
+        },
+        {
+          "speaker": "Neighbor",
+          "swissGerman": "Danke. Isch scho guet, ich bi eifach im Stress.",
+          "german": "Danke. Ist schon gut, ich bin einfach im Stress.",
+          "english": "Thanks. It's alright, I'm just stressed.",
+          "spanish": "Gracias. No pasa nada, solo estoy estresado."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Verstah ich, kei Problem. So, isch gmacht!",
+          "german": "Verstehe ich, kein Problem. So, ist gemacht!",
+          "english": "I understand, no worries. There, it's done!",
+          "spanish": "Entiendo, no te preocupes. ¡Ahí está, listo!"
+        },
+        {
+          "speaker": "Neighbor",
+          "swissGerman": "Perfekt, danke! Und nochmals sorry für de Ton.",
+          "german": "Perfekt, danke! Und nochmals sorry für den Ton.",
+          "english": "Perfect, thanks! And sorry again for the tone.",
+          "spanish": "¡Perfecto, gracias! Y perdona de nuevo por el tono."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Alles guet, kei Sorg! Schöne Aabig!",
+          "german": "Alles gut, keine Sorge! Schönen Abend!",
+          "english": "All good, no worries! Nice evening!",
+          "spanish": "¡Todo bien, no te preocupes! ¡Buenas noches!"
+        },
+        {
+          "speaker": "Neighbor",
+          "swissGerman": "Schöne Aabig! Mir gsehnd eus!",
+          "german": "Schönen Abend! Wir sehen uns!",
+          "english": "Nice evening! See you around!",
+          "spanish": "¡Qué buena noche! ¡Hasta la próxima!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja! Guete Nochber!",
+          "german": "Ja! Guter Nachbar!",
+          "english": "Yes! Good neighbor!",
+          "spanish": "Sí, ¡buen vecino!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Isch scho guet",
+          "german": "Ist schon gut",
+          "explanation": "'Isch scho guet' = 'it's alright'. Said to de-escalate or dismiss an apology."
+        },
+        {
+          "swissGerman": "Isch gmacht!",
+          "german": "Ist gemacht!",
+          "explanation": "'Isch gmacht!' = 'It's done!' Quick confirmation that the action was completed."
+        },
+        {
+          "swissGerman": "Kei Sorg",
+          "german": "Keine Sorge",
+          "explanation": "'Kei Sorg' = 'no worries'. A reassuring closure that resets the mood."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Isch scho guet",
+          "german": "Ist schon gut",
+          "english": "It's alright / It's fine"
+        },
+        {
+          "swissGerman": "Isch gmacht!",
+          "german": "Ist gemacht!",
+          "english": "Done! / It's done!"
+        },
+        {
+          "swissGerman": "Kei Sorg!",
+          "german": "Keine Sorge!",
+          "english": "No worries!"
+        }
+      ]
+    }
+  ]
+}

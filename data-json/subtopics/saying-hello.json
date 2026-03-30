@@ -1,0 +1,492 @@
+{
+  "id": "saying-hello",
+  "topicId": "everyday-basics",
+  "title": "Saying Hello",
+  "description": "Formal and informal greetings used every day in Switzerland",
+  "dialogues": [
+    {
+      "id": "saying-hello-1",
+      "level": "beginner",
+      "title": "Quick greeting in a shop",
+      "situation": "You walk into a small bakery.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Grüezi!",
+          "german": "Guten Tag!",
+          "english": "Hello!",
+          "spanish": "¡Hola!"
+        },
+        {
+          "speaker": "Baker",
+          "swissGerman": "Grüezi! Was darf's sii?",
+          "german": "Guten Tag! Was darf es sein?",
+          "english": "Hello! What can I get you?",
+          "spanish": "¡Hola! ¿Qué le pongo?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich hätt gern es Gipfeli.",
+          "german": "Ich hätte gern ein Croissant.",
+          "english": "I'd like a croissant.",
+          "spanish": "Me gustaría un croissant."
+        },
+        {
+          "speaker": "Baker",
+          "swissGerman": "Gern! Süscht no öppis?",
+          "german": "Gern! Sonst noch etwas?",
+          "english": "Sure! Anything else?",
+          "spanish": "¡Claro! ¿Algo más?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Nei, merci. Schöne Tag!",
+          "german": "Nein, danke. Schönen Tag!",
+          "english": "No, thanks. Have a nice day!",
+          "spanish": "No, gracias. ¡Que tenga un buen día!"
+        },
+        {
+          "speaker": "Baker",
+          "swissGerman": "Danke, Ihne au! Ade!",
+          "german": "Danke, Ihnen auch! Tschüss!",
+          "english": "Thanks, you too! Bye!",
+          "spanish": "¡Gracias, igualmente! ¡Hasta luego!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und das Gipfeli isch wirklich fein hüt. Merci für s'frische Gebeck!",
+          "german": "Und das Croissant ist wirklich lecker heute. Danke fürs frische Gebäck!",
+          "english": "And the croissant is really good today. Thanks for the fresh pastries!",
+          "spanish": "¡Y el cruasán está muy bueno hoy. Gracias por la bollería fresca!"
+        },
+        {
+          "speaker": "Baker",
+          "swissGerman": "Gern gschäh! Mir bached jede Morge frisch. Bis zum nächschte Mal!",
+          "german": "Gerne geschehen! Wir backen jeden Morgen frisch. Bis zum nächsten Mal!",
+          "english": "You're welcome! We bake fresh every morning. Until next time!",
+          "spanish": "¡De nada! Horneamos fresco cada mañana. ¡Hasta la próxima!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Grüezi",
+          "german": "Guten Tag",
+          "explanation": "The standard formal greeting. In informal settings you'd say 'Hoi' or 'Sali'."
+        },
+        {
+          "swissGerman": "Ade",
+          "german": "Tschüss",
+          "explanation": "'Ade' is the common Swiss German farewell, from French 'adieu'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Grüezi",
+          "german": "Guten Tag",
+          "english": "Hello (formal)"
+        },
+        {
+          "swissGerman": "Ade",
+          "german": "Tschüss",
+          "english": "Bye"
+        },
+        {
+          "swissGerman": "Ihne au",
+          "german": "Ihnen auch",
+          "english": "You too (formal)"
+        }
+      ]
+    },
+    {
+      "id": "saying-hello-2",
+      "level": "beginner",
+      "title": "Meeting a friend on the street",
+      "situation": "You bump into your friend Marco while walking in the old town.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Hoi Marco! Lang nümme gseh!",
+          "german": "Hallo Marco! Lange nicht gesehen!",
+          "english": "Hi Marco! Long time no see!",
+          "spanish": "¡Hola Marco! ¡Cuánto tiempo sin verte!"
+        },
+        {
+          "speaker": "Marco",
+          "swissGerman": "Sali! Ja, isch scho lang gsi. Wie gaht's dir?",
+          "german": "Hallo! Ja, ist schon lang her. Wie geht es dir?",
+          "english": "Hi! Yeah, it's been a while. How are you?",
+          "spanish": "¡Hola! Sí, ha pasado un tiempo. ¿Cómo estás?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Guet, merci! Und dir?",
+          "german": "Gut, danke! Und dir?",
+          "english": "Good, thanks! And you?",
+          "spanish": "Bien, ¡gracias! ¿Y tú?"
+        },
+        {
+          "speaker": "Marco",
+          "swissGerman": "Au guet! Ich muess wiiter, aber mir gsehnd üs bald!",
+          "german": "Auch gut! Ich muss weiter, aber wir sehen uns bald!",
+          "english": "Also good! I have to go, but see you soon!",
+          "spanish": "¡También bien! Tengo que irme, pero ¡hasta pronto!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, unbedingt! Tschau!",
+          "german": "Ja, unbedingt! Tschüss!",
+          "english": "Yes, definitely! Bye!",
+          "spanish": "Sí, ¡definitivamente! ¡Hasta luego!"
+        },
+        {
+          "speaker": "Marco",
+          "swissGerman": "Tschau, bis bald!",
+          "german": "Tschüss, bis bald!",
+          "english": "Bye, see you soon!",
+          "spanish": "¡Adiós, hasta pronto!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Kummsch du am Wuchenend zur Party bim Jonas?",
+          "german": "Kommst du am Wochenende zur Party bei Jonas?",
+          "english": "Are you coming to Jonas' party on the weekend?",
+          "spanish": "¿Vienes a la fiesta de Jonas el fin de semana?"
+        },
+        {
+          "speaker": "Marco",
+          "swissGerman": "Ja, fröi mich scho! Mir chönd dänn endliich wider chli schwatze.",
+          "german": "Ja, freue mich schon! Wir können dann endlich wieder etwas reden.",
+          "english": "Yes, looking forward to it! We can finally catch up properly then.",
+          "spanish": "Sí, ¡tengo muchas ganas! Así podremos ponernos al día de verdad."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Hoi / Sali",
+          "german": "Hallo",
+          "explanation": "Informal greetings. 'Hoi' is the most common, 'Sali' is typical in Basel and other regions."
+        },
+        {
+          "swissGerman": "Lang nümme gseh",
+          "german": "Lange nicht gesehen",
+          "explanation": "'nümme' = 'nicht mehr', 'gseh' = 'gesehen'. Past participle without 'ge-'."
+        },
+        {
+          "swissGerman": "mir gsehnd üs",
+          "german": "wir sehen uns",
+          "explanation": "'mir' = 'wir', 'gsehnd' = 'sehen'. 'üs' = 'uns'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Hoi / Sali",
+          "german": "Hallo",
+          "english": "Hi (informal)"
+        },
+        {
+          "swissGerman": "Lang nümme gseh!",
+          "german": "Lange nicht gesehen!",
+          "english": "Long time no see!"
+        },
+        {
+          "swissGerman": "Tschau",
+          "german": "Tschüss",
+          "english": "Bye (informal)"
+        }
+      ]
+    },
+    {
+      "id": "saying-hello-3",
+      "level": "intermediate",
+      "title": "Greeting the team at a Monday standup",
+      "situation": "You arrive at the office and greet your team before the weekly standup.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Guete Morge zäme! Wie gaht's oi?",
+          "german": "Guten Morgen zusammen! Wie geht es euch?",
+          "english": "Good morning everyone! How are you all?",
+          "spanish": "¡Buenos días a todos! ¿Cómo estáis todos?"
+        },
+        {
+          "speaker": "Anna",
+          "swissGerman": "Morge! Guet, aber ich ha hüt nöd so guet gschlafe.",
+          "german": "Morgen! Gut, aber ich habe heute nicht so gut geschlafen.",
+          "english": "Morning! Good, but I didn't sleep that well today.",
+          "spanish": "¡Buenos días! Bien, aunque no dormí muy bien esta noche."
+        },
+        {
+          "speaker": "Peter",
+          "swissGerman": "Sali! Mir gaht's super, ich ha am Wuchenänd mega guet gässe.",
+          "german": "Hallo! Mir geht es super, ich habe am Wochenende mega gut gegessen.",
+          "english": "Hi! I'm great, I ate really well this weekend.",
+          "spanish": "¡Hola! Estoy genial, comí muy bien este fin de semana."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Haha, de Peter isch immer am Ässe! Okay, fömmer ah?",
+          "german": "Haha, Peter ist immer am Essen! Okay, fangen wir an?",
+          "english": "Haha, Peter is always eating! Okay, shall we start?",
+          "spanish": "Jaja, ¡Peter siempre está comiendo! Vale, ¿empezamos?"
+        },
+        {
+          "speaker": "Anna",
+          "swissGerman": "Ja, gömer! Wer fangt ah?",
+          "german": "Ja, los! Wer fängt an?",
+          "english": "Yes, let's go! Who starts?",
+          "spanish": "Sí, ¡vamos! ¿Quién empieza?"
+        },
+        {
+          "speaker": "Peter",
+          "swissGerman": "Ich cha afange. Also, geschter hani...",
+          "german": "Ich kann anfangen. Also, gestern habe ich...",
+          "english": "I can start. So, yesterday I...",
+          "spanish": "Puedo empezar. Entonces, ayer yo..."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Super! Und dänn nach em Standup — händ mir no die Code-Review?",
+          "german": "Super! Und dann nach dem Standup — haben wir noch die Code-Review?",
+          "english": "Super! And then after the standup — do we still have the code review?",
+          "spanish": "¡Súper! ¿Y después del standup — todavía tenemos la revisión de código?"
+        },
+        {
+          "speaker": "Anna",
+          "swissGerman": "Ja, um zäni. Ich hätt no es paar Kommentaar zum letzschte PR.",
+          "german": "Ja, um zehn. Ich hätte noch ein paar Kommentare zum letzten PR.",
+          "english": "Yes, at ten. I still have a few comments on the last PR.",
+          "spanish": "Sí, a las diez. Todavía tengo algunos comentarios sobre el último PR."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "zäme",
+          "german": "zusammen",
+          "explanation": "'zäme' = 'zusammen'. Very common contraction used daily."
+        },
+        {
+          "swissGerman": "Wie gaht's oi?",
+          "german": "Wie geht es euch?",
+          "explanation": "'oi' = 'euch'. Dative plural pronoun."
+        },
+        {
+          "swissGerman": "fömmer ah?",
+          "german": "fangen wir an?",
+          "explanation": "'fömmer' = 'fangen wir'. 'ah' = 'an'. Verb-pronoun fusion."
+        },
+        {
+          "swissGerman": "gömer",
+          "german": "gehen wir / los",
+          "explanation": "'gömer' = 'gehen wir'. Used like 'let's go'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Guete Morge zäme!",
+          "german": "Guten Morgen zusammen!",
+          "english": "Good morning everyone!",
+          "spanish": "¡Buenos días a todos!"
+        },
+        {
+          "swissGerman": "Fömmer ah?",
+          "german": "Fangen wir an?",
+          "english": "Shall we start?"
+        },
+        {
+          "swissGerman": "Gömer!",
+          "german": "Gehen wir! / Los!",
+          "english": "Let's go!"
+        }
+      ]
+    },
+    {
+      "id": "saying-hello-4",
+      "level": "intermediate",
+      "title": "Formal greeting at a business dinner",
+      "situation": "You arrive at a restaurant for a business dinner and greet the host.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Guete Aabig, Herr Keller! Merci für d'Iiladig.",
+          "german": "Guten Abend, Herr Keller! Danke für die Einladung.",
+          "english": "Good evening, Mr. Keller! Thanks for the invitation.",
+          "spanish": "¡Buenas noches, señor Keller! Gracias por la invitación."
+        },
+        {
+          "speaker": "Herr Keller",
+          "swissGerman": "Guete Aabig! Schön dass Sie chömed. Händ Sie guet hergfunde?",
+          "german": "Guten Abend! Schön dass Sie kommen. Haben Sie gut hergefunden?",
+          "english": "Good evening! Nice that you could come. Did you find your way alright?",
+          "spanish": "¡Buenas noches! Me alegra que hayan podido venir. ¿Encontraron bien el camino?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, kei Problem. Ich bi mit em Tram cho.",
+          "german": "Ja, kein Problem. Ich bin mit der Straßenbahn gekommen.",
+          "english": "Yes, no problem. I came by tram.",
+          "spanish": "Sí, ningún problema. Vine en tranvía."
+        },
+        {
+          "speaker": "Herr Keller",
+          "swissGerman": "Perfekt. Chömed Sie, ich stell Ihne mini Kollegin vor.",
+          "german": "Perfekt. Kommen Sie, ich stelle Ihnen meine Kollegin vor.",
+          "english": "Perfect. Come, I'll introduce you to my colleague.",
+          "spanish": "Perfecto. Ven, te presento a mi compañero."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, gern! Freut mich.",
+          "german": "Ja, gern! Freut mich.",
+          "english": "Yes, gladly! Pleased to meet you.",
+          "spanish": "Sí, con mucho gusto. Encantado de conocerte."
+        },
+        {
+          "speaker": "Herr Keller",
+          "swissGerman": "Das isch d'Frau Weber. Sie isch üsi Projektleiterin.",
+          "german": "Das ist Frau Weber. Sie ist unsere Projektleiterin.",
+          "english": "This is Mrs. Weber. She is our project manager.",
+          "spanish": "Esta es la señora Weber. Es nuestra directora de proyectos."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Grüezi Frau Weber, freut mich Sie kennezlerne!",
+          "german": "Guten Tag Frau Weber, freut mich Sie kennenzulernen!",
+          "english": "Hello Mrs. Weber, nice to meet you!",
+          "spanish": "¡Hola señora Weber, encantada de conocerla!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Guete Aabig",
+          "german": "Guten Abend",
+          "explanation": "'Aabig' = 'Abend'. Vowel lengthening and shift."
+        },
+        {
+          "swissGerman": "d'Iiladig",
+          "german": "die Einladung",
+          "explanation": "'Iiladig' = 'Einladung'. 'Ein-' → 'Ii-' and '-ung' → '-ig'."
+        },
+        {
+          "swissGerman": "hergfunde",
+          "german": "hergefunden",
+          "explanation": "'gfunde' = 'gefunden'. 'ge-' shortens to 'g-'."
+        },
+        {
+          "swissGerman": "kennezlerne",
+          "german": "kennenzulernen",
+          "explanation": "'kennezlerne' — 'zu' becomes 'ze' and '-en' drops from the infinitive."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Guete Aabig",
+          "german": "Guten Abend",
+          "english": "Good evening"
+        },
+        {
+          "swissGerman": "Händ Sie guet hergfunde?",
+          "german": "Haben Sie gut hergefunden?",
+          "english": "Did you find your way alright?"
+        },
+        {
+          "swissGerman": "Ich stell Ihne... vor",
+          "german": "Ich stelle Ihnen... vor",
+          "english": "I'll introduce you to..."
+        }
+      ]
+    },
+    {
+      "id": "saying-hello-5",
+      "level": "beginner",
+      "title": "Greeting the postman",
+      "situation": "The postman rings your doorbell with a package.",
+      "lines": [
+        {
+          "speaker": "Postman",
+          "swissGerman": "Grüezi! Ich ha es Päckli für Sie.",
+          "german": "Guten Tag! Ich habe ein Päckchen für Sie.",
+          "english": "Hello! I have a package for you.",
+          "spanish": "¡Hola! Tengo un paquete para usted."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Grüezi! Ah super, merci!",
+          "german": "Guten Tag! Ah super, danke!",
+          "english": "Hello! Oh great, thanks!",
+          "spanish": "¡Hola! Ah genial, ¡gracias!"
+        },
+        {
+          "speaker": "Postman",
+          "swissGerman": "Chönd Sie bitte da unterschriibe?",
+          "german": "Können Sie bitte hier unterschreiben?",
+          "english": "Could you please sign here?",
+          "spanish": "¿Podría firmar aquí, por favor?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, sicher. So, bitte.",
+          "german": "Ja, sicher. So, bitte.",
+          "english": "Yes, of course. There you go.",
+          "spanish": "Sí, por supuesto. Aquí tienes."
+        },
+        {
+          "speaker": "Postman",
+          "swissGerman": "Merci vilmal! Schöne Tag no!",
+          "german": "Vielen Dank! Schönen Tag noch!",
+          "english": "Thank you! Have a nice day!",
+          "spanish": "¡Gracias! ¡Que tenga un buen día!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ihne au, ade!",
+          "german": "Ihnen auch, tschüss!",
+          "english": "You too, bye!",
+          "spanish": "¡Tú también, adiós!"
+        },
+        {
+          "speaker": "Postman",
+          "swissGerman": "Ach ja — und wenn Sie morn e Sendung erwarte, bin ich so um neini do.",
+          "german": "Ach ja — und wenn Sie morgen eine Sendung erwarten, bin ich so um neun Uhr hier.",
+          "english": "Oh yes — and if you're expecting something tomorrow, I'll be here around nine.",
+          "spanish": "¡Oh, sí! Y si esperas algo mañana, estaré aquí alrededor de las nueve."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Merci für d'Info! Ich pass uf. Bis dänn!",
+          "german": "Danke für die Info! Ich pass auf. Bis dann!",
+          "english": "Thanks for the info! I'll be watching. Until then!",
+          "spanish": "¡Gracias por la información! Lo estoy mirando. ¡Hasta entonces!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Päckli",
+          "german": "Päckchen",
+          "explanation": "Swiss '-li' diminutive instead of standard German '-chen'."
+        },
+        {
+          "swissGerman": "unterschriibe",
+          "german": "unterschreiben",
+          "explanation": "'schriibe' = 'schreiben'. Vowel shift and '-n' dropped."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Ich ha es Päckli für Sie",
+          "german": "Ich habe ein Päckchen für Sie",
+          "english": "I have a package for you"
+        },
+        {
+          "swissGerman": "Chönd Sie bitte... ?",
+          "german": "Können Sie bitte... ?",
+          "english": "Could you please... ?"
+        },
+        {
+          "swissGerman": "Schöne Tag no!",
+          "german": "Schönen Tag noch!",
+          "english": "Have a nice day!"
+        }
+      ]
+    }
+  ]
+}

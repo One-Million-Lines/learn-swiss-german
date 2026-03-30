@@ -1,0 +1,499 @@
+{
+  "id": "working-from-home",
+  "topicId": "work",
+  "title": "Working from Home",
+  "description": "Remote work situations, video calls, and work-life balance at home",
+  "dialogues": [
+    {
+      "id": "wfh-1",
+      "level": "beginner",
+      "title": "Morning check-in call",
+      "situation": "You join the daily standup from home.",
+      "lines": [
+        {
+          "speaker": "Team Lead",
+          "swissGerman": "Guete Morge! Sind alli da? Okay, fömmer aa.",
+          "german": "Guten Morgen! Sind alle da? Okay, fangen wir an.",
+          "english": "Good morning! Is everyone here? Okay, let's start.",
+          "spanish": "¡Buenos días! ¿Están todos? Bien, empezamos."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Morge! Ich bi hüt im Home-Office. Ich schaffe am Bricht wiiter.",
+          "german": "Morgen! Ich bin heute im Home-Office. Ich arbeite am Bericht weiter.",
+          "english": "Morning! I'm working from home today. I'll continue on the report.",
+          "spanish": "¡Buenos días! Hoy trabajo desde casa. Voy a seguir con el informe."
+        },
+        {
+          "speaker": "Team Lead",
+          "swissGerman": "Guet. Hesch alles was du bruchsch?",
+          "german": "Gut. Hast du alles was du brauchst?",
+          "english": "Good. Do you have everything you need?",
+          "spanish": "Bien. ¿Tienes todo lo que necesitas?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, alles easy. Ich bi über Slack erreichbar.",
+          "german": "Ja, alles easy. Ich bin über Slack erreichbar.",
+          "english": "Yes, all good. I'm reachable on Slack.",
+          "spanish": "Sí, todo bien. Estoy disponible en Slack."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich ha hüt au en Video-Call um drüü — chasch mich denn kurz freistelle?",
+          "german": "Ich habe heute auch einen Video-Call um drei — kannst du mich dann kurz freistellen?",
+          "english": "I also have a video call at three today — can you free me up briefly then?",
+          "spanish": "También tengo una videollamada a las tres hoy — ¿puedes liberarme un momento entonces?"
+        },
+        {
+          "speaker": "Team Lead",
+          "swissGerman": "Ja klar, ich trag's im Kalender ii. Veruursach kei Überschniidig.",
+          "german": "Ja klar, ich trage es im Kalender ein. Verursache keine Überschneidung.",
+          "english": "Sure, I'll add it to the calendar. Just avoid any overlap.",
+          "spanish": "Claro, lo añado al calendario. Solo evita solapamientos."
+        },
+        {
+          "speaker": "Team Lead",
+          "swissGerman": "Perfekt. Gib Bescheid falls öppis isch.",
+          "german": "Perfekt. Gib Bescheid falls etwas ist.",
+          "english": "Perfect. Let us know if anything comes up.",
+          "spanish": "Perfecto. Avisadnos si surge algo."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "fömmer aa",
+          "german": "fangen wir an",
+          "explanation": "'fömmer' = 'fangen wir'. Verb+pronoun fusion. 'aa' = 'an'."
+        },
+        {
+          "swissGerman": "wiiter",
+          "german": "weiter",
+          "explanation": "'wiiter' = 'weiter'. Vowel doubling."
+        },
+        {
+          "swissGerman": "falls öppis isch",
+          "german": "falls etwas ist",
+          "explanation": "'öppis' = 'etwas'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "fömmer aa",
+          "german": "fangen wir an",
+          "english": "let's start"
+        },
+        {
+          "swissGerman": "über Slack erreichbar",
+          "german": "über Slack erreichbar",
+          "english": "reachable on Slack"
+        },
+        {
+          "swissGerman": "Gib Bescheid",
+          "german": "Gib Bescheid",
+          "english": "Let us know"
+        }
+      ]
+    },
+    {
+      "id": "wfh-2",
+      "level": "beginner",
+      "title": "Technical issues at home",
+      "situation": "Your internet at home is unstable and you need to inform your team.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Hey Lüüt, mis Internet spinnt. Ich cha nöd richtig i de Call cho.",
+          "german": "Hey Leute, mein Internet spinnt. Ich kann nicht richtig in den Call kommen.",
+          "english": "Hey everyone, my internet is acting up. I can't properly join the call.",
+          "spanish": "Oye a todos, mi internet va mal. No puedo conectarme bien a la llamada."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Kei Sorg! Chasch du über s'Handy iiwähle?",
+          "german": "Keine Sorge! Kannst du dich über das Handy einwählen?",
+          "english": "No worries! Can you dial in from your phone?",
+          "spanish": "¡No te preocupes! ¿Puedes conectarte desde el móvil?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, gueti Idee. Momänt, ich probier's grad.",
+          "german": "Ja, gute Idee. Moment, ich probiere es gleich.",
+          "english": "Yes, good idea. One moment, I'll try right away.",
+          "spanish": "Sí, buena idea. Un momento, lo intento ahora mismo."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Kei Stress! Mir warted.",
+          "german": "Kein Stress! Wir warten.",
+          "english": "No stress! We'll wait.",
+          "spanish": "¡Sin estrés! Esperamos."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "So, jetzt gaht's. Ghöred ihr mich?",
+          "german": "So, jetzt geht's. Hört ihr mich?",
+          "english": "There, it works now. Can you hear me?",
+          "spanish": "Ahí, ya funciona. ¿Puedes oírme?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Mega! Ich verbind mich. Chönd ihr mi au in de Präsi-Siite sieh?",
+          "german": "Super! Ich verbinde mich. Können Sie mich auch auf der Präsentationsseite sehen?",
+          "english": "Great! I'm connecting. Can you also see me on the presentation side?",
+          "spanish": "¡Genial! Me estoy conectando. ¿También me ves en el lado de la presentación?"
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Ja, du bisch do! Bild und Ton sind top. Mir fange aa.",
+          "german": "Ja, du bist da! Bild und Ton sind top. Wir fangen an.",
+          "english": "Yes, you're there! Picture and sound are great. Let's start.",
+          "spanish": "Sí, ¡ya estás! La imagen y el sonido son geniales. Empecemos."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Ja, lut und dütlich!",
+          "german": "Ja, laut und deutlich!",
+          "english": "Yes, loud and clear!",
+          "spanish": "Sí, ¡alto y claro!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "spinnt",
+          "german": "spinnt",
+          "explanation": "Same in both: informal for 'acting crazy/malfunctioning'."
+        },
+        {
+          "swissGerman": "iiwähle",
+          "german": "einwählen",
+          "explanation": "'iiwähle' = 'einwählen'. 'Ein-' → 'Ii-'."
+        },
+        {
+          "swissGerman": "Ghöred ihr mich?",
+          "german": "Hört ihr mich?",
+          "explanation": "'Ghöred' = 'Hört'. Swiss German conjugation."
+        },
+        {
+          "swissGerman": "dütlich",
+          "german": "deutlich",
+          "explanation": "'dütlich' = 'deutlich'. Vowel shift."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "mis Internet spinnt",
+          "german": "mein Internet spinnt",
+          "english": "my internet is acting up"
+        },
+        {
+          "swissGerman": "iiwähle",
+          "german": "einwählen",
+          "english": "to dial in"
+        },
+        {
+          "swissGerman": "lut und dütlich",
+          "german": "laut und deutlich",
+          "english": "loud and clear"
+        }
+      ]
+    },
+    {
+      "id": "wfh-3",
+      "level": "intermediate",
+      "title": "Discussing work-life balance",
+      "situation": "You chat with a colleague about the challenges of working from home.",
+      "lines": [
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Wie findsch du s'Home-Office? Ich cha mi mängisch schlecht konzentriere.",
+          "german": "Wie findest du das Home-Office? Ich kann mich manchmal schlecht konzentrieren.",
+          "english": "How do you find working from home? I sometimes have trouble concentrating.",
+          "spanish": "¿Qué tal trabajar desde casa? A veces me cuesta concentrarme."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich find's meistens guet, aber s'Schwiirigschte isch, en klari Gränze z'zieh.",
+          "german": "Ich finde es meistens gut, aber das Schwierigste ist, eine klare Grenze zu ziehen.",
+          "english": "I mostly find it good, but the hardest thing is drawing a clear boundary.",
+          "spanish": "En general lo encuentro bueno, pero lo más difícil es marcar un límite claro."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Ja, genau! Ich schaffe mängisch bis am Achti am Aabig.",
+          "german": "Ja, genau! Ich arbeite manchmal bis acht Uhr abends.",
+          "english": "Yes, exactly! I sometimes work until eight in the evening.",
+          "spanish": "Sí, ¡exactamente! A veces trabajo hasta las ocho de la tarde."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich ha mir aagwöhnt, de Laptop um Föifi zuez'mache. Sunscht hört's nie uf.",
+          "german": "Ich habe mir angewöhnt, den Laptop um fünf zuzumachen. Sonst hört es nie auf.",
+          "english": "I've gotten used to closing the laptop at five. Otherwise it never stops.",
+          "spanish": "Me he acostumbrado a cerrar el portátil a las cinco. Si no, nunca se para."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Das isch en gueti Regle. Ich sött das au mache.",
+          "german": "Das ist eine gute Regel. Ich sollte das auch machen.",
+          "english": "That's a good rule. I should do that too.",
+          "spanish": "Esa es una buena norma. Yo también debería hacerlo."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Ja, und mir chönd öppe zwöi Mal pro Wuche is Büro cho. Das hilft au.",
+          "german": "Ja, und wir können ungefähr zweimal pro Woche ins Büro kommen. Das hilft auch.",
+          "english": "Yes, and we can come to the office about twice a week. That also helps.",
+          "spanish": "Sí, y podemos venir a la oficina unas dos veces a la semana. Eso también ayuda."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Stimmt. Ich bruuch de Wäg zum Büro — das isch min mentali Grenze zwüsche Schaffe und Frizyt.",
+          "german": "Stimmt. Ich brauche den Weg zum Büro — das ist meine mentale Grenze zwischen Arbeit und Freizeit.",
+          "english": "Right. I need the commute to the office — that's my mental boundary between work and leisure.",
+          "spanish": "Correcto. Necesito el trayecto a la oficina — es mi límite mental entre trabajo y ocio."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, und denn no go spaziere. Das hilft au mega.",
+          "german": "Ja, und dann noch spazieren gehen. Das hilft auch mega.",
+          "english": "Yeah, and then go for a walk. That helps a lot too.",
+          "spanish": "Sí, y luego dar un paseo. Eso también ayuda mucho."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "mängisch",
+          "german": "manchmal",
+          "explanation": "'mängisch' = 'manchmal'. Different word."
+        },
+        {
+          "swissGerman": "Schwiirigschte",
+          "german": "Schwierigste",
+          "explanation": "'Schwiirigschte' = 'Schwierigste'. '-ste' → '-schte'."
+        },
+        {
+          "swissGerman": "aagwöhnt",
+          "german": "angewöhnt",
+          "explanation": "'aa-' = 'an-', 'gwöhnt' = 'gewöhnt'."
+        },
+        {
+          "swissGerman": "zuez'mache",
+          "german": "zuzumachen",
+          "explanation": "'zuez'mache' = 'zuzumachen'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "mängisch",
+          "german": "manchmal",
+          "english": "sometimes"
+        },
+        {
+          "swissGerman": "Gränze zieh",
+          "german": "Grenze ziehen",
+          "english": "to draw a boundary"
+        },
+        {
+          "swissGerman": "go spaziere",
+          "german": "spazieren gehen",
+          "english": "to go for a walk"
+        }
+      ]
+    },
+    {
+      "id": "wfh-4",
+      "level": "beginner",
+      "title": "Asking to work from home",
+      "situation": "You ask your boss if you can work from home tomorrow.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Chönnt ich morn vo dehei schaffe? Ich erwarte en Paket.",
+          "german": "Könnte ich morgen von daheim arbeiten? Ich erwarte ein Paket.",
+          "english": "Could I work from home tomorrow? I'm expecting a package.",
+          "spanish": "¿Podría trabajar desde casa mañana? Espero un paquete."
+        },
+        {
+          "speaker": "Boss",
+          "swissGerman": "Ja klar, kei Problem. Hesch morn irgendwelchi Meetings?",
+          "german": "Ja klar, kein Problem. Hast du morgen irgendwelche Meetings?",
+          "english": "Sure, no problem. Do you have any meetings tomorrow?",
+          "spanish": "Claro, no hay problema. ¿Tienes reuniones mañana?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Nur s'Standup am Morge, das mach ich per Video.",
+          "german": "Nur das Standup morgens, das mache ich per Video.",
+          "english": "Just the standup in the morning, I'll do that via video.",
+          "spanish": "Solo el standup de la mañana, lo haré por vídeo."
+        },
+        {
+          "speaker": "Boss",
+          "swissGerman": "Passt. Dänk eifach dra, dis Telefon aazluege falls öpper aalütet.",
+          "german": "Passt. Denk einfach daran, dein Telefon anzuschauen falls jemand anruft.",
+          "english": "Works. Just remember to check your phone if someone calls.",
+          "spanish": "Perfecto. Solo recuerda revisar tu teléfono si alguien llama."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und wenn s'Paket chunnt — chani kurz offline gah für zehn Minute?",
+          "german": "Und wenn das Paket kommt — kann ich kurz offline gehen für zehn Minuten?",
+          "english": "And when the package arrives — can I briefly go offline for ten minutes?",
+          "spanish": "¿Y cuando llegue el paquete — puedo desconectarme brevemente diez minutos?"
+        },
+        {
+          "speaker": "Boss",
+          "swissGerman": "Natürlich, Mänsch! Schriib kurz im Slack dass du weg bisch.",
+          "german": "Natürlich, Mensch! Schreib kurz im Slack dass du weg bist.",
+          "english": "Of course! Just write briefly in Slack that you're away.",
+          "spanish": "¡Por supuesto! Solo escribe brevemente en Slack que estás fuera."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Mach ich, versprooche!",
+          "german": "Mach ich, versprochen!",
+          "english": "Will do, promised!",
+          "spanish": "¡Lo haré, lo prometo!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "vo dehei",
+          "german": "von daheim",
+          "explanation": "'vo dehei' = 'von daheim'. Working from home."
+        },
+        {
+          "swissGerman": "Dänk eifach dra",
+          "german": "Denk einfach daran",
+          "explanation": "'Dänk' = 'Denk', 'dra' = 'daran'."
+        },
+        {
+          "swissGerman": "aazluege",
+          "german": "anzuschauen",
+          "explanation": "'aazluege' = 'anzuschauen'. 'aa-' = 'an-', 'luege' = 'schauen'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "vo dehei schaffe",
+          "german": "von daheim arbeiten",
+          "english": "to work from home"
+        },
+        {
+          "swissGerman": "per Video",
+          "german": "per Video",
+          "english": "via video"
+        },
+        {
+          "swissGerman": "Dänk dra",
+          "german": "Denk daran",
+          "english": "Remember"
+        }
+      ]
+    },
+    {
+      "id": "wfh-5",
+      "level": "intermediate",
+      "title": "Video call etiquette fail",
+      "situation": "Something awkward happens during a video call from home.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Also, wie ich scho gsäit ha, d'Zahle vom Q3—",
+          "german": "Also, wie ich schon gesagt habe, die Zahlen vom Q3—",
+          "english": "So, as I was saying, the Q3 numbers—",
+          "spanish": "Bueno, como iba diciendo, los números del tercer trimestre—"
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Äh Marco, din Chatz sitzt uf dinere Tastatur!",
+          "german": "Äh Marco, deine Katze sitzt auf deiner Tastatur!",
+          "english": "Uh Marco, your cat is sitting on your keyboard!",
+          "spanish": "Eh Marco, ¡tu gato está sentado sobre tu teclado!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Oh nei, sorry! Luna, gang ewäg! So, tschuldigung.",
+          "german": "Oh nein, sorry! Luna, geh weg! So, Entschuldigung.",
+          "english": "Oh no, sorry! Luna, go away! There, apologies.",
+          "spanish": "¡Oh, lo siento! Luna, ¡aléjate! Disculpa."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Haha, kei Problem! Das isch s'Beschte am Home-Office.",
+          "german": "Haha, kein Problem! Das ist das Beste am Home-Office.",
+          "english": "Haha, no problem! That's the best thing about working from home.",
+          "spanish": "Jaja, ¡no hay problema! Eso es lo mejor de trabajar desde casa."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, sie chunnt immer wenn ich en wichtige Call ha.",
+          "german": "Ja, sie kommt immer wenn ich einen wichtigen Call habe.",
+          "english": "Yeah, she always shows up when I have an important call.",
+          "spanish": "Sí, ella siempre aparece cuando tengo una llamada importante."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Haha, ich glaub s'Luna wott au en Job bi de Firma!",
+          "german": "Haha, ich glaube Luna will auch einen Job bei der Firma!",
+          "english": "Haha, I think Luna wants a job at the company too!",
+          "spanish": "Jaja, ¡creo que Luna también quiere un trabajo en la empresa!"
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Chief Tastatur-Officer! Die Stelle isch offe.",
+          "german": "Chief Tastatur-Officer! Die Stelle ist offen.",
+          "english": "Chief Keyboard Officer! That position is open.",
+          "spanish": "¡Director de Teclado! Ese puesto está abierto."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Das kenni! Min Hund bällt immer wenni rede.",
+          "german": "Das kenne ich! Mein Hund bellt immer wenn ich rede.",
+          "english": "I know that! My dog always barks when I'm talking.",
+          "spanish": "¡Eso lo sé! Mi perro siempre ladra cuando estoy hablando."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Chatz",
+          "german": "Katze",
+          "explanation": "'Chatz' = 'Katze'. K→Ch."
+        },
+        {
+          "swissGerman": "ewäg",
+          "german": "weg",
+          "explanation": "'ewäg' = 'weg'. Swiss German adds vowel prefix."
+        },
+        {
+          "swissGerman": "Beschte",
+          "german": "Beste",
+          "explanation": "'Beschte' = 'Beste'. Added 'ch'."
+        },
+        {
+          "swissGerman": "bällt",
+          "german": "bellt",
+          "explanation": "'bällt' = 'bellt'. Vowel shift."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Chatz",
+          "german": "Katze",
+          "english": "cat"
+        },
+        {
+          "swissGerman": "gang ewäg",
+          "german": "geh weg",
+          "english": "go away"
+        },
+        {
+          "swissGerman": "das kenni",
+          "german": "das kenne ich",
+          "english": "I know that"
+        }
+      ]
+    }
+  ]
+}

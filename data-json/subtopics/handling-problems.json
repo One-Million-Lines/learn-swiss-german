@@ -1,0 +1,523 @@
+{
+  "id": "handling-problems",
+  "topicId": "daily-life",
+  "title": "Handling Problems",
+  "description": "Something wrong with a product or service, returning items, making complaints, and getting a refund or exchange",
+  "dialogues": [
+    {
+      "id": "problems-1",
+      "level": "intermediate",
+      "title": "Returning a defective product",
+      "situation": "You return a broken appliance to the store.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Grüezi! Ich ha das Grät letscht Wuche kauft und es funktioniert nümm.",
+          "german": "Guten Tag! Ich habe dieses Gerät letzte Woche gekauft und es funktioniert nicht mehr.",
+          "english": "Hello! I bought this device last week and it doesn't work anymore.",
+          "spanish": "¡Hola! Compré este aparato la semana pasada y ya no funciona."
+        },
+        {
+          "speaker": "Employee",
+          "swissGerman": "Oh, das isch ärgerlich. Händ Sie de Kassazettel no?",
+          "german": "Oh, das ist ärgerlich. Haben Sie den Kassenbon noch?",
+          "english": "Oh, that's annoying. Do you still have the receipt?",
+          "spanish": "¡Oh, qué fastidio! ¿Todavía tienes el recibo?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, do isch er. Und d'Garantie isch ja no gültig.",
+          "german": "Ja, hier ist er. Und die Garantie ist ja noch gültig.",
+          "english": "Yes, here it is. And the warranty is still valid.",
+          "spanish": "Sí, aquí está. Y la garantía sigue siendo válida."
+        },
+        {
+          "speaker": "Employee",
+          "swissGerman": "Stimmt, zwei Jahr Garantie. Mir chönd Ihne en Umtuusch aabiete oder s'Gäld zruggeh.",
+          "german": "Stimmt, zwei Jahre Garantie. Wir können Ihnen einen Umtausch anbieten oder das Geld zurückgeben.",
+          "english": "Right, two years warranty. We can offer you an exchange or a refund.",
+          "spanish": "Correcto, dos años de garantía. Podemos ofrecerte un cambio o una devolución."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich nimm lieber s'Gäld zrugg, wänn das gaat.",
+          "german": "Ich nehme lieber das Geld zurück, wenn das geht.",
+          "english": "I'd prefer the refund, if that's possible.",
+          "spanish": "Preferiría el reembolso, si es posible."
+        },
+        {
+          "speaker": "Employee",
+          "swissGerman": "Klar, kei Problem. De Betrag wird uf Ihri Charte zruggbuecht.",
+          "german": "Klar, kein Problem. Der Betrag wird auf Ihre Karte zurückgebucht.",
+          "english": "Sure, no problem. The amount will be refunded to your card.",
+          "spanish": "Claro, no hay problema. El importe se devolverá a tu tarjeta."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Wie lang duret das mit de Rückbuechig?",
+          "german": "Wie lange dauert das mit der Rückbuchung?",
+          "english": "How long does the refund take?",
+          "spanish": "¿Cuánto tarda el reembolso?"
+        },
+        {
+          "speaker": "Employee",
+          "swissGerman": "Drü bis fünf Werchdtag. Si überchomed e Bestätiging per E-Mail.",
+          "german": "Drei bis fünf Werktage. Sie bekommen eine Bestätigung per E-Mail.",
+          "english": "Three to five business days. You'll receive a confirmation by email.",
+          "spanish": "De tres a cinco días hábiles. Recibirás una confirmación por correo electrónico."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Grät",
+          "german": "Gerät",
+          "explanation": "'Grät' = 'Gerät'. Device/appliance."
+        },
+        {
+          "swissGerman": "Kassazettel",
+          "german": "Kassenbon/Quittung",
+          "explanation": "'Kassazettel' = receipt. Swiss word."
+        },
+        {
+          "swissGerman": "Umtuusch",
+          "german": "Umtausch",
+          "explanation": "'Umtuusch' = 'Umtausch'. Exchange."
+        },
+        {
+          "swissGerman": "zruggbuecht",
+          "german": "zurückgebucht",
+          "explanation": "'zruggbuecht' = refunded/booked back."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Kassazettel",
+          "german": "Kassenbon",
+          "english": "receipt"
+        },
+        {
+          "swissGerman": "Umtuusch",
+          "german": "Umtausch",
+          "english": "exchange"
+        },
+        {
+          "swissGerman": "s'Gäld zrugg",
+          "german": "Geld zurück",
+          "english": "refund"
+        }
+      ]
+    },
+    {
+      "id": "problems-2",
+      "level": "intermediate",
+      "title": "Wrong order at a restaurant",
+      "situation": "Your food order was wrong at a restaurant.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Entschuldigung, das isch leider nöd das wo ich bstellt ha.",
+          "german": "Entschuldigung, das ist leider nicht das was ich bestellt habe.",
+          "english": "Excuse me, unfortunately this isn't what I ordered.",
+          "spanish": "Perdona, lamentablemente esto no es lo que pedí."
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Oh! Was händ Sie bstellt?",
+          "german": "Oh! Was haben Sie bestellt?",
+          "english": "Oh! What did you order?",
+          "spanish": "¡Oh! ¿Qué pediste?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich ha s'Schnitzel bstellt, ohni Sauce. Das do hät Rahmsauce druf.",
+          "german": "Ich habe das Schnitzel bestellt, ohne Sauce. Dieses hier hat Rahmsauce drauf.",
+          "english": "I ordered the schnitzel, without sauce. This one has cream sauce on it.",
+          "spanish": "Pedí el escalope, sin salsa. Este tiene salsa de crema."
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Das tuedt mir leid! Ich bring Ihne sofort es nöis.",
+          "german": "Das tut mir leid! Ich bringe Ihnen sofort ein neues.",
+          "english": "I'm sorry! I'll bring you a new one right away.",
+          "spanish": "¡Lo siento! ¡Le traigo uno nuevo enseguida!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Danke! Und d'Biilag isch au falsch — ich ha Pommes bstellt, nöd Riis.",
+          "german": "Danke! Und die Beilage ist auch falsch — ich habe Pommes bestellt, nicht Reis.",
+          "english": "Thanks! And the side is wrong too — I ordered fries, not rice.",
+          "spanish": "¡Gracias! ¡Y el acompañamiento también está mal — pedí patatas fritas, no arroz!"
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Ich sorg dafür, dass alles stimmt. Entschuldigung für de Fähler!",
+          "german": "Ich sorge dafür, dass alles stimmt. Entschuldigung für den Fehler!",
+          "english": "I'll make sure everything is correct. Sorry for the mistake!",
+          "spanish": "¡Me aseguraré de que todo esté correcto. ¡Disculpe el error!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Merci! Und wenn möglich de Riis in ere separater Schüssel — ich mög kei Miischig.",
+          "german": "Danke! Und wenn möglich den Reis in einer separaten Schüssel — ich mag keine Mischung.",
+          "english": "Thanks! And if possible the rice in a separate bowl — I prefer them separate.",
+          "spanish": "¡Gracias! ¿Y si es posible el arroz en un bol aparte — prefiero que estén separados?"
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Selbstverständlich! Ich notier das gänau.",
+          "german": "Selbstverständlich! Ich notiere das genau.",
+          "english": "Of course! I'll note that exactly.",
+          "spanish": "¡Por supuesto! Lo anoto exactamente."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "bstellt",
+          "german": "bestellt",
+          "explanation": "'bstellt' = 'bestellt'. Ordered."
+        },
+        {
+          "swissGerman": "Rahmsauce",
+          "german": "Sahnesauce/Rahmsauce",
+          "explanation": "'Rahmsauce' = cream sauce. 'Rahm' is Swiss/Austrian for cream."
+        },
+        {
+          "swissGerman": "Biilag",
+          "german": "Beilage",
+          "explanation": "'Biilag' = 'Beilage'. Side dish."
+        },
+        {
+          "swissGerman": "Fähler",
+          "german": "Fehler",
+          "explanation": "'Fähler' = 'Fehler'. Mistake."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "bstellt",
+          "german": "bestellt",
+          "english": "ordered"
+        },
+        {
+          "swissGerman": "Biilag",
+          "german": "Beilage",
+          "english": "side dish"
+        },
+        {
+          "swissGerman": "Fähler",
+          "german": "Fehler",
+          "english": "mistake"
+        }
+      ]
+    },
+    {
+      "id": "problems-3",
+      "level": "beginner",
+      "title": "Something doesn't work",
+      "situation": "A machine or device isn't working and you report it.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Entschuldigung, de Billett-Automat funktioniert nöd.",
+          "german": "Entschuldigung, der Fahrkartenautomat funktioniert nicht.",
+          "english": "Excuse me, the ticket machine isn't working.",
+          "spanish": "Perdona, la máquina de billetes no funciona."
+        },
+        {
+          "speaker": "Employee",
+          "swissGerman": "Ah, scho wider! Weli Maschine?",
+          "german": "Ah, schon wieder! Welche Maschine?",
+          "english": "Ah, again! Which machine?",
+          "spanish": "¡Ah, otra vez! ¿Qué máquina?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Die bim Iigang. De Bildschirm isch schwarz.",
+          "german": "Die beim Eingang. Der Bildschirm ist schwarz.",
+          "english": "The one at the entrance. The screen is black.",
+          "spanish": "El de la entrada. La pantalla está negra."
+        },
+        {
+          "speaker": "Employee",
+          "swissGerman": "Merci für de Hiiwis! Ich mäld das sofort.",
+          "german": "Danke für den Hinweis! Ich melde das sofort.",
+          "english": "Thanks for the heads-up! I'll report it right away.",
+          "spanish": "¡Gracias por el aviso! Lo reporto enseguida."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und wo chan ich etz es Billett chaufe?",
+          "german": "Und wo kann ich jetzt ein Ticket kaufen?",
+          "english": "And where can I buy a ticket now?",
+          "spanish": "¿Y dónde puedo comprar un billete ahora?"
+        },
+        {
+          "speaker": "Employee",
+          "swissGerman": "Am Schalter oder mit de SBB-App uf em Handy.",
+          "german": "Am Schalter oder mit der SBB-App auf dem Handy.",
+          "english": "At the counter or with the SBB app on your phone.",
+          "spanish": "En la taquilla o con la aplicación SBB en el teléfono."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ok, ich machtä d'App. Gilt mis GA ou am Schalter?",
+          "german": "Ok, ich nehme die App. Gilt mein GA auch am Schalter?",
+          "english": "Ok, I'll use the app. Is my GA also valid at the counter?",
+          "spanish": "Bien, usaré la app. ¿Mi GA también es válido en la taquilla?"
+        },
+        {
+          "speaker": "Employee",
+          "swissGerman": "Ja, chlaar — drück eifach de GA-Button i de App und zeig de QR.",
+          "german": "Ja, klar — drücken Sie einfach den GA-Button in der App und zeigen den QR.",
+          "english": "Yes, sure — just press the GA button in the app and show the QR code.",
+          "spanish": "Sí, claro — solo pulsa el botón del GA en la aplicación y muestra el código QR."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "scho wider",
+          "german": "schon wieder",
+          "explanation": "'scho wider' = 'schon wieder'. Again/once more."
+        },
+        {
+          "swissGerman": "Bildschirm",
+          "german": "Bildschirm",
+          "explanation": "Screen. Same word."
+        },
+        {
+          "swissGerman": "Hiiwis",
+          "german": "Hinweis",
+          "explanation": "'Hiiwis' = 'Hinweis'. Tip/heads-up."
+        },
+        {
+          "swissGerman": "Schalter",
+          "german": "Schalter",
+          "explanation": "Counter/service desk. Where you get in-person help."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "funktioniert nöd",
+          "german": "funktioniert nicht",
+          "english": "doesn't work"
+        },
+        {
+          "swissGerman": "scho wider",
+          "german": "schon wieder",
+          "english": "again"
+        },
+        {
+          "swissGerman": "Schalter",
+          "german": "Schalter",
+          "english": "counter/service desk"
+        }
+      ]
+    },
+    {
+      "id": "problems-4",
+      "level": "intermediate",
+      "title": "Making a complaint politely",
+      "situation": "You make a complaint about a service you received.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Grüezi, ich möcht gärn e Rückmäldig geh.",
+          "german": "Guten Tag, ich möchte gerne eine Rückmeldung geben.",
+          "english": "Hello, I'd like to give some feedback.",
+          "spanish": "Hola, me gustaría dar mi opinión."
+        },
+        {
+          "speaker": "Manager",
+          "swissGerman": "Natürlich, säged Sie.",
+          "german": "Natürlich, sagen Sie.",
+          "english": "Of course, go ahead.",
+          "spanish": "Por supuesto, adelante."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "D'Lieferig isch zwei Wuche z'spaat cho und s'Produkt isch beschädigt.",
+          "german": "Die Lieferung ist zwei Wochen zu spät gekommen und das Produkt ist beschädigt.",
+          "english": "The delivery came two weeks late and the product is damaged.",
+          "spanish": "La entrega llegó con dos semanas de retraso y el producto está dañado."
+        },
+        {
+          "speaker": "Manager",
+          "swissGerman": "Das tuedt eus würklich leid. Händ Sie Fotene vom Schade?",
+          "german": "Das tut uns wirklich leid. Haben Sie Fotos vom Schaden?",
+          "english": "We're really sorry. Do you have photos of the damage?",
+          "spanish": "Lo sentimos mucho. ¿Tienes fotos de los daños?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, ich ha alles dokumentiert. Ich möchti en Ersatz oder e Guetschrift.",
+          "german": "Ja, ich habe alles dokumentiert. Ich möchte einen Ersatz oder eine Gutschrift.",
+          "english": "Yes, I documented everything. I'd like a replacement or a credit.",
+          "spanish": "Sí, lo documenté todo. Me gustaría un reemplazo o un crédito."
+        },
+        {
+          "speaker": "Manager",
+          "swissGerman": "Mir organisiere en Ersatz und schicked Ihne no en Gutschiin für d'Umständ.",
+          "german": "Wir organisieren einen Ersatz und schicken Ihnen noch einen Gutschein für die Umstände.",
+          "english": "We'll organize a replacement and send you a voucher for the inconvenience.",
+          "spanish": "Organizaremos un reemplazo y te enviaremos un vale por las molestias."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Danke. Bis wänn chan ich en Rückmäldig über de Ersatz geh?",
+          "german": "Danke. Bis wann kann ich eine Rückmeldung über den Ersatz geben?",
+          "english": "Thanks. By when can I give feedback about the replacement?",
+          "spanish": "Gracias. ¿Para cuándo puedo dar mi opinión sobre el reemplazo?"
+        },
+        {
+          "speaker": "Manager",
+          "swissGerman": "Innerhalb vo vierzeh Tage. Säged Si eifach Bescheid — mir sind erreichbar per Mail.",
+          "german": "Innerhalb von vierzehn Tagen. Sagen Sie einfach Bescheid — wir sind per Mail erreichbar.",
+          "english": "Within fourteen days. Just let us know — we're reachable by email.",
+          "spanish": "En un plazo de catorce días. Solo avísanos — nos puedes contactar por correo electrónico."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Rückmäldig",
+          "german": "Rückmeldung",
+          "explanation": "'Rückmäldig' = 'Rückmeldung'. Feedback."
+        },
+        {
+          "swissGerman": "beschädigt",
+          "german": "beschädigt",
+          "explanation": "Damaged. Same word."
+        },
+        {
+          "swissGerman": "Guetschrift",
+          "german": "Gutschrift",
+          "explanation": "'Guetschrift' = 'Gutschrift'. Credit (refund to account)."
+        },
+        {
+          "swissGerman": "Gutschiin",
+          "german": "Gutschein",
+          "explanation": "'Gutschiin' = 'Gutschein'. Voucher."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Rückmäldig",
+          "german": "Rückmeldung",
+          "english": "feedback/complaint"
+        },
+        {
+          "swissGerman": "Ersatz",
+          "german": "Ersatz",
+          "english": "replacement"
+        },
+        {
+          "swissGerman": "Gutschiin",
+          "german": "Gutschein",
+          "english": "voucher"
+        }
+      ]
+    },
+    {
+      "id": "problems-5",
+      "level": "beginner",
+      "title": "Exchanging the wrong size",
+      "situation": "You need to exchange clothing for a different size.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Grüezi! Ich ha die Hose kauft, aber d'Grössi stimmt nöd.",
+          "german": "Guten Tag! Ich habe diese Hose gekauft, aber die Größe stimmt nicht.",
+          "english": "Hello! I bought these pants but the size is wrong.",
+          "spanish": "¡Hola! Compré estos pantalones pero la talla está mal."
+        },
+        {
+          "speaker": "Employee",
+          "swissGerman": "Kei Problem. Weli Grössi bruuched Sie?",
+          "german": "Kein Problem. Welche Größe brauchen Sie?",
+          "english": "No problem. What size do you need?",
+          "spanish": "Sin problema. ¿Qué talla necesitas?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Eini grösser — 40 statt 38. Händ ihr die no?",
+          "german": "Eine größer — 40 statt 38. Haben Sie die noch?",
+          "english": "One size bigger — 40 instead of 38. Do you still have it?",
+          "spanish": "Una talla más grande — la 40 en vez de la 38. ¿Todavía la tienen?"
+        },
+        {
+          "speaker": "Employee",
+          "swissGerman": "Momänt, ich lueg... Ja! Mir händ no eini i de 40.",
+          "german": "Moment, ich schaue... Ja! Wir haben noch eine in 40.",
+          "english": "One moment, let me check... Yes! We still have one in 40.",
+          "spanish": "Un momento, déjame ver... ¡Sí! Todavía tenemos uno en la talla 40."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Super! Chan ich die grad aaprobiere?",
+          "german": "Super! Kann ich die gleich anprobieren?",
+          "english": "Great! Can I try it on right away?",
+          "spanish": "¡Genial! ¿Puedo probármelo ahora mismo?"
+        },
+        {
+          "speaker": "Employee",
+          "swissGerman": "Ja klar, d'Umchleidekabine isch hinne rechts.",
+          "german": "Ja klar, die Umkleidekabine ist hinten rechts.",
+          "english": "Yes of course, the fitting room is in the back right.",
+          "spanish": "Sí, por supuesto, el probador está al fondo a la derecha."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und wenn d'Grössi 40 au nöd stimmt — chan ich denn no uf 42 tuusche?",
+          "german": "Und wenn die Größe 40 auch nicht stimmt — kann ich dann noch auf 42 wechseln?",
+          "english": "And if size 40 doesn't fit either — can I then exchange for a 42?",
+          "spanish": "¿Y si la talla 40 tampoco me queda — puedo cambiarlo por una 42?"
+        },
+        {
+          "speaker": "Employee",
+          "swissGerman": "Ja, kei Problem. De Kassazettel isch bi Ihne — alles möglich innert 30 Tage.",
+          "german": "Ja, kein Problem. Der Kassenbon ist bei Ihnen — alles möglich innerhalb von 30 Tagen.",
+          "english": "Yes, no problem. You have the receipt — everything is possible within 30 days.",
+          "spanish": "Sí, ningún problema. Tienes el recibo — todo es posible dentro de los 30 días."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Grössi",
+          "german": "Größe",
+          "explanation": "'Grössi' = 'Größe'. Size. Swiss form."
+        },
+        {
+          "swissGerman": "aaprobiere",
+          "german": "anprobieren",
+          "explanation": "'aaprobiere' = 'anprobieren'. To try on."
+        },
+        {
+          "swissGerman": "Umchleidekabine",
+          "german": "Umkleidekabine",
+          "explanation": "'Umchleidekabine' = fitting room. K→Ch."
+        },
+        {
+          "swissGerman": "Hose",
+          "german": "Hose",
+          "explanation": "Pants/trousers. Same word."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Grössi",
+          "german": "Größe",
+          "english": "size"
+        },
+        {
+          "swissGerman": "aaprobiere",
+          "german": "anprobieren",
+          "english": "to try on"
+        },
+        {
+          "swissGerman": "Umchleidekabine",
+          "german": "Umkleidekabine",
+          "english": "fitting room"
+        }
+      ]
+    }
+  ]
+}

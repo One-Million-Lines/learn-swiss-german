@@ -1,0 +1,513 @@
+{
+  "id": "elternabend",
+  "topicId": "family-school",
+  "title": "Elternabend (Parents' Evening)",
+  "description": "Formal school parent evenings, class information, and school events",
+  "dialogues": [
+    {
+      "id": "elternabend-1",
+      "level": "intermediate",
+      "title": "Welcome and class overview",
+      "situation": "The teacher opens the parents' evening with an overview.",
+      "lines": [
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "Guete Abig und willkomme zum Eltereabig. Schön, dass so vieli do sind.",
+          "german": "Guten Abend und willkommen zum Elternabend. Schön, dass so viele da sind.",
+          "english": "Good evening and welcome to the parents' evening. Nice that so many of you are here.",
+          "spanish": "Buenas noches y bienvenidos a la reunión de padres. Qué bien que hayan venido tantos."
+        },
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "D'Chlass macht's generell sehr guet. Im Rächne sind alli uf em richtige Niveau.",
+          "german": "Die Klasse macht es generell sehr gut. In Mathe sind alle auf dem richtigen Niveau.",
+          "english": "The class is doing very well overall. In maths everyone is at the right level.",
+          "spanish": "La clase va muy bien en general. En matemáticas todos están al nivel correcto."
+        },
+        {
+          "speaker": "Parent",
+          "swissGerman": "Wie siehts mit em Franzöisch us? Min Sohn hät Müeh damit.",
+          "german": "Wie sieht es mit Französisch aus? Mein Sohn hat Mühe damit.",
+          "english": "How does it look with French? My son has trouble with it.",
+          "spanish": "¿Cómo va con el francés? Mi hijo tiene dificultades con ello."
+        },
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "Franzöisch isch für vieli schwierig am Afang. Mir starte im Novämber mit Nachhilf-Angebot.",
+          "german": "Französisch ist für viele schwierig am Anfang. Wir starten im November mit Nachhilfe-Angeboten.",
+          "english": "French is difficult for many at the start. We're starting tutoring options in November.",
+          "spanish": "El francés es difícil para muchos al principio. Estamos empezando opciones de tutoría en noviembre."
+        },
+        {
+          "speaker": "Parent 2",
+          "swissGerman": "Und was isch mit em Skilager? Wänn isch das?",
+          "german": "Und was ist mit dem Skilager? Wann ist das?",
+          "english": "And what about the ski camp? When is that?",
+          "spanish": "¿Y el campamento de esquí? ¿Cuándo es?"
+        },
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "S'Skilager isch im Februar. D'Info-Brief chömed nöchsti Wuche.",
+          "german": "Das Skilager ist im Februar. Die Info-Briefe kommen nächste Woche.",
+          "english": "The ski camp is in February. The info letters come next week.",
+          "spanish": "El campamento de esquí es en febrero. Las cartas informativas llegan la próxima semana."
+        },
+        {
+          "speaker": "Parent",
+          "swissGerman": "Isch das Skilager obligatorisch oder chasch du abmelde?",
+          "german": "Ist das Skilager obligatorisch oder kann man sich abmelden?",
+          "english": "Is the ski camp compulsory or can you opt out?",
+          "spanish": "¿El campamento de esquí es obligatorio o se puede optar por no ir?"
+        },
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "Es isch empfohle, aber bi medizinische Gründ isch e Abmäldig möglich.",
+          "german": "Es ist empfohlen, aber bei medizinischen Gründen ist eine Abmeldung möglich.",
+          "english": "It is recommended, but for medical reasons opting out is possible.",
+          "spanish": "Es recomendable, pero por razones médicas es posible optar por no hacerlo."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Eltereabig",
+          "german": "Elternabend",
+          "explanation": "'Eltereabig' = 'Elternabend'. Swiss form."
+        },
+        {
+          "swissGerman": "Müeh",
+          "german": "Mühe",
+          "explanation": "'Müeh' = 'Mühe'. Vowel change."
+        },
+        {
+          "swissGerman": "Skilager",
+          "german": "Skilager",
+          "explanation": "Same word. Very Swiss school tradition — a week of skiing."
+        },
+        {
+          "swissGerman": "Info-Brief",
+          "german": "Info-Brief",
+          "explanation": "Same word. Parent information letters."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Eltereabig",
+          "german": "Elternabend",
+          "english": "parents' evening"
+        },
+        {
+          "swissGerman": "Müeh",
+          "german": "Mühe",
+          "english": "difficulty/trouble"
+        },
+        {
+          "swissGerman": "Skilager",
+          "german": "Skilager",
+          "english": "ski camp"
+        }
+      ]
+    },
+    {
+      "id": "elternabend-2",
+      "level": "intermediate",
+      "title": "Discussing the school trip",
+      "situation": "Parents ask questions about the upcoming Schulreise.",
+      "lines": [
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "D'Schulreis isch am 15. Juni. Mir gönd uf de Uetliberg.",
+          "german": "Die Schulreise ist am 15. Juni. Wir gehen auf den Uetliberg.",
+          "english": "The school trip is on June 15th. We're going to the Uetliberg.",
+          "spanish": "La excursión escolar es el 15 de junio. Vamos al Uetliberg."
+        },
+        {
+          "speaker": "Parent",
+          "swissGerman": "Was müend d'Chind mitnäh?",
+          "german": "Was müssen die Kinder mitnehmen?",
+          "english": "What do the kids need to bring?",
+          "spanish": "¿Qué tienen que traer los niños?"
+        },
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "Gueti Schueh, en Rägejacke, Znüni und Zmittag im Rucksack.",
+          "german": "Gute Schuhe, eine Regenjacke, Znüni und Mittagessen im Rucksack.",
+          "english": "Good shoes, a rain jacket, morning snack and lunch in the backpack.",
+          "spanish": "Buenas botas, un chubasquero, merienda de la mañana y almuerzo en la mochila."
+        },
+        {
+          "speaker": "Parent 2",
+          "swissGerman": "Und falls es rägnet?",
+          "german": "Und falls es regnet?",
+          "english": "And if it rains?",
+          "spanish": "¿Y si llueve?"
+        },
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "Mir gönd trotzdem. Nur bi Gwitter verschiebe mir de Usflug.",
+          "german": "Wir gehen trotzdem. Nur bei Gewitter verschieben wir den Ausflug.",
+          "english": "We go anyway. Only in case of thunderstorms do we postpone the outing.",
+          "spanish": "De todas formas vamos. Solo en caso de tormenta eléctrica postponemos la salida."
+        },
+        {
+          "speaker": "Parent",
+          "swissGerman": "Sehr guet. Bruuchts no Begleitpersone?",
+          "german": "Sehr gut. Braucht es noch Begleitpersonen?",
+          "english": "Very good. Are more chaperones needed?",
+          "spanish": "Muy bien. ¿Se necesitan más acompañantes?"
+        },
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "Ja, mir sueched no zwei. Wer hät Ziit und chunt gärn mit?",
+          "german": "Ja, wir suchen noch zwei. Wer hat Zeit und kommt gerne mit?",
+          "english": "Yes, we're looking for two more. Who has time and wants to join?",
+          "spanish": "Sí, buscamos dos más. ¿Quién tiene tiempo y quiere unirse?"
+        },
+        {
+          "speaker": "Parent 2",
+          "swissGerman": "Ich würd gärn mitkumme, ich ha de Mittwuch frei.",
+          "german": "Ich würde gerne mitkommen, ich habe den Mittwoch frei.",
+          "english": "I'd like to join, I have Wednesday off.",
+          "spanish": "Me gustaría unirme, tengo libre el miércoles."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Schulreis",
+          "german": "Schulreise",
+          "explanation": "'Schulreis' = 'Schulreise'. Dropped '-e'."
+        },
+        {
+          "swissGerman": "Rägejacke",
+          "german": "Regenjacke",
+          "explanation": "'Räge-' = 'Regen-'. Vowel shift."
+        },
+        {
+          "swissGerman": "Gwitter",
+          "german": "Gewitter",
+          "explanation": "'Gwitter' = 'Gewitter'. 'Ge-' → 'G-'."
+        },
+        {
+          "swissGerman": "Usflug",
+          "german": "Ausflug",
+          "explanation": "'Us-' = 'Aus-'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Schulreis",
+          "german": "Schulreise",
+          "english": "school trip"
+        },
+        {
+          "swissGerman": "Begleitpersone",
+          "german": "Begleitpersonen",
+          "english": "chaperones"
+        },
+        {
+          "swissGerman": "Rägejacke",
+          "german": "Regenjacke",
+          "english": "rain jacket"
+        }
+      ]
+    },
+    {
+      "id": "elternabend-3",
+      "level": "intermediate",
+      "title": "Screen time discussion",
+      "situation": "Parents and teacher discuss media use and screens.",
+      "lines": [
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "Es wichtigs Thema: Bildschiirm-Ziit. Vili Chind sind müed am Morge.",
+          "german": "Ein wichtiges Thema: Bildschirmzeit. Viele Kinder sind müde am Morgen.",
+          "english": "An important topic: screen time. Many children are tired in the morning.",
+          "spanish": "Un tema importante: el tiempo de pantalla. Muchos niños están cansados por la mañana."
+        },
+        {
+          "speaker": "Parent",
+          "swissGerman": "Ja, bi eus isch s'Tablet au en Kampf jede Abig.",
+          "german": "Ja, bei uns ist das Tablet auch ein Kampf jeden Abend.",
+          "english": "Yes, at our house the tablet is also a fight every evening.",
+          "spanish": "Sí, en casa la tableta también es una pelea todas las noches."
+        },
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "Mir empfähle maximal eini Stund pro Tag und kei Bildschirm vor em Schlafengah.",
+          "german": "Wir empfehlen maximal eine Stunde pro Tag und keinen Bildschirm vor dem Schlafengehen.",
+          "english": "We recommend maximum one hour per day and no screens before going to sleep.",
+          "spanish": "Recomendamos un máximo de una hora al día y ninguna pantalla antes de dormir."
+        },
+        {
+          "speaker": "Parent 2",
+          "swissGerman": "Und s'Handy? Ab welem Alter findet sie isch das okay?",
+          "german": "Und das Handy? Ab welchem Alter finden Sie ist das okay?",
+          "english": "And the phone? From what age do you think that's okay?",
+          "spanish": "¿Y el teléfono? ¿A partir de qué edad crees que está bien eso?"
+        },
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "Mir empfähle ab de fünfte Chlass. Aber jedi Familie entscheidet sälber.",
+          "german": "Wir empfehlen ab der fünften Klasse. Aber jede Familie entscheidet selbst.",
+          "english": "We recommend from fifth grade. But each family decides for themselves.",
+          "spanish": "Recomendamos a partir de quinto grado. Pero cada familia decide por sí misma."
+        },
+        {
+          "speaker": "Parent 2",
+          "swissGerman": "Gits denn auch App-Alternatieve für d'Chind, wo besser sind?",
+          "german": "Gibt es denn auch App-Alternativen für die Kinder, die besser sind?",
+          "english": "Are there also better app alternatives for children?",
+          "spanish": "¿También hay mejores alternativas de aplicaciones para niños?"
+        },
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "Ja, mir empfähle zum Biispiel Anton und Antolin — lernförderndi Apps ohni Werbig.",
+          "german": "Ja, wir empfehlen zum Beispiel Anton und Antolin — lernfördernde Apps ohne Werbung.",
+          "english": "Yes, we recommend for example Anton and Antolin — educational apps without ads.",
+          "spanish": "Sí, recomendamos por ejemplo Anton y Antolin — aplicaciones educativas sin anuncios."
+        },
+        {
+          "speaker": "Parent",
+          "swissGerman": "Guet z'wüsse. Mir mached au dehei klari Regle.",
+          "german": "Gut zu wissen. Wir machen auch zu Hause klare Regeln.",
+          "english": "Good to know. We also set clear rules at home.",
+          "spanish": "Qué bien saberlo. Nosotros también establecemos reglas claras en casa."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Bildschiirm-Ziit",
+          "german": "Bildschirmzeit",
+          "explanation": "'Bildschiirm' = 'Bildschirm', 'Ziit' = 'Zeit'."
+        },
+        {
+          "swissGerman": "Schlafengah",
+          "german": "Schlafengehen",
+          "explanation": "'Schlafengah' = 'Schlafengehen'. Swiss form."
+        },
+        {
+          "swissGerman": "sälber",
+          "german": "selbst",
+          "explanation": "'sälber' = 'selbst'. Swiss form."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Bildschiirm-Ziit",
+          "german": "Bildschirmzeit",
+          "english": "screen time"
+        },
+        {
+          "swissGerman": "Regle",
+          "german": "Regeln",
+          "english": "rules"
+        },
+        {
+          "swissGerman": "sälber",
+          "german": "selbst",
+          "english": "themselves"
+        }
+      ]
+    },
+    {
+      "id": "elternabend-4",
+      "level": "beginner",
+      "title": "Chatting with other parents",
+      "situation": "You chat with another parent during the break at the Elternabend.",
+      "lines": [
+        {
+          "speaker": "Parent",
+          "swissGerman": "Hoi, ich bi d'Mutter vom Leon. Sind Sie d'Mutter vo de Lina?",
+          "german": "Hallo, ich bin die Mutter von Leon. Sind Sie die Mutter von Lina?",
+          "english": "Hi, I'm Leon's mother. Are you Lina's mother?",
+          "spanish": "Hola, soy la mamá de Leon. ¿Eres la mamá de Lina?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja genau! De Leon und d'Lina sind gueti Fründ, oder?",
+          "german": "Ja genau! Leon und Lina sind gute Freunde, oder?",
+          "english": "Yes exactly! Leon and Lina are good friends, right?",
+          "spanish": "Sí, exactamente. León y Lina son buenos amigos, ¿verdad?"
+        },
+        {
+          "speaker": "Parent",
+          "swissGerman": "Ja, de Leon verzellt jede Tag vo ihre. Söll d'Lina mol zu eus cho?",
+          "german": "Ja, Leon erzählt jeden Tag von ihr. Soll Lina mal zu uns kommen?",
+          "english": "Yes, Leon talks about her every day. Should Lina come visit us sometime?",
+          "spanish": "Sí, León habla de ella todos los días. ¿Debería venir Lina a visitarnos alguna vez?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Das wär mega lieb! Am Mittwuch Namittag hätt sie frei.",
+          "german": "Das wäre mega lieb! Am Mittwochnachmittag hätte sie frei.",
+          "english": "That would be so nice! Wednesday afternoon she's free.",
+          "spanish": "Eso sería muy bonito. El miércoles por la tarde está libre."
+        },
+        {
+          "speaker": "Parent",
+          "swissGerman": "Perfekt! Mir chönd Nummere tuusche.",
+          "german": "Perfekt! Wir können Nummern tauschen.",
+          "english": "Perfect! We can exchange numbers.",
+          "spanish": "¡Perfecto! Podemos intercambiar números."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Super Idee! Ich gib Ihne mini Natel-Nummer.",
+          "german": "Super Idee! Ich gebe Ihnen meine Handynummer.",
+          "english": "Great idea! I'll give you my mobile number.",
+          "spanish": "¡Buena idea! Te daré mi número de móvil."
+        },
+        {
+          "speaker": "Parent",
+          "swissGerman": "Und vilicht chönd d'Chind au emol zäme spiele — de Leon freut sich sicher.",
+          "german": "Und vielleicht können die Kinder auch mal zusammen spielen — Leon freut sich sicher.",
+          "english": "And perhaps the kids can play together sometime — Leon would love that.",
+          "spanish": "¿Y quizás los niños pueden jugar juntos alguna vez — a León le encantaría eso?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja gärn! D'Lina redt sowieso ständig vo ihm.",
+          "german": "Ja gerne! Lina redet sowieso ständig von ihm.",
+          "english": "Yes please! Lina talks about him all the time anyway.",
+          "spanish": "Sí, por favor. Lina habla de él todo el tiempo de todas formas."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "verzellt",
+          "german": "erzählt",
+          "explanation": "'verzellt' = 'erzählt'. Swiss form."
+        },
+        {
+          "swissGerman": "tuusche",
+          "german": "tauschen",
+          "explanation": "'tuusche' = 'tauschen'. Vowel doubling."
+        },
+        {
+          "swissGerman": "Natel",
+          "german": "Handy",
+          "explanation": "'Natel' = 'Handy'. Swiss word for mobile phone."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Natel",
+          "german": "Handy",
+          "english": "mobile phone"
+        },
+        {
+          "swissGerman": "verzellt",
+          "german": "erzählt",
+          "english": "tells/talks about"
+        },
+        {
+          "swissGerman": "tuusche",
+          "german": "tauschen",
+          "english": "to exchange"
+        }
+      ]
+    },
+    {
+      "id": "elternabend-5",
+      "level": "beginner",
+      "title": "Volunteering at school",
+      "situation": "The teacher asks for parent volunteers for school events.",
+      "lines": [
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "Mir sueched no Eltere wo bim Schulfescht hälfed. Wer hät Ziit?",
+          "german": "Wir suchen noch Eltern die beim Schulfest helfen. Wer hat Zeit?",
+          "english": "We're looking for parents who can help at the school festival. Who has time?",
+          "spanish": "Buscamos padres que puedan ayudar en el festival escolar. ¿Quién tiene tiempo?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich chan am Samstig cho. Was muess ich mache?",
+          "german": "Ich kann am Samstag kommen. Was muss ich machen?",
+          "english": "I can come on Saturday. What do I need to do?",
+          "spanish": "Puedo venir el sábado. ¿Qué tengo que hacer?"
+        },
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "Mir bruuched Lüüt für de Chueche-Stand und fürs Grilliere.",
+          "german": "Wir brauchen Leute für den Kuchenstand und fürs Grillen.",
+          "english": "We need people for the cake stand and for the grilling.",
+          "spanish": "Necesitamos gente para el puesto de pasteles y para la parrilla."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich cha en Chueche mitbringe und bim Verchauf hälfe.",
+          "german": "Ich kann einen Kuchen mitbringen und beim Verkauf helfen.",
+          "english": "I can bring a cake and help with sales.",
+          "spanish": "Puedo traer un pastel y ayudar con las ventas."
+        },
+        {
+          "speaker": "Parent",
+          "swissGerman": "Ich chume au und bring Würscht und Brot mit füre Grill.",
+          "german": "Ich komme auch und bringe Würste und Brot mit für den Grill.",
+          "english": "I'll come too and bring sausages and bread for the grill.",
+          "spanish": "¡Yo también voy y llevo salchichas y pan para la barbacoa!"
+        },
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "Danke vilmal! S'Schulfescht fängt am Zäni aa.",
+          "german": "Vielen Dank! Das Schulfest fängt um zehn an.",
+          "english": "Thank you! The school festival starts at ten.",
+          "spanish": "¡Gracias! La fiesta del colegio empieza a las diez."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Isch de Iitritt für d'Eltere gratis oder zahle mir öppis?",
+          "german": "Ist der Eintritt für die Eltern gratis oder zahlen wir etwas?",
+          "english": "Is admission free for parents or do we pay something?",
+          "spanish": "¿La entrada es gratis para los padres o se paga algo?"
+        },
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "Gratis iizoge, aber mir freued eus über jeden Chueche-Stückli für de Buffet!",
+          "german": "Gratis reinzukommen, aber wir freuen uns über jedes Kuchenstück für das Buffet!",
+          "english": "Free entry, but we appreciate every cake piece for the buffet!",
+          "spanish": "Entrada gratuita, ¡pero agradecemos cada trozo de pastel para el bufé!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Schulfescht",
+          "german": "Schulfest",
+          "explanation": "'Schulfescht' = 'Schulfest'. Added 'ch'."
+        },
+        {
+          "swissGerman": "Chueche",
+          "german": "Kuchen",
+          "explanation": "'Chueche' = 'Kuchen'. K→Ch."
+        },
+        {
+          "swissGerman": "Verchauf",
+          "german": "Verkauf",
+          "explanation": "'Verchauf' = 'Verkauf'. K→Ch."
+        },
+        {
+          "swissGerman": "Würscht",
+          "german": "Würste",
+          "explanation": "'Würscht' = 'Würste'. Swiss form."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Schulfescht",
+          "german": "Schulfest",
+          "english": "school festival"
+        },
+        {
+          "swissGerman": "Chueche",
+          "german": "Kuchen",
+          "english": "cake"
+        },
+        {
+          "swissGerman": "Grilliere",
+          "german": "Grillen",
+          "english": "to grill/BBQ"
+        }
+      ]
+    }
+  ]
+}

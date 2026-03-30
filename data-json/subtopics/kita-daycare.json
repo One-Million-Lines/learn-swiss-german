@@ -1,0 +1,523 @@
+{
+  "id": "kita-daycare",
+  "topicId": "family-school",
+  "title": "Kita & Daycare",
+  "description": "Dropping off, picking up, and communicating with daycare staff",
+  "dialogues": [
+    {
+      "id": "kita-1",
+      "level": "beginner",
+      "title": "Morning drop-off",
+      "situation": "You bring your child to the Kita in the morning.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Guete Morge! Da isch d'Lina. Sie hät scho gfrüehtückt.",
+          "german": "Guten Morgen! Da ist Lina. Sie hat schon gefrühstückt.",
+          "english": "Good morning! Here's Lina. She's already had breakfast.",
+          "spanish": "¡Buenos días! Aquí está Lina. Ya ha desayunado."
+        },
+        {
+          "speaker": "Betreuerin",
+          "swissGerman": "Morge! Hoi Lina! Häsch din Rucksack debii?",
+          "german": "Morgen! Hallo Lina! Hast du deinen Rucksack dabei?",
+          "english": "Morning! Hi Lina! Do you have your backpack?",
+          "spanish": "¡Buenos días! Hola Lina, ¿tienes la mochila?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, mit Znüni und Ersatzchleider. Sie hät hüt kei Mittagsschlaf gha.",
+          "german": "Ja, mit Znüni und Ersatzkleidung. Sie hat heute keinen Mittagsschlaf gehabt.",
+          "english": "Yes, with snack and spare clothes. She didn't have an afternoon nap today.",
+          "spanish": "Sí, con merienda y ropa de repuesto. Hoy no ha dormido la siesta de la tarde."
+        },
+        {
+          "speaker": "Betreuerin",
+          "swissGerman": "Okay, denn isch sie villicht am Namittag chli müed. Mir luege druf.",
+          "german": "Okay, dann ist sie vielleicht am Nachmittag etwas müde. Wir achten darauf.",
+          "english": "Okay, then she might be a bit tired in the afternoon. We'll watch out for that.",
+          "spanish": "Bien, entonces puede estar un poco cansada por la tarde. Lo tendremos en cuenta."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Merci! Ich hol sie um Vieri ab. Tschüss, Lina, ha en schöne Tag!",
+          "german": "Danke! Ich hole sie um vier ab. Tschüss, Lina, hab einen schönen Tag!",
+          "english": "Thanks! I'll pick her up at four. Bye, Lina, have a nice day!",
+          "spanish": "¡Gracias! La recojo a las cuatro. ¡Hasta luego, Lina, que tengas un buen día!"
+        },
+        {
+          "speaker": "Lina",
+          "swissGerman": "Tschüss Papi!",
+          "german": "Tschüss Papa!",
+          "english": "Bye Daddy!",
+          "spanish": "¡Adiós, papá!"
+        },
+        {
+          "speaker": "Betreuerin",
+          "swissGerman": "Hoi Lina! Chum, mir gönd alli i de Chreis und singe s'Morgelied.",
+          "german": "Hallo Lina! Komm, wir gehen alle in den Kreis und singen das Morgenlied.",
+          "english": "Hi Lina! Come, we all go in a circle and sing the morning song.",
+          "spanish": "¡Hola Lina! Ven, todos nos ponemos en círculo y cantamos la canción de la mañana."
+        },
+        {
+          "speaker": "Lina",
+          "swissGerman": "Ich kenn s'Lied! (singt) De Morge chunnt, de Morge chunnt...",
+          "german": "Ich kenne das Lied! (singt) Der Morgen kommt, der Morgen kommt...",
+          "english": "I know the song! (sings) The morning comes, the morning comes...",
+          "spanish": "¡Me sé la canción! (canta) Llega la mañana, llega la mañana..."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "gfrüehtückt",
+          "german": "gefrühstückt",
+          "explanation": "'gfrüehtückt' = 'gefrühstückt'. 'ge-' → 'g-', Swiss pronunciation."
+        },
+        {
+          "swissGerman": "Znüni",
+          "german": "Zwischenmahlzeit",
+          "explanation": "'Znüni' = morning snack. Very Swiss term (from 'zu neun', at nine)."
+        },
+        {
+          "swissGerman": "Ersatzchleider",
+          "german": "Ersatzkleidung",
+          "explanation": "'Ersatzchleider' = 'Ersatzkleidung'. K→Ch."
+        },
+        {
+          "swissGerman": "Namittag",
+          "german": "Nachmittag",
+          "explanation": "'Namittag' = 'Nachmittag'. Shortened."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Znüni",
+          "german": "Zwischenmahlzeit",
+          "english": "morning snack"
+        },
+        {
+          "swissGerman": "Ersatzchleider",
+          "german": "Ersatzkleidung",
+          "english": "spare clothes"
+        },
+        {
+          "swissGerman": "abhole",
+          "german": "abholen",
+          "english": "to pick up"
+        }
+      ]
+    },
+    {
+      "id": "kita-2",
+      "level": "beginner",
+      "title": "Afternoon pick-up",
+      "situation": "You pick up your child and hear how the day went.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Hoi! Wie isch de Tag gsi?",
+          "german": "Hallo! Wie war der Tag?",
+          "english": "Hi! How was the day?",
+          "spanish": "¡Hola! ¿Qué tal el día?"
+        },
+        {
+          "speaker": "Betreuerin",
+          "swissGerman": "Super! D'Lina hät hüt megagern gmålet und im Garte gspilt.",
+          "german": "Super! Lina hat heute sehr gern gemalt und im Garten gespielt.",
+          "english": "Great! Lina really enjoyed painting and playing in the garden today.",
+          "spanish": "¡Genial! A Lina le encantó pintar y jugar en el jardín hoy."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Schön! Hät sie gnueg gässe?",
+          "german": "Schön! Hat sie genug gegessen?",
+          "english": "Nice! Did she eat enough?",
+          "spanish": "¡Qué bien! ¿Comió suficiente?"
+        },
+        {
+          "speaker": "Betreuerin",
+          "swissGerman": "Ja, s'Mittagässe hät sie guet möge. Suppe und Hörnli.",
+          "german": "Ja, das Mittagessen hat sie gern gehabt. Suppe und Hörnli.",
+          "english": "Yes, she liked lunch. Soup and Hörnli pasta.",
+          "spanish": "Sí, le gustó el almuerzo. Sopa y Hörnli."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und de Mittagsschlaf?",
+          "german": "Und der Mittagsschlaf?",
+          "english": "And the afternoon nap?",
+          "spanish": "¿Y la siesta?"
+        },
+        {
+          "speaker": "Betreuerin",
+          "swissGerman": "Sie hät e Stund gschlofe. D'Ersatzchleider bruuched mir nöd, alles suuber!",
+          "german": "Sie hat eine Stunde geschlafen. Die Ersatzkleidung brauchen wir nicht, alles sauber!",
+          "english": "She slept for an hour. We don't need the spare clothes, everything clean!",
+          "spanish": "Durmió una hora. No necesitamos la ropa de recambio, ¡todo limpio!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Wunderbarescht! Und hät si mit de andere Chind gspilt?",
+          "german": "Wunderbar! Und hat sie mit den anderen Kindern gespielt?",
+          "english": "Wonderful! And did she play with the other children?",
+          "spanish": "¡Maravilloso! ¿Y jugó con los otros niños?"
+        },
+        {
+          "speaker": "Betreuerin",
+          "swissGerman": "Ja, vor allem mit de Sara. D'beide sind jetzt quasi beschte Fründ!",
+          "german": "Ja, vor allem mit der Sara. Die beiden sind jetzt quasi beste Freundinnen!",
+          "english": "Yes, especially with Sara. The two are now basically best friends!",
+          "spanish": "Sí, especialmente con Sara. ¡Las dos son ahora prácticamente mejores amigas!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "gmålet",
+          "german": "gemalt",
+          "explanation": "'gmålet' = 'gemalt'. 'ge-' → 'g-', Swiss past participle."
+        },
+        {
+          "swissGerman": "gässe",
+          "german": "gegessen",
+          "explanation": "'gässe' = 'gegessen'. Very different Swiss form."
+        },
+        {
+          "swissGerman": "Hörnli",
+          "german": "Hörnli/Makkaroni",
+          "explanation": "'Hörnli' = elbow pasta. Swiss comfort food staple."
+        },
+        {
+          "swissGerman": "gschlofe",
+          "german": "geschlafen",
+          "explanation": "'gschlofe' = 'geschlafen'. 'ge-' → 'g-'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "gässe",
+          "german": "gegessen",
+          "english": "eaten"
+        },
+        {
+          "swissGerman": "Mittagsschlaf",
+          "german": "Mittagsschlaf",
+          "english": "afternoon nap"
+        },
+        {
+          "swissGerman": "Hörnli",
+          "german": "Hörnli",
+          "english": "elbow pasta"
+        }
+      ]
+    },
+    {
+      "id": "kita-3",
+      "level": "intermediate",
+      "title": "Discussing a problem with the caregiver",
+      "situation": "The caregiver tells you your child had a conflict today.",
+      "lines": [
+        {
+          "speaker": "Betreuerin",
+          "swissGerman": "Ich muess eu no öppis säge. D'Lina hät hüt es anders Chind bisse.",
+          "german": "Ich muss euch noch etwas sagen. Lina hat heute ein anderes Kind gebissen.",
+          "english": "I need to tell you something. Lina bit another child today.",
+          "spanish": "Necesito decirte algo. Lina mordió a otro niño hoy."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Oh nei! Isch s'Chind okay? Was isch passiert?",
+          "german": "Oh nein! Ist das Kind okay? Was ist passiert?",
+          "english": "Oh no! Is the child okay? What happened?",
+          "spanish": "¡Oh no! ¿Está bien el niño? ¿Qué pasó?"
+        },
+        {
+          "speaker": "Betreuerin",
+          "swissGerman": "Sie händ sich um es Spielzüüg gstritte. D'Lina isch frustiert gsi.",
+          "german": "Sie haben sich um ein Spielzeug gestritten. Lina war frustriert.",
+          "english": "They were arguing over a toy. Lina was frustrated.",
+          "spanish": "Estaban discutiendo por un juguete. Lina estaba frustrada."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Das tuet mir leid. Mir rede dehei mit ihre drüber.",
+          "german": "Das tut mir leid. Wir reden zu Hause mit ihr darüber.",
+          "english": "I'm sorry. We'll talk to her about it at home.",
+          "spanish": "Lo sentimos. Hablaremos con ella al respecto en casa."
+        },
+        {
+          "speaker": "Betreuerin",
+          "swissGerman": "Mir übend mit de Chind, Wort statt Gwalt z'bruuche. Das isch normal i dem Alter.",
+          "german": "Wir üben mit den Kindern, Worte statt Gewalt zu benutzen. Das ist normal in dem Alter.",
+          "english": "We practice with the children to use words instead of force. It's normal at this age.",
+          "spanish": "Practicamos con los niños el uso de palabras en lugar de la fuerza. Es normal a esta edad."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Danke für d'Info. Mir understütze das natürlich dehei au.",
+          "german": "Danke für die Info. Wir unterstützen das natürlich zu Hause auch.",
+          "english": "Thanks for the info. We’ll support that at home too of course.",
+          "spanish": "Gracias por la información. En casa también lo apoyaremos, por supuesto."
+        },
+        {
+          "speaker": "Betreuerin",
+          "swissGerman": "Und Lina selbst isch scho reumüetig — sie hät sich beim andere Chind entschuldigt.",
+          "german": "Und Lina selbst ist schon reumütig — sie hat sich beim anderen Kind entschuldigt.",
+          "english": "And Lina herself is already remorseful — she apologized to the other child.",
+          "spanish": "Y Lina ya está arrepentida — se disculpó con el otro niño."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Das isch guet z'höre. Mir rede dehei drüber und loben si für d'Entschuldigung.",
+          "german": "Das ist gut zu hören. Wir reden zu Hause darüber und loben sie für die Entschuldigung.",
+          "english": "That's good to hear. We'll talk at home and praise her for the apology.",
+          "spanish": "Qué bien escucharlo. Hablamos en casa y la felicitamos por la disculpa."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "bisse",
+          "german": "gebissen",
+          "explanation": "'bisse' = 'gebissen'. Swiss past participle."
+        },
+        {
+          "swissGerman": "Spielzüüg",
+          "german": "Spielzeug",
+          "explanation": "'Spielzüüg' = 'Spielzeug'. Vowel doubling."
+        },
+        {
+          "swissGerman": "gstritte",
+          "german": "gestritten",
+          "explanation": "'gstritte' = 'gestritten'. 'ge-' → 'g-'."
+        },
+        {
+          "swissGerman": "dehei",
+          "german": "zu Hause",
+          "explanation": "'dehei' = 'zu Hause/daheim'. Swiss form."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "bisse",
+          "german": "gebissen",
+          "english": "bitten"
+        },
+        {
+          "swissGerman": "Spielzüüg",
+          "german": "Spielzeug",
+          "english": "toy"
+        },
+        {
+          "swissGerman": "dehei",
+          "german": "zu Hause",
+          "english": "at home"
+        }
+      ]
+    },
+    {
+      "id": "kita-4",
+      "level": "intermediate",
+      "title": "Enrolling at the Kita",
+      "situation": "You visit a Kita to enroll your child and discuss availability.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Grüezi, mir sueched en Kita-Platz für eusi Tochter ab August.",
+          "german": "Guten Tag, wir suchen einen Kita-Platz für unsere Tochter ab August.",
+          "english": "Hello, we're looking for a daycare spot for our daughter starting August.",
+          "spanish": "Hola, estamos buscando una plaza de guardería para nuestra hija a partir de agosto."
+        },
+        {
+          "speaker": "Kita-Leiterin",
+          "swissGerman": "Wie alt isch sie denn?",
+          "german": "Wie alt ist sie denn?",
+          "english": "How old is she then?",
+          "spanish": "¿Cuántos años tiene entonces?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Sie wird im Juli anderthalb. Mir bruuched drü Täg pro Wuche.",
+          "german": "Sie wird im Juli anderthalb. Wir brauchen drei Tage pro Woche.",
+          "english": "She'll be one and a half in July. We need three days per week.",
+          "spanish": "En julio cumplirá año y medio. Necesitamos tres días por semana."
+        },
+        {
+          "speaker": "Kita-Leiterin",
+          "swissGerman": "Bi eus choscht en ganze Tag 120 Franke, mit Mittagässe. Mir händ no Plätz am Mäntig, Mittwuch und Fritig.",
+          "german": "Bei uns kostet ein ganzer Tag 120 Franken, mit Mittagessen. Wir haben noch Plätze am Montag, Mittwoch und Freitag.",
+          "english": "With us a full day costs 120 francs, including lunch. We have spots on Monday, Wednesday and Friday.",
+          "spanish": "Con nosotros un día completo cuesta 120 francos, incluido el almuerzo. Tenemos plazas los lunes, miércoles y viernes."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Das passt! Gits au Iigwöhnigstäg?",
+          "german": "Das passt! Gibt es auch Eingewöhnungstage?",
+          "english": "That works! Are there settling-in days?",
+          "spanish": "¡Funciona! ¿Hay días de adaptación?"
+        },
+        {
+          "speaker": "Kita-Leiterin",
+          "swissGerman": "Ja, mir mached zwöi Wuche Iigwöhnig. D'Eltere chömed am Afang mit.",
+          "german": "Ja, wir machen zwei Wochen Eingewöhnung. Die Eltern kommen am Anfang mit.",
+          "english": "Yes, we do two weeks of settling in. The parents come along at the beginning.",
+          "spanish": "Sí, hacemos dos semanas de adaptación. Los padres acompañan al principio."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und wie vell Chind sind in de Gruppe? Es isch wichtig, dass's persönlich blibt.",
+          "german": "Und wie viele Kinder sind in der Gruppe? Es ist wichtig, dass es persönlich bleibt.",
+          "english": "And how many children are in the group? It's important that it stays personal.",
+          "spanish": "¿Y cuántos niños hay en el grupo? Es importante que siga siendo personal."
+        },
+        {
+          "speaker": "Kita-Leiterin",
+          "swissGerman": "Maximal zwölf Chind pro Gruppe, mit zwei Betreuerinä. Mir legänd Wert druf.",
+          "german": "Maximal zwölf Kinder pro Gruppe, mit zwei Betreuerinnen. Uns ist das wichtig.",
+          "english": "Maximum twelve children per group, with two caregivers. That's important to us.",
+          "spanish": "Máximo doce niños por grupo, con dos cuidadores. Eso es importante para nosotros."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Plätz",
+          "german": "Plätze",
+          "explanation": "'Plätz' = 'Plätze'. Dropped '-e'."
+        },
+        {
+          "swissGerman": "Iigwöhnig",
+          "german": "Eingewöhnung",
+          "explanation": "'Iigwöhnig' = 'Eingewöhnung'. 'Ein-' → 'Ii-'."
+        },
+        {
+          "swissGerman": "Mäntig",
+          "german": "Montag",
+          "explanation": "'Mäntig' = 'Montag'. Swiss weekday."
+        },
+        {
+          "swissGerman": "Fritig",
+          "german": "Freitag",
+          "explanation": "'Fritig' = 'Freitag'. Swiss weekday."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Kita-Platz",
+          "german": "Kita-Platz",
+          "english": "daycare spot"
+        },
+        {
+          "swissGerman": "Iigwöhnig",
+          "german": "Eingewöhnung",
+          "english": "settling-in period"
+        },
+        {
+          "swissGerman": "pro Wuche",
+          "german": "pro Woche",
+          "english": "per week"
+        }
+      ]
+    },
+    {
+      "id": "kita-5",
+      "level": "beginner",
+      "title": "Packing the Kita bag",
+      "situation": "You prepare the Kita bag for the next day.",
+      "lines": [
+        {
+          "speaker": "Partner",
+          "swissGerman": "Hesch d'Kita-Täsche scho packt? Morn müemmer früech gah.",
+          "german": "Hast du die Kita-Tasche schon gepackt? Morgen müssen wir früh gehen.",
+          "english": "Have you packed the Kita bag yet? Tomorrow we need to go early.",
+          "spanish": "¿Ya has preparado la bolsa de la guardería? Mañana tenemos que salir temprano."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Fast. Ich bruuch no en Znüni. Was söll ich iipacke?",
+          "german": "Fast. Ich brauche noch ein Znüni. Was soll ich einpacken?",
+          "english": "Almost. I still need a snack. What should I pack?",
+          "spanish": "Casi. Todavía necesito un tentempié. ¿Qué me meto?"
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "Öpfel-Schnitz und Cracker. Kei Schoggi, die wet d'Kita nöd.",
+          "german": "Apfelschnitze und Cracker. Keine Schokolade, die will die Kita nicht.",
+          "english": "Apple slices and crackers. No chocolate, the Kita doesn't want that.",
+          "spanish": "Rodajas de manzana y crackers. Sin chocolate, la Kita no lo quiere."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Okay. Und d'Sunnecreme? Morn soll's warm wärde.",
+          "german": "Okay. Und die Sonnencreme? Morgen soll es warm werden.",
+          "english": "Okay. And the sunscreen? Tomorrow is supposed to be warm.",
+          "spanish": "Bien. ¿Y la crema solar? Mañana se supone que hace calor."
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "Guet dänkt! Und de Rägehut, falls es am Namittag rägnet.",
+          "german": "Gut gedacht! Und den Regenhut, falls es am Nachmittag regnet.",
+          "english": "Good thinking! And the rain hat, in case it rains in the afternoon.",
+          "spanish": "¡Buen pensamiento! Y el sombrero de lluvia, por si llueve por la tarde."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "So, alles parat. Wundle sind au dinne.",
+          "german": "So, alles bereit. Windeln sind auch drin.",
+          "english": "There, all ready. Diapers are in there too.",
+          "spanish": "Ahí, ya está todo listo. Los pañales también están ahí."
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "Und de Schnuller? S'letscht Mol hät sie ohnä gschriie.",
+          "german": "Und der Schnuller? Letztes Mal hat sie ohne geweint.",
+          "english": "And the pacifier? Last time she cried without it.",
+          "spanish": "¿Y el chupete? La última vez lloró sin él."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Stimmt! Da isch er. Jetzt wirklich alles. Guete Morge morn!",
+          "german": "Stimmt! Da ist er. Jetzt wirklich alles. Guten Morgen morgen!",
+          "english": "True! Here it is. Now really everything. Good morning tomorrow!",
+          "spanish": "¡Es verdad! Aquí está. Ahora sí que está todo. ¡Buenos días mañana!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "iipacke",
+          "german": "einpacken",
+          "explanation": "'iipacke' = 'einpacken'. 'Ein-' → 'Ii-'."
+        },
+        {
+          "swissGerman": "Schoggi",
+          "german": "Schokolade",
+          "explanation": "'Schoggi' = 'Schokolade'. Very Swiss word."
+        },
+        {
+          "swissGerman": "Sunnecreme",
+          "german": "Sonnencreme",
+          "explanation": "'Sunne-' = 'Sonnen-'. Vowel shift."
+        },
+        {
+          "swissGerman": "Rägehut",
+          "german": "Regenhut",
+          "explanation": "'Räge-' = 'Regen-'. Vowel shift."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "iipacke",
+          "german": "einpacken",
+          "english": "to pack"
+        },
+        {
+          "swissGerman": "Schoggi",
+          "german": "Schokolade",
+          "english": "chocolate"
+        },
+        {
+          "swissGerman": "parat",
+          "german": "bereit",
+          "english": "ready"
+        }
+      ]
+    }
+  ]
+}

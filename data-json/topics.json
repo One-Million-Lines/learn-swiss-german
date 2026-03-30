@@ -1,0 +1,50 @@
+[
+  {
+    "id": "everyday-basics",
+    "title": "Everyday Basics",
+    "description": "Essential greetings, polite phrases, and basic expressions for daily life",
+    "icon": "wave",
+    "color": "from-red-500 to-orange-500",
+    "subtopicCount": 16
+  },
+  {
+    "id": "daily-life",
+    "title": "Daily Life",
+    "description": "Shopping, transport, eating out, and navigating your day in Switzerland",
+    "icon": "home",
+    "color": "from-blue-500 to-cyan-500",
+    "subtopicCount": 18
+  },
+  {
+    "id": "social",
+    "title": "Social",
+    "description": "Meeting people, small talk, making plans, and socializing",
+    "icon": "handshake",
+    "color": "from-purple-500 to-pink-500",
+    "subtopicCount": 14
+  },
+  {
+    "id": "work",
+    "title": "Work",
+    "description": "Office conversations, meetings, and professional Swiss German",
+    "icon": "briefcase",
+    "color": "from-emerald-500 to-teal-500",
+    "subtopicCount": 16
+  },
+  {
+    "id": "family-school",
+    "title": "Family & School",
+    "description": "Talking about family, school life, and everyday routines at home",
+    "icon": "users",
+    "color": "from-amber-500 to-yellow-500",
+    "subtopicCount": 23
+  },
+  {
+    "id": "practical-swiss-life",
+    "title": "Practical Swiss Life",
+    "description": "Doctor visits, appointments, bureaucracy, and Swiss-specific situations",
+    "icon": "flag",
+    "color": "from-rose-500 to-red-500",
+    "subtopicCount": 18
+  }
+]

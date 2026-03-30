@@ -1,0 +1,470 @@
+{
+  "id": "politeness-essentials",
+  "topicId": "everyday-basics",
+  "title": "Politeness Essentials",
+  "description": "Thank you, please, excuse me, sorry — the polite phrases you need every day",
+  "dialogues": [
+    {
+      "id": "politeness-essentials-1",
+      "level": "beginner",
+      "title": "Thanking someone for help",
+      "situation": "A stranger helps you carry your heavy bags up the stairs at the train station.",
+      "lines": [
+        {
+          "speaker": "Stranger",
+          "swissGerman": "Warten Sie, ich hilf Ihne!",
+          "german": "Warten Sie, ich helfe Ihnen!",
+          "english": "Wait, I'll help you!",
+          "spanish": "¡Espera, te ayudo!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Oi, das isch nett! Merci vielmal!",
+          "german": "Oh, das ist nett! Vielen Dank!",
+          "english": "Oh, that's nice! Thank you so much!",
+          "spanish": "¡Oh, qué bonito! ¡Muchísimas gracias!"
+        },
+        {
+          "speaker": "Stranger",
+          "swissGerman": "Kei Problem, gern gscheh.",
+          "german": "Kein Problem, gern geschehen.",
+          "english": "No problem, you're welcome.",
+          "spanish": "Sin problema, de nada."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Das isch würkli lieb vo Ihne.",
+          "german": "Das ist wirklich lieb von Ihnen.",
+          "english": "That's really kind of you.",
+          "spanish": "Qué amable de tu parte."
+        },
+        {
+          "speaker": "Stranger",
+          "swissGerman": "Aber sicher! Schöne Tag no!",
+          "german": "Aber sicher! Schönen Tag noch!",
+          "english": "Of course! Have a nice day!",
+          "spanish": "¡Por supuesto! ¡Que tenga un buen día!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ihne au, und nomol danke!",
+          "german": "Ihnen auch, und nochmal danke!",
+          "english": "You too, and thanks again!",
+          "spanish": "¡Tú también, y gracias de nuevo!"
+        },
+        {
+          "speaker": "Stranger",
+          "swissGerman": "Kei Problem! Und gluggeli Raise!",
+          "german": "Kein Problem! Und gute Reise!",
+          "english": "No problem! Safe travels!",
+          "spanish": "¡Sin problema! ¡Buen viaje!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Merci vielmal",
+          "german": "Vielen Dank",
+          "explanation": "'Merci' from French is the most common way to say thanks in Swiss German. 'Vielmal' adds emphasis."
+        },
+        {
+          "swissGerman": "gern gscheh",
+          "german": "gern geschehen",
+          "explanation": "Swiss German drops the 'ge-' prefix → 'gscheh' instead of 'geschehen'."
+        },
+        {
+          "swissGerman": "lieb vo Ihne",
+          "german": "lieb von Ihnen",
+          "explanation": "'vo' = 'von', 'Ihne' = 'Ihnen'. Prepositions are often shortened."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Merci vielmal",
+          "german": "Vielen Dank",
+          "english": "Thank you very much"
+        },
+        {
+          "swissGerman": "Gern gscheh",
+          "german": "Gern geschehen",
+          "english": "You're welcome"
+        },
+        {
+          "swissGerman": "Aber sicher!",
+          "german": "Aber sicher!",
+          "english": "Of course!"
+        }
+      ]
+    },
+    {
+      "id": "politeness-essentials-2",
+      "level": "beginner",
+      "title": "Saying please at a restaurant",
+      "situation": "You're ordering at a Beiz (pub) and using polite request forms.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Entschuldigung, chönt ich bitte d'Karte ha?",
+          "german": "Entschuldigung, könnte ich bitte die Karte haben?",
+          "english": "Excuse me, could I have the menu please?",
+          "spanish": "Perdona, ¿me podrías traer la carta, por favor?"
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Natürlich, bitteschön!",
+          "german": "Natürlich, bitteschön!",
+          "english": "Of course, here you go!",
+          "spanish": "¡Por supuesto, aquí tienes!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Danke. Und chönted Sie mir bitte au es Wasser bringe?",
+          "german": "Danke. Und könnten Sie mir bitte auch ein Wasser bringen?",
+          "english": "Thanks. And could you also bring me a water please?",
+          "spanish": "Gracias. ¿Y también me podrías traer un agua?"
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Gern. Still oder mit Kohlensüüri?",
+          "german": "Gern. Still oder mit Kohlensäure?",
+          "english": "Sure. Still or sparkling?",
+          "spanish": "Claro. ¿Con gas o sin gas?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Mit Kohlensüüri, bitte. Merci!",
+          "german": "Mit Kohlensäure, bitte. Danke!",
+          "english": "Sparkling, please. Thanks!",
+          "spanish": "Con gas, por favor. ¡Gracias!"
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Isch sönscht no öppis? Wir händ hut au en guete Tagesteller.",
+          "german": "Ist sonst noch etwas? Wir haben heute auch ein gutes Tagesgericht.",
+          "english": "Is there anything else? We also have a good daily special today.",
+          "spanish": "¿Algo más? También tenemos un buen menú del día hoy."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Was isch de Tagesteller?",
+          "german": "Was ist das Tagesgericht?",
+          "english": "What is the daily special?",
+          "spanish": "¿Cuál es el plato del día?"
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Zander mit Brötlichruste und Gratin. Sehr beliebt bi üns.",
+          "german": "Zander mit Brötlichruste und Gratin. Sehr beliebt bei uns.",
+          "english": "Pike-perch with breadcrumb crust and gratin. Very popular with us.",
+          "spanish": "Lucioperca con corteza de pan rallado y gratinado. Muy popular entre nosotros."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Entschuldigung",
+          "german": "Entschuldigung",
+          "explanation": "Same word, but in casual settings Swiss people often just say 'Exgüsi' (from French 'excusez')."
+        },
+        {
+          "swissGerman": "chönt ich",
+          "german": "könnte ich",
+          "explanation": "'chönt' = 'könnte'. The 'k' becomes 'ch' in Swiss German."
+        },
+        {
+          "swissGerman": "Kohlensüüri",
+          "german": "Kohlensäure",
+          "explanation": "'Süüri' = 'Säure'. The vowel shift ä → ü is typical Swiss German."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Bitte",
+          "german": "Bitte",
+          "english": "Please"
+        },
+        {
+          "swissGerman": "Bitteschön",
+          "german": "Bitteschön",
+          "english": "Here you go / You're welcome"
+        },
+        {
+          "swissGerman": "Chönt ich bitte...",
+          "german": "Könnte ich bitte...",
+          "english": "Could I please..."
+        }
+      ]
+    },
+    {
+      "id": "politeness-essentials-3",
+      "level": "intermediate",
+      "title": "Getting someone's attention politely",
+      "situation": "You need to interrupt someone at the post office counter to ask a question.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Exgüsi, dörfi churz öppis frage?",
+          "german": "Entschuldigung, darf ich kurz etwas fragen?",
+          "english": "Excuse me, may I quickly ask something?",
+          "spanish": "Perdona, ¿puedo preguntarte algo rápidamente?"
+        },
+        {
+          "speaker": "Clerk",
+          "swissGerman": "Ja, natürlich. Was cha ich für Sie tue?",
+          "german": "Ja, natürlich. Was kann ich für Sie tun?",
+          "english": "Yes, of course. What can I do for you?",
+          "spanish": "Sí, por supuesto. ¿En qué puedo ayudarte?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich wett wüsse, ob dä Brief no hüt verschickt wird.",
+          "german": "Ich möchte wissen, ob dieser Brief noch heute verschickt wird.",
+          "english": "I'd like to know if this letter will be sent today.",
+          "spanish": "Me gustaría saber si esta carta se enviará hoy."
+        },
+        {
+          "speaker": "Clerk",
+          "swissGerman": "Ja, wenn Sie ne jetzt ufgänd, gaht er no hüt use.",
+          "german": "Ja, wenn Sie ihn jetzt abgeben, geht er noch heute raus.",
+          "english": "Yes, if you hand it in now, it'll go out today.",
+          "spanish": "Sí, si lo entregas ahora, sale hoy."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Super, merci villmal! Das isch sehr hilfriich.",
+          "german": "Super, vielen Dank! Das ist sehr hilfreich.",
+          "english": "Great, thank you so much! That's very helpful.",
+          "spanish": "¡Genial, muchas gracias! Eso es muy útil."
+        },
+        {
+          "speaker": "Clerk",
+          "swissGerman": "Bitte sehr. Git's no öppis angers wo ich helfe chänn?",
+          "german": "Bitte sehr. Gibt es noch etwas anderes, womit ich helfen kann?",
+          "english": "You're welcome. Is there anything else I can help you with?",
+          "spanish": "De nada. ¿Hay algo más en lo que pueda ayudarte?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Nei, das isch alles. En schöne Nachmittag!",
+          "german": "Nein, das ist alles. Einen schönen Nachmittag!",
+          "english": "No, that's everything. Have a nice afternoon!",
+          "spanish": "No, eso es todo. ¡Que tenga una buena tarde!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Exgüsi",
+          "german": "Entschuldigung",
+          "explanation": "From French 'excusez-moi'. Very common casual way to get attention in Swiss German."
+        },
+        {
+          "swissGerman": "dörfi",
+          "german": "darf ich",
+          "explanation": "'dörfi' contracts 'darf ich'. The modal verb changes form."
+        },
+        {
+          "swissGerman": "ufgänd",
+          "german": "abgeben",
+          "explanation": "'ufgä' = 'abgeben'. Swiss German uses 'uf' (auf) where Standard German uses 'ab'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Exgüsi",
+          "german": "Entschuldigung",
+          "english": "Excuse me (casual)"
+        },
+        {
+          "swissGerman": "Dörfi churz...?",
+          "german": "Darf ich kurz...?",
+          "english": "May I quickly...?"
+        },
+        {
+          "swissGerman": "Was cha ich für Sie tue?",
+          "german": "Was kann ich für Sie tun?",
+          "english": "What can I do for you?"
+        }
+      ]
+    },
+    {
+      "id": "politeness-essentials-4",
+      "level": "beginner",
+      "title": "Apologizing for a small mistake",
+      "situation": "You accidentally step on someone's foot in the tram.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Oi, Exgüsi! Tuet mer leid!",
+          "german": "Oh, Entschuldigung! Tut mir leid!",
+          "english": "Oh, excuse me! I'm sorry!",
+          "spanish": "¡Oh, perdona! ¡Lo siento!"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Kei Sorg, isch nüt passiert.",
+          "german": "Keine Sorge, es ist nichts passiert.",
+          "english": "No worries, nothing happened.",
+          "spanish": "No te preocupes, no pasó nada."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Isch hie so eng, sorry nomol.",
+          "german": "Ist hier so eng, sorry nochmal.",
+          "english": "It's so cramped here, sorry again.",
+          "spanish": "Estamos muy apretados aquí, perdona otra vez."
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Isch alles guet, passiert jedem mol.",
+          "german": "Ist alles gut, passiert jedem mal.",
+          "english": "It's all good, happens to everyone.",
+          "spanish": "Todo bien, le pasa a cualquiera."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Danke, Sie sind nett!",
+          "german": "Danke, Sie sind nett!",
+          "english": "Thanks, you're kind!",
+          "spanish": "¡Gracias, qué amable!"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Gern! S'Tram isch halt wirkli z'voll am Abig.",
+          "german": "Gerne! Die Tram ist halt wirklich zu voll am Abend.",
+          "english": "Don't mention it! The tram really is too full in the evening.",
+          "spanish": "¡No hay de qué! El tranvía de verdad está demasiado lleno por la tarde."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, genau! Ich warte meischtens bis nach de Rushourstunde.",
+          "german": "Ja, genau! Ich warte meistens bis nach der Rushhour.",
+          "english": "Yes, exactly! I usually wait until after rush hour.",
+          "spanish": "Sí, ¡exactamente! Normalmente espero hasta después de la hora punta."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Tuet mer leid",
+          "german": "Tut mir leid",
+          "explanation": "'Tuet' = 'tut', 'mer' = 'mir'. Standard everyday apology."
+        },
+        {
+          "swissGerman": "Kei Sorg",
+          "german": "Keine Sorge",
+          "explanation": "'Kei' = 'keine', 'Sorg' = 'Sorge'. Very common reassurance."
+        },
+        {
+          "swissGerman": "isch nüt passiert",
+          "german": "ist nichts passiert",
+          "explanation": "'nüt' = 'nichts'. A complete dismissal of the issue."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Tuet mer leid",
+          "german": "Tut mir leid",
+          "english": "I'm sorry"
+        },
+        {
+          "swissGerman": "Kei Sorg",
+          "german": "Keine Sorge",
+          "english": "No worries"
+        },
+        {
+          "swissGerman": "Isch nüt passiert",
+          "german": "Nichts passiert",
+          "english": "Nothing happened"
+        }
+      ]
+    },
+    {
+      "id": "politeness-essentials-5",
+      "level": "intermediate",
+      "title": "Thanking your host after a party",
+      "situation": "You're leaving a house party and want to thank your host properly.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Es isch en super Aabig gsi! Ganz härzliche Dank!",
+          "german": "Es war ein super Abend! Ganz herzlichen Dank!",
+          "english": "It was a great evening! Thank you so much!",
+          "spanish": "¡Fue una gran noche! ¡Muchas gracias!"
+        },
+        {
+          "speaker": "Host",
+          "swissGerman": "Ach, gärn! Ich freuä mi, dass du cho bisch.",
+          "german": "Ach, gern! Ich freue mich, dass du gekommen bist.",
+          "english": "Oh, gladly! I'm happy you came.",
+          "spanish": "¡Oh, con mucho gusto! Me alegra que hayas venido."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "S'Ässe isch unglaublich gsi. Du chasch mega guet choche!",
+          "german": "Das Essen war unglaublich. Du kannst mega gut kochen!",
+          "english": "The food was incredible. You're an amazing cook!",
+          "spanish": "La comida estuvo increíble. ¡Eres un cocinero increíble!"
+        },
+        {
+          "speaker": "Host",
+          "swissGerman": "Das isch lieb, danke! S'Rezäpt schicki der no.",
+          "german": "Das ist lieb, danke! Das Rezept schicke ich dir noch.",
+          "english": "That's sweet, thanks! I'll send you the recipe.",
+          "spanish": "Qué dulce, ¡gracias! Te mando la receta."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Uh ja, gern! Nomol merci für alles. Mir gsehnd üs!",
+          "german": "Oh ja, gern! Nochmal danke für alles. Wir sehen uns!",
+          "english": "Oh yes, please! Thanks again for everything. See you!",
+          "spanish": "¡Oh, sí, por favor! Gracias por todo. ¡Hasta luego!"
+        },
+        {
+          "speaker": "Host",
+          "swissGerman": "Bitteschön! Chumm guet hei. Tschau!",
+          "german": "Bitteschön! Komm gut heim. Tschüss!",
+          "english": "You're welcome! Get home safe. Bye!",
+          "spanish": "¡De nada! Llega a casa con cuidado. ¡Adiós!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Tschau! Und gruss mir d'Familie!",
+          "german": "Tschüss! Und grüß mir die Familie!",
+          "english": "Bye! And say hello to the family!",
+          "spanish": "¡Adiós! ¡Y saluda a la familia!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "härzliche Dank",
+          "german": "herzlichen Dank",
+          "explanation": "'härzlich' = 'herzlich'. The 'e' → 'ä' vowel shift is typical."
+        },
+        {
+          "swissGerman": "dass du cho bisch",
+          "german": "dass du gekommen bist",
+          "explanation": "'cho' = 'gekommen', 'bisch' = 'bist'. Past participle drops 'ge-' entirely."
+        },
+        {
+          "swissGerman": "Chumm guet hei",
+          "german": "Komm gut heim",
+          "explanation": "'Chumm' = 'komm', 'hei' = 'heim'. A warm Swiss parting wish."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Härzliche Dank",
+          "german": "Herzlichen Dank",
+          "english": "Heartfelt thanks"
+        },
+        {
+          "swissGerman": "Nomol merci für alles",
+          "german": "Nochmal danke für alles",
+          "english": "Thanks again for everything"
+        },
+        {
+          "swissGerman": "Chumm guet hei",
+          "german": "Komm gut heim",
+          "english": "Get home safe"
+        }
+      ]
+    }
+  ]
+}

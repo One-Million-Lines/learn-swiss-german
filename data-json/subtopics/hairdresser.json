@@ -1,0 +1,524 @@
+{
+  "id": "hairdresser",
+  "topicId": "work",
+  "title": "At the Hairdresser",
+  "description": "Cutting hair, chatting with customers, and salon life",
+  "dialogues": [
+    {
+      "id": "hairdresser-1",
+      "level": "beginner",
+      "title": "Welcoming a customer",
+      "situation": "A customer arrives for their appointment at the salon.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Grüezi! Händ Sie en Termin?",
+          "german": "Guten Tag! Haben Sie einen Termin?",
+          "english": "Hello! Do you have an appointment?",
+          "spanish": "¡Hola! ¿Tiene cita?"
+        },
+        {
+          "speaker": "Customer",
+          "swissGerman": "Ja, um drüü bi de Sandra.",
+          "german": "Ja, um drei bei Sandra.",
+          "english": "Yes, at three with Sandra.",
+          "spanish": "Sí, a las tres con Sandra."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ah, Sie sind d'Frau Meier. Willkomme! Wänd Sie en Kafi?",
+          "german": "Ah, Sie sind Frau Meier. Willkommen! Wollen Sie einen Kaffee?",
+          "english": "Ah, you're Mrs. Meier. Welcome! Would you like a coffee?",
+          "spanish": "Ah, usted es la señora Meier. ¡Bienvenida! ¿Le apetece un café?"
+        },
+        {
+          "speaker": "Customer",
+          "swissGerman": "Ja gern, merci!",
+          "german": "Ja gern, danke!",
+          "english": "Yes please, thanks!",
+          "spanish": "Sí, por favor, ¡gracias!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Bitte sitzed Sie ab, d'Sandra chunnt grad.",
+          "german": "Bitte setzen Sie sich, Sandra kommt gleich.",
+          "english": "Please have a seat, Sandra will be right with you.",
+          "spanish": "Por favor, siéntese. Sandra estará con usted enseguida."
+        },
+        {
+          "speaker": "Customer",
+          "swissGerman": "Super, kei Stress!",
+          "german": "Super, kein Stress!",
+          "english": "Great, no rush!",
+          "spanish": "¡Genial, sin prisa!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Dröckend Sie sich nid — mir hend no en paar Ziitig für Si.",
+          "german": "Drängen Sie sich nicht — wir haben noch einige Zeitschriften für Sie.",
+          "english": "Don't rush — we have some magazines here for you.",
+          "spanish": "No te apresures — aquí tenemos algunas revistas para ti."
+        },
+        {
+          "speaker": "Customer",
+          "swissGerman": "Oh danke! Ich lues grad mol iine.",
+          "german": "Oh danke! Ich lese mal kurz rein.",
+          "english": "Oh thanks! I'll have a quick browse.",
+          "spanish": "¡Oh, gracias! Echo un vistazo rápido."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "um drüü",
+          "german": "um drei",
+          "explanation": "'drüü' = 'drei'. Swiss German vowel."
+        },
+        {
+          "swissGerman": "sitzed Sie ab",
+          "german": "setzen Sie sich",
+          "explanation": "'absitze' = 'sich hinsetzen'. Different verb in Swiss German."
+        },
+        {
+          "swissGerman": "chunnt grad",
+          "german": "kommt gleich",
+          "explanation": "'chunnt' = 'kommt', 'grad' = 'gleich'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Händ Sie en Termin?",
+          "german": "Haben Sie einen Termin?",
+          "english": "Do you have an appointment?",
+          "spanish": "¿Tienes cita?"
+        },
+        {
+          "swissGerman": "sitzed Sie ab",
+          "german": "setzen Sie sich",
+          "english": "please have a seat"
+        },
+        {
+          "swissGerman": "chunnt grad",
+          "german": "kommt gleich",
+          "english": "will be right there"
+        }
+      ]
+    },
+    {
+      "id": "hairdresser-2",
+      "level": "beginner",
+      "title": "Discussing the haircut",
+      "situation": "You ask the customer what they'd like done with their hair.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "So, was wünschend Sie sich hüt?",
+          "german": "So, was wünschen Sie sich heute?",
+          "english": "So, what would you like today?",
+          "spanish": "Bueno, ¿qué le pongo hoy?"
+        },
+        {
+          "speaker": "Customer",
+          "swissGerman": "Nur schnide bitte. Hinne chürzer, vorne cha's bliibe.",
+          "german": "Nur schneiden bitte. Hinten kürzer, vorne kann es bleiben.",
+          "english": "Just a cut please. Shorter in the back, the front can stay.",
+          "spanish": "Solo un corte por favor. Más corto atrás, delante que se quede como está."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Wie viel söll ich wägnäh? So zwöi Zentimeter?",
+          "german": "Wie viel soll ich wegnehmen? So zwei Zentimeter?",
+          "english": "How much should I take off? About two centimeters?",
+          "spanish": "¿Cuánto debo cortar? ¿Unos dos centímetros?"
+        },
+        {
+          "speaker": "Customer",
+          "swissGerman": "Ja, öppe so. Nöd z'churz bitte!",
+          "german": "Ja, etwa so. Nicht zu kurz bitte!",
+          "english": "Yes, about that. Not too short please!",
+          "spanish": "Sí, sobre eso. No demasiado corto, por favor."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Natürlich! Wänd Sie d'Spitze au no gmacht ha?",
+          "german": "Natürlich! Wollen Sie die Spitzen auch noch gemacht haben?",
+          "english": "Of course! Would you also like the ends done?",
+          "spanish": "¡Por supuesto! ¿También quieres que arregle las puntas?"
+        },
+        {
+          "speaker": "Customer",
+          "swissGerman": "Ja, bitte. Die sind chli usgfranzet.",
+          "german": "Ja, bitte. Die sind ein bisschen ausgefranst.",
+          "english": "Yes, please. They're a bit frayed.",
+          "spanish": "Sí, por favor. Están un poco deshilachados."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und wend Si au en Wash und Blow-dry, oder nur schnide?",
+          "german": "Und möchten Sie auch einen Wash und Blow-dry, oder nur schneiden?",
+          "english": "And would you also like a wash and blow-dry, or just a cut?",
+          "spanish": "¿Y también quieres lavado y secado, o solo un corte?"
+        },
+        {
+          "speaker": "Customer",
+          "swissGerman": "Waschen ja bitte — Föhne kann ich sälber daheim mache.",
+          "german": "Waschen ja bitte — Föhnen kann ich selbst zu Hause machen.",
+          "english": "Washing yes please — blow-drying I can do at home myself.",
+          "spanish": "Lavado sí, por favor — el secado lo puedo hacer yo en casa."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "schnide",
+          "german": "schneiden",
+          "explanation": "'schnide' = 'schneiden'. Dropped '-en'."
+        },
+        {
+          "swissGerman": "wägnäh",
+          "german": "wegnehmen",
+          "explanation": "'wägnäh' = 'wegnehmen'. Swiss German form."
+        },
+        {
+          "swissGerman": "z'churz",
+          "german": "zu kurz",
+          "explanation": "'z'' = 'zu', 'churz' = 'kurz'. K→Ch."
+        },
+        {
+          "swissGerman": "usgfranzet",
+          "german": "ausgefranst",
+          "explanation": "'usgfranzet' = 'ausgefranst'. Swiss past participle."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "schnide",
+          "german": "schneiden",
+          "english": "to cut"
+        },
+        {
+          "swissGerman": "wägnäh",
+          "german": "wegnehmen",
+          "english": "to take off"
+        },
+        {
+          "swissGerman": "Spitze",
+          "german": "Spitzen",
+          "english": "ends/tips"
+        }
+      ]
+    },
+    {
+      "id": "hairdresser-3",
+      "level": "intermediate",
+      "title": "Hair coloring consultation",
+      "situation": "A customer wants to change their hair color and you advise them.",
+      "lines": [
+        {
+          "speaker": "Customer",
+          "swissGerman": "Ich wett gern d'Haarfarb ändere. Was wür zum m Hauttyp passe?",
+          "german": "Ich würde gern die Haarfarbe ändern. Was würde zu meinem Hauttyp passen?",
+          "english": "I'd like to change my hair color. What would suit my skin tone?",
+          "spanish": "Me gustaría cambiar el color de mi pelo. ¿Qué le iría bien a mi tono de piel?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Bi Ihrem warme Ton wür ich en Karamell oder Honig empfähle.",
+          "german": "Bei Ihrem warmen Ton würde ich Karamell oder Honig empfehlen.",
+          "english": "With your warm tone, I'd recommend caramel or honey.",
+          "spanish": "Con tu tono cálido, te recomendaría caramelo o miel."
+        },
+        {
+          "speaker": "Customer",
+          "swissGerman": "Honig tönt guet! Wie lang duret d'Behandlig?",
+          "german": "Honig klingt gut! Wie lang dauert die Behandlung?",
+          "english": "Honey sounds good! How long does the treatment take?",
+          "spanish": "¡La miel suena bien! ¿Cuánto dura el tratamiento?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "So öppe anderthalb Stund, mit Iiwirkziit und Pflege.",
+          "german": "So etwa anderthalb Stunden, mit Einwirkzeit und Pflege.",
+          "english": "About an hour and a half, with processing time and conditioning.",
+          "spanish": "Aproximadamente una hora y media, con el tiempo de procesamiento y acondicionamiento."
+        },
+        {
+          "speaker": "Customer",
+          "swissGerman": "Und was koscht das?",
+          "german": "Und was kostet das?",
+          "english": "And what does it cost?",
+          "spanish": "¿Y cuánto cuesta?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Hundertfüfzg Franke inklusive Schnitt und Föhne.",
+          "german": "Hundertfünfzig Franken inklusive Schnitt und Föhnen.",
+          "english": "One hundred fifty francs including cut and blow-dry.",
+          "spanish": "Ciento cincuenta francos, incluido corte y secado."
+        },
+        {
+          "speaker": "Customer",
+          "swissGerman": "Guet. Und gits en Treuprogramm do? Ich chum jede Mönet.",
+          "german": "Gut. Und gibt es ein Treueprogramm hier? Ich komme jeden Monat.",
+          "english": "Good. And is there a loyalty program here? I come every month.",
+          "spanish": "Bien. ¿Y hay un programa de fidelidad aquí? Vengo cada mes."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja! Ab zeh Mal bekommend Si d'elft Behandlig gratis. Ich tragä Si ii.",
+          "german": "Ja! Ab zehn Mal bekommen Sie die elfte Behandlung gratis. Ich trage Sie ein.",
+          "english": "Yes! From ten visits you get the eleventh treatment free. I'll register you.",
+          "spanish": "Sí, a partir de diez visitas la undécima sesión es gratuita. Te registro."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Haarfarb",
+          "german": "Haarfarbe",
+          "explanation": "'Haarfarb' = 'Haarfarbe'. Dropped '-e'."
+        },
+        {
+          "swissGerman": "empfähle",
+          "german": "empfehlen",
+          "explanation": "'empfähle' = 'empfehlen'. Vowel shift."
+        },
+        {
+          "swissGerman": "duret",
+          "german": "dauert",
+          "explanation": "'duret' = 'dauert'. Different vowel."
+        },
+        {
+          "swissGerman": "Iiwirkziit",
+          "german": "Einwirkzeit",
+          "explanation": "'Ii-' = 'Ein-', 'Ziit' = 'Zeit'."
+        },
+        {
+          "swissGerman": "Föhne",
+          "german": "Föhnen",
+          "explanation": "'Föhne' = 'Föhnen'. Dropped '-n'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Haarfarb",
+          "german": "Haarfarbe",
+          "english": "hair color"
+        },
+        {
+          "swissGerman": "Behandlig",
+          "german": "Behandlung",
+          "english": "treatment"
+        },
+        {
+          "swissGerman": "Föhne",
+          "german": "Föhnen",
+          "english": "blow-dry"
+        }
+      ]
+    },
+    {
+      "id": "hairdresser-4",
+      "level": "beginner",
+      "title": "Small talk during the haircut",
+      "situation": "You make small talk with a regular customer while cutting their hair.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Und, wie isch de Urlaub gsi?",
+          "german": "Und, wie war der Urlaub?",
+          "english": "So, how was the vacation?",
+          "spanish": "Bueno, ¿cómo fueron las vacaciones?"
+        },
+        {
+          "speaker": "Customer",
+          "swissGerman": "Mega schön! Mir sind z'Griechenland gsi. Am Meer, eifach herrlich.",
+          "german": "Mega schön! Wir waren in Griechenland. Am Meer, einfach herrlich.",
+          "english": "Really beautiful! We were in Greece. At the sea, just wonderful.",
+          "spanish": "¡Qué bonito! Estuvimos en Grecia. En el mar, simplemente maravilloso."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Das tönt traumhaft! D'Haar sind dur d'Sunne au schöner worde.",
+          "german": "Das klingt traumhaft! Die Haare sind durch die Sonne auch schöner geworden.",
+          "english": "That sounds dreamy! Your hair also got nicer from the sun.",
+          "spanish": "¡Eso suena de ensueño! Tu pelo también se puso más bonito con el sol."
+        },
+        {
+          "speaker": "Customer",
+          "swissGerman": "Ja, aber au trochner. Drum bi ich da!",
+          "german": "Ja, aber auch trockener. Darum bin ich da!",
+          "english": "Yes, but also drier. That's why I'm here!",
+          "spanish": "Sí, pero también más seco. ¡Por eso estoy aquí!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich mach Ihne en gueti Pflege-Kur dri. Das hilft mega.",
+          "german": "Ich mache Ihnen eine gute Pflegekur rein. Das hilft sehr.",
+          "english": "I'll do a good conditioning treatment. That helps a lot.",
+          "spanish": "Haré un buen tratamiento acondicionador. Eso ayuda mucho."
+        },
+        {
+          "speaker": "Customer",
+          "swissGerman": "Perfekt, du weisch immer was s'Beschte isch!",
+          "german": "Perfekt, du weißt immer was das Beste ist!",
+          "english": "Perfect, you always know what's best!",
+          "spanish": "¡Perfecto, siempre sabes lo que es mejor!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Haha, ich hab halt s'Handwerk glärnt! Wie lang scho chunsch du zu mir?",
+          "german": "Haha, ich habe halt das Handwerk gelernt! Wie lange kommst du schon zu mir?",
+          "english": "Haha, I've learned the craft! How long have you been coming to me?",
+          "spanish": "Jaja, ¡he aprendido el oficio! ¿Cuánto tiempo llevas viniendo a mí?"
+        },
+        {
+          "speaker": "Customer",
+          "swissGerman": "Fascht zwöi Johr. Ich würd d Coiffeur nie ändere so lang bi dir alles stimmt!",
+          "german": "Fast zwei Jahre. Ich würde den Friseur nie wechseln solange bei dir alles stimmt!",
+          "english": "Almost two years. I'd never change hairdressers as long as everything's great with you!",
+          "spanish": "Casi dos años. ¡Nunca cambiaría de peluquero/a mientras todo vaya tan bien contigo!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "trochner",
+          "german": "trockener",
+          "explanation": "'trochner' = 'trockener'. Vowel shift."
+        },
+        {
+          "swissGerman": "drum",
+          "german": "darum",
+          "explanation": "'drum' = 'darum'. Shortened."
+        },
+        {
+          "swissGerman": "Pflege-Kur dri",
+          "german": "Pflegekur rein",
+          "explanation": "'dri' = 'rein/hinein'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "trochner",
+          "german": "trockener",
+          "english": "drier"
+        },
+        {
+          "swissGerman": "Pflege-Kur",
+          "german": "Pflegekur",
+          "english": "conditioning treatment"
+        },
+        {
+          "swissGerman": "s'Beschte",
+          "german": "das Beste",
+          "english": "the best"
+        }
+      ]
+    },
+    {
+      "id": "hairdresser-5",
+      "level": "intermediate",
+      "title": "Closing the salon",
+      "situation": "End of the day — you clean up and do the closing tasks.",
+      "lines": [
+        {
+          "speaker": "Colleague",
+          "swissGerman": "De letschti Kund isch gange. Ich fag aa z'fäge.",
+          "german": "Der letzte Kunde ist gegangen. Ich fange an zu fegen.",
+          "english": "The last customer left. I'll start sweeping.",
+          "spanish": "El último cliente se fue. Voy a empezar a barrer."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Guet, ich mach d'Maschine suuber und desinfizier d'Werkzüüg.",
+          "german": "Gut, ich mache die Maschinen sauber und desinfiziere das Werkzeug.",
+          "english": "Good, I'll clean the machines and disinfect the tools.",
+          "spanish": "Bien, limpiaré las máquinas y desinfectaré las herramientas."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Hämmer no gnueg Shampoo und Farb für morn?",
+          "german": "Haben wir noch genug Shampoo und Farbe für morgen?",
+          "english": "Do we still have enough shampoo and dye for tomorrow?",
+          "spanish": "¿Todavía tenemos suficiente champú y tinte para mañana?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Shampoo ja, aber d'Blondierig wird knapf. Söllemer bstelle?",
+          "german": "Shampoo ja, aber die Blondierung wird knapp. Sollen wir bestellen?",
+          "english": "Shampoo yes, but the bleach is running low. Should we order?",
+          "spanish": "Champú sí, pero la lejía se está acabando. ¿Pedimos?"
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Ja, mach das bitte. Und vergiss d'Handtüecher nöd i d'Wösch z'tue.",
+          "german": "Ja, mach das bitte. Und vergiss die Handtücher nicht in die Wäsche zu tun.",
+          "english": "Yes, please do. And don't forget to put the towels in the laundry.",
+          "spanish": "Sí, por favor hazlo. Y no te olvides de poner las toallas en la lavadora."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Isch scho dri! So, in zehn Minute chömmer gaa.",
+          "german": "Ist schon drin! So, in zehn Minuten können wir gehen.",
+          "english": "Already in! So, in ten minutes we can leave.",
+          "spanish": "¡Ya está dentro! Entonces, en diez minutos podemos salir."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Hast du d'Kasse scho gmacht?",
+          "german": "Hast du die Kasse schon gemacht?",
+          "english": "Have you already done the till?",
+          "spanish": "¿Ya has hecho la caja?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, alles stimmt. Mir händ hüt guet gschäftet — sechs Kund und e fünf-Stern-Rezension!",
+          "german": "Ja, alles stimmt. Wir haben heute gut geschäftet — sechs Kunden und eine Fünf-Sterne-Rezension!",
+          "english": "Yes, all correct. We did well today — six customers and a five-star review!",
+          "spanish": "Sí, todo correcto. ¡Hoy lo hicimos muy bien — seis clientes y una reseña de cinco estrellas!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "fäge",
+          "german": "fegen",
+          "explanation": "'fäge' = 'fegen'. Vowel shift."
+        },
+        {
+          "swissGerman": "Werkzüüg",
+          "german": "Werkzeug",
+          "explanation": "'Werkzüüg' = 'Werkzeug'. Vowel doubling."
+        },
+        {
+          "swissGerman": "Blondierig",
+          "german": "Blondierung",
+          "explanation": "'Blondierig' = 'Blondierung'. '-ung' → '-ig'."
+        },
+        {
+          "swissGerman": "Handtüecher",
+          "german": "Handtücher",
+          "explanation": "'Handtüecher' = 'Handtücher'. Extra vowel."
+        },
+        {
+          "swissGerman": "Wösch",
+          "german": "Wäsche",
+          "explanation": "'Wösch' = 'Wäsche'. Different Swiss word."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "fäge",
+          "german": "fegen",
+          "english": "to sweep"
+        },
+        {
+          "swissGerman": "Werkzüüg",
+          "german": "Werkzeug",
+          "english": "tools"
+        },
+        {
+          "swissGerman": "Wösch",
+          "german": "Wäsche",
+          "english": "laundry"
+        }
+      ]
+    }
+  ]
+}

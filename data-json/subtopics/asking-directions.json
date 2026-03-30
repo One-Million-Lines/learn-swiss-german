@@ -1,0 +1,497 @@
+{
+  "id": "asking-directions",
+  "topicId": "daily-life",
+  "title": "Asking for Directions",
+  "description": "Finding your way around a Swiss city",
+  "dialogues": [
+    {
+      "id": "directions-1",
+      "level": "beginner",
+      "title": "Where is the train station?",
+      "situation": "You're lost in a Swiss town and need to find the train station.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Exgüsi, wo isch de Bahnhof?",
+          "german": "Entschuldigung, wo ist der Bahnhof?",
+          "english": "Excuse me, where is the train station?",
+          "spanish": "Perdona, ¿dónde está la estación de tren?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Grad da ane, öppe füf Minute z'Fuess.",
+          "german": "Gleich da drüben, etwa fünf Minuten zu Fuß.",
+          "english": "Right over there, about five minutes on foot.",
+          "spanish": "Allí mismo, unos cinco minutos a pie."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Muess ich rechts oder links?",
+          "german": "Muss ich rechts oder links?",
+          "english": "Do I go right or left?",
+          "spanish": "¿Voy a la derecha o a la izquierda?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Gönd Sie grad us und denn bi de Ampel rechts.",
+          "german": "Gehen Sie geradeaus und dann bei der Ampel rechts.",
+          "english": "Go straight and then right at the traffic light.",
+          "spanish": "Ve recto y luego gira a la derecha en el semáforo."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und öppe wie lang bis zur Ampel?",
+          "german": "Und ungefähr wie lange bis zur Ampel?",
+          "english": "And about how long to the traffic light?",
+          "spanish": "¿Y más o menos cuánto hasta el semáforo?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Öppe zwöi Minute. Sie chönd's übrigens nöd verfeele — s'Bahnhofsgiboldi isch gross.",
+          "german": "Etwa zwei Minuten. Sie können es übrigens nicht verfehlen — das Bahnhofsgebäude ist groß.",
+          "english": "About two minutes. You can't miss it by the way — the station building is large.",
+          "spanish": "Unos dos minutos. Por cierto, no puedes perdértela — el edificio de la estación es grande."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Merci vilmal!",
+          "german": "Vielen Dank!",
+          "english": "Thank you very much!",
+          "spanish": "¡Muchas gracias!"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Gärn gscheh! Schöne Tag!",
+          "german": "Gern geschehen! Schönen Tag!",
+          "english": "You're welcome! Have a nice day!",
+          "spanish": "¡De nada! Que tengas un buen día."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Exgüsi",
+          "german": "Entschuldigung",
+          "explanation": "From French 'excusez'. Much shorter and universally used."
+        },
+        {
+          "swissGerman": "öppe",
+          "german": "etwa/ungefähr",
+          "explanation": "'öppe' = 'etwa/ungefähr' (approximately). Unique Swiss German word."
+        },
+        {
+          "swissGerman": "z'Fuess",
+          "german": "zu Fuß",
+          "explanation": "'z'' = 'zu', 'Fuess' = 'Fuß'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Wo isch...?",
+          "german": "Wo ist...?",
+          "english": "Where is...?"
+        },
+        {
+          "swissGerman": "öppe füf Minute",
+          "german": "etwa fünf Minuten",
+          "english": "about five minutes"
+        },
+        {
+          "swissGerman": "z'Fuess",
+          "german": "zu Fuß",
+          "english": "on foot"
+        }
+      ]
+    },
+    {
+      "id": "directions-2",
+      "level": "beginner",
+      "title": "Finding the nearest pharmacy",
+      "situation": "You need a pharmacy and ask a passerby on the street.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Exgüsi, gits do in de Nöchi en Apothek?",
+          "german": "Entschuldigung, gibt es hier in der Nähe eine Apotheke?",
+          "english": "Excuse me, is there a pharmacy nearby?",
+          "spanish": "Perdona, ¿hay una farmacia cerca?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Ja, eis Stück wiiter obe isch eini.",
+          "german": "Ja, ein Stück weiter oben ist eine.",
+          "english": "Yes, a bit further up there is one.",
+          "spanish": "Sí, un poco más arriba hay uno."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Uf welere Siite vo de Strass?",
+          "german": "Auf welcher Seite von der Straße?",
+          "english": "On which side of the street?",
+          "spanish": "¿En qué lado de la calle?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Uf de rechte Siite, näbed em Bluemeladen.",
+          "german": "Auf der rechten Seite, neben dem Blumenladen.",
+          "english": "On the right side, next to the flower shop.",
+          "spanish": "En el lado derecho, junto a la floristería."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Isch das e richtige Apotheke oder meh e Drogerig?",
+          "german": "Ist das eine richtige Apotheke oder eher eine Drogerie?",
+          "english": "Is that a proper pharmacy or more of a drugstore?",
+          "spanish": "¿Es una farmacia propiamente dicha o más bien una droguería?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "E richtige Apotheke — sie lönd au Rezäpte ii.",
+          "german": "Eine richtige Apotheke — sie nehmen auch Rezepte an.",
+          "english": "A proper pharmacy — they also accept prescriptions.",
+          "spanish": "Una farmacia de verdad — también aceptan recetas."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci!",
+          "german": "Perfekt, danke!",
+          "english": "Perfect, thanks!",
+          "spanish": "¡Perfecto, gracias!"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Bitte! Gueti Besserig!",
+          "german": "Bitte! Gute Besserung!",
+          "english": "You're welcome! Get well soon!",
+          "spanish": "¡De nada! Que te mejores pronto."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "gits do in de Nöchi",
+          "german": "gibt es hier in der Nähe",
+          "explanation": "'gits' = 'gibt es', 'do' = 'hier', 'Nöchi' = 'Nähe'."
+        },
+        {
+          "swissGerman": "wiiter obe",
+          "german": "weiter oben",
+          "explanation": "'wiiter' = 'weiter', 'obe' = 'oben'. Direction words drop '-n'."
+        },
+        {
+          "swissGerman": "Bluemeladen",
+          "german": "Blumenladen",
+          "explanation": "'Blueme-' = 'Blumen-'. Vowel shift 'u' → 'ue'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Gits in de Nöchi...?",
+          "german": "Gibt es in der Nähe...?",
+          "english": "Is there nearby...?"
+        },
+        {
+          "swissGerman": "Gueti Besserig!",
+          "german": "Gute Besserung!",
+          "english": "Get well soon!"
+        }
+      ]
+    },
+    {
+      "id": "directions-3",
+      "level": "intermediate",
+      "title": "Detailed directions with landmarks",
+      "situation": "You need to find a specific restaurant and ask a passerby for help.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Exgüsi, ich sueche s'Restaurant Linde. Wüssed Sie wo das isch?",
+          "german": "Entschuldigung, ich suche das Restaurant Linde. Wissen Sie wo das ist?",
+          "english": "Excuse me, I'm looking for Restaurant Linde. Do you know where that is?",
+          "spanish": "Perdona, estoy buscando el Restaurante Linde. ¿Sabes dónde está?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Ja! Gönd Sie die Strass da abe, denn bi de Chile links.",
+          "german": "Ja! Gehen Sie diese Straße hinunter, dann bei der Kirche links.",
+          "english": "Yes! Go down this street, then turn left at the church.",
+          "spanish": "Sí, ¡baja por esta calle, luego gira a la izquierda en la iglesia!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Bi de Chile links, okay. Isch es wiit?",
+          "german": "Bei der Kirche links, okay. Ist es weit?",
+          "english": "At the church left, okay. Is it far?",
+          "spanish": "En la iglesia a la izquierda, de acuerdo. ¿Está lejos?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Nei, öppe drei Minute. Sie gsehnd's vo wiitem, es hät e grossi Terrass.",
+          "german": "Nein, etwa drei Minuten. Sie sehen es von weitem, es hat eine große Terrasse.",
+          "english": "No, about three minutes. You'll see it from afar, it has a big terrace.",
+          "spanish": "No, unos tres minutos. Lo verás desde lejos, tiene una terraza grande."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Isch das Restaurant empfehlenswärt, oder isch es eher für Tourischtä?",
+          "german": "Ist das Restaurant empfehlenswert, oder ist es eher für Touristen?",
+          "english": "Is the restaurant worth recommending, or is it more for tourists?",
+          "spanish": "¿El restaurante merece la pena o es más para turistas?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Nei nei, das isch au für Iiheimischi. Gueti Chuchi, nöd z'tüür. Aber reserviired Sie vorher!",
+          "german": "Nein nein, das ist auch für Einheimische. Gute Küche, nicht zu teuer. Aber reservieren Sie vorher!",
+          "english": "No no, locals go too. Good food, not too pricey. But reserve ahead!",
+          "spanish": "No, no, los locales también van. Buena comida, no muy cara. Pero reserva con antelación."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Super, merci vilmal!",
+          "german": "Super, vielen Dank!",
+          "english": "Great, thank you very much!",
+          "spanish": "¡Genial, muchas gracias!"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Gärn! En Guete denn!",
+          "german": "Gern! Guten Appetit dann!",
+          "english": "You're welcome! Enjoy your meal then!",
+          "spanish": "¡De nada! Que aproveche entonces."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "ich sueche",
+          "german": "ich suche",
+          "explanation": "'sueche' = 'suche'. Vowel lengthening is common."
+        },
+        {
+          "swissGerman": "die Strass da abe",
+          "german": "diese Straße hinunter",
+          "explanation": "'da abe' = 'hinunter/runter' (down there). 'Strass' drops the '-e'."
+        },
+        {
+          "swissGerman": "Chile",
+          "german": "Kirche",
+          "explanation": "'Chile' = 'Kirche'. The word is completely different in Swiss German."
+        },
+        {
+          "swissGerman": "es hät",
+          "german": "es hat",
+          "explanation": "'hät' = 'hat'. Vowel shifts in common verbs."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Ich sueche...",
+          "german": "Ich suche...",
+          "english": "I'm looking for..."
+        },
+        {
+          "swissGerman": "Wüssed Sie wo...?",
+          "german": "Wissen Sie wo...?",
+          "english": "Do you know where...?"
+        },
+        {
+          "swissGerman": "Isch es wiit?",
+          "german": "Ist es weit?",
+          "english": "Is it far?"
+        }
+      ]
+    },
+    {
+      "id": "directions-4",
+      "level": "intermediate",
+      "title": "Navigating public transport connections",
+      "situation": "You're at a tram stop and need to figure out which tram to take.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Exgüsi, weles Tram fahrt zum Bürkliplatz?",
+          "german": "Entschuldigung, welche Straßenbahn fährt zum Bürkliplatz?",
+          "english": "Excuse me, which tram goes to Bürkliplatz?",
+          "spanish": "Perdona, ¿qué tranvía va a Bürkliplatz?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Sie chönd s'Elfi oder s'Sechsi näh. Beidi gönd deet ane.",
+          "german": "Sie können die 11 oder die 6 nehmen. Beide gehen dort hin.",
+          "english": "You can take the 11 or the 6. Both go there.",
+          "spanish": "Puedes coger el 11 o el 6. Los dos van allí."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und wo muess ich usgstiige?",
+          "german": "Und wo muss ich aussteigen?",
+          "english": "And where do I need to get off?",
+          "spanish": "¿Y dónde tengo que bajarme?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Bi de dritte Haltestell. S'wird ahzeigt uf em Bildschirm.",
+          "german": "Bei der dritten Haltestelle. Es wird auf dem Bildschirm angezeigt.",
+          "english": "At the third stop. It'll be shown on the screen.",
+          "spanish": "En la tercera parada. Aparecerá en la pantalla."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ah super. Und bruuchi es Billett?",
+          "german": "Ah super. Und brauche ich ein Ticket?",
+          "english": "Oh great. And do I need a ticket?",
+          "spanish": "Qué bien. ¿Y necesito una entrada?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Ja, am Automat oder mit de App. Zone hundertzäh langt.",
+          "german": "Ja, am Automaten oder mit der App. Zone hundertzehn reicht.",
+          "english": "Yes, at the machine or with the app. Zone 110 is enough.",
+          "spanish": "Sí, en la máquina o con la aplicación. La zona 110 es suficiente."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Merci vilmal für d'Hilf!",
+          "german": "Vielen Dank für die Hilfe!",
+          "english": "Thank you so much for the help!",
+          "spanish": "¡Muchas gracias por la ayuda!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "weles Tram",
+          "german": "welche Straßenbahn",
+          "explanation": "'weles' = 'welches'. 'Tram' is used in Switzerland not 'Straßenbahn'."
+        },
+        {
+          "swissGerman": "s'Elfi oder s'Sechsi",
+          "german": "die 11 oder die 6",
+          "explanation": "Swiss German adds '-i' to numbers when used as names (Tram Elfi = Tram 11)."
+        },
+        {
+          "swissGerman": "usgstiige",
+          "german": "aussteigen",
+          "explanation": "'us-' = 'aus-', 'gstiige' = 'steigen'. Typical prefix contraction."
+        },
+        {
+          "swissGerman": "Billett",
+          "german": "Fahrkarte/Ticket",
+          "explanation": "'Billett' — French loanword for ticket. Very common in Switzerland."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Weles Tram fahrt zum...?",
+          "german": "Welche Straßenbahn fährt zum...?",
+          "english": "Which tram goes to...?"
+        },
+        {
+          "swissGerman": "Wo muess ich usgstiige?",
+          "german": "Wo muss ich aussteigen?",
+          "english": "Where do I need to get off?"
+        },
+        {
+          "swissGerman": "Billett",
+          "german": "Fahrkarte",
+          "english": "ticket"
+        }
+      ]
+    },
+    {
+      "id": "directions-5",
+      "level": "beginner",
+      "title": "Finding a public restroom",
+      "situation": "You urgently need a restroom in the city center.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Exgüsi, wo isch s'nöchste WC?",
+          "german": "Entschuldigung, wo ist die nächste Toilette?",
+          "english": "Excuse me, where is the nearest restroom?",
+          "spanish": "Perdona, ¿dónde está el baño más cercano?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Im Einkaufszentrum deet ane. Grad dure d'Tür und denn links.",
+          "german": "Im Einkaufszentrum dort drüben. Gleich durch die Tür und dann links.",
+          "english": "In the shopping center over there. Right through the door and then left.",
+          "spanish": "En el centro comercial de ahí enfrente. Derecho por la puerta y luego a la izquierda."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Muess ich öppis zahle?",
+          "german": "Muss ich etwas zahlen?",
+          "english": "Do I have to pay anything?",
+          "spanish": "¿Tengo que pagar algo?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Nei, die sind gratis.",
+          "german": "Nein, die sind kostenlos.",
+          "english": "No, they're free.",
+          "spanish": "No, son gratuitas."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Isch das au barriärefrei zugänglech?",
+          "german": "Ist das auch barrierefrei zugänglich?",
+          "english": "Is it also wheelchair accessible?",
+          "spanish": "¿También tiene acceso para sillas de ruedas?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Ja, da drinn isch links e spezielli Kabine mit gnueg Platz.",
+          "german": "Ja, da drin ist links eine spezielle Kabine mit genug Platz.",
+          "english": "Yes, inside on the left there's a special cubicle with enough room.",
+          "spanish": "Sí, dentro a la izquierda hay un cubículo especial con suficiente espacio."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Merci, das hilft mir mega!",
+          "german": "Danke, das hilft mir sehr!",
+          "english": "Thanks, that helps me a lot!",
+          "spanish": "¡Gracias, eso me ayuda mucho!"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Kei Problem!",
+          "german": "Kein Problem!",
+          "english": "No problem!",
+          "spanish": "¡Sin problema!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "s'nöchste WC",
+          "german": "die nächste Toilette",
+          "explanation": "'nöchste' = 'nächste'. 'WC' is universally used in Switzerland instead of 'Toilette'."
+        },
+        {
+          "swissGerman": "dure d'Tür",
+          "german": "durch die Tür",
+          "explanation": "'dure' = 'durch'. Swiss German directional prepositions are often simplified."
+        },
+        {
+          "swissGerman": "gratis",
+          "german": "kostenlos",
+          "explanation": "'gratis' is the standard word in Swiss German, borrowed from Latin."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Wo isch s'nöchste...?",
+          "german": "Wo ist das nächste...?",
+          "english": "Where is the nearest...?"
+        },
+        {
+          "swissGerman": "Muess ich öppis zahle?",
+          "german": "Muss ich etwas zahlen?",
+          "english": "Do I have to pay anything?",
+          "spanish": "¿Tengo que pagar algo?"
+        },
+        {
+          "swissGerman": "gratis",
+          "german": "kostenlos",
+          "english": "free (no cost)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,493 @@
+{
+  "id": "train-station",
+  "topicId": "daily-life",
+  "title": "Train Station",
+  "description": "Buying tickets, finding platforms, and dealing with delays",
+  "dialogues": [
+    {
+      "id": "train-1",
+      "level": "beginner",
+      "title": "Finding the right platform",
+      "situation": "You're at the Hauptbahnhof and need to find the train to Bern.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Exgüsi, vo wo fahrt de Zug uf Bern?",
+          "german": "Entschuldigung, von wo fährt der Zug nach Bern?",
+          "english": "Excuse me, where does the train to Bern leave from?",
+          "spanish": "Perdona, ¿desde dónde sale el tren a Berna?"
+        },
+        {
+          "speaker": "Staff",
+          "swissGerman": "Vo Gleis drü. Er fahrt in zehn Minute.",
+          "german": "Von Gleis drei. Er fährt in zehn Minuten.",
+          "english": "From platform three. It leaves in ten minutes.",
+          "spanish": "Desde el andén tres. Sale en diez minutos."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Isch das de Schnällzug?",
+          "german": "Ist das der Schnellzug?",
+          "english": "Is that the express train?",
+          "spanish": "¿Es ese el tren expreso?"
+        },
+        {
+          "speaker": "Staff",
+          "swissGerman": "Ja, de IC. Er bruucht öppe eini Stund.",
+          "german": "Ja, der IC. Er braucht etwa eine Stunde.",
+          "english": "Yes, the IC. It takes about one hour.",
+          "spanish": "Sí, el IC. Tarda aproximadamente una hora."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Stoppt de IC no z'Olte oder fahrt er direkt uf Bern?",
+          "german": "Hält der IC noch in Olten oder fährt er direkt nach Bern?",
+          "english": "Does the IC stop in Olten or go directly to Bern?",
+          "spanish": "¿El IC para en Olten o va directamente a Berna?"
+        },
+        {
+          "speaker": "Staff",
+          "swissGerman": "Er stopped z'Olte — aber nur zwei Minute. De direkte IC175 fahrt erst um nüüni.",
+          "german": "Er hält in Olten — aber nur zwei Minuten. Der direkte IC175 fährt erst um neun.",
+          "english": "It stops at Olten — but only two minutes. The direct IC175 doesn't run until nine.",
+          "spanish": "Para en Olten — pero solo dos minutos. El IC175 directo no sale hasta las nueve."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal!",
+          "german": "Perfekt, vielen Dank!",
+          "english": "Perfect, thanks a lot!",
+          "spanish": "¡Perfecto, muchas gracias!"
+        },
+        {
+          "speaker": "Staff",
+          "swissGerman": "Gueti Reis!",
+          "german": "Gute Reise!",
+          "english": "Have a good trip!",
+          "spanish": "¡Buen viaje!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "vo wo",
+          "german": "von wo",
+          "explanation": "'vo' = 'von'. Prepositions are shortened."
+        },
+        {
+          "swissGerman": "Gleis drü",
+          "german": "Gleis drei",
+          "explanation": "'drü' = 'drei'. Numbers differ in Swiss German."
+        },
+        {
+          "swissGerman": "Schnällzug",
+          "german": "Schnellzug",
+          "explanation": "'Schnäll-' = 'Schnell-'. Vowel shift."
+        },
+        {
+          "swissGerman": "Gueti Reis",
+          "german": "Gute Reise",
+          "explanation": "'Gueti' = 'Gute', 'Reis' = 'Reise'. Adjective ending and dropped '-e'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Vo wo fahrt de Zug uf...?",
+          "german": "Von wo fährt der Zug nach...?",
+          "english": "Where does the train to... leave from?"
+        },
+        {
+          "swissGerman": "Gueti Reis!",
+          "german": "Gute Reise!",
+          "english": "Have a good trip!",
+          "spanish": "¡Buen viaje!"
+        }
+      ]
+    },
+    {
+      "id": "train-2",
+      "level": "beginner",
+      "title": "Buying a ticket at the counter",
+      "situation": "You go to the SBB counter to buy a train ticket.",
+      "lines": [
+        {
+          "speaker": "Staff",
+          "swissGerman": "Grüezi, was chani für Sie tue?",
+          "german": "Guten Tag, was kann ich für Sie tun?",
+          "english": "Hello, what can I do for you?",
+          "spanish": "Hola, ¿en qué puedo ayudarle?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich hätt gern es Billett uf Luzern, eifach.",
+          "german": "Ich hätte gern eine Fahrkarte nach Luzern, einfach.",
+          "english": "I'd like a ticket to Lucerne, one-way.",
+          "spanish": "Me gustaría un billete a Lucerna, solo ida."
+        },
+        {
+          "speaker": "Staff",
+          "swissGerman": "Zweiti Klass?",
+          "german": "Zweite Klasse?",
+          "english": "Second class?",
+          "spanish": "¿Segunda clase?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja bitte. Was chostet das?",
+          "german": "Ja bitte. Was kostet das?",
+          "english": "Yes please. How much is it?",
+          "spanish": "Sí, por favor. ¿Cuánto cuesta?"
+        },
+        {
+          "speaker": "Staff",
+          "swissGerman": "Drüezwänzg Franke. Händ Sie es Halbtax?",
+          "german": "Dreiundzwanzig Franken. Haben Sie ein Halbtax?",
+          "english": "Twenty-three francs. Do you have a Halbtax card?",
+          "spanish": "Veintitrés francos. ¿Tienes tarjeta Halbtax?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, da isch's. Denn isch es günstiger, oder?",
+          "german": "Ja, hier ist es. Dann ist es günstiger, oder?",
+          "english": "Yes, here it is. Then it's cheaper, right?",
+          "spanish": "Sí, aquí está. Entonces es más barato, ¿verdad?"
+        },
+        {
+          "speaker": "Staff",
+          "swissGerman": "Ja, nur elf Franke föifzg. Gueti Reis!",
+          "german": "Ja, nur elf Franken fünfzig. Gute Reise!",
+          "english": "Yes, only eleven francs fifty. Have a good trip!",
+          "spanish": "Sí, solo once francos cincuenta. ¡Buen viaje!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Billett",
+          "german": "Fahrkarte",
+          "explanation": "'Billett' — French loanword for ticket. Standard in Switzerland."
+        },
+        {
+          "swissGerman": "eifach",
+          "german": "einfach (Einzelfahrt)",
+          "explanation": "'eifach' = 'einfach'. Means one-way ticket here."
+        },
+        {
+          "swissGerman": "Halbtax",
+          "german": "Halbtax (Schweizer Bahnkarte)",
+          "explanation": "Swiss half-fare card. Everyone in Switzerland knows this term."
+        },
+        {
+          "swissGerman": "Drüezwänzg",
+          "german": "dreiundzwanzig",
+          "explanation": "'Drüezwänzg' = 'dreiundzwanzig'. Numbers sound very different."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Es Billett uf...",
+          "german": "Eine Fahrkarte nach...",
+          "english": "A ticket to..."
+        },
+        {
+          "swissGerman": "eifach / retour",
+          "german": "einfach / hin und zurück",
+          "english": "one-way / return"
+        },
+        {
+          "swissGerman": "Halbtax",
+          "german": "Halbtax",
+          "english": "half-fare card"
+        }
+      ]
+    },
+    {
+      "id": "train-3",
+      "level": "intermediate",
+      "title": "Delay and connections",
+      "situation": "Your train is delayed and you need to catch a connection.",
+      "lines": [
+        {
+          "speaker": "Announcement",
+          "swissGerman": "De Zug uf Bern hät öppe zehn Minute Verspätig.",
+          "german": "Der Zug nach Bern hat etwa zehn Minuten Verspätung.",
+          "english": "The train to Bern is delayed by about ten minutes.",
+          "spanish": "El tren a Berna lleva unos diez minutos de retraso."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Exgüsi, ich muess in Bern umstii uf Thun. Schaffeni de Aaschluss no?",
+          "german": "Entschuldigung, ich muss in Bern umsteigen nach Thun. Schaffe ich den Anschluss noch?",
+          "english": "Excuse me, I need to transfer in Bern to Thun. Will I still make the connection?",
+          "spanish": "Perdona, necesito hacer transbordo en Berna a Thun. ¿Llegaré a tiempo al enlace?"
+        },
+        {
+          "speaker": "Staff",
+          "swissGerman": "Ja, de Zug uf Thun warted normalerwiis.",
+          "german": "Ja, der Zug nach Thun wartet normalerweise.",
+          "english": "Yes, the train to Thun normally waits.",
+          "spanish": "Sí, el tren a Thun normalmente espera."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ah guet. Und vo wellem Gleis fahrt de Aschlusszug?",
+          "german": "Ah gut. Und von welchem Gleis fährt der Anschlusszug?",
+          "english": "Oh good. And from which platform does the connecting train leave?",
+          "spanish": "Qué bien. ¿Y desde qué andén sale el tren de conexión?"
+        },
+        {
+          "speaker": "Staff",
+          "swissGerman": "Normalerwiis vo Gleis siebni. Aber lueged Sie uf d'Aazeigtafle.",
+          "german": "Normalerweise von Gleis sieben. Aber schauen Sie auf die Anzeigetafel.",
+          "english": "Usually from platform seven. But check the display board.",
+          "spanish": "Normalmente desde el andén siete. Pero comprueba el panel de información."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und falls de Aaschluss nöd chlappet — gits no en spöötere Zug uf Thun?",
+          "german": "Und falls der Anschluss nicht klappt — gibt es noch einen späteren Zug nach Thun?",
+          "english": "And if the connection doesn't work — is there a later train to Thun?",
+          "spanish": "¿Y si el enlace no funciona — ¿hay un tren posterior a Thun?"
+        },
+        {
+          "speaker": "Staff",
+          "swissGerman": "Ja, d'S-Bahn fahrt jedi halbi Stund bis Thun. Die letscht Bahn gaht um drüü zwänzg ab.",
+          "german": "Ja, die S-Bahn fährt jede halbe Stunde bis Thun. Die letzte Bahn geht um drei Uhr zwanzig ab.",
+          "english": "Yes, the S-Bahn runs every half hour to Thun. The last one leaves at twenty past three.",
+          "spanish": "Sí, el S-Bahn va cada media hora a Thun. El último sale a las tres y veinte."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Okay, merci vilmal für d'Information!",
+          "german": "Okay, vielen Dank für die Information!",
+          "english": "Okay, thank you for the information!",
+          "spanish": "Bien, ¡gracias por la información!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Verspätig",
+          "german": "Verspätung",
+          "explanation": "'Verspätig' drops the '-ung' ending."
+        },
+        {
+          "swissGerman": "umstii",
+          "german": "umsteigen",
+          "explanation": "'umstii' = 'umsteigen'. The '-eigen' ending becomes '-ii'."
+        },
+        {
+          "swissGerman": "Schaffeni de Aaschluss?",
+          "german": "Schaffe ich den Anschluss?",
+          "explanation": "'Schaffeni' = 'Schaffe ich'. Verb-pronoun fusion."
+        },
+        {
+          "swissGerman": "Aazeigtafle",
+          "german": "Anzeigetafel",
+          "explanation": "'Aa-' = 'An-'. The '-n' shifts to doubled vowel."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Verspätig",
+          "german": "Verspätung",
+          "english": "delay"
+        },
+        {
+          "swissGerman": "umstii",
+          "german": "umsteigen",
+          "english": "to transfer/change"
+        },
+        {
+          "swissGerman": "Aaschluss",
+          "german": "Anschluss",
+          "english": "connection"
+        }
+      ]
+    },
+    {
+      "id": "train-4",
+      "level": "intermediate",
+      "title": "Wrong train — asking for help",
+      "situation": "You realize you've taken the wrong train and ask the conductor for advice.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Exgüsi, fahrt de Zug uf Winterthur?",
+          "german": "Entschuldigung, fährt der Zug nach Winterthur?",
+          "english": "Excuse me, does this train go to Winterthur?",
+          "spanish": "Perdona, ¿este tren va a Winterthur?"
+        },
+        {
+          "speaker": "Conductor",
+          "swissGerman": "Nei, de fahrt uf Rapperswil. Sie sind im falsche Zug.",
+          "german": "Nein, der fährt nach Rapperswil. Sie sind im falschen Zug.",
+          "english": "No, this one goes to Rapperswil. You're on the wrong train.",
+          "spanish": "No, este va a Rapperswil. Estás en el tren equivocado."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Oh nei! Was chani jetzt mache?",
+          "german": "Oh nein! Was kann ich jetzt machen?",
+          "english": "Oh no! What can I do now?",
+          "spanish": "¡Oh no! ¿Qué puedo hacer ahora?"
+        },
+        {
+          "speaker": "Conductor",
+          "swissGerman": "Stiiged Sie z'Uster us. Vo deet gits en Zug uf Winterthur.",
+          "german": "Steigen Sie in Uster aus. Von dort gibt es einen Zug nach Winterthur.",
+          "english": "Get off at Uster. From there there's a train to Winterthur.",
+          "spanish": "Bájate en Uster. Desde allí hay un tren a Winterthur."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Gilt mis Billett no?",
+          "german": "Gilt mein Ticket noch?",
+          "english": "Is my ticket still valid?",
+          "spanish": "¿Mi billete sigue siendo válido?"
+        },
+        {
+          "speaker": "Conductor",
+          "swissGerman": "Ja, s'Billett gilt für alli Züg uf de Strecki.",
+          "german": "Ja, das Ticket gilt für alle Züge auf der Strecke.",
+          "english": "Yes, the ticket is valid for all trains on the route.",
+          "spanish": "Sí, el billete es válido para todos los trenes de la ruta."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Puh, guet! Merci für d'Hilf!",
+          "german": "Puh, gut! Danke für die Hilfe!",
+          "english": "Phew, good! Thanks for the help!",
+          "spanish": "¡Uf, qué bien! ¡Gracias por la ayuda!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "im falsche Zug",
+          "german": "im falschen Zug",
+          "explanation": "'falsche' drops the '-n' ending typical of dative case."
+        },
+        {
+          "swissGerman": "Stiiged Sie z'Uster us",
+          "german": "Steigen Sie in Uster aus",
+          "explanation": "'Stiiged' = 'Steigen', 'z'' = 'in' (before place names), 'us' = 'aus'."
+        },
+        {
+          "swissGerman": "Gilt mis Billett?",
+          "german": "Gilt mein Ticket?",
+          "explanation": "'mis' = 'mein'. Possessive pronoun shortened."
+        },
+        {
+          "swissGerman": "alli Züg",
+          "german": "alle Züge",
+          "explanation": "'alli' = 'alle', 'Züg' = 'Züge'. Dropped endings."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Sie sind im falsche Zug",
+          "german": "Sie sind im falschen Zug",
+          "english": "You're on the wrong train"
+        },
+        {
+          "swissGerman": "Stiiged Sie us",
+          "german": "Steigen Sie aus",
+          "english": "Get off"
+        },
+        {
+          "swissGerman": "Gilt mis Billett?",
+          "german": "Gilt mein Ticket?",
+          "english": "Is my ticket valid?"
+        }
+      ]
+    },
+    {
+      "id": "train-5",
+      "level": "intermediate",
+      "title": "Reserving a seat on a long-distance train",
+      "situation": "You want to reserve a seat for a longer journey from Zürich to Geneva.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Grüezi, ich möcht en Platz reserviere im IC uf Genf am Friitig.",
+          "german": "Guten Tag, ich möchte einen Platz reservieren im IC nach Genf am Freitag.",
+          "english": "Hello, I'd like to reserve a seat on the IC to Geneva on Friday.",
+          "spanish": "Hola, me gustaría reservar un asiento en el IC a Ginebra el viernes."
+        },
+        {
+          "speaker": "Staff",
+          "swissGerman": "Am Morge oder am Namittag?",
+          "german": "Am Morgen oder am Nachmittag?",
+          "english": "In the morning or afternoon?",
+          "spanish": "¿Por la mañana o por la tarde?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Am Morge, so um achti. Und Fänschterplätz wenns gaht.",
+          "german": "Am Morgen, so um acht. Und Fensterplatz wenn es geht.",
+          "english": "In the morning, around eight. And a window seat if possible.",
+          "spanish": "Por la mañana, sobre las ocho. Y un asiento de ventana si es posible."
+        },
+        {
+          "speaker": "Staff",
+          "swissGerman": "Momänt... De Zug um acht null siebni hätt no Fänschterplätz frei.",
+          "german": "Moment... Der Zug um acht Uhr sieben hat noch Fensterplätze frei.",
+          "english": "One moment... The 8:07 train still has window seats available.",
+          "spanish": "Un momento... El tren de las 8:07 todavía tiene asientos de ventana disponibles."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Super, de nimm ich. Chostet d'Reservierig öppis?",
+          "german": "Super, den nehme ich. Kostet die Reservierung etwas?",
+          "english": "Great, I'll take it. Does the reservation cost anything?",
+          "spanish": "Genial, me lo quedo. ¿La reserva cuesta algo?"
+        },
+        {
+          "speaker": "Staff",
+          "swissGerman": "Ja, füf Franke. Sölli's grad buche?",
+          "german": "Ja, fünf Franken. Soll ich es gleich buchen?",
+          "english": "Yes, five francs. Shall I book it right away?",
+          "spanish": "Sí, cinco francos. ¿Lo reservo ahora mismo?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja bitte! Merci.",
+          "german": "Ja bitte! Danke.",
+          "english": "Yes please! Thanks.",
+          "spanish": "Sí, por favor. Gracias."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Fänschterplätz",
+          "german": "Fensterplatz",
+          "explanation": "'Fänschter-' = 'Fenster-'. 'e' → 'ä' shift. '-plätz' = '-platz'."
+        },
+        {
+          "swissGerman": "wenns gaht",
+          "german": "wenn es geht",
+          "explanation": "'wenns' = 'wenn es', 'gaht' = 'geht'. Contraction and vowel shift."
+        },
+        {
+          "swissGerman": "Sölli's grad buche?",
+          "german": "Soll ich es gleich buchen?",
+          "explanation": "'Sölli's' = 'Soll ich es'. Triple fusion. 'grad' = 'gleich'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "en Platz reserviere",
+          "german": "einen Platz reservieren",
+          "english": "to reserve a seat"
+        },
+        {
+          "swissGerman": "Fänschterplätz",
+          "german": "Fensterplatz",
+          "english": "window seat"
+        },
+        {
+          "swissGerman": "Sölli's grad buche?",
+          "german": "Soll ich es gleich buchen?",
+          "english": "Shall I book it right away?"
+        }
+      ]
+    }
+  ]
+}

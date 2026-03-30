@@ -1,0 +1,523 @@
+{
+  "id": "kindergarten",
+  "topicId": "family-school",
+  "title": "Kindergarten",
+  "description": "First day, Znüni time, activities, and making friends",
+  "dialogues": [
+    {
+      "id": "kiga-1",
+      "level": "beginner",
+      "title": "First day of Kindergarten",
+      "situation": "Your child starts Kindergarten and you meet the teacher.",
+      "lines": [
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "Grüezi! Willkomme im Chindsgi! Wie heisst du?",
+          "german": "Guten Tag! Willkommen im Kindergarten! Wie heißt du?",
+          "english": "Hello! Welcome to kindergarten! What's your name?",
+          "spanish": "¡Hola! ¡Bienvenido al jardín de infancia! ¿Cómo te llamas?"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Lina.",
+          "german": "Lina.",
+          "english": "Lina.",
+          "spanish": "Lina."
+        },
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "Hoi Lina! Ich bi d'Frau Brunner. Lueg, da isch din Garderobehägeli.",
+          "german": "Hallo Lina! Ich bin Frau Brunner. Schau, da ist dein Garderobenhaken.",
+          "english": "Hi Lina! I'm Mrs. Brunner. Look, here's your cubby hook.",
+          "spanish": "¡Hola Lina! Soy la señora Brunner. Mira, aquí está tu gancho del casillero."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Sie hät ihres Znüni im Rucksack. Bruchts no sunscht öppis?",
+          "german": "Sie hat ihr Znüni im Rucksack. Braucht es sonst noch etwas?",
+          "english": "She has her snack in her backpack. Is anything else needed?",
+          "spanish": "Ella tiene su merienda en la mochila. ¿Hace falta algo más?"
+        },
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "Nei, alles guet. Mir gönd hüt in Chreis und lernid eus kenne.",
+          "german": "Nein, alles gut. Wir gehen heute in den Kreis und lernen uns kennen.",
+          "english": "No, all good. Today we'll sit in a circle and get to know each other.",
+          "spanish": "No, todo bien. Hoy nos sentaremos en círculo y nos conoceremos."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Schön! Lina, ich chume um Elfi go dich hole. Viel Spass!",
+          "german": "Schön! Lina, ich komme um elf dich abholen. Viel Spaß!",
+          "english": "Great! Lina, I'll come at eleven to pick you up. Have fun!",
+          "spanish": "¡Genial! Lina, vendré a las once a recogerte. ¡Pásalo bien!"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Papi, bleibsch au?",
+          "german": "Papa, bleibst du auch?",
+          "english": "Daddy, are you staying too?",
+          "spanish": "Papá, ¿tú también te quedas?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich muess gaah, aber d'Frau Brunner isch do. Du bisch tapfer! Bis zämä!",
+          "german": "Ich muss gehen, aber Frau Brunner ist da. Du bist tapfer! Bis nachher!",
+          "english": "I have to go, but Mrs. Brunner is here. You're brave! See you soon!",
+          "spanish": "Tengo que irme, pero la señora Brunner está aquí. ¡Eres valiente! ¡Hasta pronto!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Chindsgi",
+          "german": "Kindergarten",
+          "explanation": "'Chindsgi' = informal Swiss word for Kindergarten."
+        },
+        {
+          "swissGerman": "Garderobehägeli",
+          "german": "Garderobenhaken",
+          "explanation": "'Hägeli' = 'Häkchen'. '-chen' → '-li'."
+        },
+        {
+          "swissGerman": "Chreis",
+          "german": "Kreis",
+          "explanation": "'Chreis' = 'Kreis'. K→Ch. Circle time is big in Swiss Kindergarten."
+        },
+        {
+          "swissGerman": "go dich hole",
+          "german": "dich abholen",
+          "explanation": "'go... hole' = Swiss infinitive construction with 'go'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Chindsgi",
+          "german": "Kindergarten",
+          "english": "kindergarten"
+        },
+        {
+          "swissGerman": "Chreis",
+          "german": "Kreis",
+          "english": "circle (circle time)"
+        },
+        {
+          "swissGerman": "Garderobehägeli",
+          "german": "Garderobenhaken",
+          "english": "cubby hook"
+        }
+      ]
+    },
+    {
+      "id": "kiga-2",
+      "level": "beginner",
+      "title": "Znüni time",
+      "situation": "It's snack time at Kindergarten.",
+      "lines": [
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "Chinder, jetzt isch Znüni-Ziit! Nämed euri Dösli use.",
+          "german": "Kinder, jetzt ist Znüni-Zeit! Nehmt eure Dosen heraus.",
+          "english": "Children, it's snack time! Take out your boxes.",
+          "spanish": "¡Niños, es la hora del tentempié! Sacad vuestras cajitas."
+        },
+        {
+          "speaker": "Child 1",
+          "swissGerman": "Ich ha Rüebli und Guetzli.",
+          "german": "Ich habe Karotten und Kekse.",
+          "english": "I have carrots and cookies.",
+          "spanish": "Tengo zanahorias y galletas."
+        },
+        {
+          "speaker": "Child 2",
+          "swissGerman": "Ich ha en Öpfel und Brot mit Chäs.",
+          "german": "Ich habe einen Apfel und Brot mit Käse.",
+          "english": "I have an apple and bread with cheese.",
+          "spanish": "Tengo una manzana y pan con queso."
+        },
+        {
+          "speaker": "Lina",
+          "swissGerman": "Mami hät mir Trüübli und Chracker iipackt.",
+          "german": "Mama hat mir Trauben und Cracker eingepackt.",
+          "english": "Mommy packed me grapes and crackers.",
+          "spanish": "Mamá me puso uvas y galletas."
+        },
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "Fein! Und dänked dra — mir ässe am Tisch und nachher rüüme mir uf.",
+          "german": "Lecker! Und denkt daran — wir essen am Tisch und nachher räumen wir auf.",
+          "english": "Yummy! And remember — we eat at the table and afterwards we clean up.",
+          "spanish": "¡Qué rico! Y recuerda — comemos en la mesa y después recogemos."
+        },
+        {
+          "speaker": "Child 1",
+          "swissGerman": "Dörf ich nachher go uf d'Schaukle?",
+          "german": "Darf ich nachher auf die Schaukel gehen?",
+          "english": "Can I go on the swing afterwards?",
+          "spanish": "¿Puedo ir al columpio después?"
+        },
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "Wenn du ufgrüumt hesch, ja. Und denn chemmers zrugg.",
+          "german": "Wenn du aufgeräumt hast, ja. Und dann kommen wir zurück.",
+          "english": "When you've tidied up, yes. And then we'll come back inside.",
+          "spanish": "Cuando hayas recogido, sí. Y luego volveremos a entrar."
+        },
+        {
+          "speaker": "Child 1",
+          "swissGerman": "Ich rüum sofort uf! (räumt) Darf ich jetzt?",
+          "german": "Ich räume sofort auf! (räumt) Darf ich jetzt?",
+          "english": "I'll clean up right away! (tidies) Can I now?",
+          "spanish": "¡Recojo ahora mismo! (ordena) ¿Ya puedo?"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Dösli",
+          "german": "Dosen",
+          "explanation": "'Dösli' = 'Döschen'. Snack box with '-li' diminutive."
+        },
+        {
+          "swissGerman": "Guetzli",
+          "german": "Kekse/Plätzchen",
+          "explanation": "'Guetzli' = 'Kekse'. Very Swiss word for cookies."
+        },
+        {
+          "swissGerman": "Trüübli",
+          "german": "Trauben",
+          "explanation": "'Trüübli' = 'Träubchen/Trauben'."
+        },
+        {
+          "swissGerman": "Schaukle",
+          "german": "Schaukel",
+          "explanation": "'Schaukle' = 'Schaukel'. Verb form used as noun."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Znüni-Ziit",
+          "german": "Znüni-Zeit",
+          "english": "snack time"
+        },
+        {
+          "swissGerman": "Guetzli",
+          "german": "Kekse",
+          "english": "cookies"
+        },
+        {
+          "swissGerman": "ufrüüme",
+          "german": "aufräumen",
+          "english": "to clean up"
+        }
+      ]
+    },
+    {
+      "id": "kiga-3",
+      "level": "intermediate",
+      "title": "Basteln — Arts and crafts",
+      "situation": "The children are doing a craft project in Kindergarten.",
+      "lines": [
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "Hüt bastled mir Laternen für de Räbeliechtli-Umzug.",
+          "german": "Heute basteln wir Laternen für den Räbeliechtli-Umzug.",
+          "english": "Today we're making lanterns for the turnip lantern parade.",
+          "spanish": "Hoy hacemos farolillos para el desfile de nabos."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Was bruuche mir?",
+          "german": "Was brauchen wir?",
+          "english": "What do we need?",
+          "spanish": "¿Qué necesitamos?"
+        },
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "Schäre, Liim, bunts Papier und Glitzer. Ich verteile alles.",
+          "german": "Scheren, Leim, buntes Papier und Glitzer. Ich verteile alles.",
+          "english": "Scissors, glue, colored paper, and glitter. I'll hand everything out.",
+          "spanish": "Tijeras, pegamento, papel de colores y purpurina. Lo reparto todo."
+        },
+        {
+          "speaker": "Lina",
+          "swissGerman": "Ich will en Stärn uf mini Laterne chlebe!",
+          "german": "Ich will einen Stern auf meine Laterne kleben!",
+          "english": "I want to stick a star on my lantern!",
+          "spanish": "¡Quiero pegar una estrella en mi farolillo!"
+        },
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "Schöni Idee! Schneide zerscht de Stärn us und denn chlebsch en druf.",
+          "german": "Schöne Idee! Schneide zuerst den Stern aus und dann klebst du ihn drauf.",
+          "english": "Nice idea! First cut out the star and then stick it on.",
+          "spanish": "¡Buena idea! Primero recorta la estrella y luego pégala."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Ich bruuch Hilf, d'Schäre schniidet nöd!",
+          "german": "Ich brauche Hilfe, die Schere schneidet nicht!",
+          "english": "I need help, the scissors won't cut!",
+          "spanish": "¡Necesito ayuda, las tijeras no cortan!"
+        },
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "Komm, ich hilf dir. Du müessch de Daumen oobe halte. So!",
+          "german": "Komm, ich helfe dir. Du musst den Daumen oben halten. So!",
+          "english": "Come, I'll help you. You need to keep your thumb on top. Like this!",
+          "spanish": "Ven, te ayudo. Tienes que mantener el pulgar encima. ¡Así!"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Ah, jetzt gaat’s! De Starn isch schön grate!",
+          "german": "Ah, jetzt geht's! Der Stern ist schön geworden!",
+          "english": "Ah, now it works! The star turned out beautifully!",
+          "spanish": "¡Ah, ahora funciona! ¡La estrella quedó preciosa!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "bastled",
+          "german": "basteln",
+          "explanation": "'bastled' = 'basteln'. Swiss conjugated form."
+        },
+        {
+          "swissGerman": "Räbeliechtli",
+          "german": "Räbeliechtli",
+          "explanation": "Turnip lantern. Swiss tradition (Räben = turnips carved into lanterns)."
+        },
+        {
+          "swissGerman": "Liim",
+          "german": "Leim/Kleber",
+          "explanation": "'Liim' = 'Leim'. Vowel doubling."
+        },
+        {
+          "swissGerman": "Schäre",
+          "german": "Schere",
+          "explanation": "'Schäre' = 'Schere'. Vowel shift."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "bastled",
+          "german": "basteln",
+          "english": "to do crafts"
+        },
+        {
+          "swissGerman": "Räbeliechtli",
+          "german": "Räbeliechtli",
+          "english": "turnip lantern parade"
+        },
+        {
+          "swissGerman": "Liim",
+          "german": "Kleber",
+          "english": "glue"
+        }
+      ]
+    },
+    {
+      "id": "kiga-4",
+      "level": "beginner",
+      "title": "Playing outside",
+      "situation": "Outdoor playtime at Kindergarten.",
+      "lines": [
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "So, jetzt gönd mir use! Zieht euri Jacke und Schueh aa.",
+          "german": "So, jetzt gehen wir raus! Zieht eure Jacken und Schuhe an.",
+          "english": "Now we're going outside! Put on your jackets and shoes.",
+          "spanish": "¡Ahora salimos! Poneos las chaquetas y los zapatos."
+        },
+        {
+          "speaker": "Lina",
+          "swissGerman": "Ich chan min Reissverschluss nöd zue mache!",
+          "german": "Ich kann meinen Reißverschluss nicht zumachen!",
+          "english": "I can't close my zipper!",
+          "spanish": "¡No puedo cerrar la cremallera!"
+        },
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "Ich hilf dir. So... parat! Gang go spile!",
+          "german": "Ich helfe dir. So... fertig! Geh spielen!",
+          "english": "I'll help you. There... done! Go play!",
+          "spanish": "Te ayudo. Ahí... ¡listo! ¡Ve a jugar!"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Lina, chunnsch mit mir go rutsche?",
+          "german": "Lina, kommst du mit mir rutschen?",
+          "english": "Lina, do you want to go on the slide with me?",
+          "spanish": "Lina, ¿quieres ir al tobogán conmigo?"
+        },
+        {
+          "speaker": "Lina",
+          "swissGerman": "Ja! Und denn gönd mir id Sandchischte!",
+          "german": "Ja! Und dann gehen wir in den Sandkasten!",
+          "english": "Yes! And then we go to the sandbox!",
+          "spanish": "Sí, ¡y luego vamos al cajón de arena!"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Cool! Ich bi de König vo de Sandburg!",
+          "german": "Cool! Ich bin der König der Sandburg!",
+          "english": "Cool! I'm the king of the sandcastle!",
+          "spanish": "¡Genial! ¡Soy el rey del castillo de arena!"
+        },
+        {
+          "speaker": "Lina",
+          "swissGerman": "Und ich bi d'Königin! Mir mached e grossi Burg mit Turm!",
+          "german": "Und ich bin die Königin! Wir machen eine große Burg mit Turm!",
+          "english": "And I'm the queen! We'll make a big castle with a tower!",
+          "spanish": "¡Y yo soy la reina! ¡Haremos un gran castillo con una torre!"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Ja! Und en Wassergrabe! D'Lehrerin bringt villücht Wasser!",
+          "german": "Ja! Und einen Wassergraben! Die Lehrerin bringt vielleicht Wasser!",
+          "english": "Yes! And a moat! The teacher might bring water!",
+          "spanish": "Sí, ¡y un foso! Puede que el profesor traiga agua."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "use",
+          "german": "raus/hinaus",
+          "explanation": "'use' = 'hinaus/raus'."
+        },
+        {
+          "swissGerman": "Reissverschluss",
+          "german": "Reißverschluss",
+          "explanation": "Same word, 'ss' vs 'ß'."
+        },
+        {
+          "swissGerman": "rutsche",
+          "german": "rutschen",
+          "explanation": "'rutsche' = 'rutschen'. Dropped '-n'."
+        },
+        {
+          "swissGerman": "Sandchischte",
+          "german": "Sandkasten",
+          "explanation": "'Sandchischte' = 'Sandkasten'. K→Ch, different word."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "use",
+          "german": "raus",
+          "english": "outside"
+        },
+        {
+          "swissGerman": "rutsche",
+          "german": "rutschen",
+          "english": "to slide"
+        },
+        {
+          "swissGerman": "Sandchischte",
+          "german": "Sandkasten",
+          "english": "sandbox"
+        }
+      ]
+    },
+    {
+      "id": "kiga-5",
+      "level": "intermediate",
+      "title": "Learning to share",
+      "situation": "The teacher helps kids with sharing and taking turns.",
+      "lines": [
+        {
+          "speaker": "Child 1",
+          "swissGerman": "Das isch mis Velo! Gib's zrugg!",
+          "german": "Das ist mein Fahrrad! Gib es zurück!",
+          "english": "That's my bike! Give it back!",
+          "spanish": "¡Es mi bici! ¡Devuélvela!"
+        },
+        {
+          "speaker": "Child 2",
+          "swissGerman": "Aber ich wott au fahre!",
+          "german": "Aber ich will auch fahren!",
+          "english": "But I want to ride too!",
+          "spanish": "¡Pero yo también quiero montar!"
+        },
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "Eeey, mir tüend nöd striite! Im Chindsgi teilemmer. Jedes chind faart fünf Minute.",
+          "german": "Hey, wir streiten nicht! Im Kindergarten teilen wir. Jedes Kind fährt fünf Minuten.",
+          "english": "Hey, we don't fight! In kindergarten we share. Each child rides for five minutes.",
+          "spanish": "Oye, no peleamos. En el jardín de infancia compartimos. Cada niño monta cinco minutos."
+        },
+        {
+          "speaker": "Child 1",
+          "swissGerman": "Aber er hät mi gstupft!",
+          "german": "Aber er hat mich geschubst!",
+          "english": "But he pushed me!",
+          "spanish": "¡Pero él me empujó!"
+        },
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "Mir stipfe niemer. Mer säit 'Bitte hör uf' und wenn's nöd gaht, chunnsch zu mir.",
+          "german": "Wir schubsen niemanden. Man sagt 'Bitte hör auf' und wenn es nicht geht, kommst du zu mir.",
+          "english": "We don't push anyone. You say 'Please stop' and if it doesn't work, you come to me.",
+          "spanish": "No empujamos a nadie. Dices 'para por favor' y si no funciona, vienes a mí."
+        },
+        {
+          "speaker": "Child 2",
+          "swissGerman": "Entschuldigung. Chasch du zerscht fahre.",
+          "german": "Entschuldigung. Kannst du zuerst fahren.",
+          "english": "Sorry. You can ride first.",
+          "spanish": "Perdona. Tú primero."
+        },
+        {
+          "speaker": "Child 1",
+          "swissGerman": "Danke! Und denn bisch du dra. Ich zäl bis fünf.",
+          "german": "Danke! Und dann bist du dran. Ich zähle bis fünf.",
+          "english": "Thanks! And then it's your turn. I'll count to five.",
+          "spanish": "¡Gracias! ¡Y luego te toca a ti! Cuento hasta cinco."
+        },
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "Sehr guet! Das isch genau richtig. Ihr sind echti Fründe!",
+          "german": "Sehr gut! Das ist genau richtig. Ihr seid echte Freunde!",
+          "english": "Very good! That's exactly right. You're real friends!",
+          "spanish": "¡Muy bien! Eso es exactamente correcto. ¡Son verdaderos amigos!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Velo",
+          "german": "Fahrrad",
+          "explanation": "'Velo' = 'Fahrrad'. Swiss/French word for bike."
+        },
+        {
+          "swissGerman": "gstupft",
+          "german": "geschubst",
+          "explanation": "'gstupft' = 'geschubst'. Different Swiss verb."
+        },
+        {
+          "swissGerman": "stipfe",
+          "german": "schubsen",
+          "explanation": "'stipfe' = 'schubsen'. Swiss word."
+        },
+        {
+          "swissGerman": "teilemmer",
+          "german": "teilen wir",
+          "explanation": "'teilemmer' = 'teilen wir'. Verb+pronoun fusion."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Velo",
+          "german": "Fahrrad",
+          "english": "bicycle"
+        },
+        {
+          "swissGerman": "teile",
+          "german": "teilen",
+          "english": "to share"
+        },
+        {
+          "swissGerman": "Entschuldigung",
+          "german": "Entschuldigung",
+          "english": "sorry"
+        }
+      ]
+    }
+  ]
+}

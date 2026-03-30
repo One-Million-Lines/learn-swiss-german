@@ -1,0 +1,489 @@
+{
+  "id": "shopping-local-shops",
+  "topicId": "daily-life",
+  "title": "Shopping at Local Shops",
+  "description": "Buying at the bakery, butcher, and local shops — asking for products, quantities, prices, and paying",
+  "dialogues": [
+    {
+      "id": "shopping-local-1",
+      "level": "beginner",
+      "title": "At the bakery",
+      "situation": "You buy bread and pastries at a local bakery.",
+      "lines": [
+        {
+          "speaker": "Baker",
+          "swissGerman": "Grüezi! Was dörfs si?",
+          "german": "Guten Tag! Was darf es sein?",
+          "english": "Hello! What can I get you?",
+          "spanish": "¡Hola! ¿Qué le pongo?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Grüezi! Ich hätt gärn es Ruchbrot und zwöi Gipfeli.",
+          "german": "Guten Tag! Ich hätte gerne ein Ruchbrot und zwei Gipfeli.",
+          "english": "Hello! I'd like a dark bread and two croissants.",
+          "spanish": "¡Hola! Me gustaría un pan oscuro y dos croissants."
+        },
+        {
+          "speaker": "Baker",
+          "swissGerman": "Gärn! S'Ruchbrot ganz oder halb?",
+          "german": "Gerne! Das Ruchbrot ganz oder halb?",
+          "english": "Sure! The dark bread whole or half?",
+          "spanish": "¡Claro! ¿El pan oscuro entero o por la mitad?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Es halbs, bitte. Und händ ihr no Nussgipfeli?",
+          "german": "Ein halbes, bitte. Und haben Sie noch Nussgipfeli?",
+          "english": "A half, please. And do you still have nut croissants?",
+          "spanish": "Una mitad, por favor. ¿Y todavía tienes cruasanes de nuez?"
+        },
+        {
+          "speaker": "Baker",
+          "swissGerman": "Ja, mir händ no drei Stück. Die sind aber erst ab Mittag reduziert.",
+          "german": "Ja, wir haben noch drei Stück. Die sind aber erst ab Mittag reduziert.",
+          "english": "Yes, we have three left. But they're only reduced from noon.",
+          "spanish": "Sí, todavía nos quedan tres. Pero solo están rebajadas a partir del mediodía."
+        },
+        {
+          "speaker": "Baker",
+          "swissGerman": "Das macht fünf Nünzg zäme. Darf's no öppis sii — mir händ hüt frische Weggli!",
+          "german": "Das macht fünf neunzig zusammen. Darf es noch etwas sein — wir haben heute frische Weggli!",
+          "english": "That's five ninety together. Something else — we have fresh Weggli today!",
+          "spanish": "Son cinco noventa en total. Por cierto — ¡hoy tenemos Weggli frescos!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Denn nimm ich eins zum normale Priis. Was macht das zäme?",
+          "german": "Dann nehme ich eins zum normalen Preis. Was macht das zusammen?",
+          "english": "Then I'll take one at the regular price. How much is that altogether?",
+          "spanish": "Entonces me llevaré uno al precio normal. ¿Cuánto es en total?"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Ruchbrot",
+          "german": "Ruchbrot/Vollkornbrot",
+          "explanation": "Traditional Swiss dark bread made with partially sifted flour. Very popular."
+        },
+        {
+          "swissGerman": "Gipfeli",
+          "german": "Croissant/Hörnchen",
+          "explanation": "'Gipfeli' = Swiss word for croissant. Diminutive of 'Gipfel'."
+        },
+        {
+          "swissGerman": "Nussgipfeli",
+          "german": "Nusshörnchen",
+          "explanation": "Nut-filled croissant. Swiss bakery classic."
+        },
+        {
+          "swissGerman": "Was macht das zäme?",
+          "german": "Was macht das zusammen?",
+          "explanation": "'zäme' = 'zusammen'. How much altogether?"
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Ich hätt gärn...",
+          "german": "Ich hätte gerne...",
+          "english": "I'd like..."
+        },
+        {
+          "swissGerman": "Was macht das zäme?",
+          "german": "Was macht das zusammen?",
+          "english": "How much altogether?"
+        },
+        {
+          "swissGerman": "Gipfeli",
+          "german": "Croissant",
+          "english": "croissant"
+        }
+      ]
+    },
+    {
+      "id": "shopping-local-2",
+      "level": "intermediate",
+      "title": "At the butcher",
+      "situation": "You buy meat at a traditional Metzgerei.",
+      "lines": [
+        {
+          "speaker": "Butcher",
+          "swissGerman": "Grüezi! Was händ Sie gärn?",
+          "german": "Guten Tag! Was hätten Sie gerne?",
+          "english": "Hello! What would you like?",
+          "spanish": "¡Hola! ¿Qué desea?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich bruuch 500 Gramm Ghackts und vier Cervelat.",
+          "german": "Ich brauche 500 Gramm Hackfleisch und vier Cervelat.",
+          "english": "I need 500 grams of minced meat and four Cervelat.",
+          "spanish": "Necesito 500 gramos de carne picada y cuatro Cervelat."
+        },
+        {
+          "speaker": "Butcher",
+          "swissGerman": "Ghackts vom Rind oder gmischt?",
+          "german": "Hackfleisch vom Rind oder gemischt?",
+          "english": "Minced beef or mixed?",
+          "spanish": "¿Carne picada de ternera o mixta?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Gmischts, bitte. Und was chostet de Cervelat pro Stück?",
+          "german": "Gemischtes, bitte. Und was kostet der Cervelat pro Stück?",
+          "english": "Mixed, please. And how much is a Cervelat per piece?",
+          "spanish": "Mixta, por favor. ¿Y cuánto cuesta un Cervelat por unidad?"
+        },
+        {
+          "speaker": "Butcher",
+          "swissGerman": "Zwöi Siebzig s'Stück. Und s'Ghackts isch Nüün Achtzg pro Kilo.",
+          "german": "Zwei siebzig das Stück. Und das Hackfleisch ist neun achtzig pro Kilo.",
+          "english": "Two seventy each. And the mince is nine eighty per kilo.",
+          "spanish": "Dos setenta cada uno. Y la carne picada está a nueve ochenta el kilo."
+        },
+        {
+          "speaker": "Butcher",
+          "swissGerman": "Ja, mit Charte oder TWINT. Und wenn Sie wänd — mir händ hüt au frische Wienerli.",
+          "german": "Ja, mit Karte oder TWINT. Und wenn Sie möchten — wir haben heute auch frische Wienerli.",
+          "english": "Yes, card or TWINT. And if you'd like — we also have fresh Wienerli today.",
+          "spanish": "Sí, tarjeta o TWINT. Y si quieres — también tenemos Wienerli fresco hoy."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Guet, ich nimm alles. Chani mit Charte zahle?",
+          "german": "Gut, ich nehme alles. Kann ich mit Karte zahlen?",
+          "english": "Good, I'll take everything. Can I pay by card?",
+          "spanish": "Bien, me llevo todo. ¿Puedo pagar con tarjeta?"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Ghackts",
+          "german": "Hackfleisch",
+          "explanation": "'Ghackts' = 'Hackfleisch'. Minced meat. Very Swiss word."
+        },
+        {
+          "swissGerman": "Cervelat",
+          "german": "Cervelat",
+          "explanation": "The Swiss national sausage. Grilled, boiled, or eaten raw."
+        },
+        {
+          "swissGerman": "chostet",
+          "german": "kostet",
+          "explanation": "'chostet' = 'kostet'. K→Ch shift."
+        },
+        {
+          "swissGerman": "Charte",
+          "german": "Karte",
+          "explanation": "'Charte' = 'Karte'. Card. K→Ch."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Ghackts",
+          "german": "Hackfleisch",
+          "english": "minced meat"
+        },
+        {
+          "swissGerman": "Cervelat",
+          "german": "Cervelat",
+          "english": "Swiss national sausage"
+        },
+        {
+          "swissGerman": "Chani mit Charte zahle?",
+          "german": "Kann ich mit Karte zahlen?",
+          "english": "Can I pay by card?",
+          "spanish": "¿Puedo pagar con tarjeta?"
+        }
+      ]
+    },
+    {
+      "id": "shopping-local-3",
+      "level": "beginner",
+      "title": "Asking about quantity and price",
+      "situation": "You ask about quantities and prices at a market stall.",
+      "lines": [
+        {
+          "speaker": "Vendor",
+          "swissGerman": "Grüezi! Hüt händ mir frischi Ärdbeeri us de Region.",
+          "german": "Guten Tag! Heute haben wir frische Erdbeeren aus der Region.",
+          "english": "Hello! Today we have fresh strawberries from the region.",
+          "spanish": "¡Hola! Hoy tenemos fresas frescas de la región."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Oh schön! Was chostet es Kilo?",
+          "german": "Oh schön! Was kostet ein Kilo?",
+          "english": "Oh nice! How much per kilo?",
+          "spanish": "¡Oh, qué bien! ¿Cuánto cuesta el kilo?"
+        },
+        {
+          "speaker": "Vendor",
+          "swissGerman": "Achtzäh Franke s'Kilo. Oder es Schäleli für Sächs Franke.",
+          "german": "Achtzehn Franken das Kilo. Oder ein Schälchen für sechs Franken.",
+          "english": "Eighteen francs per kilo. Or a small bowl for six francs.",
+          "spanish": "Dieciocho francos por kilo. O un bol pequeño por seis francos."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich nimm es Schäleli. Und händ ihr au Zucchetti?",
+          "german": "Ich nehme ein Schälchen. Und haben Sie auch Zucchini?",
+          "english": "I'll take a bowl. And do you have zucchini too?",
+          "spanish": "Me llevo un bol. ¿Y tienen calabacín también?"
+        },
+        {
+          "speaker": "Vendor",
+          "swissGerman": "Ja! Zucchetti sind Vier Franke pro Kilo. Wie vill wänd Sie?",
+          "german": "Ja! Zucchini sind vier Franken pro Kilo. Wie viel möchten Sie?",
+          "english": "Yes! Zucchini are four francs per kilo. How much would you like?",
+          "spanish": "Sí, los calabacines están a cuatro francos el kilo. ¿Cuánto quieres?"
+        },
+        {
+          "speaker": "Vendor",
+          "swissGerman": "Ja, TWINT geht. Mit em QR-Code da vorne. Chömed Sie nöchschti Wuche wieder — denn händ mir Rüebli us em Eigabau.",
+          "german": "Ja, TWINT geht. Mit dem QR-Code dort vorne. Kommen Sie nächste Woche wieder — dann haben wir Rüebli aus eigenem Anbau.",
+          "english": "Yes, TWINT works. With the QR code up front. Come back next week — then we have carrots from our own farm.",
+          "spanish": "Sí, TWINT funciona. Con el código QR en la parte delantera. Vuelve la semana que viene — para entonces tendremos zanahorias de nuestra propia granja."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Zwöi Stück, bitte. Und chani mit TWINT zahle?",
+          "german": "Zwei Stück, bitte. Und kann ich mit TWINT zahlen?",
+          "english": "Two pieces, please. And can I pay with TWINT?",
+          "spanish": "Dos piezas, por favor. ¿Y puedo pagar con TWINT?"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Ärdbeeri",
+          "german": "Erdbeeren",
+          "explanation": "'Ärdbeeri' = 'Erdbeeren'. Strawberries. Swiss form."
+        },
+        {
+          "swissGerman": "Schäleli",
+          "german": "Schälchen",
+          "explanation": "'Schäleli' = 'Schälchen'. Small bowl. Swiss diminutive."
+        },
+        {
+          "swissGerman": "Zucchetti",
+          "german": "Zucchini",
+          "explanation": "'Zucchetti' = 'Zucchini'. Swiss use Italian-influenced name."
+        },
+        {
+          "swissGerman": "TWINT",
+          "german": "TWINT",
+          "explanation": "Swiss mobile payment app. Very widely used, even at markets."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Was chostet...?",
+          "german": "Was kostet...?",
+          "english": "How much is...?"
+        },
+        {
+          "swissGerman": "Wie vill?",
+          "german": "Wie viel?",
+          "english": "How much/many?"
+        },
+        {
+          "swissGerman": "TWINT",
+          "german": "TWINT",
+          "english": "Swiss mobile payment"
+        }
+      ]
+    },
+    {
+      "id": "shopping-local-4",
+      "level": "intermediate",
+      "title": "Paying at the checkout",
+      "situation": "You pay for groceries and deal with payment options.",
+      "lines": [
+        {
+          "speaker": "Cashier",
+          "swissGerman": "Das macht vierevierzg Nünzg. Händ Sie e Cumulus-Charte?",
+          "german": "Das macht vierundvierzig neunzig. Haben Sie eine Cumulus-Karte?",
+          "english": "That's forty-four ninety. Do you have a Cumulus card?",
+          "spanish": "Son cuarenta y cuatro noventa. ¿Tiene tarjeta Cumulus?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, äbe — ich ha sie vergässe. Chani d'Nummere igeh?",
+          "german": "Ja, eben — ich habe sie vergessen. Kann ich die Nummer eingeben?",
+          "english": "Yes, actually — I forgot it. Can I enter the number?",
+          "spanish": "Sí, en realidad — lo olvidé. ¿Puedo introducir el número?"
+        },
+        {
+          "speaker": "Cashier",
+          "swissGerman": "Ja, am Terminal unne. Wie wänd Sie zahle?",
+          "german": "Ja, am Terminal unten. Wie möchten Sie zahlen?",
+          "english": "Yes, at the terminal below. How would you like to pay?",
+          "spanish": "Sí, en el terminal de abajo. ¿Cómo quiere pagar?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Mit Charte kontaktlos, bitte.",
+          "german": "Mit Karte kontaktlos, bitte.",
+          "english": "Contactless by card, please.",
+          "spanish": "Sin contacto con tarjeta, por favor."
+        },
+        {
+          "speaker": "Cashier",
+          "swissGerman": "Bitte halted d'Charte ans Grät. ... Isch duregange. Wänd Sie de Bon?",
+          "german": "Bitte halten Sie die Karte ans Gerät. ... Ist durchgegangen. Möchten Sie den Bon?",
+          "english": "Please hold the card to the device. ... It went through. Would you like the receipt?",
+          "spanish": "Por favor, acerque la tarjeta al dispositivo. ... Ha pasado. ¿Quiere el recibo?"
+        },
+        {
+          "speaker": "Cashier",
+          "swissGerman": "Klar, de Sack chostet zwänzg Räppe. Und vergässe Sie nöd — Migros händ mol d'Wuche 10% uf Joghurt.",
+          "german": "Klar, der Sack kostet zwanzig Rappen. Und vergessen Sie nicht — Migros hat diese Woche 10% auf Joghurt.",
+          "english": "Sure, the bag costs twenty centimes. And don't forget — Migros has 10% off yogurt this week.",
+          "spanish": "Claro, la bolsa cuesta veinte céntimos. Y no olvides — Migros tiene un 10% de descuento en yogures esta semana."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Nei, danke. Aber chönd Sie mir e Tragtasche geh? Ich ha kei eigini debii.",
+          "german": "Nein, danke. Aber können Sie mir eine Tragtasche geben? Ich habe keine eigene dabei.",
+          "english": "No, thanks. But can you give me a bag? I don't have one with me.",
+          "spanish": "No, gracias. Pero, ¿me puede dar una bolsa? No tengo ninguna conmigo."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Cumulus-Charte",
+          "german": "Cumulus-Karte",
+          "explanation": "Migros loyalty card. Very common in Switzerland."
+        },
+        {
+          "swissGerman": "Bon",
+          "german": "Bon/Quittung",
+          "explanation": "'Bon' = receipt. From French."
+        },
+        {
+          "swissGerman": "Tragtasche",
+          "german": "Tragtasche/Tüte",
+          "explanation": "'Tragtasche' = shopping bag. Swiss use this word (not 'Tüte')."
+        },
+        {
+          "swissGerman": "duregange",
+          "german": "durchgegangen",
+          "explanation": "'duregange' = 'durchgegangen'. Went through (payment accepted)."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Cumulus-Charte",
+          "german": "Cumulus-Karte",
+          "english": "Migros loyalty card"
+        },
+        {
+          "swissGerman": "kontaktlos",
+          "german": "kontaktlos",
+          "english": "contactless"
+        },
+        {
+          "swissGerman": "Tragtasche",
+          "german": "Tragtasche",
+          "english": "shopping bag"
+        }
+      ]
+    },
+    {
+      "id": "shopping-local-5",
+      "level": "beginner",
+      "title": "At the cheese counter",
+      "situation": "You buy cheese at a Käsetheke in a shop.",
+      "lines": [
+        {
+          "speaker": "Employee",
+          "swissGerman": "Grüezi! Wänd Sie Chäs?",
+          "german": "Guten Tag! Möchten Sie Käse?",
+          "english": "Hello! Would you like cheese?",
+          "spanish": "¡Hola! ¿Quiere queso?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, ich hätt gärn en Gruyère und en Appezäller.",
+          "german": "Ja, ich hätte gerne einen Gruyère und einen Appenzeller.",
+          "english": "Yes, I'd like a Gruyère and an Appenzeller.",
+          "spanish": "Sí, me gustaría un Gruyère y un Appenzeller."
+        },
+        {
+          "speaker": "Employee",
+          "swissGerman": "Wie vill dörf's si? 200 Gramm?",
+          "german": "Wie viel darf es sein? 200 Gramm?",
+          "english": "How much? 200 grams?",
+          "spanish": "¿Cuánto? ¿200 gramos?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Vom Gruyère 300 und vom Appezäller 200. Isch de Appezäller mild oder rezänt?",
+          "german": "Vom Gruyère 300 und vom Appenzeller 200. Ist der Appenzeller mild oder rezent?",
+          "english": "300 of the Gruyère and 200 of the Appenzeller. Is the Appenzeller mild or strong?",
+          "spanish": "300 de Gruyère y 200 de Appenzeller. ¿El Appenzeller es suave o fuerte?"
+        },
+        {
+          "speaker": "Employee",
+          "swissGerman": "De do isch rezänt — scho achti Mönet greift. Wänd Sie probiere?",
+          "german": "Der hier ist rezent — schon acht Monate gereift. Möchten Sie probieren?",
+          "english": "This one is strong — already aged eight months. Would you like to try?",
+          "spanish": "Este es fuerte — ya tiene ocho meses de maduración. ¿Le gustaría probarlo?"
+        },
+        {
+          "speaker": "Employee",
+          "swissGerman": "Super! Und zum Gruyère empehl ich Ihne en Hobelchäs — de isch perfekt zu Röschti.",
+          "german": "Super! Und zum Gruyère empfehle ich Ihnen einen Hobelkäse — der ist perfekt zu Rösti.",
+          "english": "Great! And with the Gruyère I recommend a Hobelkäse — it's perfect with Rösti.",
+          "spanish": "¡Genial! Y con el Gruyère te recomiendo un Hobelkäse — es perfecto con Rösti."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, gärn! ... Mmh, fein! De nimm ich. Passt!",
+          "german": "Ja, gerne! ... Mmh, lecker! Den nehme ich. Passt!",
+          "english": "Yes, please! ... Mmh, delicious! I'll take that one. Perfect!",
+          "spanish": "Sí, ¡por favor! ... ¡Mmh, delicioso! Me llevo ese. ¡Perfecto!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Chäs",
+          "german": "Käse",
+          "explanation": "'Chäs' = 'Käse'. Cheese. Classic K→Ch."
+        },
+        {
+          "swissGerman": "rezänt",
+          "german": "rezent/kräftig",
+          "explanation": "'rezänt' = strong/mature in taste. Swiss cheese term."
+        },
+        {
+          "swissGerman": "greift",
+          "german": "gereift",
+          "explanation": "'greift' = 'gereift'. Aged (cheese). Swiss form."
+        },
+        {
+          "swissGerman": "fein",
+          "german": "lecker/fein",
+          "explanation": "'fein' = delicious. Swiss word for tasty."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Chäs",
+          "german": "Käse",
+          "english": "cheese"
+        },
+        {
+          "swissGerman": "rezänt",
+          "german": "kräftig/rezent",
+          "english": "strong (cheese)"
+        },
+        {
+          "swissGerman": "Wänd Sie probiere?",
+          "german": "Möchten Sie probieren?",
+          "english": "Would you like to try?"
+        }
+      ]
+    }
+  ]
+}

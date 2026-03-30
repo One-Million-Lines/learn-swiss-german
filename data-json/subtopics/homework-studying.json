@@ -1,0 +1,518 @@
+{
+  "id": "homework-studying",
+  "topicId": "family-school",
+  "title": "Homework & Studying",
+  "description": "Doing homework at home, studying for exams, and getting help",
+  "dialogues": [
+    {
+      "id": "homework-1",
+      "level": "beginner",
+      "title": "Struggling with maths",
+      "situation": "Your child asks for help with a maths problem.",
+      "lines": [
+        {
+          "speaker": "Child",
+          "swissGerman": "Papi, ich verstah das Rächne nöd. Chasch du mir hälfe?",
+          "german": "Papa, ich verstehe die Mathe nicht. Kannst du mir helfen?",
+          "english": "Dad, I don't understand the maths. Can you help me?",
+          "spanish": "Papá, no entiendo las matemáticas. ¿Puedes ayudarme?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Klar! Zeig mol. Was müesch du rächne?",
+          "german": "Klar! Zeig mal. Was musst du rechnen?",
+          "english": "Sure! Show me. What do you need to calculate?",
+          "spanish": "¡Claro! Muéstrame. ¿Qué necesitas calcular?"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "347 plus 286. Ich weiss nöd wie das mit em Übertrag gaht.",
+          "german": "347 plus 286. Ich weiß nicht wie das mit dem Übertrag geht.",
+          "english": "347 plus 286. I don't know how the carrying works.",
+          "spanish": "347 más 286. No sé cómo funciona el llevar."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Okay, fang bi de Einer aa. 7 plus 6 git?",
+          "german": "Okay, fang bei den Einern an. 7 plus 6 ergibt?",
+          "english": "Okay, start with the ones. 7 plus 6 equals?",
+          "spanish": "Bien, empieza por las unidades. ¿7 más 6 es igual a?"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Drüzäh! Aaah, also schriib ich de Drüer ane und de Eiser übertrag ich!",
+          "german": "Dreizehn! Aaah, also schreibe ich die Drei hin und die Eins übertrage ich!",
+          "english": "Thirteen! Aaah, so I write down the three and carry the one!",
+          "spanish": "¡Trece! Aaah, entonces escribo el tres y me llevo uno."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Genau! Gsesch, du chasch das!",
+          "german": "Genau! Siehst du, du kannst das!",
+          "english": "Exactly! See, you can do it!",
+          "spanish": "¡Exacto! ¿Ves? ¡Puedes hacerlo!"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Jetzt verstah ich's! Machemer no die nächscht Ufgab zäme?",
+          "german": "Jetzt verstehe ich's! Machen wir noch die nächste Aufgabe zusammen?",
+          "english": "Now I understand it! Can we do the next problem together too?",
+          "spanish": "¡Ahora lo entiendo! ¿Podemos hacer el siguiente problema juntos también?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Klar! Aber die machsch du zerscht allei, und ich schau zue — probier's mol!",
+          "german": "Klar! Aber die machst du zuerst alleine, und ich schaue zu — probier es mal!",
+          "english": "Sure! But you try this one alone first, and I'll watch — give it a go!",
+          "spanish": "¡Claro! Pero este lo intentas tú solo primero, y yo miro — ¡inténtalo!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Rächne",
+          "german": "Rechnen/Mathe",
+          "explanation": "'Rächne' = 'Rechnen'. Swiss word for maths."
+        },
+        {
+          "swissGerman": "Übertrag",
+          "german": "Übertrag",
+          "explanation": "Same word: carrying in addition."
+        },
+        {
+          "swissGerman": "Einer",
+          "german": "Einer",
+          "explanation": "Same word: ones place."
+        },
+        {
+          "swissGerman": "Drüzäh",
+          "german": "Dreizehn",
+          "explanation": "'Drüzäh' = 'Dreizehn'. Swiss pronunciation."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Übertrag",
+          "german": "Übertrag",
+          "english": "carrying (maths)"
+        },
+        {
+          "swissGerman": "rächne",
+          "german": "rechnen",
+          "english": "to calculate"
+        },
+        {
+          "swissGerman": "Einer",
+          "german": "Einer",
+          "english": "ones place"
+        }
+      ]
+    },
+    {
+      "id": "homework-2",
+      "level": "intermediate",
+      "title": "Studying for a test",
+      "situation": "Your child needs to study for a vocabulary test.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Lina, wänn isch d'Franzprüefig?",
+          "german": "Lina, wann ist die Französischprüfung?",
+          "english": "Lina, when is the French test?",
+          "spanish": "Lina, ¿cuándo es el examen de francés?"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Übermorn! Ich ha no nöd glehrt. Ich weiss nöd wo aafange.",
+          "german": "Übermorgen! Ich habe noch nicht gelernt. Ich weiß nicht wo anfangen.",
+          "english": "Day after tomorrow! I haven't studied yet. I don't know where to start.",
+          "spanish": "¡Pasado mañana! Todavía no he estudiado. No sé por dónde empezar."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Okay, kei Panik. Mir mached Chärtli. Ich säg s'düütsche Wort und du säisch s'französische.",
+          "german": "Okay, keine Panik. Wir machen Kärtchen. Ich sage das deutsche Wort und du sagst das französische.",
+          "english": "Okay, don't panic. We'll make flashcards. I say the German word and you say the French one.",
+          "spanish": "Bien, sin pánico. Hacemos fichas. Yo digo la palabra en alemán y tú dices la de francés."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Guet. Und die wo ich nöd weiss, legg ich uf de Fählerstapel.",
+          "german": "Gut. Und die die ich nicht weiß, lege ich auf den Fehlerstapel.",
+          "english": "Good. And the ones I don't know, I put on the mistake pile.",
+          "spanish": "Bien. Y las que no conozco, las pongo en el montón de errores."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Genau! Und morn am Morge repetiere mir nomal.",
+          "german": "Genau! Und morgen früh wiederholen wir nochmal.",
+          "english": "Exactly! And tomorrow morning we review again.",
+          "spanish": "¡Exacto! Y mañana por la mañana repasamos de nuevo."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Okay. Nachher tuesch du mich abfrage, gäll?",
+          "german": "Okay. Nachher fragst du mich ab, ja?",
+          "english": "Okay. Then you quiz me, right?",
+          "spanish": "Bien. ¿Entonces me preguntas tú, verdad?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja! Und wenn du alle Wörter kennsch, därf ich de Fernsee aa.",
+          "german": "Ja! Und wenn du alle Wörter kannst, darf ich den Fernseher an.",
+          "english": "Yes! And when you know all the words, I'll turn on the TV.",
+          "spanish": "Sí, ¡y cuando sepas todas las palabras, encenderé la televisión!"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Versprooche? Dann fange ich sofort aa! Ich will de Lärnäxpress schaffe!",
+          "german": "Versprochen? Dann fange ich sofort an! Ich will beim Lernexpress mitmachen!",
+          "english": "Promised? Then I'll start right away! I want to get the Learnexpress going!",
+          "spanish": "¿Prometido? ¡Entonces empiezo ahora mismo! ¡Quiero poner en marcha el Learnexpress!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Franzprüefig",
+          "german": "Französischprüfung",
+          "explanation": "'Franzprüefig' = shortened Swiss form for French test."
+        },
+        {
+          "swissGerman": "glehrt",
+          "german": "gelernt",
+          "explanation": "'glehrt' = 'gelernt'. Swiss past participle."
+        },
+        {
+          "swissGerman": "Chärtli",
+          "german": "Kärtchen",
+          "explanation": "'Chärtli' = 'Kärtchen'. K→Ch, '-chen' → '-li'."
+        },
+        {
+          "swissGerman": "repetiere",
+          "german": "wiederholen",
+          "explanation": "'repetiere' = 'wiederholen'. Latin-based word, common in Swiss German."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Chärtli",
+          "german": "Kärtchen",
+          "english": "flashcards"
+        },
+        {
+          "swissGerman": "repetiere",
+          "german": "wiederholen",
+          "english": "to review/repeat"
+        },
+        {
+          "swissGerman": "abfrage",
+          "german": "abfragen",
+          "english": "to quiz"
+        }
+      ]
+    },
+    {
+      "id": "homework-3",
+      "level": "beginner",
+      "title": "Not wanting to do homework",
+      "situation": "Your child resists doing their homework.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Lina, hüt hesch du no Ufzgi. Fang jetzt bitte aa.",
+          "german": "Lina, heute hast du noch Aufgaben. Fang jetzt bitte an.",
+          "english": "Lina, you still have homework today. Please start now.",
+          "spanish": "Lina, todavía tienes deberes hoy. Por favor empieza ya."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Nei, ich mag nöd! Ich wott go spile!",
+          "german": "Nein, ich mag nicht! Ich will spielen gehen!",
+          "english": "No, I don't want to! I want to go play!",
+          "spanish": "No, ¡no quiero! ¡Quiero ir a jugar!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Zerscht d'Ufzgi, denn gahsch go spile. Das isch d'Abmachig.",
+          "german": "Zuerst die Aufgaben, dann gehst du spielen. Das ist die Abmachung.",
+          "english": "First homework, then you go play. That's the agreement.",
+          "spanish": "Primero las tareas, luego a jugar. Ese es el acuerdo."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Aber s'isch so langwiilig!",
+          "german": "Aber es ist so langweilig!",
+          "english": "But it's so boring!",
+          "spanish": "¡Pero es tan aburrido!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Je schnäller du aafängsch, desto schnäller bisch du fertig.",
+          "german": "Je schneller du anfängst, desto schneller bist du fertig.",
+          "english": "The sooner you start, the sooner you're done.",
+          "spanish": "Cuanto antes empieces, antes acabarás."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Ugh, okay... Aber nachher gaht d'Emma mit mir id Badi, gäll?",
+          "german": "Ugh, okay... Aber nachher geht Emma mit mir ins Schwimmbad, ja?",
+          "english": "Ugh, okay... But afterwards Emma goes to the pool with me, right?",
+          "spanish": "Ugh, está bien... Pero después Emma va a la piscina conmigo, ¿verdad?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, wenn d'Ufzgi bis Vieri fertig sind. Dann häsch no z'Ziit.",
+          "german": "Ja, wenn die Aufgaben bis vier Uhr fertig sind. Dann hast du noch Zeit.",
+          "english": "Yes, if the homework is done by four o'clock. Then you still have time.",
+          "spanish": "Sí, si los deberes están listos antes de las cuatro. Entonces todavía tienes tiempo."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "(setzt sich hin) Okay, ich fange aa. Aber ich bruuch Stift und Radiergummi!",
+          "german": "(setzt sich hin) Okay, ich fange an. Aber ich brauche Stift und Radiergummi!",
+          "english": "(sits down) Okay, I'm starting. But I need a pen and eraser!",
+          "spanish": "(se sienta) Bien, empiezo. ¡Pero necesito un bolígrafo y una goma!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "mag nöd",
+          "german": "mag nicht/will nicht",
+          "explanation": "'mag nöd' = 'will nicht'. Swiss way of refusing."
+        },
+        {
+          "swissGerman": "Abmachig",
+          "german": "Abmachung",
+          "explanation": "'Abmachig' = 'Abmachung'. '-ung' → '-ig'."
+        },
+        {
+          "swissGerman": "langwiilig",
+          "german": "langweilig",
+          "explanation": "'langwiilig' = 'langweilig'. Vowel shift."
+        },
+        {
+          "swissGerman": "Badi",
+          "german": "Schwimmbad",
+          "explanation": "'Badi' = 'Schwimmbad'. Very Swiss word for pool."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "mag nöd",
+          "german": "will nicht",
+          "english": "don't want to"
+        },
+        {
+          "swissGerman": "Abmachig",
+          "german": "Abmachung",
+          "english": "agreement"
+        },
+        {
+          "swissGerman": "Badi",
+          "german": "Schwimmbad",
+          "english": "swimming pool"
+        }
+      ]
+    },
+    {
+      "id": "homework-4",
+      "level": "intermediate",
+      "title": "Asking for a tutor",
+      "situation": "You discuss getting a tutor (Nachhilfe) for your child.",
+      "lines": [
+        {
+          "speaker": "Partner",
+          "swissGerman": "D'Lina hät e Drüer im Rächne gha. Sölle mir Nachhilf organisiere?",
+          "german": "Lina hatte eine Drei in Mathe. Sollten wir Nachhilfe organisieren?",
+          "english": "Lina got a three in maths. Should we organize tutoring?",
+          "spanish": "Lina sacó un tres en matemáticas. ¿Deberíamos buscar clases particulares?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, ich glaub das wär guet. Weisch du öpper?",
+          "german": "Ja, ich glaube das wäre gut. Weißt du jemanden?",
+          "english": "Yes, I think that would be good. Do you know someone?",
+          "spanish": "Sí, creo que sería bueno. ¿Conoces a alguien?"
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "D'Nachberi hät en Studentin empfohle. 40 Franke pro Stund.",
+          "german": "Die Nachbarin hat eine Studentin empfohlen. 40 Franken pro Stunde.",
+          "english": "The neighbor recommended a student. 40 francs per hour.",
+          "spanish": "El vecino recomendó a un estudiante. 40 francos por hora."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Das gaht. Einmal pro Wuche? Oder zwöi Mal?",
+          "german": "Das geht. Einmal pro Woche? Oder zwei Mal?",
+          "english": "That works. Once a week? Or twice?",
+          "spanish": "Funciona. ¿Una vez a la semana? ¿O dos?"
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "Am Afang einmal, und wenns nöd besser wird, zwöi Mal.",
+          "german": "Am Anfang einmal, und wenn es nicht besser wird, zwei Mal.",
+          "english": "Once at first, and if it doesn't improve, twice.",
+          "spanish": "Una vez al principio, y si no mejora, dos veces."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Guet, ich rüef die Studentin mol aa.",
+          "german": "Gut, ich rufe die Studentin mal an.",
+          "english": "Good, I'll call the student.",
+          "spanish": "Bien, llamaré al alumno/a."
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "Und ich säg de Lina nox — Nachhilf isch nöd en Strof.",
+          "german": "Und ich sage Lina noch — Nachhilfe ist keine Strafe.",
+          "english": "And I'll tell Lina — tutoring isn't a punishment.",
+          "spanish": "Y le diré a Lina — las clases particulares no son un castigo."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Genau. S'isch nüme Öppis wo jede mol hilft. D'Haubtäsch isch, si verliert d'Freud am Lärne ned.",
+          "german": "Genau. Es ist etwas das jedem manchmal hilft. Das Wichtigste ist, sie verliert die Freude am Lernen nicht.",
+          "english": "Exactly. It's something that helps everyone sometimes. The main thing is she doesn't lose the joy of learning.",
+          "spanish": "Exacto. Es algo que ayuda a todos a veces. Lo principal es que no pierda la alegría de aprender."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Drüer",
+          "german": "Drei",
+          "explanation": "Swiss grading: 6 = best, 1 = worst. A 'Drüer' (3) is below passing."
+        },
+        {
+          "swissGerman": "Nachhilf",
+          "german": "Nachhilfe",
+          "explanation": "'Nachhilf' = 'Nachhilfe'. Dropped '-e'."
+        },
+        {
+          "swissGerman": "öpper",
+          "german": "jemanden",
+          "explanation": "'öpper' = 'jemand'. Very Swiss word."
+        },
+        {
+          "swissGerman": "Nachberi",
+          "german": "Nachbarin",
+          "explanation": "'Nachberi' = 'Nachbarin'. Swiss form."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Nachhilf",
+          "german": "Nachhilfe",
+          "english": "tutoring"
+        },
+        {
+          "swissGerman": "öpper",
+          "german": "jemand",
+          "english": "someone"
+        },
+        {
+          "swissGerman": "Drüer",
+          "german": "Drei",
+          "english": "grade 3 (below passing)"
+        }
+      ]
+    },
+    {
+      "id": "homework-5",
+      "level": "beginner",
+      "title": "Reading time before bed",
+      "situation": "Your child reads their school book aloud before bed.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "So, vor em Schlafe gah liesisch no dis Buech.",
+          "german": "So, vor dem Schlafengehen liest du noch dein Buch.",
+          "english": "Alright, before going to sleep you read your book.",
+          "spanish": "Bueno, antes de dormir lees tu libro."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Muess ich lut läse?",
+          "german": "Muss ich laut lesen?",
+          "english": "Do I have to read aloud?",
+          "spanish": "¿Tengo que leer en voz alta?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, d'Lehrerin hät gsäit du sölsch 15 Minute lut läse.",
+          "german": "Ja, die Lehrerin hat gesagt du sollst 15 Minuten laut lesen.",
+          "english": "Yes, the teacher said you should read aloud for 15 minutes.",
+          "spanish": "Sí, la maestra dijo que debes leer en voz alta durante 15 minutos."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "'De chli Fuchs... ging... in den... Wald...' Isch das richtig?",
+          "german": "'Der kleine Fuchs... ging... in den... Wald...' Ist das richtig?",
+          "english": "'The little fox... went... into the... forest...' Is that right?",
+          "spanish": "'El pequeño zorro... fue... al... bosque...' ¿Está bien así?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, mega guet! Und jetzt probier chli schnäller z'läse.",
+          "german": "Ja, mega gut! Und jetzt versuch ein bisschen schneller zu lesen.",
+          "english": "Yes, great! And now try to read a bit faster.",
+          "spanish": "Sí, ¡bien! Y ahora trata de leer un poco más rápido."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Okay! 'Er fand einen... B-B-Bären...' Das isch es schwiers Wort!",
+          "german": "Okay! 'Er fand einen... B-B-Bären...' Das ist ein schwieriges Wort!",
+          "english": "Okay! 'He found a... b-b-bear...' That's a hard word!",
+          "spanish": "¡Bien! '¡Encontró un... o-o-oso...' ¡Esa es una palabra difícil!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Super! Du hesch es gschafft! Säg's nomal — Bär. Jetzt isch es liicht!",
+          "german": "Super! Du hast es geschafft! Sag es nochmal — Bär. Jetzt ist es leicht!",
+          "english": "Super! You got it! Say it again — 'Bär'. Now it's easy!",
+          "spanish": "¡Súper! ¡Lo pillaste! Dilo otra vez — 'Bär'. ¡Ahora es fácil!"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Bär! Ich cha's! Isch das Buech lang no?",
+          "german": "Bär! Ich kann's! Ist das Buch noch lang?",
+          "english": "Bär! I can do it! Is the book much longer?",
+          "spanish": "¡Oso! ¡Puedo hacerlo! ¿Es mucho más largo el libro?"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "lut",
+          "german": "laut",
+          "explanation": "'lut' = 'laut'. Vowel simplification."
+        },
+        {
+          "swissGerman": "läse",
+          "german": "lesen",
+          "explanation": "'läse' = 'lesen'. Vowel shift."
+        },
+        {
+          "swissGerman": "schwiers",
+          "german": "schwieriges",
+          "explanation": "'schwiers' = 'schwieriges'. Shortened."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "lut läse",
+          "german": "laut lesen",
+          "english": "to read aloud"
+        },
+        {
+          "swissGerman": "Buech",
+          "german": "Buch",
+          "english": "book"
+        },
+        {
+          "swissGerman": "schwiers Wort",
+          "german": "schwieriges Wort",
+          "english": "difficult word"
+        }
+      ]
+    }
+  ]
+}

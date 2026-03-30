@@ -1,0 +1,523 @@
+{
+  "id": "reacting-naturally",
+  "topicId": "social",
+  "title": "Reacting Naturally",
+  "description": "Agreeing, disagreeing, showing surprise, and acknowledging — natural social reactions",
+  "dialogues": [
+    {
+      "id": "reacting-1",
+      "level": "beginner",
+      "title": "Agreeing and acknowledging",
+      "situation": "You agree with people during a casual conversation.",
+      "lines": [
+        {
+          "speaker": "Person",
+          "swissGerman": "D'Miete i Züri sind eifach verruckt.",
+          "german": "Die Mieten in Zürich sind einfach verrückt.",
+          "english": "The rents in Zurich are just crazy.",
+          "spanish": "Los alquileres en Zúrich son simplemente una locura."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, voll! Total iiverstandene. Mir zahled au vill z'vill.",
+          "german": "Ja, voll! Total einverstanden. Wir zahlen auch viel zu viel.",
+          "english": "Yes, totally! Completely agree. We pay way too much too.",
+          "spanish": "Sí, ¡totalmente! Completamente de acuerdo. Nosotros también pagamos demasiado."
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Und d'Wohnigssuech isch es Trauma.",
+          "german": "Und die Wohnungssuche ist ein Trauma.",
+          "english": "And the apartment search is a trauma.",
+          "spanish": "Y la búsqueda de apartamento es un trauma."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Genau! Mir händ drei Mönet gsuecht. S'isch de Horror.",
+          "german": "Genau! Wir haben drei Monate gesucht. Es ist der Horror.",
+          "english": "Exactly! We searched for three months. It's a horror.",
+          "spanish": "¡Exacto! Buscamos durante tres meses. Es una pesadilla."
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Und denn muesch du no en Bewerbig schriibe wie für en Job!",
+          "german": "Und dann musst du noch eine Bewerbung schreiben wie für einen Job!",
+          "english": "And then you have to write an application like for a job!",
+          "spanish": "¡Y luego tienes que escribir una solicitud como para un trabajo!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ebe! Total absurd. Aber so isch es halt i de Schwiiz.",
+          "german": "Eben! Total absurd. Aber so ist es halt in der Schweiz.",
+          "english": "Exactly! Totally absurd. But that's just how it is in Switzerland.",
+          "spanish": "¡Exacto! Totalmente absurdo. ¡Pero así es en Suiza!"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Und d'Lage muesch noch erkläre: We der Wohnigsspiegel gut isch, git's drü Bewerbig pro Wohnig!",
+          "german": "Und die Lage muss man noch erklären: Wenn der Wohnungsspiegel gut ist, gibt es drei Bewerbungen pro Wohnung!",
+          "english": "And you have to explain the location: When the housing market is tight, there are three applications per apartment!",
+          "spanish": "¡Y tienes que explicar la ubicación: cuando el mercado de la vivienda está tenso, hay tres solicitudes por apartamento!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Genau. Mrüü das eifach accäptiire — und suuberi Bewerbigsmappedu mache!",
+          "german": "Genau. Man muss das einfach akzeptieren — und eine ordentliche Bewerbungsmappe machen!",
+          "english": "Exactly. You just have to accept it — and make a proper application folder!",
+          "spanish": "Exacto. Solo tienes que aceptarlo — ¡y hacer una carpeta de solicitud bien hecha!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "voll",
+          "german": "voll/total",
+          "explanation": "'voll' = intensifier. Very common in casual Swiss German."
+        },
+        {
+          "swissGerman": "iiverstandene",
+          "german": "einverstanden",
+          "explanation": "'iiverstandene' = 'einverstanden'. Agreed."
+        },
+        {
+          "swissGerman": "Ebe!",
+          "german": "Eben!",
+          "explanation": "'Ebe!' = 'Eben!' Swiss particle expressing strong agreement. Very common."
+        },
+        {
+          "swissGerman": "halt",
+          "german": "halt/eben",
+          "explanation": "'halt' = particle meaning 'just/that's how it is'. Very Swiss."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Ebe!",
+          "german": "Eben!",
+          "english": "Exactly!/That's right!"
+        },
+        {
+          "swissGerman": "Genau!",
+          "german": "Genau!",
+          "english": "Exactly!"
+        },
+        {
+          "swissGerman": "halt",
+          "german": "halt/eben",
+          "english": "just (accepting particle)"
+        }
+      ]
+    },
+    {
+      "id": "reacting-2",
+      "level": "intermediate",
+      "title": "Disagreeing politely",
+      "situation": "You politely disagree with someone's opinion at a dinner.",
+      "lines": [
+        {
+          "speaker": "Person",
+          "swissGerman": "Ich find, Züri isch langwiilig. Nüüt los nach Nüüne.",
+          "german": "Ich finde, Zürich ist langweilig. Nichts los nach neun.",
+          "english": "I think Zurich is boring. Nothing happening after nine.",
+          "spanish": "Creo que Zúrich es aburrida. No pasa nada después de las nueve."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Hmm, ich weiss nöd... Ich find s'eher gmüetlich als langwiilig.",
+          "german": "Hmm, ich weiß nicht... Ich finde es eher gemütlich als langweilig.",
+          "english": "Hmm, I'm not sure... I find it more cozy than boring.",
+          "spanish": "Hmm, no estoy seguro... Lo encuentro más acogedor que aburrido."
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Aber verglich das mol mit Berlin! Oder Barcelona!",
+          "german": "Aber vergleich das mal mit Berlin! Oder Barcelona!",
+          "english": "But compare it with Berlin! Or Barcelona!",
+          "spanish": "¡Pero compáralo con Berlín! ¡O con Barcelona!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, klar, das isch anders. Aber Züri hät au sini Qualitäte — d'Natur, de See...",
+          "german": "Ja, klar, das ist anders. Aber Zürich hat auch seine Qualitäten — die Natur, der See...",
+          "english": "Yes, sure, that's different. But Zurich has its qualities too — nature, the lake...",
+          "spanish": "Sí, claro, eso es diferente. Pero Zúrich también tiene sus cualidades — la naturaleza, el lago..."
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Do häsch du scho rächt. De See isch mega.",
+          "german": "Da hast du schon recht. Der See ist mega.",
+          "english": "You have a point there. The lake is awesome.",
+          "spanish": "Tienes razón en eso. El lago es increíble."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Gsesch! Es isch halt en anderi Art vo Lebensqualität.",
+          "german": "Siehst du! Es ist halt eine andere Art von Lebensqualität.",
+          "english": "See! It's just a different kind of quality of life.",
+          "spanish": "¡Mira! Es simplemente un tipo diferente de calidad de vida."
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Stimmt, stimmt. Und d'Berge si natürlich unscäggbar.",
+          "german": "Stimmt, stimmt. Und die Berge sind natürlich unschlagbar.",
+          "english": "True, true. And the mountains are of course unbeatable.",
+          "spanish": "Es verdad, es verdad. Y las montañas son por supuesto insuperables."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Sisch! De See im Summer und d'Berge im Winter — mišt niemert do weg.",
+          "german": "Eben! Der See im Sommer und die Berge im Winter — möchte niemand weg.",
+          "english": "Exactly! The lake in summer and the mountains in winter — nobody wants to leave.",
+          "spanish": "¡Exacto! El lago en verano y las montañas en invierno — ¡nadie quiere irse!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "ich weiss nöd",
+          "german": "ich weiß nicht",
+          "explanation": "'ich weiss nöd' — polite disagreement opener."
+        },
+        {
+          "swissGerman": "verglich",
+          "german": "vergleich",
+          "explanation": "'verglich' = 'vergleich'. Swiss imperative."
+        },
+        {
+          "swissGerman": "sini Qualitäte",
+          "german": "seine Qualitäten",
+          "explanation": "'sini' = 'seine'. Swiss possessive."
+        },
+        {
+          "swissGerman": "Do häsch du rächt",
+          "german": "Da hast du recht",
+          "explanation": "Acknowledging someone's point."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Ich weiss nöd...",
+          "german": "Ich weiß nicht...",
+          "english": "I don't know... (polite disagreement)"
+        },
+        {
+          "swissGerman": "Do häsch du rächt",
+          "german": "Da hast du recht",
+          "english": "You have a point there"
+        },
+        {
+          "swissGerman": "Ich find s'eher...",
+          "german": "Ich finde es eher...",
+          "english": "I find it more like..."
+        }
+      ]
+    },
+    {
+      "id": "reacting-3",
+      "level": "beginner",
+      "title": "Showing surprise",
+      "situation": "Someone tells you surprising news.",
+      "lines": [
+        {
+          "speaker": "Person",
+          "swissGerman": "Ich ha letscht Wuche en Zwilling übercho!",
+          "german": "Ich habe letzte Woche Zwillinge bekommen!",
+          "english": "I had twins last week!",
+          "spanish": "¡Tuve gemelos la semana pasada!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Was?! Isch nöd wohr! Zwilling?! Herzliche Glückwunsch!",
+          "german": "Was?! Ist nicht wahr! Zwillinge?! Herzlichen Glückwunsch!",
+          "english": "What?! No way! Twins?! Congratulations!",
+          "spanish": "¡¿Qué?! ¡No me lo puedo creer! ¡¿Gemelos?! ¡Enhorabuena!"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Doch, zwöi Meitli! Mir sind mega happy.",
+          "german": "Doch, zwei Mädchen! Wir sind mega glücklich.",
+          "english": "Yes, two girls! We're super happy.",
+          "spanish": "Sí, ¡dos niñas! Estamos muy contentos."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Wow, das isch unglaublich! Wie heissed sie?",
+          "german": "Wow, das ist unglaublich! Wie heißen sie?",
+          "english": "Wow, that's incredible! What are their names?",
+          "spanish": "¡Vaya, eso es increíble! ¿Cómo se llaman?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Nora und Mila.",
+          "german": "Nora und Mila.",
+          "english": "Nora and Mila.",
+          "spanish": "Nora y Mila."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Wunderschön! Ich freu mich mega für euch! Das isch soo schön!",
+          "german": "Wunderschön! Ich freue mich mega für euch! Das ist sooo schön!",
+          "english": "Beautiful! I'm so happy for you! That's soo lovely!",
+          "spanish": "¡Precioso! ¡Estoy tan contento/a por ti! ¡Es una maravilla!"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Merci! Mir sind so müed aber so glückliich. E ganz nöii Welt.",
+          "german": "Danke! Wir sind so müde aber so glücklich. Eine ganz neue Welt.",
+          "english": "Thanks! We're so tired but so happy. A completely new world.",
+          "spanish": "¡Gracias! Estamos tan cansados pero tan felices. Un mundo completamente nuevo."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Das glaub ich dir! Wemer no euse Gschank vorbibringe därfed — saged eifach Bscheid!",
+          "german": "Das glaube ich dir! Wenn wir unser Geschenk vorbeibringen dürfen — sagt einfach Bescheid!",
+          "english": "I believe you! If we can bring our gift over — just let us know!",
+          "spanish": "¡Te creo! Si podemos llevar nuestro regalo — ¡avísanos!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Isch nöd wohr!",
+          "german": "Ist nicht wahr!",
+          "explanation": "'Isch nöd wohr!' = 'Ist nicht wahr!' Expressing disbelief/surprise."
+        },
+        {
+          "swissGerman": "Meitli",
+          "german": "Mädchen",
+          "explanation": "'Meitli' = 'Mädchen'. Swiss word for girls."
+        },
+        {
+          "swissGerman": "freu mich für euch",
+          "german": "freue mich für euch",
+          "explanation": "Expressing happiness for someone."
+        },
+        {
+          "swissGerman": "Doch",
+          "german": "Doch",
+          "explanation": "'Doch' = 'Yes (contradicting a negative)'. German particle."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Isch nöd wohr!",
+          "german": "Ist nicht wahr!",
+          "english": "No way!/Unbelievable!"
+        },
+        {
+          "swissGerman": "Herzliche Glückwunsch!",
+          "german": "Herzlichen Glückwunsch!",
+          "english": "Congratulations!"
+        },
+        {
+          "swissGerman": "Meitli",
+          "german": "Mädchen",
+          "english": "girl(s)"
+        }
+      ]
+    },
+    {
+      "id": "reacting-4",
+      "level": "intermediate",
+      "title": "Showing interest and following up",
+      "situation": "Someone tells you about their vacation.",
+      "lines": [
+        {
+          "speaker": "Person",
+          "swissGerman": "Mir sind grad us Japan zrugg.",
+          "german": "Wir sind gerade aus Japan zurück.",
+          "english": "We just got back from Japan.",
+          "spanish": "Acabamos de volver de Japón."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ou, mega cool! Wie isch es gsi? Verzell!",
+          "german": "Oh, mega cool! Wie war es? Erzähl!",
+          "english": "Oh, so cool! How was it? Tell me!",
+          "spanish": "¡Oh, qué guay! ¿Cómo fue? ¡Cuéntame!"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Unglaublich. Tokyo isch en anderi Wält!",
+          "german": "Unglaublich. Tokyo ist eine andere Welt!",
+          "english": "Incredible. Tokyo is another world!",
+          "spanish": "Increíble. ¡Tokio es otro mundo!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Das chan ich mir vorstelle! Und s'Ässe? Isch es echt so guet?",
+          "german": "Das kann ich mir vorstellen! Und das Essen? Ist es echt so gut?",
+          "english": "I can imagine! And the food? Is it really that good?",
+          "spanish": "¡Me lo imagino! ¿Y la comida? ¿De verdad es tan buena?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "No besser! D'Ramen — ich chan nümme zrugg zu de normale Nudle.",
+          "german": "Noch besser! Die Ramen — ich kann nicht mehr zurück zu normalen Nudeln.",
+          "english": "Even better! The ramen — I can never go back to normal noodles.",
+          "spanish": "¡Aun mejor! El ramen — ya no puedo volver a los fideos normales."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Haha, so schlimm? Das muesch du mir no gnauer verzelle. Ich will au mol ane!",
+          "german": "Haha, so schlimm? Das musst du mir noch genauer erzählen. Ich will auch mal hin!",
+          "english": "Haha, that bad? You need to tell me more. I want to go too!",
+          "spanish": "Jaja, ¿tan malo? Tienes que contarme más. ¡Yo también quiero ir!"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Unbedingt! Aber spar vorher guet — s'isch nid billig aber jeden Rappens wärt.",
+          "german": "Unbedingt! Aber spar vorher gut — es ist nicht billig aber jeden Rappen wert.",
+          "english": "Definitely! But save up well beforehand — it's not cheap but worth every cent.",
+          "spanish": "¡Claro! Pero ahorra bien antes — no es barato pero vale cada céntimo."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Haha, guet z'wisse! Ich fangi mol aa spare für Japan.",
+          "german": "Haha, gut zu wissen! Ich fange mal an zu sparen für Japan.",
+          "english": "Haha, good to know! I'll start saving for Japan.",
+          "spanish": "Jaja, ¡bueno saberlo! Empezaré a ahorrar para Japón."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Verzell!",
+          "german": "Erzähl!",
+          "explanation": "'Verzell!' = 'Erzähl!' Swiss imperative for 'tell me'."
+        },
+        {
+          "swissGerman": "gsi",
+          "german": "gewesen",
+          "explanation": "'gsi' = 'gewesen'. Been."
+        },
+        {
+          "swissGerman": "nümme",
+          "german": "nicht mehr",
+          "explanation": "'nümme' = 'nicht mehr'. No more."
+        },
+        {
+          "swissGerman": "ane",
+          "german": "hin/dorthin",
+          "explanation": "'ane' = 'hin'. Swiss word for 'there/to that place'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Verzell!",
+          "german": "Erzähl!",
+          "english": "Tell me!"
+        },
+        {
+          "swissGerman": "Das chan ich mir vorstelle!",
+          "german": "Das kann ich mir vorstellen!",
+          "english": "I can imagine!"
+        },
+        {
+          "swissGerman": "nümme",
+          "german": "nicht mehr",
+          "english": "no more/never again"
+        }
+      ]
+    },
+    {
+      "id": "reacting-5",
+      "level": "beginner",
+      "title": "Asking for clarification",
+      "situation": "You don't understand something and ask for clarification.",
+      "lines": [
+        {
+          "speaker": "Person",
+          "swissGerman": "De Samichlaus chunnt am Sächsti Dezember, nöd am Vierazwänzigschti.",
+          "german": "Der Nikolaus kommt am 6. Dezember, nicht am 24.",
+          "english": "St. Nicholas comes on December 6th, not the 24th.",
+          "spanish": "San Nicolás viene el 6 de diciembre, no el 24."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Wart, wie meinsch das? Was isch de Underschied zum Wiehnachtsmaa?",
+          "german": "Warte, wie meinst du das? Was ist der Unterschied zum Weihnachtsmann?",
+          "english": "Wait, what do you mean? What's the difference from Santa Claus?",
+          "spanish": "Espera, ¿qué quieres decir? ¿Cuál es la diferencia con San Nicolás?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "De Samichlaus isch de Nikolaus. De chunnt mit em Schmutzli.",
+          "german": "Der Samichlaus ist der Nikolaus. Der kommt mit dem Schmutzli.",
+          "english": "The Samichlaus is St. Nicholas. He comes with the Schmutzli.",
+          "spanish": "El Samichlaus es San Nicolás. Viene con el Schmutzli."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Schmutzli? Chasch du das erkläre? Ich verstah nöd ganz.",
+          "german": "Schmutzli? Kannst du das erklären? Ich verstehe nicht ganz.",
+          "english": "Schmutzli? Can you explain that? I don't fully understand.",
+          "spanish": "¿Schmutzli? ¿Puedes explicar eso? No lo entiendo del todo."
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "De Schmutzli isch sin Begleiter. De hät en Ruete und schmutzig Gsicht.",
+          "german": "Der Schmutzli ist sein Begleiter. Der hat eine Rute und ein schmutziges Gesicht.",
+          "english": "The Schmutzli is his companion. He has a switch and a dirty face.",
+          "spanish": "El Schmutzli es su acompañante. Tiene una vara y la cara sucia."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Aah, jetzt verstah ich! Das isch ja speziell! Merci für s'Erkläre.",
+          "german": "Aah, jetzt verstehe ich! Das ist ja speziell! Danke fürs Erklären.",
+          "english": "Aah, now I understand! That's quite special! Thanks for explaining.",
+          "spanish": "¡Ah, ahora entiendo! ¡Eso es bastante especial! Gracias por explicarlo."
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Ja! Und am Sechse isch uberall Samichlaus-Abig. D'Chinder freu sich mega.",
+          "german": "Ja! Und am Sechsten ist überall Nikolausabend. Die Kinder freuen sich mega.",
+          "english": "Yes! And on the sixth there's St. Nicholas evening everywhere. The kids are super excited.",
+          "spanish": "Sí, el seis de diciembre hay una velada de San Nicolás en todas partes. Los niños están súper emocionados."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Das kling wunderschyön. Ich will das ämol miterlebid!",
+          "german": "Das klingt wunderschön. Ich will das mal miterleben!",
+          "english": "That sounds wonderful. I want to experience that sometime!",
+          "spanish": "¡Eso suena maravilloso. Quiero vivirlo algún día!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Samichlaus",
+          "german": "Nikolaus",
+          "explanation": "'Samichlaus' = 'Nikolaus'. Swiss name for St. Nicholas."
+        },
+        {
+          "swissGerman": "Schmutzli",
+          "german": "Knecht Ruprecht",
+          "explanation": "'Schmutzli' = dark companion of the Samichlaus. Swiss tradition."
+        },
+        {
+          "swissGerman": "Wiehnachtsmaa",
+          "german": "Weihnachtsmann",
+          "explanation": "'Wiehnachtsmaa' = 'Weihnachtsmann'. Santa Claus."
+        },
+        {
+          "swissGerman": "Ruete",
+          "german": "Rute",
+          "explanation": "'Ruete' = 'Rute'. Switch/rod."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Wie meinsch das?",
+          "german": "Wie meinst du das?",
+          "english": "What do you mean by that?"
+        },
+        {
+          "swissGerman": "Ich verstah nöd ganz",
+          "german": "Ich verstehe nicht ganz",
+          "english": "I don't fully understand"
+        },
+        {
+          "swissGerman": "Chasch du das erkläre?",
+          "german": "Kannst du das erklären?",
+          "english": "Can you explain that?"
+        }
+      ]
+    }
+  ]
+}

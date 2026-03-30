@@ -1,0 +1,528 @@
+{
+  "id": "waste-recycling",
+  "topicId": "practical-swiss-life",
+  "title": "Waste & Recycling System",
+  "description": "Trash separation, official garbage bags, recycling points, and understanding Swiss waste disposal rules",
+  "dialogues": [
+    {
+      "id": "waste-recycling-1",
+      "level": "beginner",
+      "title": "Learning about official garbage bags",
+      "situation": "Your neighbor explains the Swiss trash system when you move in.",
+      "lines": [
+        {
+          "speaker": "Neighbor",
+          "swissGerman": "Grüezi! Händ Si scho d'Güselsäck gchauft?",
+          "german": "Grüezi! Haben Sie schon die Müllsäcke gekauft?",
+          "english": "Hello! Have you already bought the garbage bags?",
+          "spanish": "¡Hola! ¿Ya ha comprado las bolsas de basura?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Güselsäck? Ich ha normale schwarzi Säck.",
+          "german": "Müllsäcke? Ich habe normale schwarze Säcke.",
+          "english": "Garbage bags? I have normal black bags.",
+          "spanish": "¿Bolsas de basura? Tengo bolsas negras normales."
+        },
+        {
+          "speaker": "Neighbor",
+          "swissGerman": "Nei nei, i de Schwiiz bruuched Si offizielli Güselsäck vo de Gmeind. Die chostet öppis.",
+          "german": "Nein nein, in der Schweiz brauchen Sie offizielle Müllsäcke von der Gemeinde. Die kosten etwas.",
+          "english": "No no, in Switzerland you need official garbage bags from the municipality. Those cost something.",
+          "spanish": "No, no, en Suiza necesitas bolsas de basura oficiales del municipio. Esas cuestan dinero."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Echt? Wo bechum ich die?",
+          "german": "Echt? Wo bekomme ich die?",
+          "english": "Really? Where do I get them?",
+          "spanish": "¿De verdad? ¿Dónde los consigo?"
+        },
+        {
+          "speaker": "Neighbor",
+          "swissGerman": "Im Coop, Migros oder bi de Gmeind. Fünfezwänzg Liter chostet öppe zwöi Franke pro Sack.",
+          "german": "Im Coop, Migros oder bei der Gemeinde. Fünfundzwanzig Liter kostet ungefähr zwei Franken pro Sack.",
+          "english": "At Coop, Migros, or at the municipality. Twenty-five liters costs about two francs per bag.",
+          "spanish": "En el Coop, el Migros, o en el municipio. Una bolsa de veinticinco litros cuesta unos dos francos."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Wow, Güsel isch tüür i de Schwiiz!",
+          "german": "Wow, Müll ist teuer in der Schweiz!",
+          "english": "Wow, garbage is expensive in Switzerland!",
+          "spanish": "¡Vaya, la basura es cara en Suiza!"
+        },
+        {
+          "speaker": "Neighbor",
+          "swissGerman": "Deswäge recycled alli! Je meh Si recycled, deschto weniger Güselsäck bruuched Si.",
+          "german": "Deswegen recyceln alle! Je mehr Sie recyceln, desto weniger Müllsäcke brauchen Sie.",
+          "english": "That's why everyone recycles! The more you recycle, the fewer garbage bags you need.",
+          "spanish": "¡Por eso todo el mundo recicla! Cuanto más recicles, menos bolsas de basura necesitas."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Macht Sinn. Aber was passiert, wenn ich en falsche Sack bruuch?",
+          "german": "Macht Sinn. Aber was passiert, wenn ich einen falschen Sack benutze?",
+          "english": "Makes sense. But what happens if I use the wrong bag?",
+          "spanish": "Tiene sentido. Pero, ¿qué pasa si uso la bolsa equivocada?"
+        },
+        {
+          "speaker": "Neighbor",
+          "swissGerman": "Denn wird de Sack nöd mitgnoo und Si chönd e Busse übercho!",
+          "german": "Dann wird der Sack nicht mitgenommen und Sie können eine Buße bekommen!",
+          "english": "Then the bag won't be collected and you could get a fine!",
+          "spanish": "¡Entonces la bolsa no será recogida y podrías recibir una multa!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Güselsäck",
+          "german": "Müllsäcke",
+          "explanation": "'Güsel' = 'Müll'. 'Güselsäck' = garbage bags. Very Swiss word."
+        },
+        {
+          "swissGerman": "tüür",
+          "german": "teuer",
+          "explanation": "'tüür' = 'teuer'. Expensive."
+        },
+        {
+          "swissGerman": "mitgnoo",
+          "german": "mitgenommen",
+          "explanation": "'mitgnoo' = 'mitgenommen'. Taken along/collected."
+        },
+        {
+          "swissGerman": "Busse",
+          "german": "Buße/Geldstrafe",
+          "explanation": "'Busse' = fine. Swiss spelling with 'ss'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Güselsäck",
+          "german": "Müllsäcke",
+          "english": "garbage bags"
+        },
+        {
+          "swissGerman": "offizielli Güselsäck",
+          "german": "offizielle Müllsäcke",
+          "english": "official garbage bags"
+        },
+        {
+          "swissGerman": "Busse",
+          "german": "Buße",
+          "english": "fine"
+        }
+      ]
+    },
+    {
+      "id": "waste-recycling-2",
+      "level": "intermediate",
+      "title": "Recycling at the Sammelstelle",
+      "situation": "You take your recycling to the collection point and ask another person for help.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Exgüsi, wo ghört das Glas ane?",
+          "german": "Entschuldigung, wohin gehört das Glas?",
+          "english": "Excuse me, where does the glass go?",
+          "spanish": "Perdona, ¿dónde va el vidrio?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Glass muesch du nach Farbe trenne — grüen, bruun und wiiss. Do sind d'Container.",
+          "german": "Glas musst du nach Farbe trennen — grün, braun und weiß. Da sind die Container.",
+          "english": "Glass you need to sort by color — green, brown, and white. The containers are here.",
+          "spanish": "El vidrio hay que separarlo por color — verde, marrón y blanco. Los contenedores están aquí."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und d'PET-Fläsche? Ghöred die au do ane?",
+          "german": "Und die PET-Flaschen? Gehören die auch hierher?",
+          "english": "And the PET bottles? Do they belong here too?",
+          "spanish": "¿Y las botellas de PET? ¿También van aquí?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Nei, PET chasch im Coop oder Migros zruggä. Die händ Sammelböx im Lade.",
+          "german": "Nein, PET kannst du im Coop oder Migros zurückgeben. Die haben Sammelboxen im Laden.",
+          "english": "No, PET you can return at Coop or Migros. They have collection boxes in the store.",
+          "spanish": "No, el PET puedes devolverlo en Coop o Migros. Tienen cajas de recogida en la tienda."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und Aluminiumdose?",
+          "german": "Und Aluminiumdosen?",
+          "english": "And aluminum cans?",
+          "spanish": "¿Y las latas de aluminio?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Au im Lade — oder do bim Container für Alu und Blech.",
+          "german": "Auch im Laden — oder hier beim Container für Alu und Blech.",
+          "english": "Also in the store — or here at the container for aluminum and tin.",
+          "spanish": "También en la tienda — o aquí en el contenedor de aluminio y hojalata."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und Papier und Karton?",
+          "german": "Und Papier und Karton?",
+          "english": "And paper and cardboard?",
+          "spanish": "¿Y el papel y el cartón?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Das wird alli zwei Wuche abgholt. Bündled Si's und stellets vors Huus — de Termin stoht im Abfallkalender.",
+          "german": "Das wird alle zwei Wochen abgeholt. Bündeln Sie es und stellen Sie es vor das Haus — der Termin steht im Abfallkalender.",
+          "english": "That's collected every two weeks. Bundle it and put it in front of the house — the date is in the waste calendar.",
+          "spanish": "Eso se recoge cada dos semanas. Átalo y ponlo delante de la casa — la fecha está en el calendario de residuos."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "ghört ... ane",
+          "german": "gehört ... hin",
+          "explanation": "'ghört ane' = 'gehört hin'. Where does it go/belong."
+        },
+        {
+          "swissGerman": "Sammelböx",
+          "german": "Sammelboxen",
+          "explanation": "'Sammelböx' = collection boxes. In Swiss supermarkets."
+        },
+        {
+          "swissGerman": "Abfallkalender",
+          "german": "Abfallkalender",
+          "explanation": "Official waste collection calendar — every Swiss municipality publishes one."
+        },
+        {
+          "swissGerman": "bündled",
+          "german": "bündeln Sie",
+          "explanation": "'bündled' = 'bündeln Sie'. To bundle up (for paper/cardboard collection)."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Sammelstelle",
+          "german": "Sammelstelle",
+          "english": "recycling collection point"
+        },
+        {
+          "swissGerman": "trenne",
+          "german": "trennen",
+          "english": "to sort / separate"
+        },
+        {
+          "swissGerman": "Abfallkalender",
+          "german": "Abfallkalender",
+          "english": "waste collection calendar"
+        }
+      ]
+    },
+    {
+      "id": "waste-recycling-3",
+      "level": "intermediate",
+      "title": "Getting rid of bulky waste (Sperrgut)",
+      "situation": "You're moving out and need to dispose of old furniture.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Grüezi! Ich ha alti Möbel zum äntsorge. Wie mach ich das?",
+          "german": "Grüezi! Ich habe alte Möbel zu entsorgen. Wie mache ich das?",
+          "english": "Hello! I have old furniture to dispose of. How do I do that?",
+          "spanish": "¡Hola! Tengo muebles viejos que desechar. ¿Cómo lo hago?"
+        },
+        {
+          "speaker": "Officer",
+          "swissGerman": "Das isch Sperrgut. Si chönd das a de Entsorgigsstelle abgä oder en Abholig bestelle.",
+          "german": "Das ist Sperrgut. Sie können das an der Entsorgungsstelle abgeben oder eine Abholung bestellen.",
+          "english": "That's bulky waste. You can drop it off at the disposal center or order a pickup.",
+          "spanish": "Eso es residuo voluminoso. Puedes llevarlo al centro de reciclaje o pedir una recogida."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Was choschtet d'Abholig?",
+          "german": "Was kostet die Abholung?",
+          "english": "What does the pickup cost?",
+          "spanish": "¿Cuánto cuesta la recogida?"
+        },
+        {
+          "speaker": "Officer",
+          "swissGerman": "Fünfzg Franke Grundgebühr und je nach Mängi no meh.",
+          "german": "Fünfzig Franken Grundgebühr und je nach Menge noch mehr.",
+          "english": "Fifty francs base fee and more depending on the amount.",
+          "spanish": "Cincuenta francos de cuota base y más según el importe."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und wenn ich's sälber zur Entsorgigsstelle bring?",
+          "german": "Und wenn ich es selbst zur Entsorgungsstelle bringe?",
+          "english": "And if I bring it to the disposal center myself?",
+          "spanish": "¿Y si lo llevo al punto de residuos yo mismo/a?"
+        },
+        {
+          "speaker": "Officer",
+          "swissGerman": "Denn zahled Si nur nach Gwicht. Füfzäh Franke pro hundert Kilo.",
+          "german": "Dann zahlen Sie nur nach Gewicht. Fünfzehn Franken pro hundert Kilo.",
+          "english": "Then you only pay by weight. Fifteen francs per hundred kilos.",
+          "spanish": "Entonces solo pagas por peso. Quince francos los cien kilos."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Wänn hät d'Entsorgigsstelle offe?",
+          "german": "Wann hat die Entsorgungsstelle geöffnet?",
+          "english": "When is the disposal center open?",
+          "spanish": "¿Cuándo abre el punto de reciclaje?"
+        },
+        {
+          "speaker": "Officer",
+          "swissGerman": "Dienschtig bis Samstig, achti bis füfi. Am Sunntig zue.",
+          "german": "Dienstag bis Samstag, acht bis fünf. Am Sonntag geschlossen.",
+          "english": "Tuesday to Saturday, eight to five. Closed on Sunday.",
+          "spanish": "De martes a sábado, de ocho a cinco. Cerrado el domingo."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Sperrgut",
+          "german": "Sperrgut/Sperrmüll",
+          "explanation": "'Sperrgut' = bulky waste. Swiss term (Germany uses 'Sperrmüll')."
+        },
+        {
+          "swissGerman": "äntsorge",
+          "german": "entsorgen",
+          "explanation": "'äntsorge' = 'entsorgen'. To dispose of."
+        },
+        {
+          "swissGerman": "Entsorgigsstelle",
+          "german": "Entsorgungsstelle",
+          "explanation": "'Entsorgigsstelle' = disposal/recycling center."
+        },
+        {
+          "swissGerman": "Gwicht",
+          "german": "Gewicht",
+          "explanation": "'Gwicht' = 'Gewicht'. Weight."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Sperrgut",
+          "german": "Sperrgut/Sperrmüll",
+          "english": "bulky waste"
+        },
+        {
+          "swissGerman": "Entsorgigsstelle",
+          "german": "Entsorgungsstelle",
+          "english": "disposal center"
+        },
+        {
+          "swissGerman": "äntsorge",
+          "german": "entsorgen",
+          "english": "to dispose of"
+        }
+      ]
+    },
+    {
+      "id": "waste-recycling-4",
+      "level": "beginner",
+      "title": "Composting and green waste",
+      "situation": "You ask your neighbor about the green bin in the shared courtyard.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Grüezi! Was ghört i die grüeni Tonne?",
+          "german": "Grüezi! Was gehört in die grüne Tonne?",
+          "english": "Hello! What goes in the green bin?",
+          "spanish": "¡Hola! ¿Qué va en el contenedor verde?"
+        },
+        {
+          "speaker": "Neighbor",
+          "swissGerman": "Das isch für Grüenabfall — Rüstabfall, Garteabfall und so.",
+          "german": "Das ist für Grünabfall — Rüstabfälle, Gartenabfälle und so.",
+          "english": "That's for green waste — vegetable peelings, garden waste, and such.",
+          "spanish": "Eso es para los residuos verdes — mondas de verduras, residuos del jardín y similares."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Darf ich au Fleisch und Fisch riitue?",
+          "german": "Darf ich auch Fleisch und Fisch hineintun?",
+          "english": "Can I also put in meat and fish?",
+          "spanish": "¿También puedo poner carne y pescado?"
+        },
+        {
+          "speaker": "Neighbor",
+          "swissGerman": "Nei, nur pflanzlichi Sache. Kei Fleisch, kei gekochts Ässe.",
+          "german": "Nein, nur pflanzliche Sachen. Kein Fleisch, kein gekochtes Essen.",
+          "english": "No, only plant-based things. No meat, no cooked food.",
+          "spanish": "No, solo cosas vegetales. Sin carne, sin cocinar."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und Eierschale?",
+          "german": "Und Eierschalen?",
+          "english": "And eggshells?",
+          "spanish": "¿Y las cáscaras de huevo?"
+        },
+        {
+          "speaker": "Neighbor",
+          "swissGerman": "Die dörfed riiin! Und Kafisatz au.",
+          "german": "Die dürfen rein! Und Kaffeesatz auch.",
+          "english": "Those can go in! And coffee grounds too.",
+          "spanish": "Esas pueden ir ahí. ¿Y los posos de café también?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Merci! Und wänn wird d'Tonne gleert?",
+          "german": "Danke! Und wann wird die Tonne geleert?",
+          "english": "Thanks! And when is the bin emptied?",
+          "spanish": "¡Gracias! ¿Y cuándo vacían el contenedor?"
+        },
+        {
+          "speaker": "Neighbor",
+          "swissGerman": "Jedi Wuche am Dunnschtig. Muesch si am Abig vorhär uusestelle.",
+          "german": "Jede Woche am Donnerstag. Musst sie am Abend vorher rausstellen.",
+          "english": "Every week on Thursday. You need to put it out the evening before.",
+          "spanish": "Cada semana el jueves. Hay que sacarlo a la calle la noche anterior."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Rüstabfall",
+          "german": "Schälabfälle",
+          "explanation": "'Rüstabfall' = vegetable/fruit peelings. Swiss term (from 'rüsten' = to peel)."
+        },
+        {
+          "swissGerman": "Grüenabfall",
+          "german": "Grünabfall",
+          "explanation": "'Grüenabfall' = green waste."
+        },
+        {
+          "swissGerman": "riitue",
+          "german": "hineintun",
+          "explanation": "'riitue' = 'reintun/hineintun'. To put in."
+        },
+        {
+          "swissGerman": "Kafisatz",
+          "german": "Kaffeesatz",
+          "explanation": "'Kafisatz' = 'Kaffeesatz'. Coffee grounds. 'Kafi' = Swiss for coffee."
+        },
+        {
+          "swissGerman": "gleert",
+          "german": "geleert",
+          "explanation": "'gleert' = 'geleert'. Emptied."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Grüenabfall",
+          "german": "Grünabfall",
+          "english": "green waste"
+        },
+        {
+          "swissGerman": "Rüstabfall",
+          "german": "Schälabfälle",
+          "english": "vegetable peelings"
+        },
+        {
+          "swissGerman": "Kafisatz",
+          "german": "Kaffeesatz",
+          "english": "coffee grounds"
+        }
+      ]
+    },
+    {
+      "id": "waste-recycling-5",
+      "level": "intermediate",
+      "title": "Neighbor conflict about recycling rules",
+      "situation": "A neighbor confronts you about wrongly sorted trash found in the recycling.",
+      "lines": [
+        {
+          "speaker": "Neighbor",
+          "swissGerman": "Exgüsi! Sind das Ihri Säck im Kartoncontainer gsii? Da sind Plastik drin gsii!",
+          "german": "Entschuldigung! Waren das Ihre Säcke im Kartoncontainer? Da war Plastik drin!",
+          "english": "Excuse me! Were those your bags in the cardboard container? There was plastic in them!",
+          "spanish": "¡Perdone! ¿Eran sus bolsas las del contenedor de cartón? ¡Había plástico dentro!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Oh, äh... das cha sii. Ich ha nöd gwüsst, dass Plastik nöd darf.",
+          "german": "Oh, äh... das kann sein. Ich wusste nicht, dass Plastik nicht darf.",
+          "english": "Oh, um... that could be. I didn't know plastic isn't allowed.",
+          "spanish": "¡Oh, eh... puede ser. No sabía que no se podía el plástico."
+        },
+        {
+          "speaker": "Neighbor",
+          "swissGerman": "Plastik-Verpackige ghöred in de Güselsack! Nur suubere Karton ohni Plastik.",
+          "german": "Plastik-Verpackungen gehören in den Müllsack! Nur sauberer Karton ohne Plastik.",
+          "english": "Plastic packaging goes in the garbage bag! Only clean cardboard without plastic.",
+          "spanish": "¡El envase de plástico va en la bolsa de basura! Solo cartón limpio sin plástico."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Tuet mer leid! Ich bi nöi do und s'reguliert sich no.",
+          "german": "Es tut mir leid! Ich bin neu hier und es reguliert sich noch.",
+          "english": "I'm sorry! I'm new here and still getting the hang of it.",
+          "spanish": "¡Lo siento! Soy nuevo aquí y todavía estoy aprendiendo."
+        },
+        {
+          "speaker": "Neighbor",
+          "swissGerman": "Kei Sorg, passiert jedem! Aber d'entsorgig-züri Website hät es guets Merkblatt.",
+          "german": "Keine Sorge, passiert jedem! Aber die ERZ-Website hat ein gutes Merkblatt.",
+          "english": "No worries, happens to everyone! But the ERZ website has a good info sheet.",
+          "spanish": "No te preocupes, ¡les pasa a todos! Pero la página web del ERZ tiene una buena hoja informativa."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Merci für de Tipp! Und Tetra Pak — ghört das zum Karton?",
+          "german": "Danke für den Tipp! Und Tetra Pak — gehört das zum Karton?",
+          "english": "Thanks for the tip! And Tetra Pak — does that go with cardboard?",
+          "spanish": "¡Gracias por el consejo! ¿Y el Tetra Pak — va con el cartón?"
+        },
+        {
+          "speaker": "Neighbor",
+          "swissGerman": "Nei! Tetra Pak isch en Verbundstoff. Die chönd Si bi Coop oder Migros zruggä.",
+          "german": "Nein! Tetra Pak ist ein Verbundstoff. Die können Sie bei Coop oder Migros zurückgeben.",
+          "english": "No! Tetra Pak is a composite material. You can return those at Coop or Migros.",
+          "spanish": "¡No! El Tetra Pak es un material compuesto. Puedes devolverlos en Coop o Migros."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "suubere",
+          "german": "sauberer",
+          "explanation": "'suubere' = 'sauberer'. Clean."
+        },
+        {
+          "swissGerman": "Merkblatt",
+          "german": "Merkblatt/Infozettel",
+          "explanation": "'Merkblatt' = info sheet / fact sheet. Common in Swiss bureaucracy."
+        },
+        {
+          "swissGerman": "Verbundstoff",
+          "german": "Verbundstoff",
+          "explanation": "Composite material — relevant for Swiss recycling rules."
+        },
+        {
+          "swissGerman": "zruggä",
+          "german": "zurückgeben",
+          "explanation": "'zruggä' = 'zurückgeben'. To return."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Güselsack",
+          "german": "Müllsack",
+          "english": "garbage bag"
+        },
+        {
+          "swissGerman": "Merkblatt",
+          "german": "Merkblatt",
+          "english": "info sheet / fact sheet"
+        },
+        {
+          "swissGerman": "Verbundstoff",
+          "german": "Verbundstoff",
+          "english": "composite material"
+        }
+      ]
+    }
+  ]
+}

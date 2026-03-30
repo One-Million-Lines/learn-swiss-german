@@ -1,0 +1,523 @@
+{
+  "id": "asking-about-others",
+  "topicId": "social",
+  "title": "Asking About Others",
+  "description": "Asking about someone's job, family, hobbies, and background — and showing genuine interest",
+  "dialogues": [
+    {
+      "id": "about-others-1",
+      "level": "beginner",
+      "title": "Asking about their job",
+      "situation": "You ask someone about their work at a Verein (club) event.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Und du? Was machsch du so?",
+          "german": "Und du? Was machst du so?",
+          "english": "And you? What do you do?",
+          "spanish": "¿Y tú? ¿A qué te dedicas?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Ich bi Lehrerin. Primarschuel i Wollishofe.",
+          "german": "Ich bin Lehrerin. Primarschule in Wollishofen.",
+          "english": "I'm a teacher. Primary school in Wollishofen.",
+          "spanish": "Soy profesora. Primaria en Wollishofen."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Oh, cool! Weli Klass underrichtisch du?",
+          "german": "Oh, cool! Welche Klasse unterrichtest du?",
+          "english": "Oh, cool! Which grade do you teach?",
+          "spanish": "¡Oh, qué guay! ¿Qué curso das?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "D'dritti Klass. Drüssg Chind. Isch mega astrengend, aber ich liebis.",
+          "german": "Die dritte Klasse. Dreißig Kinder. Ist mega anstrengend, aber ich liebe es.",
+          "english": "Third grade. Thirty kids. Super exhausting, but I love it.",
+          "spanish": "Tercer grado. Treinta niños. Súper agotador, pero me encanta."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Drüssg Chind! Respäkt! Und wie lang machsch das scho?",
+          "german": "Dreißig Kinder! Respekt! Und wie lange machst du das schon?",
+          "english": "Thirty kids! Respect! And how long have you been doing that?",
+          "spanish": "¡Treinta niños! ¡Respeto! ¿Y cuánto tiempo llevas haciendo eso?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Sit acht Johr. Ich chönnt mir nüüt anders vorstelle.",
+          "german": "Seit acht Jahren. Ich könnte mir nichts anderes vorstellen.",
+          "english": "For eight years. I couldn't imagine anything else.",
+          "spanish": "Durante ocho años. No podía imaginar ninguna otra cosa."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Das merkt mer! Du schyynsch wirklich en Bäruefig z'si.",
+          "german": "Das merkt man! Du scheinst wirklich eine Berufung zu haben.",
+          "english": "You can tell! You seem to have a real calling for it.",
+          "spanish": "¡Se nota! Parece que tienes una verdadera vocación para esto."
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Ha ja, d'Chind gänd eim vill Energie. Wenn de guet Tag isch, natürlich!",
+          "german": "Ja, die Kinder geben einem viel Energie. Wenn es ein guter Tag ist, natürlich!",
+          "english": "Yes, the kids give you a lot of energy. On a good day, of course!",
+          "spanish": "Sí, los niños te dan mucha energía. ¡En un buen día, claro!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "underrichtisch",
+          "german": "unterrichtest",
+          "explanation": "'underrichtisch' = 'unterrichtest'. Swiss conjugation."
+        },
+        {
+          "swissGerman": "Drüssg",
+          "german": "Dreißig",
+          "explanation": "'Drüssg' = 'Dreißig'. Swiss pronunciation."
+        },
+        {
+          "swissGerman": "liebis",
+          "german": "liebe es",
+          "explanation": "'liebis' = 'liebe es'. Contracted."
+        },
+        {
+          "swissGerman": "vorstelle",
+          "german": "vorstellen",
+          "explanation": "'vorstelle' = 'vorstellen'. Dropped '-n'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Was machsch du so?",
+          "german": "Was machst du so?",
+          "english": "What do you do?"
+        },
+        {
+          "swissGerman": "Wie lang machsch du das scho?",
+          "german": "Wie lange machst du das schon?",
+          "english": "How long have you been doing that?"
+        },
+        {
+          "swissGerman": "Respäkt!",
+          "german": "Respekt!",
+          "english": "Respect!"
+        }
+      ]
+    },
+    {
+      "id": "about-others-2",
+      "level": "beginner",
+      "title": "Asking about their family",
+      "situation": "At a BBQ, you ask someone about their family.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Häsch du au Chind?",
+          "german": "Hast du auch Kinder?",
+          "english": "Do you have children too?",
+          "spanish": "¿También tienes hijos?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Ja, zwöi Buebe. De Leon isch siebe und de Jan isch nüün.",
+          "german": "Ja, zwei Jungen. Leon ist sieben und Jan ist neun.",
+          "english": "Yes, two boys. Leon is seven and Jan is nine.",
+          "spanish": "Sí, dos niños. León tiene siete años y Jan nueve."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Oh, denn sind sie öppe i de gliiche Alter wie mini!",
+          "german": "Oh, dann sind sie etwa im gleichen Alter wie meine!",
+          "english": "Oh, then they're about the same age as mine!",
+          "spanish": "¡Oh, entonces tienen más o menos la misma edad que los míos!"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Echt? Die müend sich mol träffe! I weli Schuel gönd dini?",
+          "german": "Echt? Die müssen sich mal treffen! In welche Schule gehen deine?",
+          "english": "Really? They should meet sometime! Which school do yours go to?",
+          "spanish": "¿De verdad? ¡Debería conocerse algún día! ¿A qué colegio van los tuyos?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Id Primarschuel Utogrund. Und dini?",
+          "german": "In die Primarschule Utogrund. Und deine?",
+          "english": "Utogrund primary school. And yours?",
+          "spanish": "Escuela primaria Utogrund. ¿Y la tuya?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Au! D'gliichi Schuel! De Jan und din elter — die chönted i de gliiche Klass si!",
+          "german": "Auch! Die gleiche Schule! Jan und dein älterer — die könnten in der gleichen Klasse sein!",
+          "english": "Same! The same school! Jan and your older one — they could be in the same class!",
+          "spanish": "¡Igual! ¡El mismo colegio! Jan y el tuyo mayor — ¡pueden estar en la misma clase!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Mir müend die Buebe unbedingt zäme bringe! Isch de Jan emol bi de Fräitage-Schuel?",
+          "german": "Wir müssen die Jungs unbedingt zusammenbringen! Ist Jan manchmal bei der Freitagsschule?",
+          "english": "We absolutely need to get the boys together! Is Jan ever at the Friday school?",
+          "spanish": "¡Definitivamente tenemos que reunir a los niños! ¿Jan está alguna vez en la escuela del viernes?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Ja! Und du? Ich wättis mega gärn aarangle — tausch Si mir Numere??!",
+          "german": "Ja! Und du? Ich würde es mega gerne arrangieren — tauschen wir Nummern?!",
+          "english": "Yes! And you? I'd love to arrange it — shall we swap numbers?!",
+          "spanish": "Sí, ¿y tú? Me encantaría organizarlo — ¿intercambiamos números?"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Buebe",
+          "german": "Jungen",
+          "explanation": "'Buebe' = 'Jungen'. Swiss word for boys."
+        },
+        {
+          "swissGerman": "träffe",
+          "german": "treffen",
+          "explanation": "'träffe' = 'treffen'. Vowel shift."
+        },
+        {
+          "swissGerman": "gliichi",
+          "german": "gleiche",
+          "explanation": "'gliichi' = 'gleiche'. Swiss form."
+        },
+        {
+          "swissGerman": "elter",
+          "german": "älterer",
+          "explanation": "'elter' = 'älterer'. Swiss comparative."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Buebe",
+          "german": "Jungen",
+          "english": "boys"
+        },
+        {
+          "swissGerman": "Häsch du Chind?",
+          "german": "Hast du Kinder?",
+          "english": "Do you have children?"
+        },
+        {
+          "swissGerman": "d'gliichi Schuel",
+          "german": "die gleiche Schule",
+          "english": "the same school"
+        }
+      ]
+    },
+    {
+      "id": "about-others-3",
+      "level": "intermediate",
+      "title": "Asking about hobbies",
+      "situation": "You chat with someone at a Vereinsfest about what they do for fun.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Und was machsch du gärn i dinere Freiziit?",
+          "german": "Und was machst du gerne in deiner Freizeit?",
+          "english": "And what do you like to do in your free time?",
+          "spanish": "¿Y qué te gusta hacer en tu tiempo libre?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Ich gang go bärgstiiige. Jedes Wuchenänd, wenn s'Wetter stimmt.",
+          "german": "Ich gehe Bergsteigen. Jedes Wochenende, wenn das Wetter stimmt.",
+          "english": "I go mountaineering. Every weekend, if the weather's right.",
+          "spanish": "Hago montañismo. Cada fin de semana, si el tiempo lo permite."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Wow, echt? Bisch du mol uf de Matterhorn gsi?",
+          "german": "Wow, echt? Warst du mal auf dem Matterhorn?",
+          "english": "Wow, really? Have you ever been up the Matterhorn?",
+          "spanish": "¡Vaya, de verdad? ¿Has subido alguna vez al Matterhorn?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Haha nöd ganz! Aber uf de Titlis und s'Breithorn scho.",
+          "german": "Haha nicht ganz! Aber auf den Titlis und das Breithorn schon.",
+          "english": "Haha not quite! But on the Titlis and the Breithorn, yes.",
+          "spanish": "Jaja, ¡no del todo! Pero en el Titlis y el Breithorn, sí."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Krass! Das wär au mol öppis für mich. Muesch du fit si defür?",
+          "german": "Krass! Das wäre auch mal etwas für mich. Muss man fit sein dafür?",
+          "english": "Cool! That'd be something for me too. Do you need to be fit for it?",
+          "spanish": "¡Genial! Eso también me vendría a mí. ¿Hay que estar en forma para eso?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Und wo machsch du meischtens Toure? I de Zentralschwiiz?",
+          "german": "Und wo machst du meistens Touren? In der Zentralschweiz?",
+          "english": "And where do you usually do tours? In central Switzerland?",
+          "spanish": "¿Y dónde haces normalmente las rutas? ¿En Suiza central?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Öfters ja, aber ich gah au ins Bärner Oberland. D'Gegend isch eifach beeindruckend.",
+          "german": "Öfters ja, aber ich gehe auch ins Berner Oberland. Die Gegend ist einfach beeindruckend.",
+          "english": "Often yes, but I also go to the Bernese Oberland. The scenery is simply breathtaking.",
+          "spanish": "A menudo sí, pero también voy al Oberland bernés. El paisaje es simplemente impresionante."
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Chli scho. Aber es git Toure für jedes Niveau. Ich nimm dich gärn mol mit!",
+          "german": "Ein bisschen schon. Aber es gibt Touren für jedes Niveau. Ich nehme dich gerne mal mit!",
+          "english": "A bit yeah. But there are tours for every level. I'd love to take you along!",
+          "spanish": "Un poco sí. Pero hay rutas para todos los niveles. ¡Me encantaría llevarte!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "bärgstiiige",
+          "german": "Bergsteigen",
+          "explanation": "'bärgstiiige' = 'Bergsteigen'. Swiss pronunciation."
+        },
+        {
+          "swissGerman": "mol",
+          "german": "mal",
+          "explanation": "'mol' = 'mal'. Swiss form."
+        },
+        {
+          "swissGerman": "gsi",
+          "german": "gewesen",
+          "explanation": "'gsi' = 'gewesen'. Swiss past participle of 'sein'."
+        },
+        {
+          "swissGerman": "mitnäh",
+          "german": "mitnehmen",
+          "explanation": "'I nimm dich mit' = 'Ich nehme dich mit'. To take along."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "bärgstiiige",
+          "german": "Bergsteigen",
+          "english": "mountaineering"
+        },
+        {
+          "swissGerman": "gsi",
+          "german": "gewesen",
+          "english": "been"
+        },
+        {
+          "swissGerman": "mitnäh",
+          "german": "mitnehmen",
+          "english": "to take along"
+        }
+      ]
+    },
+    {
+      "id": "about-others-4",
+      "level": "intermediate",
+      "title": "Asking about their background",
+      "situation": "You learn more about someone's background at a neighborhood drink.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Bisch du eigentlich vo Züri?",
+          "german": "Bist du eigentlich aus Zürich?",
+          "english": "Are you actually from Zurich?",
+          "spanish": "¿Eres de Zúrich en realidad?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Nei, ich bi ufgwachse i Bärn. Und denn für s'Studium uf Züri cho.",
+          "german": "Nein, ich bin aufgewachsen in Bern. Und dann fürs Studium nach Zürich gekommen.",
+          "english": "No, I grew up in Bern. And then came to Zurich for university.",
+          "spanish": "No, crecí en Berna. Y luego vine a Zúrich para la universidad."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ah, so isch das! Und bisch denn eifach bliibe?",
+          "german": "Ah, so ist das! Und bist du dann einfach geblieben?",
+          "english": "Ah, I see! And then you just stayed?",
+          "spanish": "¡Ah, ya veo! ¿Y luego simplemente te quedaste?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Ja, d'Liebi hät mich do ghalte, haha. Min Maa isch Zürcher.",
+          "german": "Ja, die Liebe hat mich hier gehalten, haha. Mein Mann ist Zürcher.",
+          "english": "Yes, love kept me here, haha. My husband is from Zurich.",
+          "spanish": "Sí, el amor me retuvo aquí, ja. Mi marido es de Zúrich."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und vermissisch du Bärn?",
+          "german": "Und vermisst du Bern?",
+          "english": "And do you miss Bern?",
+          "spanish": "¿Y echas de menos Berna?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Hesch du no Familie dort?",
+          "german": "Hast du noch Familie dort?",
+          "english": "Do you still have family there?",
+          "spanish": "¿Todavía tienes familia allí?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, mini Eltere und min Brueder. Ich besüech si alli paar Mönet — de Pendlerzug isch zum Glüäck schnäll.",
+          "german": "Ja, meine Eltern und mein Bruder. Ich besuche sie alle paar Monate — der Pendlerzug ist zum Glück schnell.",
+          "english": "Yes, my parents and my brother. I visit them every few months — the commuter train is thankfully fast.",
+          "spanish": "Sí, mis padres y mi hermano. Los visito cada pocos meses — el tren de cercanías es afortunadamente rápido."
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Scho. D'Bärner sind chli gmüetlicher als d'Zürcher. Aber psst, nöd witersäge!",
+          "german": "Schon. Die Berner sind ein bisschen gemütlicher als die Zürcher. Aber psst, nicht weitersagen!",
+          "english": "A bit. The Bernese are a little more laid-back than the Zurichers. But shh, don't tell anyone!",
+          "spanish": "Un poco. Los berneses son un poco más relajados que los zuriqueses. ¡Pero shhh, no se lo digas a nadie!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "ufgwachse",
+          "german": "aufgewachsen",
+          "explanation": "'ufgwachse' = 'aufgewachsen'. Swiss past participle."
+        },
+        {
+          "swissGerman": "Bärn",
+          "german": "Bern",
+          "explanation": "'Bärn' = 'Bern'. Swiss pronunciation of the capital."
+        },
+        {
+          "swissGerman": "Bärner",
+          "german": "Berner",
+          "explanation": "'Bärner' = people from Bern."
+        },
+        {
+          "swissGerman": "witersäge",
+          "german": "weitersagen",
+          "explanation": "'witersäge' = 'weitersagen'. To tell others."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "ufgwachse",
+          "german": "aufgewachsen",
+          "english": "grew up"
+        },
+        {
+          "swissGerman": "bliibe",
+          "german": "geblieben",
+          "english": "stayed"
+        },
+        {
+          "swissGerman": "witersäge",
+          "german": "weitersagen",
+          "english": "to tell/pass on"
+        }
+      ]
+    },
+    {
+      "id": "about-others-5",
+      "level": "beginner",
+      "title": "Showing interest",
+      "situation": "You react to someone's story at a Stammtisch.",
+      "lines": [
+        {
+          "speaker": "Person",
+          "swissGerman": "Ich ha letscht Wuche min Job gwächslet. Jetzt bin ich bi Google.",
+          "german": "Ich habe letzte Woche den Job gewechselt. Jetzt bin ich bei Google.",
+          "english": "I changed jobs last week. Now I'm at Google.",
+          "spanish": "Cambié de trabajo la semana pasada. Ahora estoy en Google."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Echt jetzt?! Das isch ja hammer! Wie häsch das gschafft?",
+          "german": "Echt jetzt?! Das ist ja der Hammer! Wie hast du das geschafft?",
+          "english": "Really?! That's amazing! How did you manage that?",
+          "spanish": "¿De verdad?! ¡Increíble! ¿Cómo lo conseguiste?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Vill Vorberetig. Und es paar Mönät Warteziit.",
+          "german": "Viel Vorbereitung. Und ein paar Monate Wartezeit.",
+          "english": "A lot of preparation. And a couple months of waiting.",
+          "spanish": "Mucha preparación. Y un par de meses de espera."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Wow, starke Leigstig! Und wie isch es so? Gfallts dir?",
+          "german": "Wow, starke Leistung! Und wie ist es so? Gefällt es dir?",
+          "english": "Wow, impressive! And how is it? Do you like it?",
+          "spanish": "¡Vaya, impresionante! ¿Y cómo es? ¿Te gusta?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Bis jetzt mega. Cooli Lüüt, guet Ässe in de Kantine.",
+          "german": "Bis jetzt mega. Coole Leute, gutes Essen in der Kantine.",
+          "english": "So far awesome. Cool people, great food in the cafeteria.",
+          "spanish": "¡Hasta ahora genial! Gente guay, comida estupenda en la cafetería."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Aber es isch sicher au vil Drück, nöd?",
+          "german": "Aber es ist sicher auch viel Druck, oder?",
+          "english": "But it's surely a lot of pressure too, right?",
+          "spanish": "Pero seguro que hay mucha presión también, ¿verdad?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Jaa schon. Manchmal isch mer bis Abig im Büro. Drum isch de Fri-go-Abiür so wichtig!",
+          "german": "Jaa schon. Manchmal ist man bis abends im Büro. Deshalb ist der Feierabend so wichtig!",
+          "english": "Yeah, a bit. Sometimes you're in the office until evenings. That's why finishing time is so important!",
+          "spanish": "Sí, un poco. A veces te quedas en la oficina hasta la noche. ¡Por eso es tan importante la hora de salida!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Sehr cool! Das muesch du mir gnauer verzelle. Uf es Bier?",
+          "german": "Sehr cool! Das musst du mir genauer erzählen. Auf ein Bier?",
+          "english": "Very cool! You need to tell me more. Over a beer?",
+          "spanish": "¡Muy bien! Tienes que contarme más. ¿Tomando una cerveza?"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "hammer",
+          "german": "der Hammer",
+          "explanation": "'hammer' = 'der Hammer'. Swiss slang for amazing."
+        },
+        {
+          "swissGerman": "gschafft",
+          "german": "geschafft",
+          "explanation": "'gschafft' = 'geschafft'. 'Ge-' → 'G-'."
+        },
+        {
+          "swissGerman": "Leigstig",
+          "german": "Leistung",
+          "explanation": "'Leigstig' = 'Leistung'. Swiss form for achievement."
+        },
+        {
+          "swissGerman": "gnauer",
+          "german": "genauer",
+          "explanation": "'gnauer' = 'genauer'. 'Ge-' → 'G-'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Echt jetzt?!",
+          "german": "Echt jetzt?!",
+          "english": "Really?!/No way?!"
+        },
+        {
+          "swissGerman": "hammer",
+          "german": "der Hammer",
+          "english": "amazing"
+        },
+        {
+          "swissGerman": "verzelle",
+          "german": "erzählen",
+          "english": "to tell/narrate"
+        }
+      ]
+    }
+  ]
+}

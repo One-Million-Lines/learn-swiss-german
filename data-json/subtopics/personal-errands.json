@@ -1,0 +1,523 @@
+{
+  "id": "personal-errands",
+  "topicId": "daily-life",
+  "title": "Personal Errands",
+  "description": "Hairdresser, service bookings, explaining what you want, and completing everyday tasks",
+  "dialogues": [
+    {
+      "id": "errands-1",
+      "level": "beginner",
+      "title": "At the hairdresser / Coiffeur",
+      "situation": "You get a haircut at the local Coiffeur.",
+      "lines": [
+        {
+          "speaker": "Coiffeur",
+          "swissGerman": "Grüezi! Was mached mir hüt?",
+          "german": "Guten Tag! Was machen wir heute?",
+          "english": "Hello! What are we doing today?",
+          "spanish": "¡Hola! ¿Qué hacemos hoy?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich hätt gärn e chli chürzer uf de Siite und obe stah lah.",
+          "german": "Ich hätte gerne etwas kürzer an den Seiten und oben stehen lassen.",
+          "english": "I'd like it a bit shorter on the sides and left longer on top.",
+          "spanish": "Me gustaría más corto a los lados y más largo arriba."
+        },
+        {
+          "speaker": "Coiffeur",
+          "swissGerman": "Klar! Wie churz uf de Siite? Mit de Maschine?",
+          "german": "Klar! Wie kurz an den Seiten? Mit der Maschine?",
+          "english": "Sure! How short on the sides? With clippers?",
+          "spanish": "¡Claro! ¿Qué tan corto en los lados? ¿Con maquinilla?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, Nummere drüü uf de Siite. Und de Übergang schön blände.",
+          "german": "Ja, Nummer drei an den Seiten. Und den Übergang schön blenden.",
+          "english": "Yes, number three on the sides. And blend the transition nicely.",
+          "spanish": "Sí, número tres en los laterales. Y mezcla bien la transición."
+        },
+        {
+          "speaker": "Coiffeur",
+          "swissGerman": "Guet! Wöschig vorhär?",
+          "german": "Gut! Waschen vorher?",
+          "english": "Good! Wash before?",
+          "spanish": "¡Bien! ¿Lavar antes?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, bitte. Und wänn mir fertig sind — was chostet's?",
+          "german": "Ja, bitte. Und wenn wir fertig sind — was kostet es?",
+          "english": "Yes, please. And when we're done — how much is it?",
+          "spanish": "Sí, por favor. Y cuando terminemos — ¿cuánto cuesta?"
+        },
+        {
+          "speaker": "Coiffeur",
+          "swissGerman": "En Haarschnitt mit Wöschig isch vierzg Franke.",
+          "german": "Ein Haarschnitt mit Waschen ist vierzig Franken.",
+          "english": "A haircut with wash is forty francs.",
+          "spanish": "Un corte de pelo con lavado son cuarenta francos."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und chönnd mir au no en bitzeli Gel iitue nachheer? Ich ha keis debi.",
+          "german": "Und können Sie auch noch etwas Gel einmassieren nachher? Ich habe keins dabei.",
+          "english": "And can you also put some gel in afterwards? I don't have any with me.",
+          "spanish": "¿Y también puedes echarme un poco de gel después? No tengo ninguno conmigo."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Coiffeur",
+          "german": "Friseur",
+          "explanation": "'Coiffeur' = hairdresser. Swiss use the French word."
+        },
+        {
+          "swissGerman": "chürzer",
+          "german": "kürzer",
+          "explanation": "'chürzer' = 'kürzer'. Shorter. K→Ch."
+        },
+        {
+          "swissGerman": "stah lah",
+          "german": "stehen lassen",
+          "explanation": "'stah lah' = to leave standing/keep length. Swiss form."
+        },
+        {
+          "swissGerman": "Wöschig",
+          "german": "Waschen/Wäsche",
+          "explanation": "'Wöschig' = wash. Swiss form."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Coiffeur",
+          "german": "Friseur",
+          "english": "hairdresser"
+        },
+        {
+          "swissGerman": "chürzer",
+          "german": "kürzer",
+          "english": "shorter"
+        },
+        {
+          "swissGerman": "stah lah",
+          "german": "stehen lassen",
+          "english": "to leave as is"
+        }
+      ]
+    },
+    {
+      "id": "errands-2",
+      "level": "intermediate",
+      "title": "Getting shoes repaired",
+      "situation": "You bring shoes to be repaired at the cobbler.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Grüezi! Chönd Sie die Schueh repariere? D'Sohle löst sich.",
+          "german": "Guten Tag! Können Sie diese Schuhe reparieren? Die Sohle löst sich.",
+          "english": "Hello! Can you repair these shoes? The sole is coming off.",
+          "spanish": "¡Hola! ¿Puede reparar estos zapatos? La suela se está despegando."
+        },
+        {
+          "speaker": "Cobbler",
+          "swissGerman": "Momänt, ich lueg mir die aa... Ja, das isch machbar.",
+          "german": "Moment, ich schaue mir die an... Ja, das ist machbar.",
+          "english": "One moment, let me look at them... Yes, that's doable.",
+          "spanish": "Un momento, déjame mirarlos... Sí, eso es factible."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Was wüürds chöschte und wie lang gaat's?",
+          "german": "Was würde es kosten und wie lange dauert es?",
+          "english": "How much would it cost and how long would it take?",
+          "spanish": "¿Cuánto costaría y cuánto tardaría?"
+        },
+        {
+          "speaker": "Cobbler",
+          "swissGerman": "45 Franke für beidi Schue. Und ich bruuch drüü Werktäg.",
+          "german": "45 Franken für beide Schuhe. Und ich brauche drei Werktage.",
+          "english": "45 francs for both shoes. And I need three business days.",
+          "spanish": "45 francos por ambos zapatos. Y necesito tres días hábiles."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Guet, ich lah sie do. Und chönd ihr au nöii Absätz drufmache?",
+          "german": "Gut, ich lasse sie hier. Und können Sie auch neue Absätze drauf machen?",
+          "english": "Good, I'll leave them here. And can you also put on new heels?",
+          "spanish": "Bien, los dejo aquí. ¿Y también puede poner tacones nuevos?"
+        },
+        {
+          "speaker": "Cobbler",
+          "swissGerman": "Klar, das chostet zäh Franke meh. Ich rüef Sie aa wenns fertig isch.",
+          "german": "Klar, das kostet zehn Franken mehr. Ich rufe Sie an wenn es fertig ist.",
+          "english": "Sure, that costs ten francs more. I'll call you when it's ready.",
+          "spanish": "Claro, eso cuesta diez francos más. Te llamo cuando esté listo."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und chönd mir die Absätz au so mache wie d'Originale? S'äisch en klassische Holzabsatz.",
+          "german": "Und können Sie die Absätze auch so machen wie die Originale? Es ist ein klassischer Holzabsatz.",
+          "english": "And can you make the heels like the originals? It's a classic wooden heel.",
+          "spanish": "¿Y puedes hacer los tacones como los originales? Es un tacón de madera clásico."
+        },
+        {
+          "speaker": "Cobbler",
+          "swissGerman": "Ja, das isch kei Problem. Ich ha Holzabzätz in verschideni Grösse do.",
+          "german": "Ja, das ist kein Problem. Ich habe Holzabsätze in verschiedenen Größen da.",
+          "english": "Yes, that's no problem. I have wooden heels in various sizes here.",
+          "spanish": "Sí, eso no es problema. Tengo tacones de madera en varios tamaños aquí."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Schueh",
+          "german": "Schuhe",
+          "explanation": "'Schueh' = 'Schuhe'. Shoes. Swiss form."
+        },
+        {
+          "swissGerman": "Sohle",
+          "german": "Sohle",
+          "explanation": "Sole (of a shoe). Same word."
+        },
+        {
+          "swissGerman": "Absätz",
+          "german": "Absätze",
+          "explanation": "'Absätz' = 'Absätze'. Heels (shoe heels)."
+        },
+        {
+          "swissGerman": "chöschte",
+          "german": "kosten",
+          "explanation": "'chöschte' = 'kosten'. To cost."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "repariere",
+          "german": "reparieren",
+          "english": "to repair"
+        },
+        {
+          "swissGerman": "Sohle",
+          "german": "Sohle",
+          "english": "sole"
+        },
+        {
+          "swissGerman": "Absätz",
+          "german": "Absätze",
+          "english": "heels"
+        }
+      ]
+    },
+    {
+      "id": "errands-3",
+      "level": "beginner",
+      "title": "Dropping off recycling",
+      "situation": "You bring recycling to the Sammelstelle.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Entschuldigung, wo chan ich do Glass entsorge?",
+          "german": "Entschuldigung, wo kann ich hier Glas entsorgen?",
+          "english": "Excuse me, where can I dispose of glass here?",
+          "spanish": "Perdona, ¿dónde puedo deshacerme del vidrio aquí?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Glass chunt i die grüene Container. Aber ufpasse — nöd am Sunntig!",
+          "german": "Glas kommt in die grünen Container. Aber aufpassen — nicht am Sonntag!",
+          "english": "Glass goes in the green containers. But careful — not on Sunday!",
+          "spanish": "El vidrio va en los contenedores verdes. ¡Pero cuidado — no el domingo!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und PET-Fläsche?",
+          "german": "Und PET-Flaschen?",
+          "english": "And PET bottles?",
+          "spanish": "¿Y las botellas de PET?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Die chönd Sie im Coop oder Migros zruggeh.",
+          "german": "Die können Sie im Coop oder Migros zurückgeben.",
+          "english": "You can return those at Coop or Migros.",
+          "spanish": "Puedes devolver esos en Coop o Migros."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und was mach ich mit Batterie?",
+          "german": "Und was mache ich mit Batterien?",
+          "english": "And what do I do with batteries?",
+          "spanish": "¿Y qué hago con las pilas?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Au im Lades — all Gschäft wo Batterie verchaufed, münd sie au zrugneh.",
+          "german": "Auch im Laden — alle Geschäfte die Batterien verkaufen, müssen sie auch zurücknehmen.",
+          "english": "Also in stores — all shops that sell batteries have to take them back.",
+          "spanish": "También en las tiendas — todas las tiendas que venden pilas deben aceptarlas de vuelta."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und Altmetall? Ich ha no e alte Chromestahl-Pfanne.",
+          "german": "Und Altmetall? Ich habe noch eine alte Chromstahl-Pfanne.",
+          "english": "And scrap metal? I still have an old stainless steel pan.",
+          "spanish": "¿Y el metal viejo? Todavía tengo una sartén vieja de acero inoxidable."
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Das göht zum Werchhoif. Die hand grichtig Containerzone für Metall, Holz und Sperrgut.",
+          "german": "Das geht zum Werkhof. Die haben eine richtige Containerzone für Metall, Holz und Sperrgut.",
+          "english": "That goes to the Werkhof. They have a proper container zone for metal, wood and bulk waste.",
+          "spanish": "Eso va al Werkhof. Tienen una zona de contenedores para metal, madera y residuos voluminosos."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Glass",
+          "german": "Glas",
+          "explanation": "'Glass' = 'Glas'. Glass (for recycling). Swiss spelling."
+        },
+        {
+          "swissGerman": "entsorge",
+          "german": "entsorgen",
+          "explanation": "'entsorge' = to dispose of. Swiss form."
+        },
+        {
+          "swissGerman": "zruggeh",
+          "german": "zurückgeben",
+          "explanation": "'zruggeh' = 'zurückgeben'. To return. Swiss form."
+        },
+        {
+          "swissGerman": "Sammelstelle",
+          "german": "Sammelstelle",
+          "explanation": "Collection point for recycling. Found in every Swiss community."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "entsorge",
+          "german": "entsorgen",
+          "english": "to dispose of"
+        },
+        {
+          "swissGerman": "zruggeh",
+          "german": "zurückgeben",
+          "english": "to return"
+        },
+        {
+          "swissGerman": "Sammelstelle",
+          "german": "Sammelstelle",
+          "english": "recycling collection point"
+        }
+      ]
+    },
+    {
+      "id": "errands-4",
+      "level": "intermediate",
+      "title": "At the optician",
+      "situation": "You need new glasses and visit the optician.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Grüezi! Ich bruuch e nöii Brülle. Mini alti isch kaputt.",
+          "german": "Guten Tag! Ich brauche eine neue Brille. Meine alte ist kaputt.",
+          "english": "Hello! I need new glasses. My old ones are broken.",
+          "spanish": "¡Hola! Necesito gafas nuevas. Las antiguas están rotas."
+        },
+        {
+          "speaker": "Optician",
+          "swissGerman": "Händ Sie en aktuelli Verschriibig vom Augedokter?",
+          "german": "Haben Sie eine aktuelle Verschreibung vom Augenarzt?",
+          "english": "Do you have a current prescription from the eye doctor?",
+          "spanish": "¿Tienes una receta actual del oculista?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, vo letschtem Monet. Do isch sie.",
+          "german": "Ja, vom letzten Monat. Hier ist sie.",
+          "english": "Yes, from last month. Here it is.",
+          "spanish": "Sí, del mes pasado. Aquí está."
+        },
+        {
+          "speaker": "Optician",
+          "swissGerman": "Guet! Möchted Sie au en Blueliecht-Filter für de Computer?",
+          "german": "Gut! Möchten Sie auch einen Blaulicht-Filter für den Computer?",
+          "english": "Good! Would you also like a blue light filter for the computer?",
+          "spanish": "¡Bien! ¿También quieres un filtro de luz azul para el ordenador?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, das wär guet. Ich schaffe vill am Bildschirm. Was chostet das meh?",
+          "german": "Ja, das wäre gut. Ich arbeite viel am Bildschirm. Was kostet das mehr?",
+          "english": "Yes, that'd be good. I work a lot at the screen. How much extra is that?",
+          "spanish": "Sí, eso estaría bien. Trabajo mucho frente a la pantalla. ¿Cuánto más cuesta eso?"
+        },
+        {
+          "speaker": "Optician",
+          "swissGerman": "50 Franke meh pro Glas. D'Brülle isch in öppe zäh Täg parat.",
+          "german": "50 Franken mehr pro Glas. Die Brille ist in ungefähr zehn Tagen fertig.",
+          "english": "50 francs more per lens. The glasses will be ready in about ten days.",
+          "spanish": "50 francos más por lente. Las gafas estarán listas en unos diez días."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und chani au Kontaktlinse besälle? Ich träg mangen beidiä.",
+          "german": "Und kann ich auch Kontaktlinsen bestellen? Ich trage manchmal beides.",
+          "english": "And can I also order contact lenses? I sometimes wear both.",
+          "spanish": "¿Y también puedo pedir lentillas? A veces llevo ambas."
+        },
+        {
+          "speaker": "Optician",
+          "swissGerman": "Ja, aber därfür bruuche mir en separati Verschriibig vom Augedokter.",
+          "german": "Ja, aber dafür brauchen wir eine separate Verschreibung vom Augenarzt.",
+          "english": "Yes, but for that we need a separate prescription from the eye doctor.",
+          "spanish": "Sí, pero para eso necesitamos una receta separada del oculista."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Brülle",
+          "german": "Brille",
+          "explanation": "'Brülle' = 'Brille'. Glasses."
+        },
+        {
+          "swissGerman": "Augedokter",
+          "german": "Augenarzt",
+          "explanation": "'Augedokter' = 'Augenarzt'. Eye doctor. Swiss uses 'Dokter' not 'Arzt'."
+        },
+        {
+          "swissGerman": "Verschriibig",
+          "german": "Verschreibung",
+          "explanation": "'Verschriibig' = 'Verschreibung'. Prescription."
+        },
+        {
+          "swissGerman": "Glas",
+          "german": "Glas/Linse",
+          "explanation": "'Glas' = lens (of glasses). Swiss term."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Brülle",
+          "german": "Brille",
+          "english": "glasses"
+        },
+        {
+          "swissGerman": "Augedokter",
+          "german": "Augenarzt",
+          "english": "eye doctor"
+        },
+        {
+          "swissGerman": "parat",
+          "german": "fertig/bereit",
+          "english": "ready"
+        }
+      ]
+    },
+    {
+      "id": "errands-5",
+      "level": "beginner",
+      "title": "Picking up a package",
+      "situation": "You go to the post office to pick up a package.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Grüezi! Ich ha en Abholzettel für es Päckli.",
+          "german": "Guten Tag! Ich habe einen Abholzettel für ein Paket.",
+          "english": "Hello! I have a pickup slip for a package.",
+          "spanish": "¡Hola! Tengo un aviso de recogida de un paquete."
+        },
+        {
+          "speaker": "Clerk",
+          "swissGerman": "Ja, zeigen Sie mir de Zettel und Ihri ID bitte.",
+          "german": "Ja, zeigen Sie mir den Zettel und Ihre ID bitte.",
+          "english": "Yes, show me the slip and your ID please.",
+          "spanish": "Sí, muéstrame el recibo y el DNI por favor."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Do bitte. Ich ha au no es zwöits Päckli erwartet — isch das au do?",
+          "german": "Hier bitte. Ich habe auch noch ein zweites Paket erwartet — ist das auch da?",
+          "english": "Here you go. I also expected a second package — is that here too?",
+          "spanish": "Aquí tiene. También esperaba un segundo paquete — ¿está aquí también?"
+        },
+        {
+          "speaker": "Clerk",
+          "swissGerman": "Momänt, ich lueg... Nei, das isch no nöd aachoo.",
+          "german": "Moment, ich schaue... Nein, das ist noch nicht angekommen.",
+          "english": "One moment, let me check... No, that hasn't arrived yet.",
+          "spanish": "Un momento, déjame ver... No, todavía no ha llegado."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Schad! Chönd Sie mir d'Sendigsnummere geh zum Trackä?",
+          "german": "Schade! Können Sie mir die Sendungsnummer geben zum Verfolgen?",
+          "english": "Too bad! Can you give me the tracking number?",
+          "spanish": "¡Qué lástima! ¿Puedes darme el número de seguimiento?"
+        },
+        {
+          "speaker": "Clerk",
+          "swissGerman": "Die steit uf em Zettel vom Absänder. Aber ich chan im System luege.",
+          "german": "Die steht auf dem Zettel vom Absender. Aber ich kann im System nachsehen.",
+          "english": "It's on the slip from the sender. But I can check in the system.",
+          "spanish": "Está en el resguardo del remitente. Pero puedo comprobarlo en el sistema."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Gärn! Und wenn es morge no nid aachoo isch, was mach ich dänn?",
+          "german": "Gerne! Und wenn es morgen noch nicht angekommen ist, was mache ich dann?",
+          "english": "Please! And if it still hasn't arrived tomorrow, what do I do then?",
+          "spanish": "¡Por favor! ¿Y si mañana todavía no ha llegado, qué hago entonces?"
+        },
+        {
+          "speaker": "Clerk",
+          "swissGerman": "Dänn mälded Sie sich bi mym Primus. Wir chönne en Suchauftrag stelle.",
+          "german": "Dann melden Sie sich bei der Post. Wir können einen Suchauftrag stellen.",
+          "english": "Then contact us at the post office. We can put in a search order.",
+          "spanish": "Entonces contacta con nosotros en la oficina de correos. Podemos poner una orden de búsqueda."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Abholzettel",
+          "german": "Abholzettel/Benachrichtigung",
+          "explanation": "'Abholzettel' = pickup notification slip. Left when you're not home."
+        },
+        {
+          "swissGerman": "Päckli",
+          "german": "Paket",
+          "explanation": "'Päckli' = 'Paket'. Package. Swiss diminutive."
+        },
+        {
+          "swissGerman": "aachoo",
+          "german": "angekommen",
+          "explanation": "'aachoo' = 'angekommen'. Arrived."
+        },
+        {
+          "swissGerman": "Sendigsnummere",
+          "german": "Sendungsnummer",
+          "explanation": "'Sendigsnummere' = tracking number."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Abholzettel",
+          "german": "Abholzettel",
+          "english": "pickup slip"
+        },
+        {
+          "swissGerman": "aachoo",
+          "german": "angekommen",
+          "english": "arrived"
+        },
+        {
+          "swissGerman": "Sendigsnummere",
+          "german": "Sendungsnummer",
+          "english": "tracking number"
+        }
+      ]
+    }
+  ]
+}

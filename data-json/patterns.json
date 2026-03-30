@@ -1,0 +1,237 @@
+[
+  {
+    "id": "k-to-ch",
+    "title": "K → Ch Shift",
+    "description": "One of the most distinctive features of Swiss German. Initial 'k' becomes 'ch'.",
+    "examples": [
+      {
+        "german": "Kopf",
+        "swissGerman": "Chopf",
+        "english": "head",
+        "spanish": "cabeza"
+      },
+      {
+        "german": "Kind",
+        "swissGerman": "Chind",
+        "english": "child",
+        "spanish": "niño/a"
+      },
+      {
+        "german": "kaufen",
+        "swissGerman": "chaufe",
+        "english": "to buy",
+        "spanish": "comprar"
+      },
+      {
+        "german": "kochen",
+        "swissGerman": "choche",
+        "english": "to cook",
+        "spanish": "cocinar"
+      },
+      {
+        "german": "kalt",
+        "swissGerman": "chalt",
+        "english": "cold",
+        "spanish": "frío"
+      }
+    ]
+  },
+  {
+    "id": "verb-pronoun-fusion",
+    "title": "Verb + Pronoun Fusion",
+    "description": "In Swiss German, subject pronouns commonly fuse with the verb ending.",
+    "examples": [
+      {
+        "german": "hast du",
+        "swissGerman": "hesch",
+        "english": "have you / do you have",
+        "spanish": "¿tienes?"
+      },
+      {
+        "german": "machst du",
+        "swissGerman": "machsch",
+        "english": "do you make/do",
+        "spanish": "¿tú haces?"
+      },
+      {
+        "german": "kommst du",
+        "swissGerman": "chunsch",
+        "english": "do you come",
+        "spanish": "¿tú vienes?"
+      },
+      {
+        "german": "habe ich",
+        "swissGerman": "hani",
+        "english": "I have",
+        "spanish": "yo tengo"
+      },
+      {
+        "german": "wollen wir",
+        "swissGerman": "wämmer",
+        "english": "shall we",
+        "spanish": "¿vamos?"
+      }
+    ]
+  },
+  {
+    "id": "diminutive-li",
+    "title": "The -li Diminutive",
+    "description": "Swiss German uses '-li' where standard German uses '-chen' or '-lein' for diminutives.",
+    "examples": [
+      {
+        "german": "Brötchen",
+        "swissGerman": "Weggli",
+        "english": "bread roll",
+        "spanish": "panecillo"
+      },
+      {
+        "german": "Mädchen",
+        "swissGerman": "Meitli",
+        "english": "girl",
+        "spanish": "niña"
+      },
+      {
+        "german": "Croissant",
+        "swissGerman": "Gipfeli",
+        "english": "croissant",
+        "spanish": "cruasán"
+      },
+      {
+        "german": "Päckchen",
+        "swissGerman": "Päckli",
+        "english": "package",
+        "spanish": "paquete"
+      }
+    ]
+  },
+  {
+    "id": "no-simple-past",
+    "title": "No Simple Past Tense",
+    "description": "Swiss German never uses the Präteritum (simple past). Everything uses Perfekt (have + participle).",
+    "examples": [
+      {
+        "german": "Ich war müde",
+        "swissGerman": "Ich bi müed gsi",
+        "english": "I was tired",
+        "spanish": "estaba cansado/a"
+      },
+      {
+        "german": "Ich ging",
+        "swissGerman": "Ich bi gange",
+        "english": "I went",
+        "spanish": "fui"
+      },
+      {
+        "german": "Er sagte",
+        "swissGerman": "Er hät gsäit",
+        "english": "He said",
+        "spanish": "dijo"
+      },
+      {
+        "german": "Wir machten",
+        "swissGerman": "Mir händ gmacht",
+        "english": "We made/did",
+        "spanish": "hicimos"
+      }
+    ]
+  },
+  {
+    "id": "go-particle",
+    "title": "The 'go' Motion Particle",
+    "description": "Swiss German adds 'go' before an infinitive to indicate motion toward an activity.",
+    "examples": [
+      {
+        "german": "einkaufen gehen",
+        "swissGerman": "go poschte",
+        "english": "to go shopping",
+        "spanish": "ir de compras"
+      },
+      {
+        "german": "essen gehen",
+        "swissGerman": "go esse",
+        "english": "to go eat",
+        "spanish": "ir a comer"
+      },
+      {
+        "german": "schwimmen gehen",
+        "swissGerman": "go schwümme",
+        "english": "to go swimming",
+        "spanish": "ir a nadar"
+      },
+      {
+        "german": "schauen gehen",
+        "swissGerman": "go luege",
+        "english": "to go look",
+        "spanish": "ir a mirar"
+      }
+    ]
+  },
+  {
+    "id": "french-loanwords",
+    "title": "French Loanwords",
+    "description": "Swiss German borrows many words from French due to proximity to French-speaking Switzerland.",
+    "examples": [
+      {
+        "german": "Danke",
+        "swissGerman": "Merci",
+        "english": "thank you",
+        "spanish": "gracias"
+      },
+      {
+        "german": "Entschuldigung",
+        "swissGerman": "Exgüsi",
+        "english": "excuse me",
+        "spanish": "disculpa"
+      },
+      {
+        "german": "Fahrrad",
+        "swissGerman": "Velo",
+        "english": "bicycle",
+        "spanish": "bicicleta"
+      },
+      {
+        "german": "Fahrkarte",
+        "swissGerman": "Billett",
+        "english": "ticket",
+        "spanish": "billete"
+      },
+      {
+        "german": "Bürgersteig",
+        "swissGerman": "Trottoir",
+        "english": "sidewalk",
+        "spanish": "acera"
+      }
+    ]
+  },
+  {
+    "id": "infinitive-drop-n",
+    "title": "Infinitive Drops -n",
+    "description": "Swiss German infinitives typically drop the final '-n' or '-en'.",
+    "examples": [
+      {
+        "german": "machen",
+        "swissGerman": "mache",
+        "english": "to make/do",
+        "spanish": "hacer"
+      },
+      {
+        "german": "schreiben",
+        "swissGerman": "schriibe",
+        "english": "to write",
+        "spanish": "escribir"
+      },
+      {
+        "german": "kaufen",
+        "swissGerman": "chaufe",
+        "english": "to buy",
+        "spanish": "comprar"
+      },
+      {
+        "german": "laufen",
+        "swissGerman": "laufe",
+        "english": "to walk/run",
+        "spanish": "caminar/correr"
+      }
+    ]
+  }
+]

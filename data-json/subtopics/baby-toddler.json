@@ -1,0 +1,523 @@
+{
+  "id": "baby-toddler",
+  "topicId": "family-school",
+  "title": "Baby & Toddler at Home",
+  "description": "First steps, feeding, playing, and milestones with your little one",
+  "dialogues": [
+    {
+      "id": "toddler-1",
+      "level": "beginner",
+      "title": "First steps",
+      "situation": "Your toddler just started walking and you talk to your partner.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Lueg! De Liam lauft! Er macht sini erschte Schrittli!",
+          "german": "Schau! Liam läuft! Er macht seine ersten Schritte!",
+          "english": "Look! Liam is walking! He's taking his first steps!",
+          "spanish": "¡Mira! ¡Liam está caminando! ¡Está dando sus primeros pasos!"
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "Oh wow! Chumm, Liam, chumm zu de Mami!",
+          "german": "Oh wow! Komm, Liam, komm zur Mama!",
+          "english": "Oh wow! Come, Liam, come to Mommy!",
+          "spanish": "¡Oh, vaya! ¡Ven, Liam, ven con mamá!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Er isch erst elf Mönet alt! Das isch früech, oder?",
+          "german": "Er ist erst elf Monate alt! Das ist früh, oder?",
+          "english": "He's only eleven months old! That's early, right?",
+          "spanish": "¡Solo tiene once meses! Eso es temprano, ¿no?"
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "Ja scho! Mini Schwöschter hät erst mit vierzäh Mönet aagfange.",
+          "german": "Ja schon! Meine Schwester hat erst mit vierzehn Monaten angefangen.",
+          "english": "Yes! My sister only started at fourteen months.",
+          "spanish": "Sí, mi hermana no empezó hasta los catorce meses."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Jetzt müemer alles absichere. Er gaht überall ane!",
+          "german": "Jetzt müssen wir alles absichern. Er geht überall hin!",
+          "english": "Now we need to childproof everything. He goes everywhere!",
+          "spanish": "Ahora hay que ponerlo todo a prueba de niños. ¡Va a todos lados!"
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "Und d'Schubladen! Er hät hüt scho die Töpfe use gezoge.",
+          "german": "Und die Schubladen! Er hat heute schon die Töpfe rausgezogen.",
+          "english": "And the drawers! He already pulled out the pots today.",
+          "spanish": "¡Y los cajones! Hoy ya sacó las ollas."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Echt jetzt?! Ich lueg hüt no in Baumarkt für Sicherigshake.",
+          "german": "Echt jetzt?! Ich schaue heute noch im Baumarkt nach Sicherheitshaken.",
+          "english": "Seriously?! I'll check the hardware store for safety hooks today.",
+          "spanish": "¡En serio?! Hoy busco en la ferretería los ganchos de seguridad."
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "Stimmt! D'Steckdose und d'Treppe zerscht.",
+          "german": "Stimmt! Die Steckdosen und die Treppe zuerst.",
+          "english": "True! The outlets and stairs first.",
+          "spanish": "¡Es verdad! Las tomas de corriente y las escaleras primero."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Schrittli",
+          "german": "Schritte",
+          "explanation": "'Schrittli' = 'Schrittchen'. '-li' diminutive, cute steps."
+        },
+        {
+          "swissGerman": "Mönet",
+          "german": "Monate",
+          "explanation": "'Mönet' = 'Monate'. Swiss form."
+        },
+        {
+          "swissGerman": "Schwöschter",
+          "german": "Schwester",
+          "explanation": "'Schwöschter' = 'Schwester'. Vowel shift."
+        },
+        {
+          "swissGerman": "absichere",
+          "german": "absichern",
+          "explanation": "'absichere' = 'absichern'. Childproofing."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Schrittli",
+          "german": "Schritte",
+          "english": "little steps"
+        },
+        {
+          "swissGerman": "Mönet",
+          "german": "Monate",
+          "english": "months"
+        },
+        {
+          "swissGerman": "absichere",
+          "german": "absichern",
+          "english": "to childproof"
+        }
+      ]
+    },
+    {
+      "id": "toddler-2",
+      "level": "beginner",
+      "title": "Feeding the baby",
+      "situation": "It's mealtime and you feed your toddler.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "So, Schätzli, jetzt gits Znacht. Magsch Rüebli-Brei?",
+          "german": "So, Schätzchen, jetzt gibt's Abendessen. Magst du Karottenbrei?",
+          "english": "So, sweetie, it's dinner time. Do you want carrot puree?",
+          "spanish": "Bueno, cariño, es la hora de cenar. ¿Quieres puré de zanahoria?"
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "Er hät de Brei geschter nöd möge. Probier mol de Banane-Brei.",
+          "german": "Er hat den Brei gestern nicht gemocht. Probier mal den Bananenbrei.",
+          "english": "He didn't like the puree yesterday. Try the banana puree.",
+          "spanish": "El puré no le gustó ayer. Prueba con el puré de plátano."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Okay... Mmm, lueg, fein! ... Oh nei, er spuckt alles use!",
+          "german": "Okay... Mmm, schau, lecker! ... Oh nein, er spuckt alles raus!",
+          "english": "Okay... Mmm, look, yummy! ... Oh no, he's spitting everything out!",
+          "spanish": "Bien... Mmm, ¡mira qué rico! ... ¡Oh no, lo está escupiendo todo!"
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "Haha! Probier's mit em Löffel-Flugzüüg. Brrrr, de Flieger chunnt!",
+          "german": "Haha! Versuch's mit dem Löffel-Flugzeug. Brrrr, der Flieger kommt!",
+          "english": "Haha! Try the spoon airplane. Brrrr, the plane is coming!",
+          "spanish": "¡Jaja! Prueba el avión de la cuchara. ¡Brrrr, el avión viene!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ha! Das funktioniert! Er macht de Mund uf!",
+          "german": "Ha! Das funktioniert! Er macht den Mund auf!",
+          "english": "Ha! That works! He's opening his mouth!",
+          "spanish": "¡Ja! ¡Eso funciona! ¡Está abriendo la boca!"
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "Noch zwei Löffel und er isch fertig — oh nei, jetzt isch de Brei a de Wand!",
+          "german": "Noch zwei Löffel und er ist fertig — oh nein, jetzt ist der Brei an der Wand!",
+          "english": "Two more spoonfuls and he's done — oh no, now the puree is on the wall!",
+          "spanish": "¡Dos cucharadas más y ya está — ay no, ahora el puré está en la pared!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Haha! Typisch Liam. Ich putz's nachher — kein Stress.",
+          "german": "Haha! Typisch Liam. Ich putze es später — kein Stress.",
+          "english": "Haha! Typical Liam. I'll clean it later — no stress.",
+          "spanish": "¡Jaja! Típico de Liam. Lo limpiaré luego — sin estrés."
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "Nachher gits no es Fläschli Milch und denn ab is Bettli.",
+          "german": "Nachher gibt's noch ein Fläschchen Milch und dann ab ins Bett.",
+          "english": "After that a bottle of milk and then off to bed.",
+          "spanish": "Después, un biberón de leche y a la cama."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Rüebli",
+          "german": "Karotten",
+          "explanation": "'Rüebli' = 'Karotten/Möhren'. Classic Swiss word for carrots."
+        },
+        {
+          "swissGerman": "möge",
+          "german": "gemocht",
+          "explanation": "'möge' = 'gemocht'. Swiss past participle of 'mögen'."
+        },
+        {
+          "swissGerman": "Flugzüüg",
+          "german": "Flugzeug",
+          "explanation": "'Flugzüüg' = 'Flugzeug'. Vowel doubling."
+        },
+        {
+          "swissGerman": "Bettli",
+          "german": "Bettchen",
+          "explanation": "'Bettli' = 'Bettchen'. '-chen' → '-li'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Rüebli",
+          "german": "Karotten",
+          "english": "carrots"
+        },
+        {
+          "swissGerman": "Brei",
+          "german": "Brei",
+          "english": "puree/mash"
+        },
+        {
+          "swissGerman": "Fläschli",
+          "german": "Fläschchen",
+          "english": "bottle"
+        }
+      ]
+    },
+    {
+      "id": "toddler-3",
+      "level": "intermediate",
+      "title": "At the Spielgruppe",
+      "situation": "You bring your 2-year-old to the playgroup for the first time.",
+      "lines": [
+        {
+          "speaker": "Leader",
+          "swissGerman": "Willkomme i de Spielgruppe! Wie heisst de Chlini?",
+          "german": "Willkommen in der Spielgruppe! Wie heißt der Kleine?",
+          "english": "Welcome to the playgroup! What's the little one's name?",
+          "spanish": "¡Bienvenido al grupo de juego! ¿Cómo se llama el pequeño?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Das isch de Liam, er isch zwöi und es halbs.",
+          "german": "Das ist Liam, er ist zweieinhalb.",
+          "english": "This is Liam, he's two and a half.",
+          "spanish": "Este es Liam, tiene dos años y medio."
+        },
+        {
+          "speaker": "Leader",
+          "swissGerman": "Hoi Liam! Mir händ Legostei und Farbstift. Wotsch spile?",
+          "german": "Hallo Liam! Wir haben Legosteine und Farbstifte. Willst du spielen?",
+          "english": "Hi Liam! We have Lego bricks and crayons. Do you want to play?",
+          "spanish": "¡Hola Liam! Tenemos bloques de Lego y lápices de colores. ¿Quieres jugar?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Er isch chli schüüch. Meistens bruucht er es paar Minute.",
+          "german": "Er ist ein bisschen schüchtern. Meistens braucht er ein paar Minuten.",
+          "english": "He's a bit shy. He usually needs a few minutes.",
+          "spanish": "Es un poco tímido. Normalmente necesita unos minutos."
+        },
+        {
+          "speaker": "Leader",
+          "swissGerman": "Kei Problem! D'anderi Chind sind au da. Er gwöhnt sich schnäll.",
+          "german": "Kein Problem! Die anderen Kinder sind auch da. Er gewöhnt sich schnell.",
+          "english": "No problem! The other children are here too. He'll get used to it quickly.",
+          "spanish": "¡Sin problema! Los otros niños también están aquí. Se acostumbrará rápido."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Söll ich bliibe oder chan ich gah?",
+          "german": "Soll ich bleiben oder kann ich gehen?",
+          "english": "Should I stay or can I go?",
+          "spanish": "¿Me quedo o me puedo ir?"
+        },
+        {
+          "speaker": "Leader",
+          "swissGerman": "Sie chönd ruhig gah. Mir rüefed Sie aa wenn öppis isch. Normalerwiis goht's prima.",
+          "german": "Sie können ruhig gehen. Wir rufen Sie an wenn etwas ist. Normalerweise läuft es prima.",
+          "english": "You can go without worry. We'll call if anything comes up. It normally goes great.",
+          "spanish": "Puedes irte tranquilo. Te llamamos si surge algo. Normalmente va muy bien."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Merci. Denn bis um zwölfi — und tschüss, Liam!",
+          "german": "Danke. Dann bis zwölf Uhr — und tschüss, Liam!",
+          "english": "Thanks. Then see you at twelve — and bye, Liam!",
+          "spanish": "Gracias. Entonces hasta las doce — ¡y adiós, Liam!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Spielgruppe",
+          "german": "Spielgruppe",
+          "explanation": "Same word: Swiss playgroup for pre-kindergarten kids."
+        },
+        {
+          "swissGerman": "schüüch",
+          "german": "schüchtern",
+          "explanation": "'schüüch' = 'schüchtern'. Swiss short form."
+        },
+        {
+          "swissGerman": "gwöhnt",
+          "german": "gewöhnt",
+          "explanation": "'gwöhnt' = 'gewöhnt'. 'ge-' → 'g-'."
+        },
+        {
+          "swissGerman": "Chind",
+          "german": "Kinder",
+          "explanation": "'Chind' = 'Kinder'. K→Ch."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Spielgruppe",
+          "german": "Spielgruppe",
+          "english": "playgroup"
+        },
+        {
+          "swissGerman": "schüüch",
+          "german": "schüchtern",
+          "english": "shy"
+        },
+        {
+          "swissGerman": "Chind",
+          "german": "Kinder",
+          "english": "children"
+        }
+      ]
+    },
+    {
+      "id": "toddler-4",
+      "level": "beginner",
+      "title": "Changing a diaper",
+      "situation": "You and your partner negotiate who changes the diaper.",
+      "lines": [
+        {
+          "speaker": "Partner",
+          "swissGerman": "Ugh, ich glaub de Liam hät i d'Wundle gmacht.",
+          "german": "Ugh, ich glaube Liam hat in die Windel gemacht.",
+          "english": "Ugh, I think Liam did something in his diaper.",
+          "spanish": "Ugh, creo que Liam hizo algo en el pañal."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Oh nei... Du bisch draa! Ich ha letschts Mal gwächslet.",
+          "german": "Oh nein... Du bist dran! Ich habe letztes Mal gewechselt.",
+          "english": "Oh no... It's your turn! I changed it last time.",
+          "spanish": "Oh no... ¡Te toca a ti! Yo lo cambié la última vez."
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "Okay okay... Wo sind d'Feuchtüecher und die frische Wundle?",
+          "german": "Okay okay... Wo sind die Feuchttücher und die frischen Windeln?",
+          "english": "Okay okay... Where are the wet wipes and the fresh diapers?",
+          "spanish": "Bueno, bueno... ¿Dónde están las toallitas húmedas y los pañales limpios?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Im Wickeltäsche. Und nimm au d'Wundcreme mit.",
+          "german": "In der Wickeltasche. Und nimm auch die Wundcreme mit.",
+          "english": "In the changing bag. And take the diaper cream too.",
+          "spanish": "En la bolsa del cambiador. Y coge también la crema para pañal."
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "So, chumm Liam, mir gönd dini Wundle wächsle.",
+          "german": "So, komm Liam, wir gehen deine Windel wechseln.",
+          "english": "Alright, come Liam, let's change your diaper.",
+          "spanish": "Bueno, ven Liam, vamos a cambiarte el pañal."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und mach au s'Fenster uf! Haha!",
+          "german": "Und mach auch das Fenster auf! Haha!",
+          "english": "And open the window! Haha!",
+          "spanish": "¡Y abre la ventana! ¡Haha!"
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "Ha... okay, jetzt weiss ich wieso mir d'Wundcreme wiirklich bruuched!",
+          "german": "Ha... okay, jetzt weiß ich warum wir die Wundcreme wirklich brauchen!",
+          "english": "Ha... okay, now I know why we really need the diaper cream!",
+          "spanish": "Ja... vale, ¡ahora sé por qué realmente necesitamos la crema para pañal!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Willkomme im Elternlebe! Mir sind jetzt offizielle Expärtä.",
+          "german": "Willkommen im Elternleben! Wir sind jetzt offizielle Experten.",
+          "english": "Welcome to parenthood! We're officially experts now.",
+          "spanish": "¡Bienvenido a la paternidad! Ya somos oficialmente expertos."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Wundle",
+          "german": "Windel",
+          "explanation": "'Wundle' = 'Windel'. Swiss plural form."
+        },
+        {
+          "swissGerman": "gwächslet",
+          "german": "gewechselt",
+          "explanation": "'gwächslet' = 'gewechselt'. 'ge-' → 'g-'."
+        },
+        {
+          "swissGerman": "Feuchtüecher",
+          "german": "Feuchttücher",
+          "explanation": "'Feuchtüecher' = 'Feuchttücher'. Swiss form."
+        },
+        {
+          "swissGerman": "Wickeltäsche",
+          "german": "Wickeltasche",
+          "explanation": "'Wickeltäsche' = 'Wickeltasche'. Vowel shift."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Wundle wächsle",
+          "german": "Windeln wechseln",
+          "english": "to change diapers"
+        },
+        {
+          "swissGerman": "Feuchtüecher",
+          "german": "Feuchttücher",
+          "english": "wet wipes"
+        },
+        {
+          "swissGerman": "Wickeltäsche",
+          "german": "Wickeltasche",
+          "english": "changing bag"
+        }
+      ]
+    },
+    {
+      "id": "toddler-5",
+      "level": "intermediate",
+      "title": "Toddler won't sleep",
+      "situation": "Your toddler refuses to go to sleep and you try everything.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Liam, es isch Ziit zum Schlafe. Chumm, mir gönd is Bett.",
+          "german": "Liam, es ist Zeit zum Schlafen. Komm, wir gehen ins Bett.",
+          "english": "Liam, it's time to sleep. Come, let's go to bed.",
+          "spanish": "Liam, es hora de dormir. Ven, vamos a la cama."
+        },
+        {
+          "speaker": "Toddler",
+          "swissGerman": "Nei! Wott nöd! Wott spile!",
+          "german": "Nein! Will nicht! Will spielen!",
+          "english": "No! Don't want to! Want to play!",
+          "spanish": "¡No! ¡No quiero! ¡Quiero jugar!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Mir chönd es Buechli läse. Weli Gschicht wotsch?",
+          "german": "Wir können ein Büchlein lesen. Welche Geschichte willst du?",
+          "english": "We can read a little book. Which story do you want?",
+          "spanish": "Podemos leer un librito. ¿Qué historia quieres?"
+        },
+        {
+          "speaker": "Toddler",
+          "swissGerman": "De Bär! De Bär!",
+          "german": "Den Bären! Den Bären!",
+          "english": "The bear! The bear!",
+          "spanish": "¡El oso! ¡El oso!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Okay, eini Gschicht, denn Liecht us. Abgmacht?",
+          "german": "Okay, eine Geschichte, dann Licht aus. Abgemacht?",
+          "english": "Okay, one story, then lights out. Deal?",
+          "spanish": "Bien, un cuento y luego apagamos la luz. ¿Trato?"
+        },
+        {
+          "speaker": "Toddler",
+          "swissGerman": "Zwöi Gschichte!",
+          "german": "Zwei Geschichten!",
+          "english": "Two stories!",
+          "spanish": "¡Dos historias!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Eine — und wenn du guet schlafsch, darf de Bär morn wider cho.",
+          "german": "Eine — und wenn du gut schläfst, darf der Bär morgen wieder kommen.",
+          "english": "One — and if you sleep well, the bear can come back tomorrow.",
+          "spanish": "Una y, si duermes bien, el oso puede volver mañana."
+        },
+        {
+          "speaker": "Toddler",
+          "swissGerman": "Okaaay... Bär!",
+          "german": "Okaaay... Bär!",
+          "english": "Okaaay... Bear!",
+          "spanish": "¡Okaaay... Oso!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Buechli",
+          "german": "Büchlein",
+          "explanation": "'Buechli' = 'Büchlein'. '-lein' → '-li'."
+        },
+        {
+          "swissGerman": "Gschicht",
+          "german": "Geschichte",
+          "explanation": "'Gschicht' = 'Geschichte'. Shortened."
+        },
+        {
+          "swissGerman": "Liecht",
+          "german": "Licht",
+          "explanation": "'Liecht' = 'Licht'. Added vowel."
+        },
+        {
+          "swissGerman": "Abgmacht",
+          "german": "Abgemacht",
+          "explanation": "'Abgmacht' = 'Abgemacht'. 'ge-' → 'g-'. Swiss way of saying 'deal'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Gschicht",
+          "german": "Geschichte",
+          "english": "story"
+        },
+        {
+          "swissGerman": "Liecht us",
+          "german": "Licht aus",
+          "english": "lights out"
+        },
+        {
+          "swissGerman": "Abgmacht?",
+          "german": "Abgemacht?",
+          "english": "Deal?"
+        }
+      ]
+    }
+  ]
+}

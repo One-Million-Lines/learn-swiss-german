@@ -1,0 +1,523 @@
+{
+  "id": "daily-services",
+  "topicId": "daily-life",
+  "title": "Services & Practical Interactions",
+  "description": "Visiting the post office, bank counter, pharmacy, dry cleaning, and asking for help at service locations",
+  "dialogues": [
+    {
+      "id": "services-1",
+      "level": "beginner",
+      "title": "At the post office",
+      "situation": "You send a package at a Swiss Post office.",
+      "lines": [
+        {
+          "speaker": "Clerk",
+          "swissGerman": "Grüezi! Was chan ich für Sie mache?",
+          "german": "Guten Tag! Was kann ich für Sie tun?",
+          "english": "Hello! What can I do for you?",
+          "spanish": "¡Hola! ¿Qué puedo hacer por usted?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich möcht das Päckli nach Dütschland schicke.",
+          "german": "Ich möchte dieses Päckchen nach Deutschland schicken.",
+          "english": "I'd like to send this package to Germany.",
+          "spanish": "Me gustaría enviar este paquete a Alemania."
+        },
+        {
+          "speaker": "Clerk",
+          "swissGerman": "Guet. Mir müessed das wäge. Händ Sie scho en Adress-Etikette druf?",
+          "german": "Gut. Wir müssen das wiegen. Haben Sie schon eine Adress-Etikette drauf?",
+          "english": "Good. We need to weigh it. Do you already have an address label on it?",
+          "spanish": "Bien. Necesitamos pesarlo. ¿Ya tiene una etiqueta de dirección?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, die isch scho druf. Wie lang dauerts nach Dütschland?",
+          "german": "Ja, die ist schon drauf. Wie lange dauert es nach Deutschland?",
+          "english": "Yes, it's already on. How long does it take to Germany?",
+          "spanish": "Sí, ya está encendido. ¿Cuánto tarda a Alemania?"
+        },
+        {
+          "speaker": "Clerk",
+          "swissGerman": "Priority isch drü bis füf Werktäg. Eco isch günstiger, aber e Wuche.",
+          "german": "Priority ist drei bis fünf Werktage. Eco ist günstiger, aber eine Woche.",
+          "english": "Priority is three to five business days. Eco is cheaper but a week.",
+          "spanish": "El prioritario es de tres a cinco días hábiles. El económico es más barato pero tarda una semana."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich nimm Priority. Und chan ich au Briefmarke chaufe?",
+          "german": "Ich nehme Priority. Und kann ich auch Briefmarken kaufen?",
+          "english": "I'll take Priority. And can I also buy stamps?",
+          "spanish": "Me llevo el Prioritario. ¿Y también puedo comprar sellos?"
+        },
+        {
+          "speaker": "Clerk",
+          "swissGerman": "Ja klar. Wie vill wänd Sie?",
+          "german": "Ja klar. Wie viele möchten Sie?",
+          "english": "Of course. How many would you like?",
+          "spanish": "Por supuesto. ¿Cuántos quieres?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Zehn Stück bitte — für d'Briefpost.",
+          "german": "Zehn Stück bitte — für die Briefpost.",
+          "english": "Ten please — for letters.",
+          "spanish": "Diez por favor — para cartas."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Päckli",
+          "german": "Päckchen",
+          "explanation": "'Päckli' = 'Päckchen'. Small package. Swiss diminutive."
+        },
+        {
+          "swissGerman": "wäge",
+          "german": "wiegen",
+          "explanation": "'wäge' = 'wiegen'. To weigh."
+        },
+        {
+          "swissGerman": "Werktäg",
+          "german": "Werktage",
+          "explanation": "'Werktäg' = 'Werktage'. Business days."
+        },
+        {
+          "swissGerman": "Briefmarke",
+          "german": "Briefmarken",
+          "explanation": "Same: stamps. Swiss Post also uses 'A-Post' and 'B-Post' categories."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Päckli schicke",
+          "german": "Päckchen schicken",
+          "english": "to send a package"
+        },
+        {
+          "swissGerman": "wäge",
+          "german": "wiegen",
+          "english": "to weigh"
+        },
+        {
+          "swissGerman": "Briefmarke",
+          "german": "Briefmarken",
+          "english": "stamps"
+        }
+      ]
+    },
+    {
+      "id": "services-2",
+      "level": "intermediate",
+      "title": "At the bank counter",
+      "situation": "You do a transaction at the bank counter.",
+      "lines": [
+        {
+          "speaker": "Teller",
+          "swissGerman": "Grüezi! Händ Sie en Termin oder chani Ihne grad hälfe?",
+          "german": "Guten Tag! Haben Sie einen Termin oder kann ich Ihnen gleich helfen?",
+          "english": "Hello! Do you have an appointment or can I help you right away?",
+          "spanish": "¡Hola! ¿Tiene cita o puedo atenderle ahora mismo?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich hätt gärn Gäld ab mim Konto abghobe.",
+          "german": "Ich hätte gerne Geld von meinem Konto abgehoben.",
+          "english": "I'd like to withdraw money from my account.",
+          "spanish": "Me gustaría retirar dinero de mi cuenta."
+        },
+        {
+          "speaker": "Teller",
+          "swissGerman": "Wie vill wänd Sie abhebe? Und chani Ihri ID-Charte gseh?",
+          "german": "Wie viel möchten Sie abheben? Und kann ich Ihre ID-Karte sehen?",
+          "english": "How much would you like to withdraw? And can I see your ID card?",
+          "spanish": "¿Cuánto desea retirar? ¿Y puedo ver su documento de identidad?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "500 Franke. Do isch mini ID.",
+          "german": "500 Franken. Hier ist meine ID.",
+          "english": "500 francs. Here's my ID.",
+          "spanish": "500 francos. Aquí está mi identificación."
+        },
+        {
+          "speaker": "Teller",
+          "swissGerman": "Merci. Wänd Sie grossi oder chliini Nötli?",
+          "german": "Danke. Möchten Sie große oder kleine Noten?",
+          "english": "Thanks. Would you like large or small bills?",
+          "spanish": "Gracias. ¿Quieres billetes grandes o pequeños?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Chliini bitte. Zwöi Hunderter und de Räscht i Zwänzger.",
+          "german": "Kleine bitte. Zwei Hunderter und den Rest in Zwanzigern.",
+          "english": "Small please. Two hundreds and the rest in twenties.",
+          "spanish": "Pequeños, por favor. Dos de cien y el resto en veintes."
+        },
+        {
+          "speaker": "Teller",
+          "swissGerman": "Moment — dö isch s'Gäld. Und chani au en Fufzger dezue tür?",
+          "german": "Moment — hier ist das Geld. Und darf ich auch einen Fünfziger dazu?",
+          "english": "Just a moment — here's the money. And may I add a fifty too?",
+          "spanish": "Un momento — aquí está el dinero. ¿Y puedo añadir también un billete de cincuenta?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Nei danke — Zwänzger isch perfekt so. Merci!",
+          "german": "Nein danke — Zwanziger sind perfekt so. Danke!",
+          "english": "No thanks — twenties are perfect like that. Thanks!",
+          "spanish": "No gracias — los billetes de veinte están perfectos así. ¡Gracias!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "abghobe",
+          "german": "abgehoben",
+          "explanation": "'abghobe' = 'abgehoben'. To withdraw."
+        },
+        {
+          "swissGerman": "Nötli",
+          "german": "Noten/Scheine",
+          "explanation": "'Nötli' = 'Geldscheine'. Banknotes. Swiss diminutive for bills."
+        },
+        {
+          "swissGerman": "Hunderter",
+          "german": "Hundert-Franken-Note",
+          "explanation": "100 franc bill. Swiss denomination."
+        },
+        {
+          "swissGerman": "Zwänzger",
+          "german": "Zwanziger/20-Franken-Note",
+          "explanation": "'Zwänzger' = 20 franc bill."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Gäld abhebe",
+          "german": "Geld abheben",
+          "english": "to withdraw money"
+        },
+        {
+          "swissGerman": "Nötli",
+          "german": "Geldscheine",
+          "english": "banknotes"
+        },
+        {
+          "swissGerman": "ID-Charte",
+          "german": "ID-Karte",
+          "english": "ID card"
+        }
+      ]
+    },
+    {
+      "id": "services-3",
+      "level": "beginner",
+      "title": "At the dry cleaner / Reinigung",
+      "situation": "You drop off clothes at a dry cleaner.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Grüezi! Ich hätt gärn de Aazug reinige lah.",
+          "german": "Guten Tag! Ich hätte gerne den Anzug reinigen lassen.",
+          "english": "Hello! I'd like to have this suit dry cleaned.",
+          "spanish": "¡Hola! Me gustaría llevar este traje a la tintorería."
+        },
+        {
+          "speaker": "Employee",
+          "swissGerman": "Gärn! Nur de Aazug oder au s'Hemd?",
+          "german": "Gerne! Nur den Anzug oder auch das Hemd?",
+          "english": "Sure! Just the suit or the shirt too?",
+          "spanish": "¡Claro! ¿Solo el traje o también la camisa?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Au s'Hemd. Und chönd ihr de Fleck do useneh?",
+          "german": "Auch das Hemd. Und können Sie den Fleck hier entfernen?",
+          "english": "The shirt too. And can you remove this stain?",
+          "spanish": "La camisa también. ¿Y puedes quitar esta mancha?"
+        },
+        {
+          "speaker": "Employee",
+          "swissGerman": "Mir probiered's! Was isch das für en Fleck?",
+          "german": "Wir versuchen es! Was ist das für ein Fleck?",
+          "english": "We'll try! What kind of stain is it?",
+          "spanish": "¡Lo intentaremos! ¿Qué tipo de mancha es?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Rotwii, leider. Und wänn isch alles fertig?",
+          "german": "Rotwein, leider. Und wann ist alles fertig?",
+          "english": "Red wine, unfortunately. And when will everything be ready?",
+          "spanish": "Vino tinto, lamentablemente. ¿Y cuándo estará todo listo?"
+        },
+        {
+          "speaker": "Employee",
+          "swissGerman": "In drü Werktäg. Sie überchömed en SMS wänns parat isch.",
+          "german": "In drei Werktagen. Sie bekommen eine SMS wenn es bereit ist.",
+          "english": "In three business days. You'll get a text when it's ready.",
+          "spanish": "En tres días hábiles. Recibirás un mensaje cuando esté listo."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Super. Und chan ich ördshalber au am Mittag abholen?",
+          "german": "Super. Und kann ich der Einfachheit halber auch mittags abholen?",
+          "english": "Great. And can I also pick it up at lunchtime for convenience?",
+          "spanish": "Genial. ¿Y también puedo recogerlo a la hora del almuerzo por comodidad?"
+        },
+        {
+          "speaker": "Employee",
+          "swissGerman": "Ja, mir sind durchgehend offe bis sächsi.",
+          "german": "Ja, wir haben durchgehend bis sechs geöffnet.",
+          "english": "Yes, we're continuously open until six.",
+          "spanish": "Sí, estamos abiertos continuamente hasta las seis."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "reinige lah",
+          "german": "reinigen lassen",
+          "explanation": "'reinige lah' = 'reinigen lassen'. To have cleaned."
+        },
+        {
+          "swissGerman": "Aazug",
+          "german": "Anzug",
+          "explanation": "'Aazug' = 'Anzug'. Suit."
+        },
+        {
+          "swissGerman": "useneh",
+          "german": "entfernen/herausnehmen",
+          "explanation": "'useneh' = to remove. Swiss form."
+        },
+        {
+          "swissGerman": "parat",
+          "german": "bereit/fertig",
+          "explanation": "'parat' = ready. From French 'paré'. Very Swiss word."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "reinige lah",
+          "german": "reinigen lassen",
+          "english": "to have cleaned"
+        },
+        {
+          "swissGerman": "parat",
+          "german": "bereit/fertig",
+          "english": "ready"
+        },
+        {
+          "swissGerman": "Fleck useneh",
+          "german": "Fleck entfernen",
+          "english": "to remove a stain"
+        }
+      ]
+    },
+    {
+      "id": "services-4",
+      "level": "intermediate",
+      "title": "At the Gemeinde / municipal office",
+      "situation": "You visit the Gemeinde (municipal office) for an administrative task.",
+      "lines": [
+        {
+          "speaker": "Clerk",
+          "swissGerman": "Grüezi! Händ Sie sich online aagmeldet?",
+          "german": "Guten Tag! Haben Sie sich online angemeldet?",
+          "english": "Hello! Did you register online?",
+          "spanish": "¡Hola! ¿Se registró en línea?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, ich ha en Termin für d'Ummeldig. Ich bi züglet.",
+          "german": "Ja, ich habe einen Termin für die Ummeldung. Ich bin umgezogen.",
+          "english": "Yes, I have an appointment for the address change. I moved.",
+          "spanish": "Sí, tengo una cita para el cambio de dirección. Me mudé."
+        },
+        {
+          "speaker": "Clerk",
+          "swissGerman": "Guet. Ich bruuch Ihri ID und de Mietvertrag vo de nöie Wohnig.",
+          "german": "Gut. Ich brauche Ihre ID und den Mietvertrag der neuen Wohnung.",
+          "english": "Good. I need your ID and the rental contract of the new apartment.",
+          "spanish": "Bien. Necesito su DNI y el contrato de alquiler del nuevo apartamento."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Do isch alles. Muess ich no öppis usfülle?",
+          "german": "Hier ist alles. Muss ich noch etwas ausfüllen?",
+          "english": "Here's everything. Do I need to fill out anything else?",
+          "spanish": "Aquí está todo. ¿Necesito rellenar algo más?"
+        },
+        {
+          "speaker": "Clerk",
+          "swissGerman": "Ja, das Formular do. Name, alti und nöii Adrässe, und Ziizugsdatum.",
+          "german": "Ja, dieses Formular hier. Name, alte und neue Adresse, und Einzugsdatum.",
+          "english": "Yes, this form here. Name, old and new address, and move-in date.",
+          "spanish": "Sí, este formulario aquí. Nombre, dirección antigua y nueva, y fecha de entrada."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Okay. Und chostet d'Ummeldig öppis?",
+          "german": "Okay. Und kostet die Ummeldung etwas?",
+          "english": "Okay. And does the address change cost anything?",
+          "spanish": "Bien. ¿Y el cambio de dirección cuesta algo?"
+        },
+        {
+          "speaker": "Clerk",
+          "swissGerman": "Nei, d'Ummeldig isch gratis. Sie bechömed en Beständigung per Post.",
+          "german": "Nein, die Ummeldung ist gratis. Sie bekommen eine Bestätigung per Post.",
+          "english": "No, the address change is free. You'll receive a confirmation by post.",
+          "spanish": "No, el cambio de dirección es gratuito. Recibirás una confirmación por correo."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt. Und chönnt ich grad au de Ausweis verlängere?",
+          "german": "Perfekt. Und könnte ich gleich auch den Ausweis verlängern?",
+          "english": "Perfect. And could I also renew my ID while I'm here?",
+          "spanish": "Perfecto. ¿Y podría renovar también mi DNI mientras estoy aquí?"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Ummeldig",
+          "german": "Ummeldung",
+          "explanation": "'Ummeldig' = 'Ummeldung'. Address change registration. Required by law in Switzerland."
+        },
+        {
+          "swissGerman": "züglet",
+          "german": "umgezogen",
+          "explanation": "'züglet' = 'umgezogen'. Swiss word for moved (house)."
+        },
+        {
+          "swissGerman": "Gemeinde",
+          "german": "Gemeinde",
+          "explanation": "Municipal/community office. Where Swiss admin tasks are done."
+        },
+        {
+          "swissGerman": "Ziizugsdatum",
+          "german": "Einzugsdatum",
+          "explanation": "'Ziizugsdatum' = 'Einzugsdatum'. Move-in date."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Ummeldig",
+          "german": "Ummeldung",
+          "english": "address change registration"
+        },
+        {
+          "swissGerman": "züglet",
+          "german": "umgezogen",
+          "english": "moved (house)"
+        },
+        {
+          "swissGerman": "usfülle",
+          "german": "ausfüllen",
+          "english": "to fill out"
+        }
+      ]
+    },
+    {
+      "id": "services-5",
+      "level": "beginner",
+      "title": "Asking for help at a service location",
+      "situation": "You need help and ask an employee in a shop.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Entschuldigung, chönd Sie mir hälfe?",
+          "german": "Entschuldigung, können Sie mir helfen?",
+          "english": "Excuse me, can you help me?",
+          "spanish": "Perdona, ¿puedes ayudarme?"
+        },
+        {
+          "speaker": "Employee",
+          "swissGerman": "Ja sicher! Was bruuched Sie?",
+          "german": "Ja sicher! Was brauchen Sie?",
+          "english": "Yes, of course! What do you need?",
+          "spanish": "Sí, por supuesto. ¿Qué necesitas?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich suech de Schlüsseldienst. Händ ihr so öppis do?",
+          "german": "Ich suche den Schlüsseldienst. Haben Sie so etwas hier?",
+          "english": "I'm looking for a key-cutting service. Do you have that here?",
+          "spanish": "Estoy buscando un servicio de copias de llaves. ¿Lo tienen aquí?"
+        },
+        {
+          "speaker": "Employee",
+          "swissGerman": "Ja, hinne links bim Schuemacher. De macht au Schlüssel.",
+          "german": "Ja, hinten links beim Schuhmacher. Der macht auch Schlüssel.",
+          "english": "Yes, in the back left by the cobbler. He also makes keys.",
+          "spanish": "Sí, al fondo a la izquierda junto al zapatero. También hace llaves."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ah super, danke! Und isch de no offe?",
+          "german": "Ah super, danke! Und ist der noch offen?",
+          "english": "Ah great, thanks! And is he still open?",
+          "spanish": "¡Ah, genial, gracias! ¿Y todavía está abierto?"
+        },
+        {
+          "speaker": "Employee",
+          "swissGerman": "Ja, bis Sächsi. Sie händ no gnueg Ziit.",
+          "german": "Ja, bis sechs. Sie haben noch genug Zeit.",
+          "english": "Yes, until six. You still have enough time.",
+          "spanish": "Sí, hasta las seis. Todavía tienes tiempo suficiente."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Super! Und macht er au Spare-Schlüssel?",
+          "german": "Super! Und macht er auch Ersatz-Schlüssel?",
+          "english": "Great! And does he also make spare keys?",
+          "spanish": "¡Genial! ¿Y también hace copias de llaves?"
+        },
+        {
+          "speaker": "Employee",
+          "swissGerman": "Ja, de meischt Standard-Schlüssel isch innert zehn Minute fertig.",
+          "german": "Ja, die meisten Standard-Schlüssel sind innerhalb von zehn Minuten fertig.",
+          "english": "Yes, most standard keys are done within ten minutes.",
+          "spanish": "Sí, la mayoría de las llaves estándar están listas en unos diez minutos."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "hälfe",
+          "german": "helfen",
+          "explanation": "'hälfe' = 'helfen'. To help. Swiss form."
+        },
+        {
+          "swissGerman": "Schlüsseldienst",
+          "german": "Schlüsseldienst",
+          "explanation": "Key-cutting service. Often found inside Migros/Coop."
+        },
+        {
+          "swissGerman": "Schuemacher",
+          "german": "Schuhmacher",
+          "explanation": "'Schuemacher' = 'Schuhmacher'. Cobbler."
+        },
+        {
+          "swissGerman": "offe",
+          "german": "offen/auf",
+          "explanation": "'offe' = 'offen'. Open."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Chönd Sie mir hälfe?",
+          "german": "Können Sie mir helfen?",
+          "english": "Can you help me?"
+        },
+        {
+          "swissGerman": "Ich suech...",
+          "german": "Ich suche...",
+          "english": "I'm looking for..."
+        },
+        {
+          "swissGerman": "offe",
+          "german": "offen/geöffnet",
+          "english": "open"
+        }
+      ]
+    }
+  ]
+}

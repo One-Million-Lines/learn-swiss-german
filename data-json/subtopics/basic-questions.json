@@ -1,0 +1,491 @@
+{
+  "id": "basic-questions",
+  "topicId": "everyday-basics",
+  "title": "Basic Questions",
+  "description": "What, where, when, why, how, who — forming core questions in Swiss German",
+  "dialogues": [
+    {
+      "id": "basic-questions-1",
+      "level": "beginner",
+      "title": "Tourist asking basic questions",
+      "situation": "You're a newcomer asking simple questions to a friendly local.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Exgüsi, wo isch de nöchscht Supermarkt?",
+          "german": "Entschuldigung, wo ist der nächste Supermarkt?",
+          "english": "Excuse me, where's the nearest supermarket?",
+          "spanish": "Perdona, ¿dónde está el supermercado más cercano?"
+        },
+        {
+          "speaker": "Local",
+          "swissGerman": "Grad da ume, öppe zwee Minute z'Fuess.",
+          "german": "Gleich da drüben, etwa zwei Minuten zu Fuss.",
+          "english": "Right over there, about two minutes on foot.",
+          "spanish": "Allí mismo, unos dos minutos a pie."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und wänn hät er uf?",
+          "german": "Und wann hat er auf?",
+          "english": "And when does it open?",
+          "spanish": "¿Y cuándo abre?"
+        },
+        {
+          "speaker": "Local",
+          "swissGerman": "Vo achti bis nüni am Aabig. Am Sunntig isch er zue.",
+          "german": "Von acht bis neun Uhr abends. Am Sonntag ist er zu.",
+          "english": "From eight to nine in the evening. On Sunday it's closed.",
+          "spanish": "De ocho a nueve de la noche. El domingo está cerrado."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ah, guet z'wüsse! Wieviel choschtet öppe es Brot?",
+          "german": "Ah, gut zu wissen! Wieviel kostet etwa ein Brot?",
+          "english": "Ah, good to know! How much does a bread cost roughly?",
+          "spanish": "Ah, bueno saberlo. ¿Cuánto cuesta un pan más o menos?"
+        },
+        {
+          "speaker": "Local",
+          "swissGerman": "So öppe drüü bis vier Franke.",
+          "german": "So etwa drei bis vier Franken.",
+          "english": "About three to four francs.",
+          "spanish": "Unos tres o cuatro francos."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Super, merci! Und dörf ich no e Frag stelle?",
+          "german": "Super, danke! Und darf ich noch eine Frage stellen?",
+          "english": "Great, thanks! And may I ask one more question?",
+          "spanish": "Genial, ¡gracias! ¿Y puedo hacer una pregunta más?"
+        },
+        {
+          "speaker": "Local",
+          "swissGerman": "Klar! Ich bin au no nöi do, hälf gärn.",
+          "german": "Klar! Ich bin auch noch neu hier, ich helfe gerne.",
+          "english": "Sure! I'm also still new here, happy to help.",
+          "spanish": "¡Claro! Yo también soy nuevo aquí, con gusto ayudo."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Wo isch...?",
+          "german": "Wo ist...?",
+          "explanation": "'isch' = 'ist'. The most basic question word stays the same: 'wo'."
+        },
+        {
+          "swissGerman": "Wänn hät er uf?",
+          "german": "Wann hat er auf?",
+          "explanation": "'Wänn' = 'wann'. 'uf ha' = 'aufhaben' (to be open)."
+        },
+        {
+          "swissGerman": "Wieviel choschtet?",
+          "german": "Wieviel kostet?",
+          "explanation": "'choschtet' = 'kostet'. The 'k' becomes 'ch'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Wo isch...?",
+          "german": "Wo ist...?",
+          "english": "Where is...?"
+        },
+        {
+          "swissGerman": "Wänn...?",
+          "german": "Wann...?",
+          "english": "When...?"
+        },
+        {
+          "swissGerman": "Wieviel choschtet...?",
+          "german": "Wieviel kostet...?",
+          "english": "How much does ... cost?"
+        }
+      ]
+    },
+    {
+      "id": "basic-questions-2",
+      "level": "beginner",
+      "title": "Asking why and how at work",
+      "situation": "Your Swiss colleague shows you a new process at work.",
+      "lines": [
+        {
+          "speaker": "Colleague",
+          "swissGerman": "So, das isch de neu Bricht.",
+          "german": "So, das ist der neue Bericht.",
+          "english": "So, this is the new report.",
+          "spanish": "Bueno, este es el nuevo informe."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Wie funkzioniert das genau?",
+          "german": "Wie funktioniert das genau?",
+          "english": "How does this work exactly?",
+          "spanish": "¿Cómo funciona esto exactamente?"
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Du drucksch da druf und denn chunt alles automatisch.",
+          "german": "Du drückst da drauf und dann kommt alles automatisch.",
+          "english": "You press here and then everything comes automatically.",
+          "spanish": "Pulsas aquí y luego todo sale automáticamente."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und warum mache mir das andersch als vorher?",
+          "german": "Und warum machen wir das anders als vorher?",
+          "english": "And why are we doing it differently than before?",
+          "spanish": "¿Y por qué lo hacemos de forma diferente que antes?"
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Will s'alte System z'langsam gsi isch.",
+          "german": "Weil das alte System zu langsam war.",
+          "english": "Because the old system was too slow.",
+          "spanish": "Porque el sistema antiguo era demasiado lento."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ah, macht Sinn. Wer hät das entschide?",
+          "german": "Ah, macht Sinn. Wer hat das entschieden?",
+          "english": "Ah, makes sense. Who decided that?",
+          "spanish": "Ah, tiene sentido. ¿Quién lo decidió?"
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "De Chef, wer süscht!",
+          "german": "Der Chef, wer sonst!",
+          "english": "The boss, who else!",
+          "spanish": "¡El jefe, quién más!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Wie funkzioniert...?",
+          "german": "Wie funktioniert...?",
+          "explanation": "'Wie' stays the same. 'funkzioniert' follows the same pattern as German."
+        },
+        {
+          "swissGerman": "Warum",
+          "german": "Warum",
+          "explanation": "'Warum' is the same. In casual speech, Swiss also use 'wieso' or 'weso'."
+        },
+        {
+          "swissGerman": "Wer hät das entschide?",
+          "german": "Wer hat das entschieden?",
+          "explanation": "'Wer' is the same. 'entschide' = 'entschieden'. Past participle loses final -n and ge-."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Wie...?",
+          "german": "Wie...?",
+          "english": "How...?"
+        },
+        {
+          "swissGerman": "Warum / Wieso...?",
+          "german": "Warum / Wieso...?",
+          "english": "Why...?"
+        },
+        {
+          "swissGerman": "Wer...?",
+          "german": "Wer...?",
+          "english": "Who...?"
+        }
+      ]
+    },
+    {
+      "id": "basic-questions-3",
+      "level": "intermediate",
+      "title": "Asking which and what kind",
+      "situation": "You're shopping for shoes and asking specific questions.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Weli Gröössi bruuchi für Wanderschueh?",
+          "german": "Welche Grösse brauche ich für Wanderschuhe?",
+          "english": "What size do I need for hiking shoes?",
+          "spanish": "¿Qué talla necesito para las botas de senderismo?"
+        },
+        {
+          "speaker": "Seller",
+          "swissGerman": "Was für Schüeh hesch jetzt aa?",
+          "german": "Was für Schuhe hast du jetzt an?",
+          "english": "What shoes are you wearing now?",
+          "spanish": "¿Qué zapatos llevas ahora?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Drüüevierzgi.",
+          "german": "Dreiundvierzig.",
+          "english": "Forty-three.",
+          "spanish": "Cuarenta y tres."
+        },
+        {
+          "speaker": "Seller",
+          "swissGerman": "Denn wür ich vierevierzgi empfähle. Weli Farb händ Sie gern?",
+          "german": "Dann würde ich vierundvierzig empfehlen. Welche Farbe hätten Sie gern?",
+          "english": "Then I'd recommend forty-four. What color would you like?",
+          "spanish": "Entonces te recomendaría el cuarenta y cuatro. ¿Qué color te gustaría?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Was händ er so? Öppis in Blau oder Grau?",
+          "german": "Was haben Sie so? Etwas in Blau oder Grau?",
+          "english": "What do you have? Something in blue or gray?",
+          "spanish": "¿Qué tienes? ¿Algo en azul o gris?"
+        },
+        {
+          "speaker": "Seller",
+          "swissGerman": "Mir händ beidi. Weli wänd Sie probiere?",
+          "german": "Wir haben beide. Welche wollen Sie probieren?",
+          "english": "We have both. Which ones would you like to try?",
+          "spanish": "Tenemos ambos. ¿Cuáles le gustaría probar?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "D'blaui bitte. Cha ich si kurz aalaufe?",
+          "german": "Die blaue bitte. Kann ich sie kurz anlaufen?",
+          "english": "The blue ones please. Can I try walking in them?",
+          "spanish": "Los azules, por favor. ¿Puedo probar a caminar con ellos?"
+        },
+        {
+          "speaker": "Seller",
+          "swissGerman": "Na sicher, das isch wichtig bi Wanderschueh. Laufed Sie e chli Runde.",
+          "german": "Natürlich, das ist wichtig bei Wanderschuhen. Laufen Sie eine kleine Runde.",
+          "english": "Of course, that's important with hiking shoes. Walk around a bit.",
+          "spanish": "Por supuesto, eso es importante con las botas de senderismo. Camina un poco."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Weli",
+          "german": "Welche",
+          "explanation": "'Weli' / 'Wele' = 'welche/welcher'. Shortened form that changes with gender."
+        },
+        {
+          "swissGerman": "Was für",
+          "german": "Was für",
+          "explanation": "Same construction 'Was für' = 'What kind of'. Very commonly used."
+        },
+        {
+          "swissGerman": "Drüüevierzgi",
+          "german": "Dreiundvierzig",
+          "explanation": "Numbers: 'drüü' = 'drei', '-evierzgi' = '-undvierzig'. The 'und' becomes 'e'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Weli / Wele...?",
+          "german": "Welche / Welcher...?",
+          "english": "Which...?"
+        },
+        {
+          "swissGerman": "Was für...?",
+          "german": "Was für...?",
+          "english": "What kind of...?"
+        },
+        {
+          "swissGerman": "Was händ Sie?",
+          "german": "Was haben Sie?",
+          "english": "What do you have?"
+        }
+      ]
+    },
+    {
+      "id": "basic-questions-4",
+      "level": "intermediate",
+      "title": "Asking how much and how many",
+      "situation": "You're at a Markt (market) buying vegetables and comparing prices.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Wie viel choschted d'Rüebli?",
+          "german": "Wie viel kosten die Karotten?",
+          "english": "How much do the carrots cost?",
+          "spanish": "¿Cuánto cuestan las zanahorias?"
+        },
+        {
+          "speaker": "Vendor",
+          "swissGerman": "Drüü Franke s'Kilo.",
+          "german": "Drei Franken das Kilo.",
+          "english": "Three francs a kilo.",
+          "spanish": "Tres francos el kilo."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und wie viel Tomaten isch es Pfund?",
+          "german": "Und wieviele Tomaten sind ein Pfund?",
+          "english": "And how many tomatoes is a pound?",
+          "spanish": "¿Y cuántos tomates es una libra?"
+        },
+        {
+          "speaker": "Vendor",
+          "swissGerman": "So öppe sechs bis acht Stück.",
+          "german": "So etwa sechs bis acht Stück.",
+          "english": "About six to eight pieces.",
+          "spanish": "Unas seis u ocho piezas."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Guet, denn nimmi es Kilo Rüebli und es Pfund Tomaten.",
+          "german": "Gut, dann nehme ich ein Kilo Karotten und ein Pfund Tomaten.",
+          "english": "Good, then I'll take a kilo of carrots and a pound of tomatoes.",
+          "spanish": "Bien, entonces me llevo un kilo de zanahorias y medio kilo de tomates."
+        },
+        {
+          "speaker": "Vendor",
+          "swissGerman": "Sechs fufzg zäme. Bruuched Sie no öppis?",
+          "german": "Sechs fünfzig zusammen. Brauchen Sie noch etwas?",
+          "english": "Six fifty together. Do you need anything else?",
+          "spanish": "Seis cincuenta en total. ¿Necesitas algo más?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, hätted Sie au no frische Lauch? Ich bruuchi en für e Suppe.",
+          "german": "Ja, hätten Sie auch noch frischen Lauch? Ich brauche ihn für eine Suppe.",
+          "english": "Yes, do you also have fresh leeks? I need them for a soup.",
+          "spanish": "Sí, ¿también tienes puerros frescos? Los necesito para una sopa."
+        },
+        {
+          "speaker": "Vendor",
+          "swissGerman": "Ja, do isch de letzte. Nomol achtzg Räppe.",
+          "german": "Ja, hier ist der letzte. Noch einmal achtzig Rappen.",
+          "english": "Yes, here's the last one. Another eighty centimes.",
+          "spanish": "Sí, aquí está el último. Otros ochenta céntimos."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Wie viel choschted",
+          "german": "Wie viel kosten",
+          "explanation": "'Wie viel' for uncountable / price. 'choschted' = 'kosten'. Note: singular verb form used."
+        },
+        {
+          "swissGerman": "Wie viel Tomaten",
+          "german": "Wie viele Tomaten",
+          "explanation": "In Swiss German, 'wie viel' is used for both 'how much' and 'how many' — no distinction like German 'viel/viele'."
+        },
+        {
+          "swissGerman": "Rüebli",
+          "german": "Karotten / Möhren",
+          "explanation": "'Rüebli' is the Swiss word for carrots. One of the most well-known Swiss German food words."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Wie viel choschtet...?",
+          "german": "Wie viel kostet...?",
+          "english": "How much does ... cost?"
+        },
+        {
+          "swissGerman": "Wie viel...?",
+          "german": "Wie viele...?",
+          "english": "How many...?"
+        },
+        {
+          "swissGerman": "Bruuched Sie no öppis?",
+          "german": "Brauchen Sie noch etwas?",
+          "english": "Do you need anything else?"
+        }
+      ]
+    },
+    {
+      "id": "basic-questions-5",
+      "level": "beginner",
+      "title": "What's that? — curious questions",
+      "situation": "You see something unusual at a Swiss festival and keep asking questions.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Was isch das? Das gseht speziell us!",
+          "german": "Was ist das? Das sieht speziell aus!",
+          "english": "What is that? It looks unusual!",
+          "spanish": "¿Qué es eso? ¡Tiene un aspecto inusual!"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Das isch en Alphorn. Es tradizionells Instrumänt.",
+          "german": "Das ist ein Alphorn. Ein traditionelles Instrument.",
+          "english": "That's an alphorn. A traditional instrument.",
+          "spanish": "Eso es un alphorn. Un instrumento tradicional."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Cool! Vo wo chunt das ursprünglich?",
+          "german": "Cool! Woher kommt das ursprünglich?",
+          "english": "Cool! Where does it originally come from?",
+          "spanish": "¡Genial! ¿De dónde viene originalmente?"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Us de Bärge, d'Hirte händ's bruucht zum Kommuniziere.",
+          "german": "Aus den Bergen, die Hirten haben es zum Kommunizieren benutzt.",
+          "english": "From the mountains, shepherds used it to communicate.",
+          "spanish": "De las montañas, los pastores lo usaban para comunicarse."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Wie lang isch so es Ding?",
+          "german": "Wie lang ist so ein Ding?",
+          "english": "How long is such a thing?",
+          "spanish": "¿Cuánto dura algo así?"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "So öppe drüü bis vier Meter!",
+          "german": "So etwa drei bis vier Meter!",
+          "english": "About three to four meters!",
+          "spanish": "¡Unos tres o cuatro metros!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und tönt das guet? Ich stell mer vor, es isch wahnsinnig laut!",
+          "german": "Und klingt das gut? Ich stelle mir vor, es ist wahnsinnig laut!",
+          "english": "And does it sound good? I imagine it's incredibly loud!",
+          "spanish": "¿Y suena bien? ¡Me imagino que es increíblemente ruidoso!"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "De Chlang isch wunderschön! I de Bärge chliingt's eifach magisch.",
+          "german": "Der Klang ist wunderschön! In den Bergen klingt es einfach magisch.",
+          "english": "The sound is beautiful! In the mountains it simply sounds magical.",
+          "spanish": "¡El sonido es hermoso! En las montañas suena simplemente mágico."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Was isch das?",
+          "german": "Was ist das?",
+          "explanation": "The most basic question. 'Was' stays the same, 'isch' = 'ist'."
+        },
+        {
+          "swissGerman": "Vo wo chunt das?",
+          "german": "Woher kommt das?",
+          "explanation": "'Vo wo' = 'woher' (from where). Swiss German splits it into two words."
+        },
+        {
+          "swissGerman": "Wie lang",
+          "german": "Wie lang",
+          "explanation": "'Wie' + adjective forms many question patterns: 'wie lang' (how long), 'wie alt' (how old), etc."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Was isch das?",
+          "german": "Was ist das?",
+          "english": "What is that?"
+        },
+        {
+          "swissGerman": "Vo wo...?",
+          "german": "Woher...?",
+          "english": "From where...?"
+        },
+        {
+          "swissGerman": "Wie lang / Wie alt / Wie gross?",
+          "german": "Wie lang / Wie alt / Wie gross?",
+          "english": "How long / How old / How big?"
+        }
+      ]
+    }
+  ]
+}

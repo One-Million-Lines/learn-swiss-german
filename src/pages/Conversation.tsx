@@ -6,12 +6,15 @@ import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Skeleton } from "@/components/ui/skeleton";
+import { Toggle } from "@/components/ui/toggle";
 import { api, type Subtopic } from "@/lib/api";
 
 const SubtopicPage = () => {
   const { subtopicId } = useParams<{ subtopicId: string }>();
   const [dialogueIdx, setDialogueIdx] = useState(0);
   const [visited, setVisited] = useState<Set<number>>(new Set([0]));
+  const [showEnglish, setShowEnglish] = useState(true);
+  const [showSpanish, setShowSpanish] = useState(false);
 
   const { data: sub, isLoading } = useQuery<Subtopic>({
     queryKey: ["subtopic", subtopicId],
@@ -91,9 +94,33 @@ const SubtopicPage = () => {
 
         {/* Dialogue — chat style */}
         <section className="mb-10">
-          <div className="flex items-center gap-2 mb-4">
-            <MessageCircle className="h-5 w-5 text-primary" />
-            <h2 className="text-2xl font-bold">Dialogue</h2>
+          <div className="flex items-center justify-between mb-4">
+            <div className="flex items-center gap-2">
+              <MessageCircle className="h-5 w-5 text-primary" />
+              <h2 className="text-2xl font-bold">Dialogue</h2>
+            </div>
+            <div className="flex gap-1.5">
+              <Toggle
+                variant="outline"
+                size="sm"
+                pressed={showEnglish}
+                onPressedChange={setShowEnglish}
+                aria-label="Toggle English"
+                className="text-xs gap-1.5"
+              >
+                🇬🇧 English
+              </Toggle>
+              <Toggle
+                variant="outline"
+                size="sm"
+                pressed={showSpanish}
+                onPressedChange={setShowSpanish}
+                aria-label="Toggle Spanish"
+                className="text-xs gap-1.5"
+              >
+                🇪🇸 Spanish
+              </Toggle>
+            </div>
           </div>
           <div className="rounded-2xl border border-border bg-muted/30 p-5 shadow-inner">
             <div className="space-y-4">
@@ -116,9 +143,16 @@ const SubtopicPage = () => {
                         <p className={`text-sm mt-1 ${isYou ? "text-primary-foreground/70" : "text-muted-foreground"}`}>
                           {line.german}
                         </p>
-                        <p className={`text-sm italic ${isYou ? "text-primary-foreground/60" : "text-muted-foreground/80"}`}>
-                          {line.english}
-                        </p>
+                        {showEnglish && (
+                          <p className={`text-sm italic ${isYou ? "text-primary-foreground/60" : "text-muted-foreground/80"}`}>
+                            {line.english}
+                          </p>
+                        )}
+                        {showSpanish && line.spanish && (
+                          <p className={`text-sm italic ${isYou ? "text-primary-foreground/60" : "text-muted-foreground/80"}`}>
+                            {line.spanish}
+                          </p>
+                        )}
                       </div>
                     </div>
                   </div>

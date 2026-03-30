@@ -1,0 +1,518 @@
+{
+  "id": "construction-site",
+  "topicId": "work",
+  "title": "On the Construction Site",
+  "description": "Working on a building site — tools, safety, teamwork, and breaks",
+  "dialogues": [
+    {
+      "id": "construction-1",
+      "level": "beginner",
+      "title": "Morning briefing",
+      "situation": "The foreman gives a quick briefing before the workday begins.",
+      "lines": [
+        {
+          "speaker": "Foreman",
+          "swissGerman": "Morge zäme! Hüt mached mir d'Schallig für de zweite Stock fertig.",
+          "german": "Morgen zusammen! Heute machen wir die Schalung für den zweiten Stock fertig.",
+          "english": "Morning everyone! Today we finish the formwork for the second floor.",
+          "spanish": "¡Buenos días a todos! Hoy terminamos el encofrado del segundo piso."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Chömed d'Betonierer au hüt?",
+          "german": "Kommen die Betonierer auch heute?",
+          "english": "Are the concrete workers also coming today?",
+          "spanish": "¿También vienen hoy los trabajadores del hormigón?"
+        },
+        {
+          "speaker": "Foreman",
+          "swissGerman": "Nei, die chömed erscht morn. Hüt mached mir alles parat.",
+          "german": "Nein, die kommen erst morgen. Heute machen wir alles bereit.",
+          "english": "No, they come tomorrow. Today we get everything ready.",
+          "spanish": "No, vienen mañana. Hoy lo preparamos todo."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Okay. Bruuchts no meh Holz für d'Schallig?",
+          "german": "Okay. Braucht es noch mehr Holz für die Schalung?",
+          "english": "Okay. Do we need more wood for the formwork?",
+          "spanish": "Bien. ¿Necesitamos más madera para el encofrado?"
+        },
+        {
+          "speaker": "Foreman",
+          "swissGerman": "Ja, de Lieferwage chunnt um Nüni. Händsched aazieh und Helm ufsetze!",
+          "german": "Ja, der Lieferwagen kommt um neun. Handschuhe anziehen und Helm aufsetzen!",
+          "english": "Yes, the delivery truck comes at nine. Put on gloves and helmet!",
+          "spanish": "Sí, el camión de reparto llega a las nueve. ¡Ponte los guantes y el casco!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Alles klar, mir gönd's aa!",
+          "german": "Alles klar, wir gehen's an!",
+          "english": "All clear, let's get to it!",
+          "spanish": "¡De acuerdo, vamos a ello!"
+        },
+        {
+          "speaker": "Foreman",
+          "swissGerman": "Und um chalb elfi isch Z nüni-Paus. Nöd vergässe!",
+          "german": "Und um halb elf ist Znüni-Pause. Nicht vergessen!",
+          "english": "And at half ten is the Znüni break. Don't forget!",
+          "spanish": "Y a las diez y media es el descanso del Znüni. ¡No lo olvides!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich ha scho en Weggli und en Kafi parat. Bin bereit!",
+          "german": "Ich habe schon ein Brötchen und einen Kaffee bereit. Bin vorbereitet!",
+          "english": "I already have a bread roll and a coffee ready. I'm prepared!",
+          "spanish": "Ya tengo un panecillo y un café listos. ¡Estoy preparado!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Schallig",
+          "german": "Schalung",
+          "explanation": "'Schallig' = 'Schalung'. '-ung' → '-ig' pattern."
+        },
+        {
+          "swissGerman": "parat",
+          "german": "bereit",
+          "explanation": "'parat' = 'bereit'. French-derived word common in Swiss German."
+        },
+        {
+          "swissGerman": "Händsched",
+          "german": "Handschuhe",
+          "explanation": "'Händsched' = 'Handschuhe'. Very different Swiss form."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Schallig",
+          "german": "Schalung",
+          "english": "formwork"
+        },
+        {
+          "swissGerman": "parat mache",
+          "german": "bereit machen",
+          "english": "to get ready"
+        },
+        {
+          "swissGerman": "Händsched",
+          "german": "Handschuhe",
+          "english": "gloves"
+        }
+      ]
+    },
+    {
+      "id": "construction-2",
+      "level": "beginner",
+      "title": "Asking for a tool",
+      "situation": "You need a specific tool and ask your colleague to pass it.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Hey, chasch mir de Bohrmaschine gäh?",
+          "german": "Hey, kannst du mir die Bohrmaschine geben?",
+          "english": "Hey, can you pass me the drill?",
+          "spanish": "Oye, ¿me pasas el taladro?"
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Weli? D'grossi oder d'chliini?",
+          "german": "Welche? Die große oder die kleine?",
+          "english": "Which one? The big one or the small one?",
+          "spanish": "¿Cuál de los dos? ¿El grande o el pequeño?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "D'grossi, ich muess es Loch i d'Wand bohre.",
+          "german": "Die große, ich muss ein Loch in die Wand bohren.",
+          "english": "The big one, I need to drill a hole in the wall.",
+          "spanish": "El grande, necesito taladrar un agujero en la pared."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Da, pass uf! Und nimm de richtig Bohrer, s'isch Beton.",
+          "german": "Da, pass auf! Und nimm den richtigen Bohrer, es ist Beton.",
+          "english": "Here, be careful! And use the right drill bit, it's concrete.",
+          "spanish": "Aquí, ¡ten cuidado! Y usa la broca correcta, es hormigón."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, ich nimm de Betonbohrer. Merci!",
+          "german": "Ja, ich nehme den Betonbohrer. Danke!",
+          "english": "Yes, I'll use the concrete drill bit. Thanks!",
+          "spanish": "Sí, usaré la broca de hormigón. ¡Gracias!"
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Und dänk an d'Schutzbrülle!",
+          "german": "Und denk an die Schutzbrille!",
+          "english": "And remember the safety goggles!",
+          "spanish": "¡Y recuerda las gafas de seguridad!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ha ich scho. Isch de Kompressor au parat?",
+          "german": "Habe ich schon. Ist der Kompressor auch bereit?",
+          "english": "Already have them. Is the compressor ready too?",
+          "spanish": "Ya los tengo. ¿El compresor también está listo?"
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Ja, isch am Laafe. Aber chli lut hüt — pass uf s'Göhor!",
+          "german": "Ja, ist am Laufen. Aber etwas laut heute — pass auf das Gehör auf!",
+          "english": "Yes, it's running. But a bit loud today — watch out for your hearing!",
+          "spanish": "Sí, está en marcha. Pero hoy hace un poco de ruido — ¡cuidado con los oídos!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Bohrmaschine",
+          "german": "Bohrmaschine",
+          "explanation": "Same word. Some technical terms remain the same."
+        },
+        {
+          "swissGerman": "Weli",
+          "german": "Welche",
+          "explanation": "'Weli' = 'Welche'. Shortened."
+        },
+        {
+          "swissGerman": "Schutzbrülle",
+          "german": "Schutzbrille",
+          "explanation": "'Schutzbrülle' = 'Schutzbrille'. Vowel shift."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Bohrmaschine",
+          "german": "Bohrmaschine",
+          "english": "drill"
+        },
+        {
+          "swissGerman": "Betonbohrer",
+          "german": "Betonbohrer",
+          "english": "concrete drill bit"
+        },
+        {
+          "swissGerman": "Schutzbrülle",
+          "german": "Schutzbrille",
+          "english": "safety goggles"
+        }
+      ]
+    },
+    {
+      "id": "construction-3",
+      "level": "intermediate",
+      "title": "Safety incident discussion",
+      "situation": "The team discusses a near-miss safety incident.",
+      "lines": [
+        {
+          "speaker": "Foreman",
+          "swissGerman": "Lüüt, mir händ hüt e Beinahe-Unfall gha. Das darf nöd passiere!",
+          "german": "Leute, wir hatten heute einen Beinahe-Unfall. Das darf nicht passieren!",
+          "english": "Everyone, we had a near-miss today. That must not happen!",
+          "spanish": "¡Todos, hoy tuvimos casi un accidente. ¡Eso no puede volver a pasar!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Was isch passiert?",
+          "german": "Was ist passiert?",
+          "english": "What happened?",
+          "spanish": "¿Qué pasó?"
+        },
+        {
+          "speaker": "Foreman",
+          "swissGerman": "En Balke isch fascht uf de Kopf vom Thomas gfalle. Er hät de Helm nöd agha.",
+          "german": "Ein Balken ist fast auf Thomas' Kopf gefallen. Er hatte den Helm nicht an.",
+          "english": "A beam almost fell on Thomas' head. He wasn't wearing his helmet.",
+          "spanish": "Una viga casi cayó sobre la cabeza de Thomas. No llevaba casco."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Gopf, das isch gfährlich! Isch em Thomas öppis passiert?",
+          "german": "Mist, das ist gefährlich! Ist Thomas etwas passiert?",
+          "english": "Damn, that's dangerous! Did anything happen to Thomas?",
+          "spanish": "¡Vaya, eso es peligroso! ¿Le pasó algo a Thomas?"
+        },
+        {
+          "speaker": "Foreman",
+          "swissGerman": "Nei, zum Glück nöd. Aber ab hüt: kein Zuegang zum Bau ohni Helm!",
+          "german": "Nein, zum Glück nicht. Aber ab heute: kein Zugang zum Bau ohne Helm!",
+          "english": "No, luckily not. But from today: no access to the site without a helmet!",
+          "spanish": "No, por suerte no. Pero desde hoy: ¡sin casco no se entra a la obra!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Absolut richtig. Sicherheit gaht vor.",
+          "german": "Absolut richtig. Sicherheit geht vor.",
+          "english": "Absolutely right. Safety comes first.",
+          "spanish": "Totalmente correcto. La seguridad es lo primero."
+        },
+        {
+          "speaker": "Foreman",
+          "swissGerman": "Guet. Ich meld das witerhin em Sicherheitsbeauftragtige.",
+          "german": "Gut. Ich melde das weiters dem Sicherheitsbeauftragten.",
+          "english": "Good. I'll report this further to the safety officer.",
+          "spanish": "Bien. Informaré de esto al responsable de seguridad."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Richtig. Und mir mached vor de Mittagspuus en kurze Sicherheits-Check.",
+          "german": "Richtig. Und wir machen vor der Mittagspause einen kurzen Sicherheits-Check.",
+          "english": "Right. And we'll do a quick safety check before lunch.",
+          "spanish": "Correcto. Y hacemos una comprobación de seguridad rápida antes de comer."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Balke",
+          "german": "Balken",
+          "explanation": "'Balke' = 'Balken'. Dropped '-n'."
+        },
+        {
+          "swissGerman": "Gopf",
+          "german": "Mist",
+          "explanation": "'Gopf' = Swiss exclamation, mild expletive."
+        },
+        {
+          "swissGerman": "agha",
+          "german": "angehabt",
+          "explanation": "'agha' = 'angehabt'. Very shortened past participle."
+        },
+        {
+          "swissGerman": "gfährlich",
+          "german": "gefährlich",
+          "explanation": "'gfährlich' = 'gefährlich'. 'ge-' → 'g-'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Beinahe-Unfall",
+          "german": "Beinahe-Unfall",
+          "english": "near-miss"
+        },
+        {
+          "swissGerman": "Sicherheit gaht vor",
+          "german": "Sicherheit geht vor",
+          "english": "safety comes first"
+        },
+        {
+          "swissGerman": "Helm",
+          "german": "Helm",
+          "english": "helmet"
+        }
+      ]
+    },
+    {
+      "id": "construction-4",
+      "level": "beginner",
+      "title": "Znüni break on site",
+      "situation": "You take a morning break with colleagues on the construction site.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Znüni-Zit! Ich ha Zopf und Chäs mitgnoh.",
+          "german": "Frühstückspause! Ich habe Zopf und Käse mitgenommen.",
+          "english": "Snack break! I brought bread and cheese.",
+          "spanish": "¡Pausa para picar! Traje pan y queso."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Mega, ich ha nur en Weggli und en Kafi.",
+          "german": "Super, ich habe nur ein Brötchen und einen Kaffee.",
+          "english": "Great, I only have a bread roll and a coffee.",
+          "spanish": "Genial, solo tengo un panecillo y un café."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Wotsch es Stück? Ich ha gnueg.",
+          "german": "Willst du ein Stück? Ich habe genug.",
+          "english": "Want a piece? I have enough.",
+          "spanish": "¿Quieres un trozo? Tengo de sobra."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Ja gern, merci! De Zopf gseht fein us.",
+          "german": "Ja gern, danke! Der Zopf sieht lecker aus.",
+          "english": "Yes please, thanks! The bread looks delicious.",
+          "spanish": "Sí, por favor, ¡gracias! El pan tiene una pinta deliciosa."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Isch vo de Bäckerei am Eck. Die händ de beschte Zopf im Quartier.",
+          "german": "Ist von der Bäckerei an der Ecke. Die haben den besten Zopf im Quartier.",
+          "english": "It's from the bakery on the corner. They have the best bread in the neighborhood.",
+          "spanish": "Es de la panadería de la esquina. Tienen el mejor pan del barrio."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Mmmh, stimmt! So, noch füüf Minute denn gömmers wieder aa.",
+          "german": "Mmmh, stimmt! So, noch fünf Minuten dann gehen wir es wieder an.",
+          "english": "Mmm, true! So, five more minutes then we get back to it.",
+          "spanish": "Mmm, ¡verdad! Bueno, cinco minutos más y volvemos a ello."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Wotsch au en Kafi? Ich ha e Thermoskanne mitgnoh.",
+          "german": "Willst du auch einen Kaffee? Ich habe eine Thermoskanne mitgenommen.",
+          "english": "Want a coffee too? I brought a thermos.",
+          "spanish": "¿Quieres también un café? Traje un termo."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Ja gern! Du bisch de Beschti!",
+          "german": "Ja gerne! Du bist der Beste!",
+          "english": "Yes please! You're the best!",
+          "spanish": "Sí, por favor. ¡Eres el mejor!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Znüni",
+          "german": "Frühstückspause/Vormittagssnack",
+          "explanation": "'Znüni' = morning break/snack at 9am. Swiss German institution."
+        },
+        {
+          "swissGerman": "Zopf",
+          "german": "Zopf",
+          "explanation": "Swiss braided bread, traditional."
+        },
+        {
+          "swissGerman": "mitgnoh",
+          "german": "mitgenommen",
+          "explanation": "'mitgnoh' = 'mitgenommen'. Very shortened."
+        },
+        {
+          "swissGerman": "gömmers",
+          "german": "gehen wir es",
+          "explanation": "'gömmers' = 'gehen wir es'. Triple fusion."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Znüni",
+          "german": "Frühstückspause",
+          "english": "morning snack break"
+        },
+        {
+          "swissGerman": "Zopf",
+          "german": "Zopf",
+          "english": "braided bread"
+        },
+        {
+          "swissGerman": "gnueg",
+          "german": "genug",
+          "english": "enough"
+        }
+      ]
+    },
+    {
+      "id": "construction-5",
+      "level": "intermediate",
+      "title": "Bad weather on site",
+      "situation": "It starts raining heavily and work needs to be adjusted.",
+      "lines": [
+        {
+          "speaker": "Foreman",
+          "swissGerman": "Lüüt, es fangt aa rägne. Mir müend d'Materialie zuedecke!",
+          "german": "Leute, es fängt an zu regnen. Wir müssen die Materialien zudecken!",
+          "english": "Everyone, it's starting to rain. We need to cover the materials!",
+          "spanish": "¡Todos, está empezando a llover. Hay que cubrir los materiales!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich nimm d'Blache für de Zement.",
+          "german": "Ich nehme die Plane für den Zement.",
+          "english": "I'll take the tarp for the cement.",
+          "spanish": "Cogeré la lona para el cemento."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Und ich bring s'Wärchzüüg ine. Das söll nöd nass wärde.",
+          "german": "Und ich bringe das Werkzeug rein. Das soll nicht nass werden.",
+          "english": "And I'll bring the tools inside. They shouldn't get wet.",
+          "spanish": "Y meteré las herramientas dentro. No deberían mojarse."
+        },
+        {
+          "speaker": "Foreman",
+          "swissGerman": "Guet. Wenn's z'fescht rägnet, mached mir inne wiiter.",
+          "german": "Gut. Wenn es zu stark regnet, machen wir drinnen weiter.",
+          "english": "Good. If it rains too hard, we continue inside.",
+          "spanish": "Bien. Si llueve demasiado fuerte, continuamos dentro."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Was chömmer inne mache?",
+          "german": "Was können wir drinnen machen?",
+          "english": "What can we do inside?",
+          "spanish": "¿Qué podemos hacer en interior?"
+        },
+        {
+          "speaker": "Foreman",
+          "swissGerman": "D'Leitige im Keller sind no nöd fertig. Die chömmer au bi Räge mache.",
+          "german": "Die Leitungen im Keller sind noch nicht fertig. Die können wir auch bei Regen machen.",
+          "english": "The pipes in the basement aren't done yet. We can do those even in rain.",
+          "spanish": "Las tuberías del sótano aún no están listas. Esas podemos hacerlas incluso con lluvia."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und wänn es so richtig stürmt — send mir denn frii?",
+          "german": "Und wenn es richtig stürmt — sind wir dann frei?",
+          "english": "And if there's a real storm — do we get the day off?",
+          "spanish": "¿Y si hay una tormenta de verdad — ¿tenemos el día libre?"
+        },
+        {
+          "speaker": "Foreman",
+          "swissGerman": "Haha, nöd so schnäll! Aber bi Sturm-Alarm schicke mir alli hei.",
+          "german": "Haha, nicht so schnell! Aber bei Sturm-Alarm schicken wir alle nach Hause.",
+          "english": "Haha, not so fast! But with storm warnings we send everyone home.",
+          "spanish": "Jaja, ¡no tan rápido! Pero con avisos de tormenta mandamos a todos a casa."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "rägne",
+          "german": "regnen",
+          "explanation": "'rägne' = 'regnen'. Vowel shift."
+        },
+        {
+          "swissGerman": "Blache",
+          "german": "Plane",
+          "explanation": "'Blache' = 'Plane/Abdeckung'. Swiss German word."
+        },
+        {
+          "swissGerman": "Wärchzüüg",
+          "german": "Werkzeug",
+          "explanation": "'Wärchzüüg' = 'Werkzeug'. Vowel shifts."
+        },
+        {
+          "swissGerman": "ine",
+          "german": "rein",
+          "explanation": "'ine' = 'rein/hinein'. Swiss direction particle."
+        },
+        {
+          "swissGerman": "z'fescht",
+          "german": "zu stark",
+          "explanation": "'z'fescht' = 'zu stark/fest'. 'fescht' = 'fest/stark'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Blache",
+          "german": "Plane",
+          "english": "tarp"
+        },
+        {
+          "swissGerman": "Wärchzüüg",
+          "german": "Werkzeug",
+          "english": "tools"
+        },
+        {
+          "swissGerman": "Leitige",
+          "german": "Leitungen",
+          "english": "pipes"
+        }
+      ]
+    }
+  ]
+}

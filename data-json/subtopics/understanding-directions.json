@@ -1,0 +1,523 @@
+{
+  "id": "understanding-directions",
+  "topicId": "daily-life",
+  "title": "Understanding Directions",
+  "description": "Understanding directions with landmarks, locations, and clarifying when you're confused",
+  "dialogues": [
+    {
+      "id": "directions-1",
+      "level": "beginner",
+      "title": "Using landmarks",
+      "situation": "Someone gives you directions using local landmarks.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Entschuldigung, wie chumi zum Bahnhof?",
+          "german": "Entschuldigung, wie komme ich zum Bahnhof?",
+          "english": "Excuse me, how do I get to the train station?",
+          "spanish": "Perdona, ¿cómo llego a la estación de tren?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Gömmer grad uus. Am Brunne verbi, denn linggs bi de Chile.",
+          "german": "Gehen Sie geradeaus. Am Brunnen vorbei, dann links bei der Kirche.",
+          "english": "Go straight. Past the fountain, then left at the church.",
+          "spanish": "Sigue recto. Pasada la fuente, a la izquierda en la iglesia."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Am Brunne verbi und linggs bi de Chile. Isch das wiit?",
+          "german": "Am Brunnen vorbei und links bei der Kirche. Ist das weit?",
+          "english": "Past the fountain and left at the church. Is it far?",
+          "spanish": "Pasando la fuente y a la izquierda en la iglesia. ¿Está lejos?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Nei, öppe füf Minute z'Fuess. Sie gsehnd's denn scho.",
+          "german": "Nein, ungefähr fünf Minuten zu Fuß. Sie sehen es dann schon.",
+          "english": "No, about five minutes on foot. You'll see it then.",
+          "spanish": "No, unos cinco minutos a pie. Luego ya lo verás."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ah super, danke vilmal!",
+          "german": "Ah super, vielen Dank!",
+          "english": "Ah great, thank you very much!",
+          "spanish": "¡Ah, genial, muchas gracias!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Isch da au en Tramhalt i de Nöchi, wüssed Sie?",
+          "german": "Gibt es auch eine Tramhaltestelle in der Nähe, wissen Sie?",
+          "english": "Is there also a tram stop nearby, do you know?",
+          "spanish": "¿También hay una parada de tranvía cerca, lo sabes?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Ja, d'Linie 8 hält direkt bim Bahnhof.",
+          "german": "Ja, die Linie 8 hält direkt beim Bahnhof.",
+          "english": "Yes, line 8 stops right at the station.",
+          "spanish": "Sí, la línea 8 para justo en la estación."
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Gärn gscheh! Guete Wäg!",
+          "german": "Gerne geschehen! Guten Weg!",
+          "english": "You're welcome! Have a good way!",
+          "spanish": "¡De nada! Que tengas buen camino."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Brunne",
+          "german": "Brunnen",
+          "explanation": "'Brunne' = 'Brunnen'. Fountain. A common Swiss landmark."
+        },
+        {
+          "swissGerman": "Chile",
+          "german": "Kirche",
+          "explanation": "'Chile' = 'Kirche'. Church. Swiss form dropping 'r' and shifting 'k'."
+        },
+        {
+          "swissGerman": "z'Fuess",
+          "german": "zu Fuß",
+          "explanation": "'z'Fuess' = 'zu Fuß'. On foot."
+        },
+        {
+          "swissGerman": "Gärn gscheh",
+          "german": "Gerne geschehen",
+          "explanation": "'Gärn gscheh' = 'Gerne geschehen'. You're welcome."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Chile",
+          "german": "Kirche",
+          "english": "church"
+        },
+        {
+          "swissGerman": "Brunne",
+          "german": "Brunnen",
+          "english": "fountain"
+        },
+        {
+          "swissGerman": "z'Fuess",
+          "german": "zu Fuß",
+          "english": "on foot"
+        }
+      ]
+    },
+    {
+      "id": "directions-2",
+      "level": "intermediate",
+      "title": "Clarifying confusing directions",
+      "situation": "You didn't understand the directions and ask for repetition.",
+      "lines": [
+        {
+          "speaker": "Person",
+          "swissGerman": "Ab de Chrüzig gömmer rechts, denn bim Chreisel die zwöit Usfahrt.",
+          "german": "Ab der Kreuzung gehen Sie rechts, dann beim Kreisverkehr die zweite Ausfahrt.",
+          "english": "From the intersection go right, then at the roundabout take the second exit.",
+          "spanish": "Desde el cruce, gira a la derecha, luego en la rotonda toma la segunda salida."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Momänt, das gaat mir z'schnäll. Rechts ab de Chrüzig...",
+          "german": "Moment, das geht mir zu schnell. Rechts ab der Kreuzung...",
+          "english": "Wait, that's too fast. Right from the intersection...",
+          "spanish": "Espera, eso es demasiado rápido. Desde el cruce..."
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Ja genau, rechts. Denn chömed e grossi Chrüzig mit emne Chreisel.",
+          "german": "Ja genau, rechts. Dann kommt eine große Kreuzung mit einem Kreisverkehr.",
+          "english": "Yes exactly, right. Then there's a big intersection with a roundabout.",
+          "spanish": "Sí, exactamente, así es. Luego hay una gran intersección con una rotonda."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und denn die zwöit Usfahrt?",
+          "german": "Und dann die zweite Ausfahrt?",
+          "english": "And then the second exit?",
+          "spanish": "¿Y luego la segunda salida?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Genau. Das isch d'Bahnhofstrass. De Bahnhof gseht me denn grad.",
+          "german": "Genau. Das ist die Bahnhofstraße. Den Bahnhof sieht man dann gleich.",
+          "english": "Exactly. That's Bahnhofstrasse. You'll see the station right away.",
+          "spanish": "Exacto. Eso es la Bahnhofstrasse. Verás la estación enseguida."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und d'Bahnhofstrass — isch das näbem Migros?",
+          "german": "Und die Bahnhofstrasse — ist das neben dem Migros?",
+          "english": "And Bahnhofstrasse — is that next to the Migros?",
+          "spanish": "¿Y la Bahnhofstrasse — está al lado del Migros?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Genau! De Migros isch uf de linke Siite, de Bahnhof uf de rächt.",
+          "german": "Genau! Der Migros ist auf der linken Seite, der Bahnhof auf der rechten.",
+          "english": "Exactly! The Migros is on the left side, the station on the right.",
+          "spanish": "¡Exacto! El Migros está a la izquierda, la estación a la derecha."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Jetzt han ich's! Merci vilmal.",
+          "german": "Jetzt habe ich es! Vielen Dank.",
+          "english": "Now I've got it! Thanks a lot.",
+          "spanish": "¡Ahora lo entiendo! Muchas gracias."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Chrüzig",
+          "german": "Kreuzung",
+          "explanation": "'Chrüzig' = 'Kreuzung'. Intersection. K→Ch shift."
+        },
+        {
+          "swissGerman": "Chreisel",
+          "german": "Kreisverkehr",
+          "explanation": "'Chreisel' = 'Kreisverkehr'. Roundabout. Very common in Switzerland."
+        },
+        {
+          "swissGerman": "Usfahrt",
+          "german": "Ausfahrt",
+          "explanation": "'Usfahrt' = 'Ausfahrt'. Exit."
+        },
+        {
+          "swissGerman": "z'schnäll",
+          "german": "zu schnell",
+          "explanation": "'z'schnäll' = 'zu schnell'. Too fast."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Chrüzig",
+          "german": "Kreuzung",
+          "english": "intersection"
+        },
+        {
+          "swissGerman": "Chreisel",
+          "german": "Kreisverkehr",
+          "english": "roundabout"
+        },
+        {
+          "swissGerman": "z'schnäll",
+          "german": "zu schnell",
+          "english": "too fast"
+        }
+      ]
+    },
+    {
+      "id": "directions-3",
+      "level": "beginner",
+      "title": "Is it nearby?",
+      "situation": "You ask whether a place is close or far.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Isch de nöchscht Coop wiit vo do?",
+          "german": "Ist der nächste Coop weit von hier?",
+          "english": "Is the nearest Coop far from here?",
+          "spanish": "¿Está lejos el Coop más cercano?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Nei, de isch grad ums Egge. Zwöi Minute.",
+          "german": "Nein, der ist gleich ums Eck. Zwei Minuten.",
+          "english": "No, it's just around the corner. Two minutes.",
+          "spanish": "No, está justo a la vuelta de la esquina. Dos minutos."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und de nöchscht Bancomat?",
+          "german": "Und der nächste Bancomat?",
+          "english": "And the nearest ATM?",
+          "spanish": "¿Y el cajero automático más cercano?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "De isch bim Migros, öppe fünf Minute z'Fuess.",
+          "german": "Der ist beim Migros, ungefähr fünf Minuten zu Fuß.",
+          "english": "That's at the Migros, about five minutes on foot.",
+          "spanish": "Eso está en el Migros, a unos cinco minutos a pie."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Guet, denn gang ich zerscht zum Coop und denn zum Bancomat.",
+          "german": "Gut, dann gehe ich zuerst zum Coop und dann zum Bancomat.",
+          "english": "Good, then I'll go to Coop first and then to the ATM.",
+          "spanish": "Bien, entonces iré primero al Coop y luego al cajero automático."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Guet, merci! Ich bi nöi doo und kenn d'Gegend no nöd guet.",
+          "german": "Gut, danke! Ich bin neu hier und kenne die Gegend noch nicht gut.",
+          "english": "Good, thanks! I'm new here and don't know the area well yet.",
+          "spanish": "Bien, ¡gracias! Soy nuevo aquí y todavía no conozco bien la zona."
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Gar keis Problem! Falls öppis isch, lueg eifach i d'Google Maps.",
+          "german": "Gar kein Problem! Falls etwas ist, schau einfach in Google Maps.",
+          "english": "No problem at all! If needed, just check Google Maps.",
+          "spanish": "¡No hay ningún problema! Si necesitas algo, consulta Google Maps."
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Ja, das machts Sinn. Beidi sind i de gliiche Richtig.",
+          "german": "Ja, das macht Sinn. Beide sind in der gleichen Richtung.",
+          "english": "Yes, that makes sense. Both are in the same direction.",
+          "spanish": "Sí, tiene sentido. Ambos van en la misma dirección."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "ums Egge",
+          "german": "ums Eck/um die Ecke",
+          "explanation": "'ums Egge' = around the corner. Swiss form."
+        },
+        {
+          "swissGerman": "Bancomat",
+          "german": "Geldautomat/ATM",
+          "explanation": "'Bancomat' = ATM. Swiss word from Italian."
+        },
+        {
+          "swissGerman": "gliiche",
+          "german": "gleiche",
+          "explanation": "'gliiche' = 'gleiche'. Same."
+        },
+        {
+          "swissGerman": "Richtig",
+          "german": "Richtung",
+          "explanation": "'Richtig' = 'Richtung'. Direction."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "ums Egge",
+          "german": "um die Ecke",
+          "english": "around the corner"
+        },
+        {
+          "swissGerman": "Bancomat",
+          "german": "Geldautomat",
+          "english": "ATM"
+        },
+        {
+          "swissGerman": "i de gliiche Richtig",
+          "german": "in der gleichen Richtung",
+          "english": "in the same direction"
+        }
+      ]
+    },
+    {
+      "id": "directions-4",
+      "level": "intermediate",
+      "title": "Using Google Maps with local help",
+      "situation": "You have Google Maps but the streets are confusing. You ask someone for help.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Sorry, ich ha Google Maps, aber ich find die Strass nöd. Wüssed Sie wo d'Stampfenbachstrass isch?",
+          "german": "Sorry, ich habe Google Maps, aber ich finde die Straße nicht. Wissen Sie wo die Stampfenbachstraße ist?",
+          "english": "Sorry, I have Google Maps but I can't find the street. Do you know where Stampfenbachstrasse is?",
+          "spanish": "Perdona, tengo Google Maps pero no encuentro la calle. ¿Sabes dónde está Stampfenbachstrasse?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Ja! Sie sind fast da. Gönd Sie do dure durs Gässli.",
+          "german": "Ja! Sie sind fast da. Gehen Sie hier durch das Gässchen.",
+          "english": "Yes! You're almost there. Go through this alley.",
+          "spanish": "Sí, ya casi estás. Pasa por este callejón."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Durs Gässli? Das zeigt mini App nöd aa.",
+          "german": "Durch das Gässchen? Das zeigt meine App nicht an.",
+          "english": "Through the alley? My app doesn't show that.",
+          "spanish": "¿Por el callejón? Mi aplicación no lo muestra."
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Ja, das isch e Abchürzig. Uf de andere Siite isch d'Stampfenbachstrass.",
+          "german": "Ja, das ist eine Abkürzung. Auf der anderen Seite ist die Stampfenbachstraße.",
+          "english": "Yes, it's a shortcut. On the other side is Stampfenbachstrasse.",
+          "spanish": "Sí, es un atajo. Al otro lado está la Stampfenbachstrasse."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ah, perfekt! Und d'Huusnummere gönd in weli Richtig?",
+          "german": "Ah, perfekt! Und die Hausnummern gehen in welche Richtung?",
+          "english": "Ah, perfect! And which direction do the house numbers go?",
+          "spanish": "¡Ah, perfecto! ¿Y en qué dirección van los números de las casas?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ah, super! Ich suech d'Nummer 34 — isch das im höchere oder im tiefere Bereich?",
+          "german": "Ah, super! Ich suche die Nummer 34 — ist das im höheren oder im tieferen Bereich?",
+          "english": "Ah, great! I'm looking for number 34 — is that in the higher or lower section?",
+          "spanish": "Ah, genial. Estoy buscando el número 34 — ¿está en la parte alta o baja?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Nummer 34 isch uf de linke Siite, also tiefer. Öppe fünfzig Meter.",
+          "german": "Nummer 34 ist auf der linken Seite, also tiefer. Ungefähr fünfzig Meter.",
+          "english": "Number 34 is on the left side, so downward. About fifty metres.",
+          "spanish": "El número 34 está en el lado izquierdo, es decir hacia abajo. Unos cincuenta metros."
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Links isch aabwärts, rechts uufwärts.",
+          "german": "Links ist abwärts, rechts aufwärts.",
+          "english": "Left goes down, right goes up.",
+          "spanish": "La izquierda baja, la derecha sube."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Gässli",
+          "german": "Gässchen",
+          "explanation": "'Gässli' = 'Gässchen'. Small alley. Swiss diminutive."
+        },
+        {
+          "swissGerman": "Abchürzig",
+          "german": "Abkürzung",
+          "explanation": "'Abchürzig' = 'Abkürzung'. Shortcut."
+        },
+        {
+          "swissGerman": "Huusnummere",
+          "german": "Hausnummern",
+          "explanation": "'Huusnummere' = 'Hausnummern'. House numbers."
+        },
+        {
+          "swissGerman": "aabwärts/uufwärts",
+          "german": "abwärts/aufwärts",
+          "explanation": "Downward/upward. Swiss long vowels."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Gässli",
+          "german": "Gässchen",
+          "english": "small alley"
+        },
+        {
+          "swissGerman": "Abchürzig",
+          "german": "Abkürzung",
+          "english": "shortcut"
+        },
+        {
+          "swissGerman": "Huusnummere",
+          "german": "Hausnummern",
+          "english": "house numbers"
+        }
+      ]
+    },
+    {
+      "id": "directions-5",
+      "level": "beginner",
+      "title": "Finding the right building entrance",
+      "situation": "You're in front of a building but can't find the entrance.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Entschuldigung, ich suech de Iigang zum Amt. Isch das do?",
+          "german": "Entschuldigung, ich suche den Eingang zum Amt. Ist das hier?",
+          "english": "Excuse me, I'm looking for the entrance to the office. Is it here?",
+          "spanish": "Perdona, estoy buscando la entrada a la oficina. ¿Está aquí?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Nei, de Hauptiigang isch uf de andere Siite vom Gebäud.",
+          "german": "Nein, der Haupteingang ist auf der anderen Seite des Gebäudes.",
+          "english": "No, the main entrance is on the other side of the building.",
+          "spanish": "No, la entrada principal está al otro lado del edificio."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ah okay, also muess ich drum ume gah?",
+          "german": "Ah okay, also muss ich drum herum gehen?",
+          "english": "Ah okay, so I have to go around?",
+          "spanish": "Ah, de acuerdo, ¿así que tengo que dar la vuelta?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Ja, oder Sie chönd dur de Innehof gah. Luege Sie — de Durchgang isch deet.",
+          "german": "Ja, oder Sie können durch den Innenhof gehen. Schauen Sie — der Durchgang ist dort.",
+          "english": "Yes, or you can go through the courtyard. Look — the passage is there.",
+          "spanish": "Sí, o también puedes pasar por el patio. Mira — el pasaje está allí."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ah, ich gsehne! Merci!",
+          "german": "Ah, ich sehe ihn! Danke!",
+          "english": "Ah, I see it! Thanks!",
+          "spanish": "¡Ah, lo veo! ¡Gracias!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und s'Amt isch im erschte oder im zweite Stock?",
+          "german": "Und das Amt ist im ersten oder im zweiten Stock?",
+          "english": "And is the office on the first or second floor?",
+          "spanish": "¿Y la oficina está en el primer o segundo piso?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Zweite Stock, Zimmer 22. De Lift isch i de Mitti vom Gang.",
+          "german": "Zweiter Stock, Zimmer 22. Der Aufzug ist in der Mitte des Gangs.",
+          "english": "Second floor, room 22. The elevator is in the middle of the corridor.",
+          "spanish": "Segunda planta, habitación 22. El ascensor está en el centro del pasillo."
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Gärn! De Lift isch grad bim Iigang.",
+          "german": "Gerne! Der Aufzug ist direkt beim Eingang.",
+          "english": "Sure! The elevator is right at the entrance.",
+          "spanish": "¡Claro! El ascensor está justo en la entrada."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Iigang",
+          "german": "Eingang",
+          "explanation": "'Iigang' = 'Eingang'. Entrance."
+        },
+        {
+          "swissGerman": "drum ume",
+          "german": "drum herum",
+          "explanation": "'drum ume' = around it. Swiss form."
+        },
+        {
+          "swissGerman": "Innehof",
+          "german": "Innenhof",
+          "explanation": "'Innehof' = 'Innenhof'. Courtyard."
+        },
+        {
+          "swissGerman": "Lift",
+          "german": "Aufzug/Fahrstuhl",
+          "explanation": "'Lift' = elevator. Swiss word (like British English)."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Iigang",
+          "german": "Eingang",
+          "english": "entrance"
+        },
+        {
+          "swissGerman": "drum ume",
+          "german": "drum herum",
+          "english": "around it"
+        },
+        {
+          "swissGerman": "Lift",
+          "german": "Aufzug",
+          "english": "elevator"
+        }
+      ]
+    }
+  ]
+}

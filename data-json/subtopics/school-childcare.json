@@ -1,0 +1,526 @@
+{
+  "id": "school-childcare",
+  "topicId": "practical-swiss-life",
+  "title": "School & Childcare System",
+  "description": "Communicating with teachers, Kita/Hort interactions, and understanding school notices",
+  "dialogues": [
+    {
+      "id": "school-childcare-1",
+      "level": "intermediate",
+      "title": "Formal communication with a teacher",
+      "situation": "You attend a parent-teacher conference (Elterngespräch) at your child's school.",
+      "lines": [
+        {
+          "speaker": "Teacher",
+          "swissGerman": "Grüezi Herr Rodriguez. Schön, dass Si chömed. Mir redet hüt über de Luis sini Leischtige.",
+          "german": "Grüezi Herr Rodriguez. Schön, dass Sie kommen. Wir reden heute über Luis' Leistungen.",
+          "english": "Hello Mr. Rodriguez. Nice that you could come. We'll talk about Luis' performance today.",
+          "spanish": "Hola señor Rodriguez. Qué bien que haya podido venir. Hoy hablaremos del rendimiento de Luis."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Grüezi Frau Müller. Ja, ich bi gschpannt. Wie macht er sich?",
+          "german": "Grüezi Frau Müller. Ja, ich bin gespannt. Wie macht er sich?",
+          "english": "Hello Mrs. Müller. Yes, I'm curious. How is he doing?",
+          "spanish": "Hola señora Müller. Sí, tengo curiosidad. ¿Cómo le va?"
+        },
+        {
+          "speaker": "Teacher",
+          "swissGerman": "Im Rächne isch er sehr guet, aber bim Läse chunt er no chli langsam noche.",
+          "german": "Im Rechnen ist er sehr gut, aber beim Lesen kommt er noch etwas langsam nach.",
+          "english": "He's very good at math, but he's still a bit slow catching up with reading.",
+          "spanish": "Es muy bueno en matemáticas, pero todavía va un poco lento poniéndose al día con la lectura."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Chönd mir dehei öppis mache, zum ihm hälfe?",
+          "german": "Können wir zuhause etwas tun, um ihm zu helfen?",
+          "english": "Can we do something at home to help him?",
+          "spanish": "¿Podemos hacer algo en casa para ayudarle?"
+        },
+        {
+          "speaker": "Teacher",
+          "swissGerman": "Ja, läsed Sie täglich fünfzäh Minute mit ihm. Am beschte Büecher wo ihn interessiere.",
+          "german": "Ja, lesen Sie täglich fünfzehn Minuten mit ihm. Am besten Bücher die ihn interessieren.",
+          "english": "Yes, read with him fifteen minutes daily. Preferably books that interest him.",
+          "spanish": "Sí, léele quince minutos al día. Preferiblemente libros que le interesen."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Guet, das mache mir. Und wie isch er sozial?",
+          "german": "Gut, das machen wir. Und wie ist er sozial?",
+          "english": "Good, we'll do that. And how is he socially?",
+          "spanish": "Bien, lo haremos. ¿Y cómo es él socialmente?"
+        },
+        {
+          "speaker": "Teacher",
+          "swissGerman": "Er isch beliebt bi de Chinderund macht guet mit. Kei Problem i dem Bereich.",
+          "german": "Er ist beliebt bei den Kindern und macht gut mit. Kein Problem in dem Bereich.",
+          "english": "He's popular with the children and participates well. No problem in that area.",
+          "spanish": "Es popular entre los niños y participa bien. Sin problemas en ese aspecto."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Merci vilmal für s'Gspröch, Frau Müller!",
+          "german": "Vielen Dank für das Gespräch, Frau Müller!",
+          "english": "Thanks a lot for the conversation, Mrs. Müller!",
+          "spanish": "¡Muchas gracias por la conversación, señora Müller!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "de Luis sini Leischtige",
+          "german": "Luis' Leistungen",
+          "explanation": "Swiss possessive: 'de Luis sini' = 'Luis sein' (his). Double possessive construction."
+        },
+        {
+          "swissGerman": "Rächne",
+          "german": "Rechnen",
+          "explanation": "'Rächne' = 'Rechnen'. Mathematics/calculation."
+        },
+        {
+          "swissGerman": "Läse",
+          "german": "Lesen",
+          "explanation": "'Läse' = 'Lesen'. Reading."
+        },
+        {
+          "swissGerman": "Büecher",
+          "german": "Bücher",
+          "explanation": "'Büecher' = 'Bücher'. Books. Added 'e'."
+        },
+        {
+          "swissGerman": "Gspröch",
+          "german": "Gespräch",
+          "explanation": "'Gspröch' = 'Gespräch'. Conversation."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Elteregspröch",
+          "german": "Elterngespräch",
+          "english": "parent-teacher conference"
+        },
+        {
+          "swissGerman": "Leischtige",
+          "german": "Leistungen",
+          "english": "performance / achievements"
+        },
+        {
+          "swissGerman": "beliebt bi de Chinder",
+          "german": "beliebt bei den Kindern",
+          "english": "popular with the children"
+        }
+      ]
+    },
+    {
+      "id": "school-childcare-2",
+      "level": "beginner",
+      "title": "Enrolling your child at the Kita",
+      "situation": "You call a childcare center (Kita) to inquire about availability.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Grüezi! Ich suech en Kita-Platz für mini Tochter. Si isch einezwänzg Mönet alt.",
+          "german": "Grüezi! Ich suche einen Kita-Platz für meine Tochter. Sie ist einundzwanzig Monate alt.",
+          "english": "Hello! I'm looking for a daycare spot for my daughter. She's twenty-one months old.",
+          "spanish": "¡Hola! Estoy buscando una plaza de guardería para mi hija. Tiene veintiún meses."
+        },
+        {
+          "speaker": "Kita",
+          "swissGerman": "Grüezi! Für weli Tääg bruuched Si Betreuig?",
+          "german": "Grüezi! Für welche Tage brauchen Sie Betreuung?",
+          "english": "Hello! For which days do you need childcare?",
+          "spanish": "¡Hola! ¿Para qué días necesita guardería?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Drei Tääg — Mäntig, Mittwuch und Fritig.",
+          "german": "Drei Tage — Montag, Mittwoch und Freitag.",
+          "english": "Three days — Monday, Wednesday, and Friday.",
+          "spanish": "Tres días — lunes, miércoles y viernes."
+        },
+        {
+          "speaker": "Kita",
+          "swissGerman": "Mir händ ab August en Platz frei. Möchted Si en Besichtigig mache?",
+          "german": "Wir haben ab August einen Platz frei. Möchten Sie eine Besichtigung machen?",
+          "english": "We have a spot available from August. Would you like to do a tour?",
+          "spanish": "Tenemos una plaza disponible a partir de agosto. ¿Le gustaría hacer una visita?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja gern! Und was chostet es pro Taag?",
+          "german": "Ja gern! Und was kostet es pro Tag?",
+          "english": "Yes please! And what does it cost per day?",
+          "spanish": "Sí, por favor. ¿Y cuánto cuesta por día?"
+        },
+        {
+          "speaker": "Kita",
+          "swissGerman": "Das hängt vom Iikomme ab. Mir händ iikommsabhängigi Tarife. Öppe hundert bis hundertfüfzg Franke pro Taag.",
+          "german": "Das hängt vom Einkommen ab. Wir haben einkommensabhängige Tarife. Ungefähr hundert bis hundertfünfzig Franken pro Tag.",
+          "english": "That depends on income. We have income-based rates. About one hundred to one hundred fifty francs per day.",
+          "spanish": "Eso depende de los ingresos. Tenemos tarifas según ingresos. Unos cien a ciento cincuenta francos al día."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und git's Subventione vo de Gmeind?",
+          "german": "Und gibt es Subventionen von der Gemeinde?",
+          "english": "And are there subsidies from the municipality?",
+          "spanish": "¿Y hay subvenciones del municipio?"
+        },
+        {
+          "speaker": "Kita",
+          "swissGerman": "Ja, Si chönd bi de Gmeind en Biitraag beaatrage. Mir hälfed Ine gern bim Uusfülle.",
+          "german": "Ja, Sie können bei der Gemeinde einen Beitrag beantragen. Wir helfen Ihnen gern beim Ausfüllen.",
+          "english": "Yes, you can apply for a subsidy at the municipality. We'll gladly help you with filling it out.",
+          "spanish": "Sí, puedes solicitar un subsidio en el municipio. Te ayudamos con gusto a rellenarlo."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Kita",
+          "german": "Kita/Kindertagesstätte",
+          "explanation": "'Kita' = 'Kindertagesstätte'. Daycare center."
+        },
+        {
+          "swissGerman": "Betreuig",
+          "german": "Betreuung",
+          "explanation": "'Betreuig' = 'Betreuung'. Childcare. '-ung' → '-ig'."
+        },
+        {
+          "swissGerman": "iikommsabhängigi",
+          "german": "einkommensabhängige",
+          "explanation": "'iikommsabhängigi' = 'einkommensabhängige'. Income-based."
+        },
+        {
+          "swissGerman": "Subventione",
+          "german": "Subventionen",
+          "explanation": "Government subsidies for childcare — common in Swiss system."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Kita-Platz",
+          "german": "Kita-Platz",
+          "english": "daycare spot"
+        },
+        {
+          "swissGerman": "Betreuig",
+          "german": "Betreuung",
+          "english": "childcare"
+        },
+        {
+          "swissGerman": "iikommsabhängig",
+          "german": "einkommensabhängig",
+          "english": "income-based"
+        }
+      ]
+    },
+    {
+      "id": "school-childcare-3",
+      "level": "beginner",
+      "title": "Hort communication (after-school care)",
+      "situation": "You pick up your child from the Hort and talk to the caregiver.",
+      "lines": [
+        {
+          "speaker": "Caregiver",
+          "swissGerman": "Grüezi Frau Silva! De Marco hät hüt super mitgmacht.",
+          "german": "Grüezi Frau Silva! Marco hat heute super mitgemacht.",
+          "english": "Hello Mrs. Silva! Marco participated really well today.",
+          "spanish": "¡Hola señora Silva! Marco participó muy bien hoy."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Grüezi! Das fröit mich. Hät er sini Ufgabe gmacht?",
+          "german": "Grüezi! Das freut mich. Hat er seine Hausaufgaben gemacht?",
+          "english": "Hello! That makes me happy. Did he do his homework?",
+          "spanish": "¡Hola! Eso me alegra. ¿Hizo los deberes?"
+        },
+        {
+          "speaker": "Caregiver",
+          "swissGerman": "Ja, alles erledigt. Und er hät au guet z'Mittag gässe.",
+          "german": "Ja, alles erledigt. Und er hat auch gut zu Mittag gegessen.",
+          "english": "Yes, all done. And he ate lunch well too.",
+          "spanish": "Sí, todo listo. Y también comió bien al mediodía."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Super! Am nöchschte Mittwuch cha ich ihn erscht um füfi abhole. Isch das okay?",
+          "german": "Super! Am nächsten Mittwoch kann ich ihn erst um fünf abholen. Ist das okay?",
+          "english": "Great! Next Wednesday I can only pick him up at five. Is that okay?",
+          "spanish": "¡Genial! El próximo miércoles solo puedo recogerlo a las cinco. ¿Está bien?"
+        },
+        {
+          "speaker": "Caregiver",
+          "swissGerman": "Ja, kei Problem. Mir händ bis sächsi offe. Schriibets eifach in d'App.",
+          "german": "Ja, kein Problem. Wir haben bis sechs geöffnet. Schreiben Sie es einfach in die App.",
+          "english": "Yes, no problem. We're open until six. Just write it in the app.",
+          "spanish": "Sí, ningún problema. Estamos abiertos hasta las seis. Solo escríbelo en la aplicación."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Merci! Und d'Ferie-Betreuig — muess ich die separat aamälde?",
+          "german": "Danke! Und die Ferienbetreuung — muss ich die separat anmelden?",
+          "english": "Thanks! And the holiday childcare — do I need to register for that separately?",
+          "spanish": "¡Gracias! ¿Y la guardería de vacaciones — tengo que inscribirme por separado?"
+        },
+        {
+          "speaker": "Caregiver",
+          "swissGerman": "Ja, drei Wuche vorher über d'Website. D'Plätz sind begränzt.",
+          "german": "Ja, drei Wochen vorher über die Website. Die Plätze sind begrenzt.",
+          "english": "Yes, three weeks in advance via the website. Spots are limited.",
+          "spanish": "Sí, con tres semanas de antelación a través de la página web. Los lugares son limitados."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Hort",
+          "german": "Hort",
+          "explanation": "'Hort' = after-school care center. Very common in Swiss school system."
+        },
+        {
+          "swissGerman": "Ufgabe",
+          "german": "Hausaufgaben",
+          "explanation": "'Ufgabe' = 'Aufgaben/Hausaufgaben'. Homework."
+        },
+        {
+          "swissGerman": "z'Mittag gässe",
+          "german": "zu Mittag gegessen",
+          "explanation": "'z'Mittag' = 'zu Mittag'. 'gässe' = 'gegessen'."
+        },
+        {
+          "swissGerman": "Ferie-Betreuig",
+          "german": "Ferienbetreuung",
+          "explanation": "'Ferie-Betreuig' = 'Ferienbetreuung'. Holiday childcare."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Hort",
+          "german": "Hort",
+          "english": "after-school care"
+        },
+        {
+          "swissGerman": "Ufgabe",
+          "german": "Hausaufgaben",
+          "english": "homework"
+        },
+        {
+          "swissGerman": "Ferie-Betreuig",
+          "german": "Ferienbetreuung",
+          "english": "holiday childcare"
+        }
+      ]
+    },
+    {
+      "id": "school-childcare-4",
+      "level": "intermediate",
+      "title": "Understanding a school notice",
+      "situation": "You receive a notice from school about a field trip and need to respond.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Ich ha en Ziittel vo de Schuel übercho. Do stoht öppis vo ere 'Schulreise'. Was isch das?",
+          "german": "Ich habe einen Zettel von der Schule bekommen. Da steht etwas von einer 'Schulreise'. Was ist das?",
+          "english": "I got a note from school. It says something about a 'Schulreise'. What is that?",
+          "spanish": "Recibí una nota de la escuela. Dice algo sobre una 'Schulreise'. ¿Qué es eso?"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Das isch en Uusflug — d'ganzi Klass goht irgendwohi. Zum Biispiil uf de Üetliberg oder an en See.",
+          "german": "Das ist ein Ausflug — die ganze Klasse geht irgendwohin. Zum Beispiel auf den Üetliberg oder an einen See.",
+          "english": "That's a field trip — the whole class goes somewhere. For example to the Üetliberg or to a lake.",
+          "spanish": "Eso es una excursión — toda la clase va a algún sitio. Por ejemplo al Üetliberg o a un lago."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ah cool! Und do muess ich unterschriibe und zruggä?",
+          "german": "Ah cool! Und hier muss ich unterschreiben und zurückgeben?",
+          "english": "Ah cool! And here I need to sign and return it?",
+          "spanish": "¡Ah, genial! ¿Y aquí tengo que firmar y devolverlo?"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Genau, de Taloon unne abrisse, unterschriibe und bim Chind mitgä.",
+          "german": "Genau, den Talon unten abreißen, unterschreiben und dem Kind mitgeben.",
+          "english": "Exactly, tear off the slip at the bottom, sign, and give it to the child.",
+          "spanish": "Exacto, arranca el recibo de abajo, firma y dáselo al niño."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und do stoht: 'Bitte gänd Ihrem Chind es Znüni und gnueg Wasser mit.' Was isch Znüni?",
+          "german": "Und hier steht: 'Bitte geben Sie Ihrem Kind ein Znüni und genug Wasser mit.' Was ist Znüni?",
+          "english": "And here it says: 'Please give your child a Znüni and enough water.' What is Znüni?",
+          "spanish": "¿Y aquí dice: 'Por favor, dale a tu hijo/a un Znüni y suficiente agua.' ¿Qué es Znüni?"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Znüni isch de Morge-Snack — öppis zum Ässe für d'Pause am Morge.",
+          "german": "Znüni ist der Morgen-Snack — etwas zum Essen für die Pause am Morgen.",
+          "english": "Znüni is the morning snack — something to eat during the morning break.",
+          "spanish": "Znüni es la merienda de la mañana — algo que comer durante el recreo de la mañana."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ah, klar! Und git's au 'Zvieri'?",
+          "german": "Ah, klar! Und gibt es auch 'Zvieri'?",
+          "english": "Ah, clear! And is there also 'Zvieri'?",
+          "spanish": "Ah, ¡claro! ¿Y también hay 'Zvieri'?"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Ja! Das isch de Namittagssnack — so um vieri.",
+          "german": "Ja! Das ist der Nachmittagssnack — so um vier.",
+          "english": "Yes! That's the afternoon snack — around four.",
+          "spanish": "Sí, eso es el aperitivo de la tarde — alrededor de las cuatro."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Schulreise",
+          "german": "Klassenausflug/Schulreise",
+          "explanation": "'Schulreise' = school trip/field trip. A Swiss school tradition."
+        },
+        {
+          "swissGerman": "Taloon",
+          "german": "Talon/Abschnitt",
+          "explanation": "'Taloon' = 'Talon'. A tear-off slip (from French). Common on Swiss school notices."
+        },
+        {
+          "swissGerman": "Znüni",
+          "german": "Zwischenmahlzeit am Morgen",
+          "explanation": "'Znüni' = morning snack (literally 'at nine'). Quintessentially Swiss."
+        },
+        {
+          "swissGerman": "Zvieri",
+          "german": "Zwischenmahlzeit am Nachmittag",
+          "explanation": "'Zvieri' = afternoon snack (literally 'at four')."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Schulreise",
+          "german": "Klassenausflug",
+          "english": "school field trip"
+        },
+        {
+          "swissGerman": "Znüni",
+          "german": "Morgen-Snack",
+          "english": "morning snack"
+        },
+        {
+          "swissGerman": "Taloon",
+          "german": "Talon/Abschnitt",
+          "english": "tear-off slip"
+        }
+      ]
+    },
+    {
+      "id": "school-childcare-5",
+      "level": "intermediate",
+      "title": "School enrollment (Einschulung)",
+      "situation": "Your child is about to start Kindergarten and you attend the information evening.",
+      "lines": [
+        {
+          "speaker": "Teacher",
+          "swissGerman": "Grüezi mitenand! Willchomme zum Informatioonsabig über de Chindergarte-Iitritt.",
+          "german": "Grüezi miteinander! Willkommen zum Informationsabend über den Kindergarten-Eintritt.",
+          "english": "Hello everyone! Welcome to the information evening about kindergarten enrollment.",
+          "spanish": "¡Hola a todos! Bienvenidos a la velada informativa sobre la inscripción al jardín de infancia."
+        },
+        {
+          "speaker": "Teacher",
+          "swissGerman": "I de Schwiiz gönd alli Chinder mit vier Jahr i de Chindergarte. Das isch obligatorisch.",
+          "german": "In der Schweiz gehen alle Kinder mit vier Jahren in den Kindergarten. Das ist obligatorisch.",
+          "english": "In Switzerland all children go to kindergarten at age four. That is mandatory.",
+          "spanish": "En Suiza todos los niños van al jardín de infancia a los cuatro años. Eso es obligatorio."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Entschuldigung — mis Chind redt dehei kei Dütsch. Isch das es Problem?",
+          "german": "Entschuldigung — mein Kind spricht zuhause kein Deutsch. Ist das ein Problem?",
+          "english": "Excuse me — my child doesn't speak German at home. Is that a problem?",
+          "spanish": "Perdona — mi hijo/a no habla alemán en casa. ¿Es eso un problema?"
+        },
+        {
+          "speaker": "Teacher",
+          "swissGerman": "Nei, überhaupt nöd! Mir händ DaZ-Unterstützig — Dütsch als Zwöitsproch.",
+          "german": "Nein, überhaupt nicht! Wir haben DaZ-Unterstützung — Deutsch als Zweitsprache.",
+          "english": "No, not at all! We have DaZ support — German as a second language.",
+          "spanish": "No, ¡para nada! Tenemos apoyo DaZ — alemán como segunda lengua."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und was bruucht mis Chind am erschte Taag?",
+          "german": "Und was braucht mein Kind am ersten Tag?",
+          "english": "And what does my child need on the first day?",
+          "spanish": "¿Y qué necesita mi hijo/a el primer día?"
+        },
+        {
+          "speaker": "Teacher",
+          "swissGerman": "Finke, en Turnsack mit Turnchleidung, und natürlich es Znüni.",
+          "german": "Hausschuhe, einen Turnbeutel mit Sportkleidung, und natürlich ein Znüni.",
+          "english": "Indoor shoes, a gym bag with sports clothes, and of course a morning snack.",
+          "spanish": "Zapatillas de interior, una bolsa de deporte con ropa deportiva, y por supuesto un tentempié de media mañana."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Was sind 'Finke'?",
+          "german": "Was sind 'Finken'?",
+          "english": "What are 'Finken'?",
+          "spanish": "¿Qué son los 'Finken'?"
+        },
+        {
+          "speaker": "Teacher",
+          "swissGerman": "Hausschueh — alli Chinder wiechsled im Schuelhuus d'Schueh.",
+          "german": "Hausschuhe — alle Kinder wechseln im Schulhaus die Schuhe.",
+          "english": "Indoor shoes — all children change shoes inside the school building.",
+          "spanish": "Zapatillas de interior — todos los niños se cambian de zapatos dentro del edificio escolar."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Chindergarte",
+          "german": "Kindergarten",
+          "explanation": "'Chindergarte' = 'Kindergarten'. K→Ch. Mandatory from age 4 in Switzerland."
+        },
+        {
+          "swissGerman": "DaZ",
+          "german": "DaZ",
+          "explanation": "'Deutsch als Zweitsprache' — German as second language support at Swiss schools."
+        },
+        {
+          "swissGerman": "Finke",
+          "german": "Hausschuhe/Finken",
+          "explanation": "'Finke' = indoor slippers. Very Swiss word. All children wear them in school."
+        },
+        {
+          "swissGerman": "Turnsack",
+          "german": "Turnbeutel",
+          "explanation": "'Turnsack' = gym bag. 'Sack' instead of 'Beutel'."
+        },
+        {
+          "swissGerman": "Schuelhuus",
+          "german": "Schulhaus",
+          "explanation": "'Schuelhuus' = 'Schulhaus'. School building."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Chindergarte",
+          "german": "Kindergarten",
+          "english": "kindergarten"
+        },
+        {
+          "swissGerman": "Finke",
+          "german": "Hausschuhe",
+          "english": "indoor shoes / slippers"
+        },
+        {
+          "swissGerman": "DaZ",
+          "german": "Deutsch als Zweitsprache",
+          "english": "German as a second language"
+        }
+      ]
+    }
+  ]
+}

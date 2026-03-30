@@ -1,0 +1,523 @@
+{
+  "id": "primarschule",
+  "topicId": "family-school",
+  "title": "Primarschule (Primary School)",
+  "description": "Reading, writing, maths, and the first years of Swiss school life",
+  "dialogues": [
+    {
+      "id": "primar-1",
+      "level": "beginner",
+      "title": "Homework after school",
+      "situation": "Your child comes home and you ask about school and homework.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Hoi! Wie isch d'Schuel gsi?",
+          "german": "Hallo! Wie war die Schule?",
+          "english": "Hi! How was school?",
+          "spanish": "¡Hola! ¿Qué tal la escuela?"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Guet! Mir händ hüt Rächne gha und Turne.",
+          "german": "Gut! Wir hatten heute Rechnen und Turnen.",
+          "english": "Good! We had maths and gym today.",
+          "spanish": "¡Bien! Hoy tuvimos matemáticas y gimnasia."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Häsch du Ufzgi?",
+          "german": "Hast du Hausaufgaben?",
+          "english": "Do you have homework?",
+          "spanish": "¿Tienes tareas escolares?"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Ja, ich muess es Rächneblatt mache und es Buech läse.",
+          "german": "Ja, ich muss ein Rechenblatt machen und ein Buch lesen.",
+          "english": "Yes, I need to do a maths worksheet and read a book.",
+          "spanish": "Sí, tengo que hacer una hoja de cálculo de matemáticas y leer un libro."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Guet, denn iss zerscht din Zvieri und denn machsch d'Ufzgi.",
+          "german": "Gut, dann iss zuerst dein Zvieri und dann machst du die Aufgaben.",
+          "english": "Good, then eat your afternoon snack first and then do your homework.",
+          "spanish": "Bien, entonces come primero tu merienda y luego haz los deberes."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Chan ich denn no mit de Emma go spile?",
+          "german": "Kann ich danach noch mit Emma spielen gehen?",
+          "english": "Can I go play with Emma afterwards?",
+          "spanish": "¿Puedo ir a jugar con Emma después?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, aber nur wenn d'Ufzgi fertig sind. Wie lang bruchsch du?",
+          "german": "Ja, aber nur wenn die Hausaufgaben fertig sind. Wie lange brauchst du?",
+          "english": "Yes, but only when homework is done. How long do you need?",
+          "spanish": "Sí, pero solo cuando los deberes estén hechos. ¿Cuánto tiempo necesitas?"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Öppe es halbi Stund. Das Räcbnblatt isch nöd so schwer hüt.",
+          "german": "Ungefähr eine halbe Stunde. Das Rechenblatt ist heute nicht so schwer.",
+          "english": "About half an hour. The maths worksheet isn't that hard today.",
+          "spanish": "Aproximadamente media hora. La hoja de matemáticas no es tan difícil hoy."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Rächne",
+          "german": "Rechnen",
+          "explanation": "'Rächne' = 'Rechnen'. Vowel shift."
+        },
+        {
+          "swissGerman": "Turne",
+          "german": "Turnen/Sport",
+          "explanation": "'Turne' = 'Turnen/Sportunterricht'. Swiss PE."
+        },
+        {
+          "swissGerman": "Ufzgi",
+          "german": "Hausaufgaben",
+          "explanation": "'Ufzgi' = 'Aufgaben/Hausaufgaben'. Very Swiss word for homework."
+        },
+        {
+          "swissGerman": "Zvieri",
+          "german": "Nachmittags-Snack",
+          "explanation": "'Zvieri' = afternoon snack (from 'zu vier', at four o'clock)."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Ufzgi",
+          "german": "Hausaufgaben",
+          "english": "homework"
+        },
+        {
+          "swissGerman": "Zvieri",
+          "german": "Nachmittagsjause",
+          "english": "afternoon snack"
+        },
+        {
+          "swissGerman": "Rächne",
+          "german": "Rechnen",
+          "english": "maths"
+        }
+      ]
+    },
+    {
+      "id": "primar-2",
+      "level": "intermediate",
+      "title": "Parent-teacher meeting",
+      "situation": "You attend a scheduled meeting with your child's teacher.",
+      "lines": [
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "Grüezi Frau Müller. Danke dass Sie chömed. D'Lina macht's guet i de Schuel.",
+          "german": "Guten Tag Frau Müller. Danke dass Sie kommen. Lina macht es gut in der Schule.",
+          "english": "Hello Mrs. Müller. Thanks for coming. Lina is doing well in school.",
+          "spanish": "Hola señora Müller. Gracias por venir. Lina va bien en la escuela."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Das fröit mich! Und wie isch's im Rächne?",
+          "german": "Das freut mich! Und wie ist es in Mathe?",
+          "english": "That makes me happy! And how is it in maths?",
+          "spanish": "¡Eso me alegra! ¿Y cómo va en matemáticas?"
+        },
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "Im Rächne isch sie guet. Im Düütsch chönnt sie no meh läse üebe.",
+          "german": "In Mathe ist sie gut. In Deutsch könnte sie noch mehr Lesen üben.",
+          "english": "In maths she's good. In German she could practice reading more.",
+          "spanish": "En matemáticas va bien. En alemán podría practicar más la lectura."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Okay, mir lesed jede Abig zäme. Söll mir en bestimmts Buech näh?",
+          "german": "Okay, wir lesen jeden Abend zusammen. Sollen wir ein bestimmtes Buch nehmen?",
+          "english": "Okay, we read together every evening. Should we use a specific book?",
+          "spanish": "Bien, leemos juntos cada noche. ¿Debemos usar un libro específico?"
+        },
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "Ja, ich gib eu e Lese-List mit. Und sozial isch d'Lina mega beliebt.",
+          "german": "Ja, ich gebe euch eine Leseliste mit. Und sozial ist Lina sehr beliebt.",
+          "english": "Yes, I'll give you a reading list. And socially Lina is very popular.",
+          "spanish": "Sí, te daré una lista de lecturas. Y socialmente Lina es muy popular."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Schön! Merci vilmal, Frau Weber.",
+          "german": "Schön! Vielen Dank, Frau Weber.",
+          "english": "Great! Thank you very much, Mrs. Weber.",
+          "spanish": "¡Genial! Muchas gracias, señora Weber."
+        },
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "Merci üich! Falls Sie Frage händ, därfed Sie mir jederziit e Mail schicke.",
+          "german": "Danke Ihnen! Falls Sie Fragen haben, dürfen Sie mir jederzeit eine E-Mail schicken.",
+          "english": "Thank you! If you have questions, feel free to email me any time.",
+          "spanish": "¡Gracias! Si tiene preguntas, escríbame en cualquier momento."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Super, das isch sehr hilfriich. Bi wieder guet informiert!",
+          "german": "Super, das ist sehr hilfreich. Bin wieder gut informiert!",
+          "english": "Great, that's very helpful. I'm well informed again!",
+          "spanish": "Genial, eso es muy útil. ¡Estoy bien informado de nuevo!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Düütsch",
+          "german": "Deutsch",
+          "explanation": "'Düütsch' = 'Deutsch'. Vowel doubling."
+        },
+        {
+          "swissGerman": "üebe",
+          "german": "üben",
+          "explanation": "'üebe' = 'üben'. Dropped '-n'."
+        },
+        {
+          "swissGerman": "Abig",
+          "german": "Abend",
+          "explanation": "'Abig' = 'Abend'. Swiss form."
+        },
+        {
+          "swissGerman": "Lese-List",
+          "german": "Leseliste",
+          "explanation": "'Lese-List' = 'Leseliste'. '-e' dropped."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Eltereabig",
+          "german": "Elternabend",
+          "english": "parent-teacher meeting"
+        },
+        {
+          "swissGerman": "Düütsch",
+          "german": "Deutsch",
+          "english": "German (subject)"
+        },
+        {
+          "swissGerman": "üebe",
+          "german": "üben",
+          "english": "to practice"
+        }
+      ]
+    },
+    {
+      "id": "primar-3",
+      "level": "beginner",
+      "title": "Packing the school bag",
+      "situation": "You help your child get ready for school the night before.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Lina, häsch du din Thek scho packt für morn?",
+          "german": "Lina, hast du deine Schultasche schon gepackt für morgen?",
+          "english": "Lina, have you already packed your school bag for tomorrow?",
+          "spanish": "Lina, ¿ya has preparado la mochila para mañana?"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Nei, ich weiss nöd was mir händ.",
+          "german": "Nein, ich weiß nicht was wir haben.",
+          "english": "No, I don't know what we have.",
+          "spanish": "No, no sé qué tenemos."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Lueg im Ufzgi-Büechli. Was staht dört?",
+          "german": "Schau im Aufgabenheft. Was steht dort?",
+          "english": "Check your homework planner. What does it say?",
+          "spanish": "Revisa tu agenda de tareas escolares. ¿Qué dice?"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Rächne, Düütsch, Zeichne und NMG.",
+          "german": "Rechnen, Deutsch, Zeichnen und NMG.",
+          "english": "Maths, German, Art, and NMG.",
+          "spanish": "Matemáticas, alemán, arte y NMG."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Guet. Farbstift und Zeichnigsheft nöd vergässe! Und de Turnsack für Fritig?",
+          "german": "Gut. Farbstifte und Zeichnungsheft nicht vergessen! Und den Turnsack für Freitag?",
+          "english": "Good. Don't forget crayons and drawing book! And the gym bag for Friday?",
+          "spanish": "Bien. ¡No olvides los lápices de colores y el cuaderno de dibujo! ¿Y la bolsa de deporte para el viernes?"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Oh stimmt, de muess ich au no iipacke.",
+          "german": "Oh stimmt, den muss ich auch noch einpacken.",
+          "english": "Oh right, I need to pack that too.",
+          "spanish": "Ah, es verdad, tengo que guardar eso también."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und vergiss s'Trinkfläschli nid! Das muess au mit.",
+          "german": "Und vergiss die Trinkflasche nicht! Die muss auch mit.",
+          "english": "And don't forget the water bottle! That comes along too.",
+          "spanish": "¡Y no olvides la botella de agua! Esa también viene."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Ja, ich fülls grad uf mit Wasser.",
+          "german": "Ja, ich fülle sie gleich auf mit Wasser.",
+          "english": "Yes, I'll fill it up with water right now.",
+          "spanish": "Sí, lo llenaré de agua ahora mismo."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Thek",
+          "german": "Schultasche/Schulranzen",
+          "explanation": "'Thek' = 'Schulranzen'. Swiss word for school bag."
+        },
+        {
+          "swissGerman": "Ufzgi-Büechli",
+          "german": "Aufgabenheft",
+          "explanation": "'Ufzgi-Büechli' = 'Aufgabenheft'. Homework planner."
+        },
+        {
+          "swissGerman": "NMG",
+          "german": "NMG",
+          "explanation": "'Natur, Mensch, Gesellschaft' — Swiss combined subject."
+        },
+        {
+          "swissGerman": "Turnsack",
+          "german": "Turnbeutel",
+          "explanation": "'Turnsack' = 'Turnbeutel'. Swiss word for gym bag."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Thek",
+          "german": "Schulranzen",
+          "english": "school bag"
+        },
+        {
+          "swissGerman": "Ufzgi-Büechli",
+          "german": "Aufgabenheft",
+          "english": "homework planner"
+        },
+        {
+          "swissGerman": "Turnsack",
+          "german": "Turnbeutel",
+          "english": "gym bag"
+        }
+      ]
+    },
+    {
+      "id": "primar-4",
+      "level": "intermediate",
+      "title": "Schwimmunterricht — Swimming lessons",
+      "situation": "Your child tells you about swimming class at school.",
+      "lines": [
+        {
+          "speaker": "Child",
+          "swissGerman": "Papi, mir händ hüt Schwümme gha! Ich bi zum erschte Mal vom Sprungbrett gsprunge!",
+          "german": "Papa, wir hatten heute Schwimmen! Ich bin zum ersten Mal vom Sprungbrett gesprungen!",
+          "english": "Dad, we had swimming today! I jumped off the diving board for the first time!",
+          "spanish": "¡Papá, hoy hemos tenido natación! ¡Me he tirado del trampolín por primera vez!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Wow, mega cool! Vom hohe oder vom tüüfe?",
+          "german": "Wow, mega cool! Vom hohen oder vom tiefen?",
+          "english": "Wow, super cool! From the high one or the low one?",
+          "spanish": "¡Vaya, súper guay! ¿Desde el trampolín alto o el bajo?"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Vom Einmeter! De Lehrer hät gsäit ich schwümm guet.",
+          "german": "Vom Einmeter! Der Lehrer hat gesagt ich schwimme gut.",
+          "english": "From the one-meter! The teacher said I swim well.",
+          "spanish": "¡Desde el metro! La profesora dijo que nado bien."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Das fröit mich! Und häsch scho dis Schwümmabzeiche gmacht?",
+          "german": "Das freut mich! Und hast du schon dein Schwimmabzeichen gemacht?",
+          "english": "That makes me happy! And have you done your swimming badge yet?",
+          "spanish": "¡Eso me alegra! ¿Y ya tienes la insignia de nadador?"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Nonig. Ich muess no 50 Meter am Stuck schwümme.",
+          "german": "Noch nicht. Ich muss noch 50 Meter am Stück schwimmen.",
+          "english": "Not yet. I still need to swim 50 meters non-stop.",
+          "spanish": "Todavía no. Todavía tengo que nadar 50 metros sin parar."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Am Samstig gönd mir go üebe im Hallibad. Abgmacht?",
+          "german": "Am Samstag gehen wir üben im Hallenbad. Abgemacht?",
+          "english": "On Saturday we'll go practice at the indoor pool. Deal?",
+          "spanish": "El sábado practicamos en la piscina cubierta. ¿Trato?"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Abgmacht! Und chönni au vom Driiimeterbrett springe?",
+          "german": "Abgemacht! Und darf ich auch vom Dreimaterbrett springen?",
+          "english": "Deal! And can I also jump from the three-meter board?",
+          "spanish": "¡Trato! ¿Y también puedo saltar desde el trampolín de tres metros?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Erst de Fünfzigmeter-Test, drän rede mir. Einig?",
+          "german": "Erst den Fünfzig-Meter-Test, dann reden wir. Einig?",
+          "english": "First the fifty-meter test, then we'll talk. Agreed?",
+          "spanish": "Primero la prueba de cincuenta metros, luego hablamos. ¿De acuerdo?"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Schwümme",
+          "german": "Schwimmen",
+          "explanation": "'Schwümme' = 'Schwimmen'. Vowel shift."
+        },
+        {
+          "swissGerman": "gsprunge",
+          "german": "gesprungen",
+          "explanation": "'gsprunge' = 'gesprungen'. 'ge-' → 'g-'."
+        },
+        {
+          "swissGerman": "Nonig",
+          "german": "Noch nicht",
+          "explanation": "'Nonig' = 'Noch nicht'. Very Swiss contraction."
+        },
+        {
+          "swissGerman": "Hallibad",
+          "german": "Hallenbad",
+          "explanation": "'Hallibad' = 'Hallenbad'. Swiss shortened form."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Schwümme",
+          "german": "Schwimmen",
+          "english": "swimming"
+        },
+        {
+          "swissGerman": "Nonig",
+          "german": "Noch nicht",
+          "english": "not yet"
+        },
+        {
+          "swissGerman": "Hallibad",
+          "german": "Hallenbad",
+          "english": "indoor pool"
+        }
+      ]
+    },
+    {
+      "id": "primar-5",
+      "level": "beginner",
+      "title": "School play rehearsal",
+      "situation": "Your child is excited about the school play.",
+      "lines": [
+        {
+          "speaker": "Child",
+          "swissGerman": "Mami, ich ha e Rolle im Schultheater! Ich bi de Wolf!",
+          "german": "Mama, ich habe eine Rolle im Schultheater! Ich bin der Wolf!",
+          "english": "Mommy, I got a role in the school play! I'm the wolf!",
+          "spanish": "Mamá, ¡me dieron un papel en la obra de teatro del colegio! ¡Soy el lobo!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Mega cool! Wenn isch d'Uffüerig?",
+          "german": "Mega cool! Wann ist die Aufführung?",
+          "english": "Super cool! When is the performance?",
+          "spanish": "¡Súper guay! ¿Cuándo es la actuación?"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "In drü Wuche. Mir üebed jede Namittag.",
+          "german": "In drei Wochen. Wir üben jeden Nachmittag.",
+          "english": "In three weeks. We practice every afternoon.",
+          "spanish": "En tres semanas. Practicamos cada tarde."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Toll! Musch du de Täxt uswändig lehre?",
+          "german": "Toll! Musst du den Text auswendig lernen?",
+          "english": "Great! Do you have to learn the text by heart?",
+          "spanish": "¡Genial! ¿Tienes que aprender el texto de memoria?"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Ja, ich ha zehn Sätz. De Wolf rüeft: 'Ich friss euch alli uf!'",
+          "german": "Ja, ich habe zehn Sätze. Der Wolf ruft: 'Ich fresse euch alle auf!'",
+          "english": "Yes, I have ten lines. The wolf shouts: 'I'll eat you all up!'",
+          "spanish": "Sí, tengo diez líneas. El lobo grita: '¡Me los comeré a todos!'"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Haha! Denn üebemer s'Wuchemend zäme, okay?",
+          "german": "Haha! Dann üben wir am Wochenende zusammen, okay?",
+          "english": "Haha! Then we'll practice together on the weekend, okay?",
+          "spanish": "¡Jaja! Entonces practicaremos juntos el fin de semana, ¿vale?"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Ja! Ha dr mega Ang vor de andere, aber ich willä es guet mache.",
+          "german": "Ja! Ich habe Lampenfieber von den anderen, aber ich will es gut machen.",
+          "english": "Yes! I have stage fright with the others watching, but I want to do it well.",
+          "spanish": "Sí, tengo miedo escénico cuando los demás miran, pero quiero hacerlo bien."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Du wirst fantastisch si! Mir chömmed all vier go zueluege.",
+          "german": "Du wirst fantastisch sein! Wir kommen alle vier zum Zuschauen.",
+          "english": "You'll be fantastic! All four of us will come to watch.",
+          "spanish": "¡Lo harás de maravilla! Los cuatro vendremos a verte."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Uffüerig",
+          "german": "Aufführung",
+          "explanation": "'Uffüerig' = 'Aufführung'. 'Auf-' → 'Uf-', '-ung' → '-ig'."
+        },
+        {
+          "swissGerman": "uswändig",
+          "german": "auswendig",
+          "explanation": "'uswändig' = 'auswendig'. 'aus-' → 'us-'."
+        },
+        {
+          "swissGerman": "Täxt",
+          "german": "Text",
+          "explanation": "'Täxt' = 'Text'. Vowel shift."
+        },
+        {
+          "swissGerman": "Wuchemend",
+          "german": "Wochenende",
+          "explanation": "'Wuchemend' = 'Wochenende'. Swiss form."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Uffüerig",
+          "german": "Aufführung",
+          "english": "performance"
+        },
+        {
+          "swissGerman": "uswändig",
+          "german": "auswendig",
+          "english": "by heart"
+        },
+        {
+          "swissGerman": "Wuchemend",
+          "german": "Wochenende",
+          "english": "weekend"
+        }
+      ]
+    }
+  ]
+}

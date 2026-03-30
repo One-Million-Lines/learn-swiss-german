@@ -1,0 +1,550 @@
+{
+  "id": "insurance-general",
+  "topicId": "practical-swiss-life",
+  "title": "Insurance Beyond Health",
+  "description": "Liability insurance, household insurance, reporting incidents, and understanding coverage in Switzerland",
+  "dialogues": [
+    {
+      "id": "insurance-general-1",
+      "level": "intermediate",
+      "title": "Asking about liability insurance (Haftpflicht)",
+      "situation": "You just moved to Switzerland and your landlord mentioned you need liability insurance.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Grüezi! Min Vermieter hät gseit, ich bruuch e Haftpflicht. Was isch das genau?",
+          "german": "Grüezi! Mein Vermieter hat gesagt, ich brauche eine Haftpflichtversicherung. Was ist das genau?",
+          "english": "Hello! My landlord said I need liability insurance. What exactly is that?",
+          "spanish": "¡Hola! Mi casero dijo que necesito un seguro de responsabilidad civil. ¿Qué es exactamente eso?"
+        },
+        {
+          "speaker": "Agent",
+          "swissGerman": "D'Haftpflicht deckt Schäde, wo Si anere Person oder ihrem Eigetum verursached.",
+          "german": "Die Haftpflicht deckt Schäden, die Sie einer anderen Person oder ihrem Eigentum verursachen.",
+          "english": "Liability insurance covers damages you cause to another person or their property.",
+          "spanish": "El seguro de responsabilidad civil cubre daños que causas a otra persona o a su propiedad."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Zum Biispiil?",
+          "german": "Zum Beispiel?",
+          "english": "For example?",
+          "spanish": "¿Por ejemplo?"
+        },
+        {
+          "speaker": "Agent",
+          "swissGerman": "Wenn Si de Bode vom Nachbar überschwemmed, oder de Laptop vom ene Fründ kaputt mached.",
+          "german": "Wenn Sie den Boden des Nachbarn überschwemmen, oder den Laptop eines Freundes kaputt machen.",
+          "english": "If you flood the neighbor's floor, or break a friend's laptop.",
+          "spanish": "Si inundas el piso del vecino, o rompes el portátil de un amigo."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ah, verstah. Und was choschtet das im Monet?",
+          "german": "Ah, verstehe. Und was kostet das im Monat?",
+          "english": "Ah, I see. And how much does it cost per month?",
+          "spanish": "Ah, ya veo. ¿Y cuánto cuesta al mes?"
+        },
+        {
+          "speaker": "Agent",
+          "swissGerman": "So öppe zehn bis fünfzäh Franke im Monet. Ich empfähl Ine e Privathaftpflicht zäme mit de Huusratsversicherig.",
+          "german": "So ungefähr zehn bis fünfzehn Franken im Monat. Ich empfehle Ihnen eine Privathaftpflicht zusammen mit der Hausratversicherung.",
+          "english": "About ten to fifteen francs per month. I recommend private liability together with household insurance.",
+          "spanish": "De diez a quince francos al mes aproximadamente. Recomiendo responsabilidad civil privada junto con seguro del hogar."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Isch das obligatorisch?",
+          "german": "Ist das obligatorisch?",
+          "english": "Is it mandatory?",
+          "spanish": "¿Es obligatorio?"
+        },
+        {
+          "speaker": "Agent",
+          "swissGerman": "Offiziell nei, aber praktisch jede i de Schwiiz hät eini. Und vili Vermieter verlanged's.",
+          "german": "Offiziell nein, aber praktisch jeder in der Schweiz hat eine. Und viele Vermieter verlangen es.",
+          "english": "Officially no, but practically everyone in Switzerland has one. And many landlords require it.",
+          "spanish": "Oficialmente no, pero en la práctica casi todo el mundo en Suiza tiene uno. Y muchos propietarios lo exigen."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Haftpflicht",
+          "german": "Haftpflichtversicherung",
+          "explanation": "Swiss German often shortens to just 'Haftpflicht'."
+        },
+        {
+          "swissGerman": "Eigetum",
+          "german": "Eigentum",
+          "explanation": "'Eigetum' = 'Eigentum'. Dropped 'n'."
+        },
+        {
+          "swissGerman": "Huusratsversicherig",
+          "german": "Hausratversicherung",
+          "explanation": "'Huusrats-' = 'Hausrat-', '-versicherig' = '-versicherung'."
+        },
+        {
+          "swissGerman": "verlanged's",
+          "german": "verlangen es",
+          "explanation": "'verlanged's' = 'verlangen es'. Contracted form."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Haftpflicht",
+          "german": "Haftpflichtversicherung",
+          "english": "liability insurance"
+        },
+        {
+          "swissGerman": "Huusratsversicherig",
+          "german": "Hausratversicherung",
+          "english": "household insurance"
+        },
+        {
+          "swissGerman": "obligatorisch",
+          "german": "obligatorisch/Pflicht",
+          "english": "mandatory"
+        }
+      ]
+    },
+    {
+      "id": "insurance-general-2",
+      "level": "intermediate",
+      "title": "Reporting a water damage incident",
+      "situation": "Your washing machine leaked and damaged the floor. You call your household insurance.",
+      "lines": [
+        {
+          "speaker": "Agent",
+          "swissGerman": "Versicherig Mobiliar, grüezi. Wie chan ich hälfe?",
+          "german": "Versicherung Mobiliar, grüezi. Wie kann ich helfen?",
+          "english": "Mobiliar Insurance, hello. How can I help?",
+          "spanish": "Mobiliar Seguros, buenos días. ¿En qué le puedo ayudar?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Grüezi! Ich ha en Wasserschade i de Wohnig. D'Wöschmaschine hät uusglaufe.",
+          "german": "Grüezi! Ich habe einen Wasserschaden in der Wohnung. Die Waschmaschine ist ausgelaufen.",
+          "english": "Hello! I have water damage in the apartment. The washing machine leaked.",
+          "spanish": "¡Hola! Tengo daños por agua en el apartamento. La lavadora tuvo una fuga."
+        },
+        {
+          "speaker": "Agent",
+          "swissGerman": "Das isch natürlich ärgerlich. Wänn isch das passiert?",
+          "german": "Das ist natürlich ärgerlich. Wann ist das passiert?",
+          "english": "That's certainly annoying. When did that happen?",
+          "spanish": "Eso es sin duda molesto. ¿Cuándo ocurrió?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Geschter am Abig. De Bode i de Chuchi und im Gang isch nass.",
+          "german": "Gestern Abend. Der Boden in der Küche und im Flur ist nass.",
+          "english": "Yesterday evening. The floor in the kitchen and hallway is wet.",
+          "spanish": "Ayer por la tarde. El suelo de la cocina y el pasillo están mojados."
+        },
+        {
+          "speaker": "Agent",
+          "swissGerman": "Händ Si Fotos gmacht?",
+          "german": "Haben Sie Fotos gemacht?",
+          "english": "Did you take photos?",
+          "spanish": "¿Sacaste fotos?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, ich ha alles dokumentiert.",
+          "german": "Ja, ich habe alles dokumentiert.",
+          "english": "Yes, I documented everything.",
+          "spanish": "Sí, lo documenté todo."
+        },
+        {
+          "speaker": "Agent",
+          "swissGerman": "Guet. Ich schick Ine s'Schadefomular per Mail. Füllid Si das uus und laaded Si d'Fotos uf.",
+          "german": "Gut. Ich schicke Ihnen das Schadenformular per Mail. Füllen Sie das aus und laden Sie die Fotos hoch.",
+          "english": "Good. I'll send you the damage form by email. Fill it out and upload the photos.",
+          "spanish": "Bien. Le enviaré el formulario de daños por email. Rellénelo y suba las fotos."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Isch so en Wasserschade bi mir deckt?",
+          "german": "Ist so ein Wasserschaden bei mir gedeckt?",
+          "english": "Is this type of water damage covered for me?",
+          "spanish": "¿Este tipo de daño por agua está cubierto para mí?"
+        },
+        {
+          "speaker": "Agent",
+          "swissGerman": "Ja, das louft über d'Huusratsversicherig. De Sälbstbehalt isch zwöihundert Franke.",
+          "german": "Ja, das läuft über die Hausratversicherung. Der Selbstbehalt ist zweihundert Franken.",
+          "english": "Yes, that goes through household insurance. The deductible is two hundred francs.",
+          "spanish": "Sí, eso va por el seguro del hogar. El deducible es de doscientos francos."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Wasserschade",
+          "german": "Wasserschaden",
+          "explanation": "'Wasserschade' drops the final 'n'."
+        },
+        {
+          "swissGerman": "Wöschmaschine",
+          "german": "Waschmaschine",
+          "explanation": "'Wöschmaschine' = 'Waschmaschine'. 'a' → 'ö'."
+        },
+        {
+          "swissGerman": "Chuchi",
+          "german": "Küche",
+          "explanation": "'Chuchi' = 'Küche'. Classic Swiss word."
+        },
+        {
+          "swissGerman": "Schadefomular",
+          "german": "Schadenformular",
+          "explanation": "'Schadefomular' = 'Schadenformular'. Dropped 'n' and 'r'."
+        },
+        {
+          "swissGerman": "Sälbstbehalt",
+          "german": "Selbstbehalt",
+          "explanation": "'Sälbstbehalt' = 'Selbstbehalt'. 'e' → 'ä'. Deductible."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Wasserschade",
+          "german": "Wasserschaden",
+          "english": "water damage"
+        },
+        {
+          "swissGerman": "Schadefomular",
+          "german": "Schadenformular",
+          "english": "damage report form"
+        },
+        {
+          "swissGerman": "Sälbstbehalt",
+          "german": "Selbstbehalt",
+          "english": "deductible"
+        }
+      ]
+    },
+    {
+      "id": "insurance-general-3",
+      "level": "beginner",
+      "title": "Asking what is covered",
+      "situation": "You want to understand what your household insurance covers and call your insurance agent.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Grüezi! Ich möcht gern wüsse, was mini Huusratsversicherig genau deckt.",
+          "german": "Grüezi! Ich möchte gern wissen, was meine Hausratversicherung genau abdeckt.",
+          "english": "Hello! I'd like to know exactly what my household insurance covers.",
+          "spanish": "¡Hola! Me gustaría saber exactamente qué cubre mi seguro del hogar."
+        },
+        {
+          "speaker": "Agent",
+          "swissGerman": "Si händ de Standard-Schutz. Das deckt Füür, Wasser, Iibruch und Diebstahl.",
+          "german": "Sie haben den Standard-Schutz. Das deckt Feuer, Wasser, Einbruch und Diebstahl.",
+          "english": "You have standard protection. That covers fire, water, burglary, and theft.",
+          "spanish": "Tienes protección estándar. Eso cubre incendio, agua, robo y hurto."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und wenn mir s'Handy uf de Strass usse faut?",
+          "german": "Und wenn mir das Handy auf der Straße runterfällt?",
+          "english": "And if my phone falls on the street?",
+          "spanish": "¿Y si se me cae el teléfono en la calle?"
+        },
+        {
+          "speaker": "Agent",
+          "swissGerman": "Nei, das isch en Eigenschade. Da bruuched Si en Zusatzversicherig.",
+          "german": "Nein, das ist ein Eigenschaden. Da brauchen Sie eine Zusatzversicherung.",
+          "english": "No, that's self-inflicted damage. You'd need additional coverage.",
+          "spanish": "No, eso es daño propio. Necesitarías cobertura adicional."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und was isch mit em Velo? Min Velo isch vor em Bahnhof gstohle worde.",
+          "german": "Und was ist mit dem Fahrrad? Mein Fahrrad wurde vor dem Bahnhof gestohlen.",
+          "english": "And what about the bike? My bike was stolen in front of the train station.",
+          "spanish": "¿Y qué hay de la bicicleta? Me robaron la bici frente a la estación de tren."
+        },
+        {
+          "speaker": "Agent",
+          "swissGerman": "Das isch deckt, wenn Si's aagschlosse gha händ. Mir bruuched e Polizeimäldig.",
+          "german": "Das ist gedeckt, wenn Sie es angeschlossen hatten. Wir brauchen eine Polizeimeldung.",
+          "english": "That's covered if you had it locked. We need a police report.",
+          "spanish": "Eso está cubierto si lo tenías bloqueado. Necesitamos un informe policial."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Guet, d'Polizeimäldig ha ich scho gmacht.",
+          "german": "Gut, die Polizeimeldung habe ich schon gemacht.",
+          "english": "Good, I've already filed the police report.",
+          "spanish": "Bien, ya hice la denuncia policial."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Füür",
+          "german": "Feuer",
+          "explanation": "'Füür' = 'Feuer'. Swiss vowel."
+        },
+        {
+          "swissGerman": "Iibruch",
+          "german": "Einbruch",
+          "explanation": "'Iibruch' = 'Einbruch'. 'Ein' → 'Ii'."
+        },
+        {
+          "swissGerman": "Eigenschade",
+          "german": "Eigenschaden",
+          "explanation": "'Eigenschade' = 'Eigenschaden'. Self-inflicted damage."
+        },
+        {
+          "swissGerman": "Polizeimäldig",
+          "german": "Polizeimeldung",
+          "explanation": "'Polizeimäldig' = 'Polizeimeldung'. '-ung' → '-ig'."
+        },
+        {
+          "swissGerman": "gstohle",
+          "german": "gestohlen",
+          "explanation": "'gstohle' = 'gestohlen'. No 'ge-' prefix, dropped 'n'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Iibruch",
+          "german": "Einbruch",
+          "english": "burglary"
+        },
+        {
+          "swissGerman": "Polizeimäldig",
+          "german": "Polizeimeldung",
+          "english": "police report"
+        },
+        {
+          "swissGerman": "Zusatzversicherig",
+          "german": "Zusatzversicherung",
+          "english": "additional insurance"
+        }
+      ]
+    },
+    {
+      "id": "insurance-general-4",
+      "level": "intermediate",
+      "title": "Car accident and insurance claim",
+      "situation": "You had a minor car accident in a parking lot and need to report it to your car insurance.",
+      "lines": [
+        {
+          "speaker": "Agent",
+          "swissGerman": "AXA Autoversicherig, grüezi.",
+          "german": "AXA Autoversicherung, grüezi.",
+          "english": "AXA Car Insurance, hello.",
+          "spanish": "Seguro de Coche AXA, buenos días."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Grüezi! Ich ha hüt en chline Unfall gha im Parkhuus. Ich bi bim Parkiere aa en andere Auto gfahre.",
+          "german": "Grüezi! Ich hatte heute einen kleinen Unfall im Parkhaus. Ich bin beim Parkieren an ein anderes Auto gefahren.",
+          "english": "Hello! I had a small accident in the parking garage today. I hit another car while parking.",
+          "spanish": "¡Hola! Tuve un pequeño accidente en el aparcamiento hoy. Golpeé otro coche al aparcar."
+        },
+        {
+          "speaker": "Agent",
+          "swissGerman": "Isch öpper verletzt worde?",
+          "german": "Wurde jemand verletzt?",
+          "english": "Was anyone injured?",
+          "spanish": "¿Hubo algún herido?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Nei, zum Glück nöd. Nur Blechschade.",
+          "german": "Nein, zum Glück nicht. Nur Blechschaden.",
+          "english": "No, luckily not. Only body damage.",
+          "spanish": "No, por suerte no. Solo daños en la carrocería."
+        },
+        {
+          "speaker": "Agent",
+          "swissGerman": "Händ Si d'Date vom andere Fahrer?",
+          "german": "Haben Sie die Daten des anderen Fahrers?",
+          "english": "Do you have the other driver's details?",
+          "spanish": "¿Tienes los datos del otro conductor?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, mir händ es Unfallprotokoll uusgfüllt und Fotos gmacht.",
+          "german": "Ja, wir haben ein Unfallprotokoll ausgefüllt und Fotos gemacht.",
+          "english": "Yes, we filled out an accident report and took photos.",
+          "spanish": "Sí, rellenamos un informe de accidente y tomamos fotos."
+        },
+        {
+          "speaker": "Agent",
+          "swissGerman": "Sehr guet. Schicked Si mir das Protokoll und d'Fotos per Mail. Si zahled de Sälbstbehalt vo tusig Franke.",
+          "german": "Sehr gut. Schicken Sie mir das Protokoll und die Fotos per Mail. Sie zahlen den Selbstbehalt von tausend Franken.",
+          "english": "Very good. Send me the report and photos by email. You'll pay the deductible of one thousand francs.",
+          "spanish": "Muy bien. Envíame el informe y las fotos por correo electrónico. Pagarás el deducible de mil francos."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und stiiged denn mini Prämie?",
+          "german": "Und steigen dann meine Prämien?",
+          "english": "And will my premiums go up?",
+          "spanish": "¿Y subirán mis primas?"
+        },
+        {
+          "speaker": "Agent",
+          "swissGerman": "Wahrschinlich ja, will Si schuld gsii sind. Aber ich chann Ine s'gnauere denn säge.",
+          "german": "Wahrscheinlich ja, weil Sie schuld waren. Aber ich kann Ihnen das Genauere dann sagen.",
+          "english": "Probably yes, since you were at fault. But I can tell you more precisely later.",
+          "spanish": "Probablemente sí, ya que tuviste la culpa. Pero puedo decírtelo con más precisión más adelante."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Parkhuus",
+          "german": "Parkhaus",
+          "explanation": "'Parkhuus' = 'Parkhaus'. 'au' → 'uu'."
+        },
+        {
+          "swissGerman": "Blechschade",
+          "german": "Blechschaden",
+          "explanation": "'Blechschade' = 'Blechschaden'. Body/fender damage."
+        },
+        {
+          "swissGerman": "Unfallprotokoll",
+          "german": "Unfallprotokoll",
+          "explanation": "Same word. Swiss/European accident report form."
+        },
+        {
+          "swissGerman": "Prämie",
+          "german": "Prämien",
+          "explanation": "'Prämie' = 'Prämien'. Insurance premiums."
+        },
+        {
+          "swissGerman": "stiiged",
+          "german": "steigen",
+          "explanation": "'stiiged' = 'steigen'. 'ei' → 'ii' and Swiss conjugation."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Blechschade",
+          "german": "Blechschaden",
+          "english": "body damage / fender bender"
+        },
+        {
+          "swissGerman": "Unfallprotokoll",
+          "german": "Unfallprotokoll",
+          "english": "accident report form"
+        },
+        {
+          "swissGerman": "Prämie",
+          "german": "Prämien",
+          "english": "premiums"
+        }
+      ]
+    },
+    {
+      "id": "insurance-general-5",
+      "level": "beginner",
+      "title": "Comparing insurance quotes",
+      "situation": "You're shopping for household insurance and comparing different offers.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Grüezi! Ich möcht gern en Offerte für e Huusratsversicherig.",
+          "german": "Grüezi! Ich möchte gern ein Angebot für eine Hausratversicherung.",
+          "english": "Hello! I'd like a quote for household insurance.",
+          "spanish": "¡Hola! Me gustaría un presupuesto para un seguro del hogar."
+        },
+        {
+          "speaker": "Agent",
+          "swissGerman": "Gern! Wie gross isch Ihri Wohnig?",
+          "german": "Gern! Wie groß ist Ihre Wohnung?",
+          "english": "Sure! How big is your apartment?",
+          "spanish": "¡Claro! ¿Qué tamaño tiene tu apartamento?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Drüüezwänzg Quadratmeter... äh nei, drüüehalb Zimmer-Wohnig.",
+          "german": "Dreiundzwanzig Quadratmeter... äh nein, Dreieinhalb-Zimmer-Wohnung.",
+          "english": "Twenty-three square meters... uh no, three-and-a-half room apartment.",
+          "spanish": "Veintitrés metros cuadrados... eh no, un apartamento de tres habitaciones y media."
+        },
+        {
+          "speaker": "Agent",
+          "swissGerman": "Und uf welchne Wärt söll de Huusrat versicheret sii?",
+          "german": "Und auf welchen Wert soll der Hausrat versichert sein?",
+          "english": "And for what value should the household contents be insured?",
+          "spanish": "¿Y por qué valor se asegura el contenido del hogar?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Öppe füfzgtuusig Franke?",
+          "german": "Ungefähr fünfzigtausend Franken?",
+          "english": "About fifty thousand francs?",
+          "spanish": "¿Unos cincuenta mil francos?"
+        },
+        {
+          "speaker": "Agent",
+          "swissGerman": "Guet. Mit Haftpflicht zäme würd das zwöihundert Franke im Jahr choschte.",
+          "german": "Gut. Mit Haftpflicht zusammen würde das zweihundert Franken im Jahr kosten.",
+          "english": "Good. Together with liability insurance that would cost two hundred francs per year.",
+          "spanish": "Bien. Junto con el seguro de responsabilidad civil serían doscientos francos al año."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Das isch günschtig! Isch d'Glassbruchversicherig au dinne?",
+          "german": "Das ist günstig! Ist die Glasbruchversicherung auch dabei?",
+          "english": "That's affordable! Is glass breakage insurance included too?",
+          "spanish": "¡Qué asequible! ¿El seguro de rotura de cristales también está incluido?"
+        },
+        {
+          "speaker": "Agent",
+          "swissGerman": "Nei, das isch en Zuusatz. Chostet no drissig Franke meh im Jahr.",
+          "german": "Nein, das ist ein Zusatz. Kostet noch dreißig Franken mehr im Jahr.",
+          "english": "No, that's an add-on. Costs thirty francs more per year.",
+          "spanish": "No, eso es un complemento. Cuesta treinta francos más al año."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Offerte",
+          "german": "Angebot",
+          "explanation": "'Offerte' = 'Angebot'. Swiss uses French-derived 'Offerte' for quote/offer."
+        },
+        {
+          "swissGerman": "drüüehalb",
+          "german": "dreieinhalb",
+          "explanation": "'drüüehalb' = 'dreieinhalb'. Three-and-a-half."
+        },
+        {
+          "swissGerman": "Huusrat",
+          "german": "Hausrat",
+          "explanation": "'Huusrat' = 'Hausrat'. 'au' → 'uu'. Household contents."
+        },
+        {
+          "swissGerman": "günschtig",
+          "german": "günstig",
+          "explanation": "'günschtig' = 'günstig'. Added 'ch'."
+        },
+        {
+          "swissGerman": "Glassbruchversicherig",
+          "german": "Glasbruchversicherung",
+          "explanation": "Glass breakage insurance, '-ung' → '-ig'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Offerte",
+          "german": "Angebot",
+          "english": "quote / offer"
+        },
+        {
+          "swissGerman": "Huusrat",
+          "german": "Hausrat",
+          "english": "household contents"
+        },
+        {
+          "swissGerman": "günschtig",
+          "german": "günstig",
+          "english": "affordable / cheap"
+        }
+      ]
+    }
+  ]
+}

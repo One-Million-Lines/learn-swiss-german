@@ -1,0 +1,484 @@
+{
+  "id": "office-it-problems",
+  "topicId": "work",
+  "title": "IT Problems at the Office",
+  "description": "Dealing with computer issues, printers, and calling IT support",
+  "dialogues": [
+    {
+      "id": "office-it-1",
+      "level": "beginner",
+      "title": "Computer won't start",
+      "situation": "Your computer won't turn on and you ask a colleague for help.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Hey, min Computer gaht nöd aa. Hesch du au das Problem?",
+          "german": "Hey, mein Computer geht nicht an. Hast du auch das Problem?",
+          "english": "Hey, my computer won't turn on. Do you have that problem too?",
+          "spanish": "Oye, mi ordenador no enciende. ¿Tú también tienes ese problema?"
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Nei, bi mir gaht alles. Hesch probiert, en neu z'starte?",
+          "german": "Nein, bei mir geht alles. Hast du probiert, ihn neu zu starten?",
+          "english": "No, everything works for me. Have you tried restarting it?",
+          "spanish": "No, todo me funciona. ¿Has intentado reiniciarlo?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, aber nüt passiert. De Bildschirm blibt schwarz.",
+          "german": "Ja, aber nichts passiert. Der Bildschirm bleibt schwarz.",
+          "english": "Yes, but nothing happens. The screen stays black.",
+          "spanish": "Sí, pero no pasa nada. La pantalla se queda en negro."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Lüt doch mal de IT-Support aa. D'Numere isch 4400.",
+          "german": "Ruf doch mal den IT-Support an. Die Nummer ist 4400.",
+          "english": "Why don't you call IT support. The number is 4400.",
+          "spanish": "¿Por qué no llamas al soporte de TI? El número es el 4400."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und söll ich grad es Ticket uföffne oder eifach aaluute?",
+          "german": "Und soll ich gleich ein Ticket eröffnen oder einfach anrufen?",
+          "english": "And should I open a ticket right away or just call?",
+          "spanish": "¿Y debería abrir un ticket de inmediato o simplemente llamar?"
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Büürsch aaluute — die chend's am schnellschte löse, bsunders wenn de Bildschirm nid gaht.",
+          "german": "Besser anrufen — die können es am schnellsten lösen, besonders wenn der Bildschirm nicht geht.",
+          "english": "Better to call — they can fix it fastest, especially when the screen doesn't work.",
+          "spanish": "Mejor llamar — pueden arreglarlo más rápido, especialmente cuando la pantalla no funciona."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Gueti Idee, danke! Ich mache das grad.",
+          "german": "Gute Idee, danke! Ich mache das gleich.",
+          "english": "Good idea, thanks! I'll do that right away.",
+          "spanish": "Buena idea, ¡gracias! Lo hago ahora mismo."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "gaht nöd aa",
+          "german": "geht nicht an",
+          "explanation": "'gaht' = 'geht', 'nöd' = 'nicht', 'aa' = 'an'."
+        },
+        {
+          "swissGerman": "Lüt...aa",
+          "german": "Ruf...an",
+          "explanation": "'aalüte' = 'anrufen'. Completely different verb."
+        },
+        {
+          "swissGerman": "nüt",
+          "german": "nichts",
+          "explanation": "'nüt' = 'nichts'. Very common."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "gaht nöd aa",
+          "german": "geht nicht an",
+          "english": "won't turn on"
+        },
+        {
+          "swissGerman": "aalüte",
+          "german": "anrufen",
+          "english": "to call (phone)"
+        },
+        {
+          "swissGerman": "Bildschirm",
+          "german": "Bildschirm",
+          "english": "screen"
+        }
+      ]
+    },
+    {
+      "id": "office-it-2",
+      "level": "beginner",
+      "title": "Printer is jammed",
+      "situation": "The printer is jammed and you need to print something urgently.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "De Drucker hät scho wieder en Papierstau!",
+          "german": "Der Drucker hat schon wieder einen Papierstau!",
+          "english": "The printer has a paper jam again!",
+          "spanish": "¡La impresora tiene un atasco de papel otra vez!"
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Scho wieder? Das isch scho s'dritte Mal die Wuche.",
+          "german": "Schon wieder? Das ist schon das dritte Mal diese Woche.",
+          "english": "Again? That's already the third time this week.",
+          "spanish": "¿Otra vez? Ya es la tercera vez esta semana."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich muess die Sache aber dringend usdruche.",
+          "german": "Ich muss die Sachen aber dringend ausdrucken.",
+          "english": "But I urgently need to print these things.",
+          "spanish": "Pero urgentemente necesito imprimir estas cosas."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Probier de Drucker im zweite Stock. De funktioniert meistens.",
+          "german": "Probier den Drucker im zweiten Stock. Der funktioniert meistens.",
+          "english": "Try the printer on the second floor. That one usually works.",
+          "spanish": "Prueba la impresora del segundo piso. Esa suele funcionar."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und de Drucker da — isch der under Garantie? De macht jede Wuche Trouble.",
+          "german": "Und der Drucker hier — ist der unter Garantie? Der macht jede Woche Probleme.",
+          "english": "And this printer here — is it under warranty? It causes trouble every week.",
+          "spanish": "Y esta impresora de aquí — ¿está en garantía? Da problemas cada semana."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Ich glaub ja. Ich sag de IT Bescheid dass mir en neue bruuched.",
+          "german": "Ich glaube ja. Ich sage der IT Bescheid dass wir einen neuen brauchen.",
+          "english": "I think so. I'll let IT know that we need a new one.",
+          "spanish": "Creo que sí. Le avisaré a informática que necesitamos uno nuevo."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ah stimmt, danke! Ich gang grad ufe.",
+          "german": "Ah stimmt, danke! Ich gehe gleich hoch.",
+          "english": "Oh right, thanks! I'll head up right away.",
+          "spanish": "¡Ah, es verdad, gracias! Subo enseguida."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "usdruche",
+          "german": "ausdrucken",
+          "explanation": "'us-' = 'aus-', 'druche' = 'drucken'. Typical Swiss German verb form."
+        },
+        {
+          "swissGerman": "s'dritte Mal",
+          "german": "das dritte Mal",
+          "explanation": "'s'' = 'das'. Article contraction."
+        },
+        {
+          "swissGerman": "gang grad ufe",
+          "german": "gehe gleich hoch",
+          "explanation": "'gang' = 'gehe', 'ufe' = 'hoch/hinauf'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Papierstau",
+          "german": "Papierstau",
+          "english": "paper jam"
+        },
+        {
+          "swissGerman": "usdruche",
+          "german": "ausdrucken",
+          "english": "to print out"
+        },
+        {
+          "swissGerman": "im zweite Stock",
+          "german": "im zweiten Stock",
+          "english": "on the second floor"
+        }
+      ]
+    },
+    {
+      "id": "office-it-3",
+      "level": "intermediate",
+      "title": "Calling IT support",
+      "situation": "You call the IT helpdesk because you can't access a shared folder.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Grüezi, ich ha es Problem mit em Zuegriff uf de Server.",
+          "german": "Guten Tag, ich habe ein Problem mit dem Zugriff auf den Server.",
+          "english": "Hello, I have a problem accessing the server.",
+          "spanish": "Hola, tengo un problema para acceder al servidor."
+        },
+        {
+          "speaker": "IT Support",
+          "swissGerman": "Grüezi. Chönd Sie mir Ihre Mitarbeiternumere gäh?",
+          "german": "Guten Tag. Können Sie mir Ihre Mitarbeiternummer geben?",
+          "english": "Hello. Can you give me your employee number?",
+          "spanish": "Hola. ¿Puede darme su número de empleado?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, 7523. Ich cha de Ordner 'Projekte' nöd öffne.",
+          "german": "Ja, 7523. Ich kann den Ordner 'Projekte' nicht öffnen.",
+          "english": "Yes, 7523. I can't open the 'Projects' folder.",
+          "spanish": "Sí, 7523. No puedo abrir la carpeta 'Projects'."
+        },
+        {
+          "speaker": "IT Support",
+          "swissGerman": "Momänt bitte... Ah, ich gseh's. Ihri Berächtigung isch abglaufe. Ich erneuere das grad.",
+          "german": "Moment bitte... Ah, ich sehe es. Ihre Berechtigung ist abgelaufen. Ich erneuere das gleich.",
+          "english": "One moment please... Ah, I see it. Your permission expired. I'll renew it right away.",
+          "spanish": "Un momento, por favor... Ah, lo veo. Tu permiso ha caducado. Lo renuevo ahora mismo."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ah super, merci vilmal!",
+          "german": "Ah super, vielen Dank!",
+          "english": "Ah great, thank you very much!",
+          "spanish": "¡Ah, genial, muchas gracias!"
+        },
+        {
+          "speaker": "IT Support",
+          "swissGerman": "Bitte. Probiered Sie's in föif Minute nomal.",
+          "german": "Bitte. Probieren Sie es in fünf Minuten nochmal.",
+          "english": "You're welcome. Try again in five minutes.",
+          "spanish": "De nada. Inténtalo de nuevo en cinco minutos."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und falls s'no nid gaht — söll ich wider aaluute oder en Ticket uföffne?",
+          "german": "Und falls es noch nicht geht — soll ich wieder anrufen oder ein Ticket eröffnen?",
+          "english": "And if it still doesn't work — should I call again or open a ticket?",
+          "spanish": "¿Y si todavía no funciona — debo llamar de nuevo o abrir un ticket?"
+        },
+        {
+          "speaker": "IT Support",
+          "swissGerman": "Ticket isch besser, denn cha mer's dokumentiere. Ufem Intranet under 'IT-Hilfe'.",
+          "german": "Ticket ist besser, dann kann man es dokumentieren. Im Intranet unter 'IT-Hilfe'.",
+          "english": "Ticket is better, then we can document it. On the intranet under 'IT-Help'.",
+          "spanish": "Un ticket es mejor, así podemos documentarlo. En la intranet bajo 'IT-Help'."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Zuegriff",
+          "german": "Zugriff",
+          "explanation": "'Zuegriff' preserves an extra vowel, typical Swiss German."
+        },
+        {
+          "swissGerman": "Berächtigung",
+          "german": "Berechtigung",
+          "explanation": "'Berächtigung' = 'Berechtigung'. Vowel shift 'e' → 'ä'."
+        },
+        {
+          "swissGerman": "abglaufe",
+          "german": "abgelaufen",
+          "explanation": "'abglaufe' = 'abgelaufen'. Dropped 'ge-' prefix shortens, '-en' → '-e'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Zuegriff",
+          "german": "Zugriff",
+          "english": "access"
+        },
+        {
+          "swissGerman": "Berächtigung",
+          "german": "Berechtigung",
+          "english": "permission"
+        },
+        {
+          "swissGerman": "Probiered Sie's nomal",
+          "german": "Probieren Sie es nochmal",
+          "english": "Try again"
+        }
+      ]
+    },
+    {
+      "id": "office-it-4",
+      "level": "intermediate",
+      "title": "WiFi not working",
+      "situation": "The office WiFi is down and multiple people are affected.",
+      "lines": [
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Hesch du au keis Internet? Bi mir gaht nüt meh.",
+          "german": "Hast du auch kein Internet? Bei mir geht nichts mehr.",
+          "english": "Do you also have no internet? Nothing works for me anymore.",
+          "spanish": "¿Tú también te has quedado sin internet? A mí ya no me funciona nada."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Nei, bi mir au nöd. S'WLAN isch komplett usgfalle.",
+          "german": "Nein, bei mir auch nicht. Das WLAN ist komplett ausgefallen.",
+          "english": "No, not for me either. The WiFi completely went out.",
+          "spanish": "No, a mí tampoco. El WiFi se cayó completamente."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Hät öpper scho de IT informiert?",
+          "german": "Hat jemand schon die IT informiert?",
+          "english": "Has anyone already informed IT?",
+          "spanish": "¿Ya ha informado alguien a informática?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "De Thomas hät vor zehn Minute en Ticket eröffnet.",
+          "german": "Thomas hat vor zehn Minuten ein Ticket eröffnet.",
+          "english": "Thomas opened a ticket ten minutes ago.",
+          "spanish": "Thomas abrió un ticket hace diez minutos."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Okay, denn chömmer nüt mache usser warte.",
+          "german": "Okay, dann können wir nichts machen außer warten.",
+          "english": "Okay, then we can't do anything except wait.",
+          "spanish": "Bien, entonces no podemos hacer nada más que esperar."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Wämmer go en Kafi näh? Bis es wider gaht.",
+          "german": "Wollen wir einen Kaffee nehmen gehen? Bis es wieder geht.",
+          "english": "Shall we go grab a coffee? Until it works again.",
+          "spanish": "¿Vamos a tomar un café? Hasta que vuelva a funcionar."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Ja! Und ich check uf em Handy ob de IT scho geantwortet hett.",
+          "german": "Ja! Und ich schaue auf dem Handy ob die IT schon geantwortet hat.",
+          "english": "Yes! And I'll check on my phone if IT has already replied.",
+          "spanish": "Sí, y también revisaré en mi teléfono si TI ya ha respondido."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Gueti Idee. Falls's bis Zmittag nid löst isch, meld ich's bi de Chefin.",
+          "german": "Gute Idee. Falls es bis Mittag nicht gelöst ist, melde ich es bei der Chefin.",
+          "english": "Good idea. If it's not fixed by noon, I'll report it to the boss.",
+          "spanish": "Buena idea. Si para el mediodía no está arreglado, se lo reporto al jefe."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "usgfalle",
+          "german": "ausgefallen",
+          "explanation": "'usgfalle' = 'ausgefallen'. 'us-' = 'aus-', dropped '-en'."
+        },
+        {
+          "swissGerman": "öpper",
+          "german": "jemand",
+          "explanation": "'öpper' = 'jemand'. Completely different word."
+        },
+        {
+          "swissGerman": "chömmer",
+          "german": "können wir",
+          "explanation": "'chömmer' = 'können wir'. Verb+pronoun fusion."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "S'WLAN isch usgfalle",
+          "german": "Das WLAN ist ausgefallen",
+          "english": "The WiFi went out"
+        },
+        {
+          "swissGerman": "öpper",
+          "german": "jemand",
+          "english": "someone"
+        },
+        {
+          "swissGerman": "chömmer",
+          "german": "können wir",
+          "english": "can we"
+        }
+      ]
+    },
+    {
+      "id": "office-it-5",
+      "level": "beginner",
+      "title": "Forgot the password",
+      "situation": "You forgot your password after vacation and need it reset.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Hoi, ich ha mis Passwort vergässe. Chasch du mir hälfä?",
+          "german": "Hallo, ich habe mein Passwort vergessen. Kannst du mir helfen?",
+          "english": "Hi, I forgot my password. Can you help me?",
+          "spanish": "Hola, olvidé mi contraseña. ¿Puedes ayudarme?"
+        },
+        {
+          "speaker": "IT Support",
+          "swissGerman": "Kei Problem, das passiert oft nach de Ferie.",
+          "german": "Kein Problem, das passiert oft nach den Ferien.",
+          "english": "No problem, that happens a lot after vacation.",
+          "spanish": "Sin problema, pasa mucho después de las vacaciones."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, ich bi zwöi Wuche weg gsi und jetzt gaht nüt meh.",
+          "german": "Ja, ich war zwei Wochen weg und jetzt geht nichts mehr.",
+          "english": "Yes, I was away for two weeks and now nothing works.",
+          "spanish": "Sí, estuve fuera dos semanas y ahora nada funciona."
+        },
+        {
+          "speaker": "IT Support",
+          "swissGerman": "Ich setze dir s'Passwort zrugg. Du überchunsch es nöis per Mail uf dis Handy.",
+          "german": "Ich setze dir das Passwort zurück. Du bekommst ein neues per Mail auf dein Handy.",
+          "english": "I'll reset your password. You'll get a new one by email on your phone.",
+          "spanish": "Resetearé tu contraseña. Recibirás una nueva por email en tu teléfono."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci!",
+          "german": "Perfekt, danke!",
+          "english": "Perfect, thanks!",
+          "spanish": "¡Perfecto, gracias!"
+        },
+        {
+          "speaker": "IT Support",
+          "swissGerman": "Bitte, und dänk dra, s'Passwort denn z'ändere!",
+          "german": "Bitte, und denk daran, das Passwort dann zu ändern!",
+          "english": "You're welcome, and remember to change the password then!",
+          "spanish": "De nada, y recuerda cambiar la contraseña."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, ich mache das grad. Und ich speichere's im Passwortmanager bim nächschte Mal.",
+          "german": "Ja, ich mache das gleich. Und ich speichere es im Passwortmanager beim nächsten Mal.",
+          "english": "Yes, I'll do that now. And I'll save it in the password manager next time.",
+          "spanish": "Sí, lo haré ahora. Y la próxima vez lo guardaré en el gestor de contraseñas."
+        },
+        {
+          "speaker": "IT Support",
+          "swissGerman": "Super Idee. Mir empfähle KeePass oder den internen Passwortmanager.",
+          "german": "Super Idee. Wir empfehlen KeePass oder den internen Passwortmanager.",
+          "english": "Great idea. We recommend KeePass or the internal password manager.",
+          "spanish": "Buena idea. Recomendamos KeePass o el gestor de contraseñas interno."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "vergässe",
+          "german": "vergessen",
+          "explanation": "'vergässe' = 'vergessen'. Vowel shift 'e' → 'ä'."
+        },
+        {
+          "swissGerman": "überchunsch",
+          "german": "bekommst",
+          "explanation": "'überchunsch' = 'bekommst'. Different verb 'überchoo' = 'bekommen'."
+        },
+        {
+          "swissGerman": "dänk dra",
+          "german": "denk daran",
+          "explanation": "'dänk' = 'denk', 'dra' = 'daran'. Shortened."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Passwort vergässe",
+          "german": "Passwort vergessen",
+          "english": "forgot the password"
+        },
+        {
+          "swissGerman": "zruggsetze",
+          "german": "zurücksetzen",
+          "english": "to reset"
+        },
+        {
+          "swissGerman": "überchunsch",
+          "german": "bekommst",
+          "english": "you'll receive"
+        }
+      ]
+    }
+  ]
+}

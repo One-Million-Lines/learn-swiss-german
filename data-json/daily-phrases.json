@@ -1,0 +1,499 @@
+[
+  {
+    "swissGerman": "Wie gaht's dir?",
+    "german": "Wie geht es dir?",
+    "english": "How are you?",
+    "spanish": "¿Cómo estás?",
+    "topic": "Greetings"
+  },
+  {
+    "swissGerman": "Schöne Tag no!",
+    "german": "Schönen Tag noch!",
+    "english": "Have a nice day!",
+    "spanish": "¡Que tengas un buen día!",
+    "topic": "Greetings"
+  },
+  {
+    "swissGerman": "Merci vilmal!",
+    "german": "Vielen Dank!",
+    "english": "Thank you very much!",
+    "spanish": "¡Muchas gracias!",
+    "topic": "Greetings"
+  },
+  {
+    "swissGerman": "Grüezi mitenand!",
+    "german": "Guten Tag zusammen!",
+    "english": "Hello everyone!",
+    "spanish": "¡Hola a todos!",
+    "topic": "Greetings"
+  },
+  {
+    "swissGerman": "Schöne Aabig!",
+    "german": "Schönen Abend!",
+    "english": "Have a nice evening!",
+    "spanish": "¡Que tengas una buena noche!",
+    "topic": "Greetings"
+  },
+  {
+    "swissGerman": "Bis bald!",
+    "german": "Bis bald!",
+    "english": "See you soon!",
+    "spanish": "¡Hasta pronto!",
+    "topic": "Greetings"
+  },
+  {
+    "swissGerman": "Bis spöter!",
+    "german": "Bis später!",
+    "english": "See you later!",
+    "spanish": "¡Hasta luego!",
+    "topic": "Greetings"
+  },
+  {
+    "swissGerman": "Tschau zäme!",
+    "german": "Tschüss zusammen!",
+    "english": "Bye everyone!",
+    "spanish": "¡Adiós a todos!",
+    "topic": "Greetings"
+  },
+  {
+    "swissGerman": "Mir gaht's guet, merci!",
+    "german": "Mir geht es gut, danke!",
+    "english": "I'm fine, thanks!",
+    "spanish": "¡Estoy bien, gracias!",
+    "topic": "Greetings"
+  },
+  {
+    "swissGerman": "Sali, wie lauft's?",
+    "german": "Hallo, wie läuft's?",
+    "english": "Hi, how's it going?",
+    "spanish": "Hola, ¿cómo va?",
+    "topic": "Greetings"
+  },
+  {
+    "swissGerman": "Schöns Wuchenänd!",
+    "german": "Schönes Wochenende!",
+    "english": "Have a nice weekend!",
+    "spanish": "¡Que tengas un buen fin de semana!",
+    "topic": "Greetings"
+  },
+  {
+    "swissGerman": "Ich hätt gern en Kafi",
+    "german": "Ich hätte gern einen Kaffee",
+    "english": "I'd like a coffee",
+    "spanish": "Me gustaría un café",
+    "topic": "Daily Life"
+  },
+  {
+    "swissGerman": "Exgüsi, wo isch de Bahnhof?",
+    "german": "Entschuldigung, wo ist der Bahnhof?",
+    "english": "Excuse me, where is the train station?",
+    "spanish": "Perdona, ¿dónde está la estación de tren?",
+    "topic": "Daily Life"
+  },
+  {
+    "swissGerman": "Was chostet das?",
+    "german": "Was kostet das?",
+    "english": "How much does that cost?",
+    "spanish": "¿Cuánto cuesta eso?",
+    "topic": "Daily Life"
+  },
+  {
+    "swissGerman": "Ich muess go poschte",
+    "german": "Ich muss einkaufen gehen",
+    "english": "I need to go shopping",
+    "spanish": "Necesito ir de compras",
+    "topic": "Daily Life"
+  },
+  {
+    "swissGerman": "Wänn fahrt de nächscht Zug?",
+    "german": "Wann fährt der nächste Zug?",
+    "english": "When does the next train leave?",
+    "spanish": "¿Cuándo sale el próximo tren?",
+    "topic": "Daily Life"
+  },
+  {
+    "swissGerman": "Ich nimm es Gipfeli, bitte",
+    "german": "Ich nehme ein Croissant, bitte",
+    "english": "I'll have a croissant, please",
+    "spanish": "Tomaré un cruasán, por favor",
+    "topic": "Daily Life"
+  },
+  {
+    "swissGerman": "Chann ich mit Charte zahle?",
+    "german": "Kann ich mit Karte zahlen?",
+    "english": "Can I pay by card?",
+    "spanish": "¿Puedo pagar con tarjeta?",
+    "topic": "Daily Life"
+  },
+  {
+    "swissGerman": "Wo isch de nächscht Coop?",
+    "german": "Wo ist der nächste Coop?",
+    "english": "Where is the nearest Coop?",
+    "spanish": "¿Dónde está el Coop más cercano?",
+    "topic": "Daily Life"
+  },
+  {
+    "swissGerman": "D'Rächnig, bitte!",
+    "german": "Die Rechnung, bitte!",
+    "english": "The bill, please!",
+    "spanish": "¡La cuenta, por favor!",
+    "topic": "Daily Life"
+  },
+  {
+    "swissGerman": "Ich ha Hunger",
+    "german": "Ich habe Hunger",
+    "english": "I'm hungry",
+    "spanish": "Tengo hambre",
+    "topic": "Daily Life"
+  },
+  {
+    "swissGerman": "Ich ha Durscht",
+    "german": "Ich habe Durst",
+    "english": "I'm thirsty",
+    "spanish": "Tengo sed",
+    "topic": "Daily Life"
+  },
+  {
+    "swissGerman": "Isch de Platz no frei?",
+    "german": "Ist der Platz noch frei?",
+    "english": "Is this seat still free?",
+    "spanish": "¿Está libre este asiento?",
+    "topic": "Daily Life"
+  },
+  {
+    "swissGerman": "Händ Sie no Brot?",
+    "german": "Haben Sie noch Brot?",
+    "english": "Do you still have bread?",
+    "spanish": "¿Todavía tiene pan?",
+    "topic": "Daily Life"
+  },
+  {
+    "swissGerman": "En Retour uf Züri, bitte",
+    "german": "Eine Rückfahrkarte nach Zürich, bitte",
+    "english": "A return ticket to Zurich, please",
+    "spanish": "Un billete de ida y vuelta a Zúrich, por favor",
+    "topic": "Daily Life"
+  },
+  {
+    "swissGerman": "Wo muess ich umstiige?",
+    "german": "Wo muss ich umsteigen?",
+    "english": "Where do I need to change?",
+    "spanish": "¿Dónde tengo que hacer transbordo?",
+    "topic": "Daily Life"
+  },
+  {
+    "swissGerman": "Hesch Ziit?",
+    "german": "Hast du Zeit?",
+    "english": "Do you have time?",
+    "spanish": "¿Tienes tiempo?",
+    "topic": "Social"
+  },
+  {
+    "swissGerman": "Das isch mega guet!",
+    "german": "Das ist mega gut!",
+    "english": "That's really great!",
+    "spanish": "¡Eso es genial!",
+    "topic": "Social"
+  },
+  {
+    "swissGerman": "Mir chönnted go wandere",
+    "german": "Wir könnten wandern gehen",
+    "english": "We could go hiking",
+    "spanish": "Podríamos ir de excursión",
+    "topic": "Social"
+  },
+  {
+    "swissGerman": "Wämmer öppis go trinke?",
+    "german": "Wollen wir etwas trinken gehen?",
+    "english": "Shall we go for a drink?",
+    "spanish": "¿Vamos a tomar algo?",
+    "topic": "Social"
+  },
+  {
+    "swissGerman": "Das isch luschtig!",
+    "german": "Das ist lustig!",
+    "english": "That's funny!",
+    "spanish": "¡Qué gracioso!",
+    "topic": "Social"
+  },
+  {
+    "swissGerman": "Mir händ's mega cool gha!",
+    "german": "Wir hatten es mega cool!",
+    "english": "We had a great time!",
+    "spanish": "¡Lo pasamos genial!",
+    "topic": "Social"
+  },
+  {
+    "swissGerman": "Woher chunsch du?",
+    "german": "Woher kommst du?",
+    "english": "Where are you from?",
+    "spanish": "¿De dónde eres?",
+    "topic": "Social"
+  },
+  {
+    "swissGerman": "Wie lang bisch scho i de Schwiiz?",
+    "german": "Wie lange bist du schon in der Schweiz?",
+    "english": "How long have you been in Switzerland?",
+    "spanish": "¿Cuánto tiempo llevas en Suiza?",
+    "topic": "Social"
+  },
+  {
+    "swissGerman": "Gömmer is Kino?",
+    "german": "Gehen wir ins Kino?",
+    "english": "Shall we go to the cinema?",
+    "spanish": "¿Vamos al cine?",
+    "topic": "Social"
+  },
+  {
+    "swissGerman": "Ich find das super!",
+    "german": "Ich finde das super!",
+    "english": "I think that's great!",
+    "spanish": "¡Me parece genial!",
+    "topic": "Social"
+  },
+  {
+    "swissGerman": "Häsch Luscht uf en Kafi?",
+    "german": "Hast du Lust auf einen Kaffee?",
+    "english": "Do you feel like a coffee?",
+    "spanish": "¿Te apetece un café?",
+    "topic": "Social"
+  },
+  {
+    "swissGerman": "Mir gsehn eus am Samschtig!",
+    "german": "Wir sehen uns am Samstag!",
+    "english": "See you on Saturday!",
+    "spanish": "¡Nos vemos el sábado!",
+    "topic": "Social"
+  },
+  {
+    "swissGerman": "Ich freu mi druf!",
+    "german": "Ich freue mich darauf!",
+    "english": "I'm looking forward to it!",
+    "spanish": "¡Tengo muchas ganas!",
+    "topic": "Social"
+  },
+  {
+    "swissGerman": "Was machsch am Wuchenänd?",
+    "german": "Was machst du am Wochenende?",
+    "english": "What are you doing on the weekend?",
+    "spanish": "¿Qué haces el fin de semana?",
+    "topic": "Social"
+  },
+  {
+    "swissGerman": "Ich verstah nöd",
+    "german": "Ich verstehe nicht",
+    "english": "I don't understand",
+    "spanish": "No entiendo",
+    "topic": "Everyday Basics"
+  },
+  {
+    "swissGerman": "Chönd Sie das bitte wiederhole?",
+    "german": "Können Sie das bitte wiederholen?",
+    "english": "Can you please repeat that?",
+    "spanish": "¿Puede repetir eso, por favor?",
+    "topic": "Everyday Basics"
+  },
+  {
+    "swissGerman": "Wie säit me das uf Schwizerdütsch?",
+    "german": "Wie sagt man das auf Schweizerdeutsch?",
+    "english": "How do you say that in Swiss German?",
+    "spanish": "¿Cómo se dice eso en alemán suizo?",
+    "topic": "Everyday Basics"
+  },
+  {
+    "swissGerman": "Ich lerne Schwizerdütsch",
+    "german": "Ich lerne Schweizerdeutsch",
+    "english": "I'm learning Swiss German",
+    "spanish": "Estoy aprendiendo alemán suizo",
+    "topic": "Everyday Basics"
+  },
+  {
+    "swissGerman": "Chönd Sie bitte langsamer rede?",
+    "german": "Können Sie bitte langsamer sprechen?",
+    "english": "Can you please speak slower?",
+    "spanish": "¿Puede hablar más despacio, por favor?",
+    "topic": "Everyday Basics"
+  },
+  {
+    "swissGerman": "Ja, genau!",
+    "german": "Ja, genau!",
+    "english": "Yes, exactly!",
+    "spanish": "¡Sí, exacto!",
+    "topic": "Everyday Basics"
+  },
+  {
+    "swissGerman": "Nei, danke!",
+    "german": "Nein, danke!",
+    "english": "No, thanks!",
+    "spanish": "¡No, gracias!",
+    "topic": "Everyday Basics"
+  },
+  {
+    "swissGerman": "Kei Ahnig!",
+    "german": "Keine Ahnung!",
+    "english": "No idea!",
+    "spanish": "¡Ni idea!",
+    "topic": "Everyday Basics"
+  },
+  {
+    "swissGerman": "Das isch egal",
+    "german": "Das ist egal",
+    "english": "It doesn't matter",
+    "spanish": "No importa",
+    "topic": "Everyday Basics"
+  },
+  {
+    "swissGerman": "Gopfriedstutz!",
+    "german": "Ach du meine Güte!",
+    "english": "Oh my goodness!",
+    "spanish": "¡Dios mío!",
+    "topic": "Everyday Basics"
+  },
+  {
+    "swissGerman": "Ich bi müed",
+    "german": "Ich bin müde",
+    "english": "I'm tired",
+    "spanish": "Estoy cansado/a",
+    "topic": "Family"
+  },
+  {
+    "swissGerman": "D'Chind sind id Schuel",
+    "german": "Die Kinder sind in der Schule",
+    "english": "The kids are at school",
+    "spanish": "Los niños están en la escuela",
+    "topic": "Family"
+  },
+  {
+    "swissGerman": "Mir ässe zäme z'Nacht",
+    "german": "Wir essen zusammen zu Abend",
+    "english": "We're having dinner together",
+    "spanish": "Cenamos juntos",
+    "topic": "Family"
+  },
+  {
+    "swissGerman": "De Bueb macht Ufgabe",
+    "german": "Der Junge macht Hausaufgaben",
+    "english": "The boy is doing homework",
+    "spanish": "El niño está haciendo los deberes",
+    "topic": "Family"
+  },
+  {
+    "swissGerman": "Ich hol d'Chind vo de Schuel ab",
+    "german": "Ich hole die Kinder von der Schule ab",
+    "english": "I'm picking the kids up from school",
+    "spanish": "Estoy recogiendo a los niños del colegio",
+    "topic": "Family"
+  },
+  {
+    "swissGerman": "Mir gönd am Suntig go spaziere",
+    "german": "Wir gehen am Sonntag spazieren",
+    "english": "We're going for a walk on Sunday",
+    "spanish": "Salimos a pasear el domingo",
+    "topic": "Family"
+  },
+  {
+    "swissGerman": "S'Meitli schlaft scho",
+    "german": "Das Mädchen schläft schon",
+    "english": "The girl is already sleeping",
+    "spanish": "La niña ya está durmiendo",
+    "topic": "Family"
+  },
+  {
+    "swissGerman": "Guete Morge, zäme!",
+    "german": "Guten Morgen, zusammen!",
+    "english": "Good morning, everyone!",
+    "spanish": "¡Buenos días a todos!",
+    "topic": "Work"
+  },
+  {
+    "swissGerman": "Ich bi im Büro",
+    "german": "Ich bin im Büro",
+    "english": "I'm at the office",
+    "spanish": "Estoy en la oficina",
+    "topic": "Work"
+  },
+  {
+    "swissGerman": "Wänn isch d'Sitzig?",
+    "german": "Wann ist das Meeting?",
+    "english": "When is the meeting?",
+    "spanish": "¿Cuándo es la reunión?",
+    "topic": "Work"
+  },
+  {
+    "swissGerman": "Ich schick der s'Mail",
+    "german": "Ich schicke dir die E-Mail",
+    "english": "I'll send you the email",
+    "spanish": "Te enviaré el correo electrónico",
+    "topic": "Work"
+  },
+  {
+    "swissGerman": "Ich ha hüt frei",
+    "german": "Ich habe heute frei",
+    "english": "I have the day off today",
+    "spanish": "Hoy tengo el día libre",
+    "topic": "Work"
+  },
+  {
+    "swissGerman": "Ich schaff vo dihei",
+    "german": "Ich arbeite von zu Hause",
+    "english": "I'm working from home",
+    "spanish": "Estoy trabajando desde casa",
+    "topic": "Work"
+  },
+  {
+    "swissGerman": "De Chef isch nöd da",
+    "german": "Der Chef ist nicht da",
+    "english": "The boss isn't here",
+    "spanish": "El jefe no está",
+    "topic": "Work"
+  },
+  {
+    "swissGerman": "Mir händ viel z'tue",
+    "german": "Wir haben viel zu tun",
+    "english": "We have a lot to do",
+    "spanish": "Tenemos mucho que hacer",
+    "topic": "Work"
+  },
+  {
+    "swissGerman": "Ich bruuch en Termin bim Dokter",
+    "german": "Ich brauche einen Termin beim Arzt",
+    "english": "I need a doctor's appointment",
+    "spanish": "Necesito una cita con el médico",
+    "topic": "Practical Swiss Life"
+  },
+  {
+    "swissGerman": "Wo isch d'Apothek?",
+    "german": "Wo ist die Apotheke?",
+    "english": "Where is the pharmacy?",
+    "spanish": "¿Dónde está la farmacia?",
+    "topic": "Practical Swiss Life"
+  },
+  {
+    "swissGerman": "Ich ha Chopfweh",
+    "german": "Ich habe Kopfschmerzen",
+    "english": "I have a headache",
+    "spanish": "Tengo dolor de cabeza",
+    "topic": "Practical Swiss Life"
+  },
+  {
+    "swissGerman": "Ich muess uf d'Gmeind",
+    "german": "Ich muss zur Gemeinde",
+    "english": "I need to go to the municipality office",
+    "spanish": "Necesito ir al ayuntamiento",
+    "topic": "Practical Swiss Life"
+  },
+  {
+    "swissGerman": "Chönd Sie mir hälfe?",
+    "german": "Können Sie mir helfen?",
+    "english": "Can you help me?",
+    "spanish": "¿Puede ayudarme?",
+    "topic": "Practical Swiss Life"
+  },
+  {
+    "swissGerman": "Ich ha mi aagmeldet",
+    "german": "Ich habe mich angemeldet",
+    "english": "I've registered",
+    "spanish": "Me he registrado",
+    "topic": "Practical Swiss Life"
+  }
+]

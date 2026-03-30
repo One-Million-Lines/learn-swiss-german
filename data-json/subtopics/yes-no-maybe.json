@@ -1,0 +1,484 @@
+{
+  "id": "yes-no-maybe",
+  "topicId": "everyday-basics",
+  "title": "Yes, No & Maybe",
+  "description": "All the ways to agree, disagree, and stay on the fence in Swiss German",
+  "dialogues": [
+    {
+      "id": "yes-no-maybe-1",
+      "level": "beginner",
+      "title": "Agreeing to weekend plans",
+      "situation": "Your friend asks if you want to go hiking this weekend.",
+      "lines": [
+        {
+          "speaker": "Friend",
+          "swissGerman": "Hesch Luscht, am Samschtig go wandere?",
+          "german": "Hast du Lust, am Samstag wandern zu gehen?",
+          "english": "Do you feel like going hiking on Saturday?",
+          "spanish": "¿Te apetece hacer senderismo el sábado?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, sicher! Gueti Idee!",
+          "german": "Ja, sicher! Gute Idee!",
+          "english": "Yes, sure! Good idea!",
+          "spanish": "Sí, ¡claro! ¡Buena idea!"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Cool! Söll ich d'Route ussuechä?",
+          "german": "Cool! Soll ich die Route aussuchen?",
+          "english": "Cool! Should I pick the route?",
+          "spanish": "¡Genial! ¿Elijo yo la ruta?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja klar, mach du! Ich bi debii.",
+          "german": "Ja klar, mach du! Ich bin dabei.",
+          "english": "Sure, go ahead! I'm in.",
+          "spanish": "¡Claro, adelante! Apuntado."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Wo sölle mir wandere? I de Nöhchi oder au uf de Pilatus?",
+          "german": "Wo sollen wir wandern? In der Nähe oder auch auf den Pilatus?",
+          "english": "Where should we hike? Nearby or also up to Pilatus?",
+          "spanish": "¿Dónde debemos hacer senderismo? ¿Por aquí cerca o también hasta el Pilatus?"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Ich dänke Pilatus isch mega! Mir chönd mit de Gondel ufe und z'Fuess abe.",
+          "german": "Ich denke Pilatus ist mega! Wir können mit der Gondel hoch und zu Fuß runter.",
+          "english": "I think Pilatus is amazing! We can take the gondola up and walk down.",
+          "spanish": "¡Creo que el Pilatus es increíble! Podemos subir en teleférico y bajar andando."
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Top! Denn mäldä mi.",
+          "german": "Top! Dann melde ich mich.",
+          "english": "Great! I'll be in touch then.",
+          "spanish": "¡Genial! Estaré en contacto entonces."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Ja, sicher",
+          "german": "Ja, sicher",
+          "explanation": "Strong agreement. Also common: 'Ja klar', 'Ja genau', 'Jo'."
+        },
+        {
+          "swissGerman": "Ich bi debii",
+          "german": "Ich bin dabei",
+          "explanation": "'bi' = 'bin', 'debii' = 'dabei'. Means 'I'm in / count me in'."
+        },
+        {
+          "swissGerman": "mäldä mi",
+          "german": "melde mich",
+          "explanation": "'mäldä' = 'melde'. The vowel shift e → ä is typical."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Ja, sicher!",
+          "german": "Ja, sicher!",
+          "english": "Yes, sure!"
+        },
+        {
+          "swissGerman": "Ja klar!",
+          "german": "Ja klar!",
+          "english": "Of course!"
+        },
+        {
+          "swissGerman": "Ich bi debii",
+          "german": "Ich bin dabei",
+          "english": "I'm in / Count me in"
+        }
+      ]
+    },
+    {
+      "id": "yes-no-maybe-2",
+      "level": "beginner",
+      "title": "Gently saying no",
+      "situation": "A colleague invites you for after-work drinks but you're tired.",
+      "lines": [
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Mir gönd is Starbucks, chunnsch mit?",
+          "german": "Wir gehen ins Starbucks, kommst du mit?",
+          "english": "We're going to Starbucks, want to come?",
+          "spanish": "Vamos a Starbucks, ¿quieres venir?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Hmm, nei, hüt lieber nöd. Bin totaal kaputt.",
+          "german": "Hmm, nein, heute lieber nicht. Bin total kaputt.",
+          "english": "Hmm, no, not today. I'm totally exhausted.",
+          "spanish": "Hmm, no, hoy no. Estoy totalmente agotado."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Ah schad! Nöchscht Mal denn?",
+          "german": "Ah schade! Nächstes Mal dann?",
+          "english": "Ah too bad! Next time then?",
+          "spanish": "¡Ah, qué pena! ¿La próxima vez entonces?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, uf jede Fall! Da bini debii.",
+          "german": "Ja, auf jeden Fall! Da bin ich dabei.",
+          "english": "Yes, definitely! I'll be there for that.",
+          "spanish": "Sí, ¡definitivamente! Allí estaré."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Isch de Starbucks am Paradeplatz oder am Bellevue?",
+          "german": "Ist das Starbucks am Paradeplatz oder am Bellevue?",
+          "english": "Is the Starbucks at Paradeplatz or at Bellevue?",
+          "spanish": "¿El Starbucks está en Paradeplatz o en Bellevue?"
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Am Bellevue, grad bim See. Mir treffed eus dort um sächsi.",
+          "german": "Am Bellevue, direkt beim See. Wir treffen uns dort um sechs.",
+          "english": "At Bellevue, right by the lake. We'll meet there at six.",
+          "spanish": "En el Bellevue, justo al lado del lago. Quedamos allí a las seis."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Abgemacht! Erhole dich guet.",
+          "german": "Abgemacht! Erhole dich gut.",
+          "english": "Deal! Rest well.",
+          "spanish": "¡Trato! Descansa bien."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "lieber nöd",
+          "german": "lieber nicht",
+          "explanation": "'nöd' = 'nicht'. A soft way to decline: 'rather not'."
+        },
+        {
+          "swissGerman": "uf jede Fall",
+          "german": "auf jeden Fall",
+          "explanation": "'uf' = 'auf'. Strong affirmative meaning 'definitely / for sure'."
+        },
+        {
+          "swissGerman": "Abgemacht",
+          "german": "Abgemacht",
+          "explanation": "Means 'Deal!' or 'It's settled!' Same in both, very commonly used."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Nei, hüt lieber nöd",
+          "german": "Nein, heute lieber nicht",
+          "english": "No, not today"
+        },
+        {
+          "swissGerman": "Uf jede Fall!",
+          "german": "Auf jeden Fall!",
+          "english": "Definitely!"
+        },
+        {
+          "swissGerman": "Abgemacht!",
+          "german": "Abgemacht!",
+          "english": "Deal! / Settled!"
+        }
+      ]
+    },
+    {
+      "id": "yes-no-maybe-3",
+      "level": "intermediate",
+      "title": "Being unsure about a decision",
+      "situation": "Your partner asks if you want to adopt a cat.",
+      "lines": [
+        {
+          "speaker": "Partner",
+          "swissGerman": "Was meinsch, sölle mir e Chatz hole?",
+          "german": "Was meinst du, sollen wir eine Katze holen?",
+          "english": "What do you think, should we get a cat?",
+          "spanish": "¿Qué piensas, deberíamos tener un gato?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Hmm, ich weiss nöd rächt. Vilicht...",
+          "german": "Hmm, ich weiss nicht richtig. Vielleicht...",
+          "english": "Hmm, I'm not sure. Maybe...",
+          "spanish": "Hmm, no estoy seguro. Quizás..."
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "Vilicht? Heisst das ehner ja oder ehner nei?",
+          "german": "Vielleicht? Heisst das eher ja oder eher nein?",
+          "english": "Maybe? Does that mean more like yes or more like no?",
+          "spanish": "¿Quizás? ¿Eso significa más bien sí o más bien no?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Eigentlich scho ehner ja, aber ich muess no drüber nochedänke.",
+          "german": "Eigentlich schon eher ja, aber ich muss noch darüber nachdenken.",
+          "english": "Actually more like yes, but I need to think about it some more.",
+          "spanish": "En realidad más bien sí, pero necesito pensarlo un poco más."
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "Okay, kei Stress. Mir händ ja Ziit.",
+          "german": "Okay, kein Stress. Wir haben ja Zeit.",
+          "english": "Okay, no rush. We have time.",
+          "spanish": "Bien, sin prisa. Tenemos tiempo."
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "Mir chönd au zerscht es Probejahr mache — en Chatz uf Bewährung sozusäge.",
+          "german": "Wir können auch erst ein Probejahr machen — eine Katze auf Bewährung sozusagen.",
+          "english": "We can also do a trial year first — a cat on probation so to speak.",
+          "spanish": "También podemos hacer primero un año de prueba — un gato a prueba, por así decirlo."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Das klingt vernünftig. Ich lueg mal ob s'TierAsyl Züri Infomänd aabietet.",
+          "german": "Das klingt vernünftig. Ich schaue mal ob das Tierasyl Zürich Infoabende anbietet.",
+          "english": "That sounds sensible. I'll check if Tierasyl Zurich offers info evenings.",
+          "spanish": "Eso suena sensato. Compruebo si Tierasyl Zurich ofrece noches informativas."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Genau. Ich sägä der denn Bescheid.",
+          "german": "Genau. Ich sage dir dann Bescheid.",
+          "english": "Exactly. I'll let you know.",
+          "spanish": "Exacto. Te aviso."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "ich weiss nöd rächt",
+          "german": "ich weiss nicht richtig",
+          "explanation": "'nöd rächt' = 'nicht richtig/recht'. Expresses genuine uncertainty."
+        },
+        {
+          "swissGerman": "Vilicht",
+          "german": "Vielleicht",
+          "explanation": "'Vilicht' is the Swiss German pronunciation of 'vielleicht'."
+        },
+        {
+          "swissGerman": "nochedänke",
+          "german": "nachdenken",
+          "explanation": "'nochedänke' = 'nachdenken'. 'noche' = 'nach', 'dänke' = 'denken'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Vilicht",
+          "german": "Vielleicht",
+          "english": "Maybe / Perhaps"
+        },
+        {
+          "swissGerman": "Ich weiss nöd rächt",
+          "german": "Ich weiss nicht recht",
+          "english": "I'm not sure"
+        },
+        {
+          "swissGerman": "Ehner ja / ehner nei",
+          "german": "Eher ja / eher nein",
+          "english": "More like yes / more like no"
+        }
+      ]
+    },
+    {
+      "id": "yes-no-maybe-4",
+      "level": "intermediate",
+      "title": "Firmly saying no to a pushy salesperson",
+      "situation": "Someone at the train station is trying to sell you a newspaper subscription.",
+      "lines": [
+        {
+          "speaker": "Salesperson",
+          "swissGerman": "Grüezi! Händ Sie es Momänt? Mir händ es tolls Aabot!",
+          "german": "Grüezi! Haben Sie einen Moment? Wir haben ein tolles Angebot!",
+          "english": "Hello! Do you have a moment? We have a great offer!",
+          "spanish": "¡Hola! ¿Tiene un momento? ¡Tenemos una gran oferta!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Nei danke, ich ha kei Interässi.",
+          "german": "Nein danke, ich habe kein Interesse.",
+          "english": "No thanks, I'm not interested.",
+          "spanish": "No gracias, no me interesa."
+        },
+        {
+          "speaker": "Salesperson",
+          "swissGerman": "Aber luege Sie mol, es coschtet nüt am Aafang!",
+          "german": "Aber schauen Sie mal, es kostet nichts am Anfang!",
+          "english": "But look, it costs nothing at the start!",
+          "spanish": "¡Pero mira, al principio no cuesta nada!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Nei, würkli nöd. Ich wott nöd, merci.",
+          "german": "Nein, wirklich nicht. Ich will nicht, danke.",
+          "english": "No, really not. I don't want to, thanks.",
+          "spanish": "No, de verdad que no. No quiero, gracias."
+        },
+        {
+          "speaker": "Salesperson",
+          "swissGerman": "Okay, kei Problem. Schöne Tag!",
+          "german": "Okay, kein Problem. Schönen Tag!",
+          "english": "Okay, no problem. Nice day!",
+          "spanish": "Bien, no hay problema. ¡Buen día!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Isch das en gesetzlichi Pflicht, bi so Iigang am Bahnhof?",
+          "german": "Ist das eine gesetzliche Pflicht, bei solchem Eingang am Bahnhof?",
+          "english": "Is that a legal requirement, at such an entrance at the station?",
+          "spanish": "¿Es eso un requisito legal, en una entrada así en la estación?"
+        },
+        {
+          "speaker": "Salesperson",
+          "swissGerman": "Nei nei, mir sind frei zu stah — ich cha euch abber nöd zwinge öppis aaznäh.",
+          "german": "Nein nein, wir stehen hier freiwillig — ich kann Sie aber nicht zwingen etwas anzunehmen.",
+          "english": "No no, we stand here voluntarily — but I can't force you to take anything.",
+          "spanish": "No, no, estamos aquí voluntariamente — pero no puedo obligarte a coger nada."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Danke, Ihne au.",
+          "german": "Danke, Ihnen auch.",
+          "english": "Thanks, you too.",
+          "spanish": "Gracias, igualmente."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "kei Interässi",
+          "german": "kein Interesse",
+          "explanation": "'kei' = 'kein', 'Interässi' = 'Interesse'. Clear but polite refusal."
+        },
+        {
+          "swissGerman": "würkli nöd",
+          "german": "wirklich nicht",
+          "explanation": "Emphatic no. 'würkli' = 'wirklich'. Stronger than just 'nei'."
+        },
+        {
+          "swissGerman": "Ich wott nöd",
+          "german": "Ich will nicht",
+          "explanation": "'wott' = 'will'. Strong but still polite refusal."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Nei danke",
+          "german": "Nein danke",
+          "english": "No thanks"
+        },
+        {
+          "swissGerman": "Würkli nöd",
+          "german": "Wirklich nicht",
+          "english": "Really not"
+        },
+        {
+          "swissGerman": "Ich wott nöd",
+          "german": "Ich will nicht",
+          "english": "I don't want to"
+        }
+      ]
+    },
+    {
+      "id": "yes-no-maybe-5",
+      "level": "beginner",
+      "title": "Quick agreements in daily chat",
+      "situation": "Quick back-and-forth with a friend about simple plans over text messages (read aloud).",
+      "lines": [
+        {
+          "speaker": "Friend",
+          "swissGerman": "Pizza hüt Aabig?",
+          "german": "Pizza heute Abend?",
+          "english": "Pizza tonight?",
+          "spanish": "¿Pizza esta noche?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Jo, gueti Idee!",
+          "german": "Ja, gute Idee!",
+          "english": "Yeah, good idea!",
+          "spanish": "Sí, ¡buena idea!"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Die gliichi wie letzscht Mal?",
+          "german": "Die gleiche wie letztes Mal?",
+          "english": "Same one as last time?",
+          "spanish": "¿El mismo que la última vez?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Genau! Die isch mega gsi.",
+          "german": "Genau! Die war mega.",
+          "english": "Exactly! That one was great.",
+          "spanish": "¡Exacto! Ese estuvo genial."
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Bestelli jetzt. Achti isch guet?",
+          "german": "Bestelle ich jetzt. Acht Uhr ist gut?",
+          "english": "I'll order now. Eight o'clock good?",
+          "spanish": "Pediré ahora. ¿A las ocho está bien?"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Soll ich auch en Salat oder es Dessert bestelle?",
+          "german": "Soll ich auch einen Salat oder ein Dessert bestellen?",
+          "english": "Should I also order a salad or a dessert?",
+          "spanish": "¿También pido una ensalada o un postre?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Hmm, bestell mol en Tiramisù — mir teileds.",
+          "german": "Hmm, bestell mal ein Tiramisù — wir teilen es.",
+          "english": "Hmm, order a Tiramisù — we'll share it.",
+          "spanish": "Hmm, pide un tiramisú — lo compartimos."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, passt!",
+          "german": "Perfekt, passt!",
+          "english": "Perfect, works!",
+          "spanish": "¡Perfecto, funciona!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Jo",
+          "german": "Ja",
+          "explanation": "'Jo' is a casual/relaxed form of 'ja'. Very common among friends."
+        },
+        {
+          "swissGerman": "Genau",
+          "german": "Genau",
+          "explanation": "Same word, used extremely often. Means 'exactly / precisely / that's right'."
+        },
+        {
+          "swissGerman": "Passt!",
+          "german": "Passt!",
+          "explanation": "Short for 'das passt' — 'that works / that suits me'. Versatile agreement word."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Jo",
+          "german": "Ja",
+          "english": "Yeah (casual)"
+        },
+        {
+          "swissGerman": "Genau!",
+          "german": "Genau!",
+          "english": "Exactly!"
+        },
+        {
+          "swissGerman": "Passt!",
+          "german": "Passt!",
+          "english": "Works! / Suits me!"
+        }
+      ]
+    }
+  ]
+}

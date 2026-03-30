@@ -1,0 +1,523 @@
+{
+  "id": "safety-urgent",
+  "topicId": "daily-life",
+  "title": "Safety & Urgent Situations",
+  "description": "Asking for help, reporting minor incidents, understanding simple instructions in emergencies",
+  "dialogues": [
+    {
+      "id": "safety-1",
+      "level": "beginner",
+      "title": "Asking for help on the street",
+      "situation": "You feel unwell on the street and ask for help.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Entschuldigung, ich bruuch Hilf! Mir gaat's nöd guet.",
+          "german": "Entschuldigung, ich brauche Hilfe! Mir geht es nicht gut.",
+          "english": "Excuse me, I need help! I'm not feeling well.",
+          "spanish": "Perdona, necesito ayuda. No me encuentro bien."
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Was isch passiert? Setted Sie sich hi — do isch e Bank.",
+          "german": "Was ist passiert? Setzen Sie sich hin — hier ist eine Bank.",
+          "english": "What happened? Sit down — here's a bench.",
+          "spanish": "¿Qué pasó? Siéntate — aquí hay un banco."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich glaub ich ha en Chreis-Lauf-Problem. Mir isch schwindlig.",
+          "german": "Ich glaube ich habe ein Kreislaufproblem. Mir ist schwindlig.",
+          "english": "I think I'm having a circulation problem. I feel dizzy.",
+          "spanish": "Creo que tengo un problema de circulación. Me siento mareado."
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Trinkeded Sie Wasser. Ich ha e Fläsche debii.",
+          "german": "Trinken Sie Wasser. Ich habe eine Flasche dabei.",
+          "english": "Drink some water. I have a bottle with me.",
+          "spanish": "Bebe un poco de agua. Tengo una botella conmigo."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Danke! Es gaat scho chli besser.",
+          "german": "Danke! Es geht schon etwas besser.",
+          "english": "Thanks! I'm feeling a bit better already.",
+          "spanish": "¡Gracias! Ya me encuentro algo mejor."
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Söll ich d'Sanität rüefe oder gaat's?",
+          "german": "Soll ich den Rettungsdienst rufen oder geht es?",
+          "english": "Should I call the ambulance or are you okay?",
+          "spanish": "¿Llamo a la ambulancia o estás bien?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Nei, ich glaub es gaat. Ich han' einfach z'wenig trunke hüt.",
+          "german": "Nein, ich glaube es geht. Ich habe heute einfach zu wenig getrunken.",
+          "english": "No, I think I'm okay. I just didn't drink enough today.",
+          "spanish": "No, creo que estoy bien. Solo no bebí suficiente hoy."
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "La dir Ziit, sitz no es Moment. I de Hiiz isch das schnell passiert.",
+          "german": "Lass dir Zeit, sitz noch einen Moment. In der Hitze ist das schnell passiert.",
+          "english": "Take your time, sit a moment longer. In the heat that happens quickly.",
+          "spanish": "Tómate tu tiempo, siéntate un momento más. Con el calor eso pasa rápido."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Hilf",
+          "german": "Hilfe",
+          "explanation": "'Hilf' = 'Hilfe'. Help."
+        },
+        {
+          "swissGerman": "schwindlig",
+          "german": "schwindlig/schwindelig",
+          "explanation": "'schwindlig' = dizzy. Same in both."
+        },
+        {
+          "swissGerman": "Sanität",
+          "german": "Rettungsdienst/Sanitäter",
+          "explanation": "'Sanität' = ambulance/emergency medical services. Swiss word."
+        },
+        {
+          "swissGerman": "rüefe",
+          "german": "rufen",
+          "explanation": "'rüefe' = 'rufen'. To call."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Ich bruuch Hilf!",
+          "german": "Ich brauche Hilfe!",
+          "english": "I need help!"
+        },
+        {
+          "swissGerman": "schwindlig",
+          "german": "schwindlig",
+          "english": "dizzy"
+        },
+        {
+          "swissGerman": "Sanität rüefe",
+          "german": "Rettungsdienst rufen",
+          "english": "to call the ambulance"
+        }
+      ]
+    },
+    {
+      "id": "safety-2",
+      "level": "intermediate",
+      "title": "Reporting a minor incident",
+      "situation": "You witness a minor car accident and talk to someone about it.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Händ Sie das gseh? Die zwei Auto sind zämegstoosse!",
+          "german": "Haben Sie das gesehen? Die zwei Autos sind zusammengestoßen!",
+          "english": "Did you see that? Those two cars crashed!",
+          "spanish": "¿Viste eso? ¡Esos dos coches chocaron!"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Ja! Mir sötted d'Polizei aalüüte. 117.",
+          "german": "Ja! Wir sollten die Polizei anrufen. 117.",
+          "english": "Yes! We should call the police. 117.",
+          "spanish": "Sí, deberíamos llamar a la policía. El 117."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Isch öpper verletzt?",
+          "german": "Ist jemand verletzt?",
+          "english": "Is anyone injured?",
+          "spanish": "¿Hay algún herido?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Nei, gsehd nöd so us. Aber d'Strass isch blockiert.",
+          "german": "Nein, sieht nicht so aus. Aber die Straße ist blockiert.",
+          "english": "No, doesn't look like it. But the road is blocked.",
+          "spanish": "No, no parece. Pero la carretera está cortada."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich rüefe d'Polizei aa und bericht was passiert isch.",
+          "german": "Ich rufe die Polizei an und berichte was passiert ist.",
+          "english": "I'll call the police and report what happened.",
+          "spanish": "Llamaré a la policía e informaré de lo sucedido."
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Guet. Und bliibe mir als Züüge do bis d'Polizei chunnt.",
+          "german": "Gut. Und bleiben wir als Zeugen hier bis die Polizei kommt.",
+          "english": "Good. And let's stay here as witnesses until the police arrive.",
+          "spanish": "Bien. Y quedémonos aquí como testigos hasta que llegue la policía."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Okay. Und schriibe mir unseri Nummere uuf, falls sie uns kontaktiere müönd.",
+          "german": "Okay. Und schreiben wir unsere Nummern auf, falls sie uns kontaktieren müssen.",
+          "english": "Okay. And let's write down our numbers, in case they need to contact us.",
+          "spanish": "Bien. Y apuntamos nuestros números, por si necesitan ponerse en contacto con nosotros."
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Gueti Idää. Do isch min Handy — gib mir dini Nummere.",
+          "german": "Gute Idee. Hier ist mein Handy — gib mir deine Nummer.",
+          "english": "Good idea. Here's my phone — give me your number.",
+          "spanish": "Buena idea. Aquí tienes mi teléfono — dame tu número."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "zämegstoosse",
+          "german": "zusammengestoßen",
+          "explanation": "'zämegstoosse' = collided. Swiss form."
+        },
+        {
+          "swissGerman": "aalüüte",
+          "german": "anrufen",
+          "explanation": "'aalüüte' = to call (phone). Swiss word."
+        },
+        {
+          "swissGerman": "117",
+          "german": "117",
+          "explanation": "Swiss police phone number. (Unlike 110 in Germany.)"
+        },
+        {
+          "swissGerman": "Züüge",
+          "german": "Zeugen",
+          "explanation": "'Züüge' = 'Zeugen'. Witnesses."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "aalüüte",
+          "german": "anrufen",
+          "english": "to call (phone)"
+        },
+        {
+          "swissGerman": "117",
+          "german": "117",
+          "english": "Swiss police number"
+        },
+        {
+          "swissGerman": "Züüge",
+          "german": "Zeugen",
+          "english": "witnesses"
+        }
+      ]
+    },
+    {
+      "id": "safety-3",
+      "level": "beginner",
+      "title": "Emergency numbers",
+      "situation": "Someone explains the Swiss emergency numbers to you.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Was isch d'Notfallnummere i de Schwiz?",
+          "german": "Was ist die Notfallnummer in der Schweiz?",
+          "english": "What's the emergency number in Switzerland?",
+          "spanish": "¿Cuál es el número de emergencias en Suiza?"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Polizei isch 117. Füürwehr isch 118. Sanität isch 144.",
+          "german": "Polizei ist 117. Feuerwehr ist 118. Rettungsdienst ist 144.",
+          "english": "Police is 117. Fire department is 118. Ambulance is 144.",
+          "spanish": "La policía es el 117. Los bomberos el 118. La ambulancia el 144."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und 112 gaat au, oder?",
+          "german": "Und 112 geht auch, oder?",
+          "english": "And 112 works too, right?",
+          "spanish": "¿Y el 112 también funciona, verdad?"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Ja, 112 isch de europäischi Notruf. De funktioniert überall.",
+          "german": "Ja, 112 ist der europäische Notruf. Der funktioniert überall.",
+          "english": "Yes, 112 is the European emergency number. It works everywhere.",
+          "spanish": "Sí, el 112 es el número de emergencias europeo. Funciona en todas partes."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Guet z'wüsse. Und wänn öpper vergiftet isch?",
+          "german": "Gut zu wissen. Und wenn jemand vergiftet ist?",
+          "english": "Good to know. And if someone is poisoned?",
+          "spanish": "Qué bien saberlo. ¿Y si alguien se envenena?"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "D'Toxzentrale: 145. Die sind 24 Stunde erreichbar.",
+          "german": "Die Toxzentrale: 145. Die sind 24 Stunden erreichbar.",
+          "english": "The poison center: 145. They're reachable 24 hours.",
+          "spanish": "El centro de información toxicológica: 145. Están disponibles las 24 horas."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und wemer us em Uusland aalueged? Bim Roaming?",
+          "german": "Und wenn wir aus dem Ausland anrufen? Beim Roaming?",
+          "english": "And if we're calling from abroad? With roaming?",
+          "spanish": "¿Y si llamamos desde el extranjero? ¿Con roaming?"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Dännis 112 — funktioniert überall in Europa, au ohäni SIM-Charte.",
+          "german": "Dann ist es 112 — funktioniert überall in Europa, auch ohne SIM-Karte.",
+          "english": "Then it's 112 — works everywhere in Europe, even without a SIM card.",
+          "spanish": "Entonces es el 112 — funciona en toda Europa, incluso sin tarjeta SIM."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Notfallnummere",
+          "german": "Notfallnummer",
+          "explanation": "'Notfallnummere' = emergency number."
+        },
+        {
+          "swissGerman": "Füürwehr",
+          "german": "Feuerwehr",
+          "explanation": "'Füürwehr' = 'Feuerwehr'. Fire department."
+        },
+        {
+          "swissGerman": "Toxzentrale",
+          "german": "Toxikologisches Zentrum/Giftnotruf",
+          "explanation": "Swiss poison control center. Unique number: 145."
+        },
+        {
+          "swissGerman": "vergiftet",
+          "german": "vergiftet",
+          "explanation": "Poisoned. Same word."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "117",
+          "german": "117",
+          "english": "police"
+        },
+        {
+          "swissGerman": "144",
+          "german": "144",
+          "english": "ambulance"
+        },
+        {
+          "swissGerman": "Toxzentrale",
+          "german": "Giftnotruf",
+          "english": "poison control: 145"
+        }
+      ]
+    },
+    {
+      "id": "safety-4",
+      "level": "intermediate",
+      "title": "Lost wallet",
+      "situation": "You lost your wallet and try to find it.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Oh nei, ich ha mis Portmonee verlore! Es isch weg!",
+          "german": "Oh nein, ich habe mein Portemonnaie verloren! Es ist weg!",
+          "english": "Oh no, I lost my wallet! It's gone!",
+          "spanish": "¡Oh no, perdí la cartera! ¡Ha desaparecido!"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Beruhig dich! Wo häsch es s'letschte Mal gseh?",
+          "german": "Beruhige dich! Wo hast du es das letzte Mal gesehen?",
+          "english": "Calm down! Where did you last see it?",
+          "spanish": "¡Cálmate! ¿Dónde lo has visto por última vez?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Im Coop, glaub ich. Bim zahle.",
+          "german": "Im Coop, glaube ich. Beim Zahlen.",
+          "english": "At Coop, I think. While paying.",
+          "spanish": "En el Coop, creo. Al pagar."
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Gang zrugg und frag am Schalter. Öpper hät's vilicht abgeh.",
+          "german": "Geh zurück und frag am Schalter. Jemand hat es vielleicht abgegeben.",
+          "english": "Go back and ask at the counter. Someone may have turned it in.",
+          "spanish": "Ve a la ventanilla y pregunta. Puede que alguien lo haya entregado."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und wänn nöd? Muess ich d'Charte sperr lah!",
+          "german": "Und wenn nicht? Muss ich die Karten sperren lassen!",
+          "english": "And what if not? I have to block the cards!",
+          "spanish": "¿Y si no? ¡Tengo que bloquear las tarjetas!"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Ja, rüef sofort d'Bank aa. Und denn e Azeig bi de Polizei mache.",
+          "german": "Ja, ruf sofort die Bank an. Und dann eine Anzeige bei der Polizei machen.",
+          "english": "Yes, call the bank immediately. And then file a report with the police.",
+          "spanish": "Sí, llama al banco inmediatamente. Y luego presenta una denuncia ante la policía."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und d'Versicherig informiere? Ich glaub ich ha en Assistenzversicherig.",
+          "german": "Und die Versicherung informieren? Ich glaube ich habe eine Assistenzversicherung.",
+          "english": "And inform the insurance? I think I have an assistance insurance.",
+          "spanish": "¿Y avisar al seguro? Creo que tengo un seguro de asistencia."
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Ja, gueti Idää. Die händ oft en 24h-Notruf für Kartensperre und Nöthilf.",
+          "german": "Ja, gute Idee. Die haben oft eine 24h-Notfallnummer für Kartensperrung und Notfallhilfe.",
+          "english": "Yes, good idea. They often have a 24h emergency number for card blocking and emergency help.",
+          "spanish": "Sí, buena idea. A menudo tienen un número de emergencia 24 horas para el bloqueo de tarjetas y la ayuda de emergencia."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Portmonee",
+          "german": "Portemonnaie/Geldbeutel",
+          "explanation": "'Portmonee' = wallet. Swiss use French word."
+        },
+        {
+          "swissGerman": "verlore",
+          "german": "verloren",
+          "explanation": "'verlore' = 'verloren'. Lost."
+        },
+        {
+          "swissGerman": "sperr lah",
+          "german": "sperren lassen",
+          "explanation": "'sperr lah' = to have blocked. Swiss form."
+        },
+        {
+          "swissGerman": "Azeig",
+          "german": "Anzeige",
+          "explanation": "'Azeig' = 'Anzeige'. (Police) report."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Portmonee",
+          "german": "Portemonnaie",
+          "english": "wallet"
+        },
+        {
+          "swissGerman": "verlore",
+          "german": "verloren",
+          "english": "lost"
+        },
+        {
+          "swissGerman": "Azeig mache",
+          "german": "Anzeige erstatten",
+          "english": "to file a report"
+        }
+      ]
+    },
+    {
+      "id": "safety-5",
+      "level": "beginner",
+      "title": "Fire alarm in a building",
+      "situation": "The fire alarm goes off in your building.",
+      "lines": [
+        {
+          "speaker": "Neighbor",
+          "swissGerman": "Häsch du de Alarm ghört? Mir müesse use!",
+          "german": "Hast du den Alarm gehört? Wir müssen raus!",
+          "english": "Did you hear the alarm? We have to get out!",
+          "spanish": "¿Escuchaste la alarma? ¡Tenemos que salir!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Was isch los? Isch es en Überig oder echt?",
+          "german": "Was ist los? Ist es eine Übung oder echt?",
+          "english": "What's going on? Is it a drill or real?",
+          "spanish": "¿Qué está pasando? ¿Es un simulacro o es real?"
+        },
+        {
+          "speaker": "Neighbor",
+          "swissGerman": "Ich wäiss nöd, aber nimm de Schlüssel und gang d'Stäge aabe!",
+          "german": "Ich weiß nicht, aber nimm den Schlüssel und geh die Treppe runter!",
+          "english": "I don't know, but take the key and go down the stairs!",
+          "spanish": "No sé, pero ¡coge la llave y baja las escaleras!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und de Lift?",
+          "german": "Und der Aufzug?",
+          "english": "And the elevator?",
+          "spanish": "¿Y el ascensor?"
+        },
+        {
+          "speaker": "Neighbor",
+          "swissGerman": "Nie de Lift bruuche bim Füür-Alarm! Immer d'Stäge!",
+          "german": "Nie den Aufzug benutzen beim Feuer-Alarm! Immer die Treppe!",
+          "english": "Never use the elevator during a fire alarm! Always the stairs!",
+          "spanish": "¡Nunca uses el ascensor durante una alarma de incendio! ¡Siempre las escaleras!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Okay, ich chume! Wo isch de Sammelplatz?",
+          "german": "Okay, ich komme! Wo ist der Sammelplatz?",
+          "english": "Okay, I'm coming! Where's the assembly point?",
+          "spanish": "¡Bien, ya voy! ¿Dónde está el punto de encuentro?"
+        },
+        {
+          "speaker": "Neighbor",
+          "swissGerman": "Vor em Hüsli, bim Briefkaschte. Dä ischs uf em Schild oene beschriibe.",
+          "german": "Vor dem Haus, beim Briefkasten. Das ist auf dem Schild draussen beschrieben.",
+          "english": "In front of the building, by the mailbox. It's described on the sign outside.",
+          "spanish": "Delante del edificio, junto al buzón. Está descrito en el cartel de fuera."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Okay danke! Ich chume jetzt. Hop hop!",
+          "german": "Okay danke! Ich komme jetzt. Schnell schnell!",
+          "english": "Okay thanks! I'm coming now. Quick quick!",
+          "spanish": "¡Bien, gracias! Ya voy. ¡Rápido rápido!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "use",
+          "german": "raus",
+          "explanation": "'use' = 'raus/hinaus'. Out. Swiss form."
+        },
+        {
+          "swissGerman": "Stäge",
+          "german": "Treppe",
+          "explanation": "'Stäge' = 'Treppe'. Stairs. Swiss word."
+        },
+        {
+          "swissGerman": "Überig",
+          "german": "Übung",
+          "explanation": "'Überig' = 'Übung'. Practice/drill."
+        },
+        {
+          "swissGerman": "Sammelplatz",
+          "german": "Sammelplatz/Sammelpunkt",
+          "explanation": "Assembly point. Designated meeting spot outside."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Alarm",
+          "german": "Alarm",
+          "english": "alarm"
+        },
+        {
+          "swissGerman": "Stäge",
+          "german": "Treppe",
+          "english": "stairs"
+        },
+        {
+          "swissGerman": "Sammelplatz",
+          "german": "Sammelplatz",
+          "english": "assembly point"
+        }
+      ]
+    }
+  ]
+}

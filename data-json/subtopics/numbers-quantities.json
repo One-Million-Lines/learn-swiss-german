@@ -1,0 +1,489 @@
+{
+  "id": "numbers-quantities",
+  "topicId": "everyday-basics",
+  "title": "Numbers & Quantities",
+  "description": "Counting, prices, and saying how much or how little in Swiss German",
+  "dialogues": [
+    {
+      "id": "numbers-quantities-1",
+      "level": "beginner",
+      "title": "Counting change at the bakery",
+      "situation": "You pay with a 20-franc note and count the change.",
+      "lines": [
+        {
+          "speaker": "Baker",
+          "swissGerman": "Das macht sibne füfzg.",
+          "german": "Das macht sieben fünfzig.",
+          "english": "That's seven fifty.",
+          "spanish": "Son siete cincuenta."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Da, en Zwänzger.",
+          "german": "Hier, ein Zwanziger.",
+          "english": "Here, a twenty.",
+          "spanish": "Aquí, un billete de veinte."
+        },
+        {
+          "speaker": "Baker",
+          "swissGerman": "Merci. Zrügg: acht, nüün, zäh, und zwölf Franke füfzg. Stimmt's?",
+          "german": "Danke. Zurück: acht, neun, zehn, und zwölf Franken fünfzig. Stimmt's?",
+          "english": "Thanks. Change: eight, nine, ten, and twelve francs fifty. Right?",
+          "spanish": "Gracias. Cambio: ocho, nueve, diez y doce con cincuenta. ¿Correcto?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Warte, das isch doch z'viel! Sibne füfzg vo zwänzg isch zwölf füfzg.",
+          "german": "Warte, das ist doch zu viel! Sieben fünfzig von zwanzig ist zwölf fünfzig.",
+          "english": "Wait, that's too much! Seven fifty from twenty is twelve fifty.",
+          "spanish": "Espera, eso es demasiado. Siete cincuenta de veinte son doce cincuenta."
+        },
+        {
+          "speaker": "Baker",
+          "swissGerman": "Ah stimmt, Exgüsi! Da, zwölf Franke füfzg. Danke fürs Ufpasse!",
+          "german": "Ah stimmt, Entschuldigung! Da, zwölf Franken fünfzig. Danke fürs Aufpassen!",
+          "english": "Ah right, sorry! Here, twelve francs fifty. Thanks for paying attention!",
+          "spanish": "¡Ah, es verdad, lo siento! Aquí tienes, doce francos cincuenta. ¡Gracias por avisar!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Merci! Und chönd ich no zwei Gipfeli ha? Die im Schaufenster.",
+          "german": "Danke! Und kann ich noch zwei Gipfeli haben? Die im Schaufenster.",
+          "english": "Thanks! And can I also have two croissants? The ones in the display.",
+          "spanish": "¡Gracias! ¿Y también me puede dar dos croissants? Los que están en el expositor."
+        },
+        {
+          "speaker": "Baker",
+          "swissGerman": "Natürlich. No zwöi Fräng dezue — macht ufzeh vierezg zemä.",
+          "german": "Natürlich. Noch zwei Franken dazu — macht vierzehn vierzig insgesamt.",
+          "english": "Of course. Another two francs — makes fourteen forty altogether.",
+          "spanish": "Por supuesto. Otros dos francos — son catorce cuarenta en total."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "sibne füfzg",
+          "german": "sieben fünfzig",
+          "explanation": "Numbers: 'sibne' = 'sieben', 'füfzg' = 'fünfzig'. Prices drop 'Franken' in casual speech."
+        },
+        {
+          "swissGerman": "en Zwänzger",
+          "german": "ein Zwanziger",
+          "explanation": "'Zwänzger' = a 20-franc note/coin. Swiss add '-er' to make note names: Zähner (10), Zwänzger (20), Hunderter (100)."
+        },
+        {
+          "swissGerman": "zrügg",
+          "german": "zurück",
+          "explanation": "'zrügg' = 'zurück'. Shortened form."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Das macht...",
+          "german": "Das macht...",
+          "english": "That comes to... (price)"
+        },
+        {
+          "swissGerman": "Stimmt's?",
+          "german": "Stimmt's?",
+          "english": "Right? / Correct?"
+        },
+        {
+          "swissGerman": "Zrügg",
+          "german": "Zurück / Rückgeld",
+          "english": "Change (money back)"
+        }
+      ]
+    },
+    {
+      "id": "numbers-quantities-2",
+      "level": "beginner",
+      "title": "Ordering quantities at the Metzg",
+      "situation": "You're at the butcher ordering specific amounts.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Grüezi! Ich hätt gern zwöihundert Gramm Schinke.",
+          "german": "Grüezi! Ich hätte gern zweihundert Gramm Schinken.",
+          "english": "Hello! I'd like two hundred grams of ham.",
+          "spanish": "¡Hola! Me gustaría doscientos gramos de jamón."
+        },
+        {
+          "speaker": "Butcher",
+          "swissGerman": "Zwöihundert? Isch zwöihundertfüfzäh okay oder isch das z'viel?",
+          "german": "Zweihundert? Sind zweihundertfünfzehn okay oder ist das zu viel?",
+          "english": "Two hundred? Is two-fifteen okay or is that too much?",
+          "spanish": "¿Doscientos? ¿Está bien doscientos quince o es demasiado?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Es bitzeli meh isch guet. Und drüühundert Gramm Cervelat.",
+          "german": "Ein bisschen mehr ist gut. Und dreihundert Gramm Cervelat.",
+          "english": "A little more is fine. And three hundred grams of Cervelat.",
+          "spanish": "Un poco más está bien. Y trescientos gramos de Cervelat."
+        },
+        {
+          "speaker": "Butcher",
+          "swissGerman": "Genau drüühundert! Süscht no öppis?",
+          "german": "Genau dreihundert! Sonst noch etwas?",
+          "english": "Exactly three hundred! Anything else?",
+          "spanish": "¡Exactamente trescientos! ¿Algo más?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Nei, das langet. Wieviel isch das zäme?",
+          "german": "Nein, das reicht. Wieviel ist das zusammen?",
+          "english": "No, that's enough. How much is that altogether?",
+          "spanish": "No, con eso es suficiente. ¿Cuánto es en total?"
+        },
+        {
+          "speaker": "Butcher",
+          "swissGerman": "Vierzäh Franke achtzg.",
+          "german": "Vierzehn Franken achtzig.",
+          "english": "Fourteen francs eighty.",
+          "spanish": "Catorce francos ochenta."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ha ich nur en Zwänzger — chani mit Karte zahle?",
+          "german": "Ich habe nur einen Zwanziger — kann ich mit Karte bezahlen?",
+          "english": "I only have a twenty — can I pay by card?",
+          "spanish": "Solo tengo un billete de veinte — ¿puedo pagar con tarjeta?"
+        },
+        {
+          "speaker": "Butcher",
+          "swissGerman": "Ja, ab drü Fäng nehme mir au Karte. Dankschön!",
+          "german": "Ja, ab drei Franken nehmen wir auch Karte. Dankeschön!",
+          "english": "Yes, from three francs we also take card. Thank you!",
+          "spanish": "Sí, a partir de tres francos también aceptamos tarjeta. ¡Gracias!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "zwöihundert",
+          "german": "zweihundert",
+          "explanation": "'zwöi' = 'zwei'. The Swiss form for 'two' in counting."
+        },
+        {
+          "swissGerman": "Es bitzeli meh",
+          "german": "Ein bisschen mehr",
+          "explanation": "'es bitzeli' = 'ein bisschen'. Diminutive form expressing 'a little'."
+        },
+        {
+          "swissGerman": "das langet",
+          "german": "das reicht",
+          "explanation": "'langet' = 'reicht/genügt'. From 'langen' meaning 'to be enough'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Es bitzeli",
+          "german": "Ein bisschen",
+          "english": "A little"
+        },
+        {
+          "swissGerman": "Das langet",
+          "german": "Das reicht",
+          "english": "That's enough"
+        },
+        {
+          "swissGerman": "Z'viel",
+          "german": "Zu viel",
+          "english": "Too much"
+        }
+      ]
+    },
+    {
+      "id": "numbers-quantities-3",
+      "level": "intermediate",
+      "title": "Phone numbers and addresses",
+      "situation": "You need to give your phone number and address to the Gemeinde office.",
+      "lines": [
+        {
+          "speaker": "Clerk",
+          "swissGerman": "Chönd Sie mir Ihri Telefonnummere gä?",
+          "german": "Können Sie mir Ihre Telefonnummer geben?",
+          "english": "Can you give me your phone number?",
+          "spanish": "¿Puedes darme tu número de teléfono?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, null sibnni achte — drüü zwöi föif — sächs null vieri.",
+          "german": "Ja, null sieben acht — drei zwei fünf — sechs null vier.",
+          "english": "Yes, zero seven eight — three two five — six zero four.",
+          "spanish": "Sí, cero siete ocho — tres dos cinco — seis cero cuatro."
+        },
+        {
+          "speaker": "Clerk",
+          "swissGerman": "Und d'Adrässe?",
+          "german": "Und die Adresse?",
+          "english": "And the address?",
+          "spanish": "¿Y la dirección?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Bahnhofstross ainefüfzg, achttusigvierhundertdrüüesächzg Züri.",
+          "german": "Bahnhofstrasse einundfünfzig, achttausendvierhundertdreiundsechzig Zürich.",
+          "english": "Bahnhofstrasse fifty-one, 8463 Zurich.",
+          "spanish": "Bahnhofstrasse cincuenta y uno, 8463 Zúrich."
+        },
+        {
+          "speaker": "Clerk",
+          "swissGerman": "Merci! Und d'Postleitzahl nomol? Acht-vier-sächs-drüü?",
+          "german": "Danke! Und die Postleitzahl nochmal? Acht-vier-sechs-drei?",
+          "english": "Thanks! And the zip code again? Eight-four-six-three?",
+          "spanish": "¡Gracias! ¿Y el código postal otra vez? ¿Ocho-cuatro-seis-tres?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Genau, achtvieresächsedrüü.",
+          "german": "Genau, achtviersechsdrei.",
+          "english": "Exactly, eight-four-six-three.",
+          "spanish": "Exacto, ocho-cuatro-seis-tres."
+        },
+        {
+          "speaker": "Clerk",
+          "swissGerman": "Perfekt. Und Ihre Geburtsjahr? Nur d'vier letschte Ziffere.",
+          "german": "Perfekt. Und Ihr Geburtsjahr? Nur die vier letzten Ziffern.",
+          "english": "Perfect. And your birth year? Just the last four digits.",
+          "spanish": "Perfecto. ¿Y tu año de nacimiento? Solo los últimos cuatro dígitos."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "En Nune, Nune, Achte, Drüü — neunzgäh achtunenachtzg.",
+          "german": "Neun, neun, acht, drei — neunzehnhundert achtundachtzig.",
+          "english": "Nine, nine, eight, three — nineteen eighty-eight.",
+          "spanish": "Nueve, nueve, ocho, tres — mil novecientos ochenta y ocho."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "sibnni",
+          "german": "sieben",
+          "explanation": "Phone numbers are read digit by digit. 'sibnni' = 'sieben', 'achte' = 'acht'."
+        },
+        {
+          "swissGerman": "ainefüfzg",
+          "german": "einundfünfzig",
+          "explanation": "'aine' = 'eins/ein', 'füfzg' = 'fünfzig'. Street numbers use full number words."
+        },
+        {
+          "swissGerman": "Züri",
+          "german": "Zürich",
+          "explanation": "Swiss German shortens city names: Züri (Zürich), Bärn (Bern), Luzärn (Luzern)."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Null / Eis / Zwöi / Drüü / Vieri / Föif / Sächs / Sibnni / Achti / Nüüni",
+          "german": "0-9",
+          "english": "Digits 0-9 in Swiss German"
+        },
+        {
+          "swissGerman": "D'Telefonnummere",
+          "german": "Die Telefonnummer",
+          "english": "The phone number"
+        },
+        {
+          "swissGerman": "D'Postleitzahl",
+          "german": "Die Postleitzahl",
+          "english": "The zip code"
+        }
+      ]
+    },
+    {
+      "id": "numbers-quantities-4",
+      "level": "intermediate",
+      "title": "Talking about quantities and amounts",
+      "situation": "You and a friend are cooking together and discussing how much of each ingredient you need.",
+      "lines": [
+        {
+          "speaker": "Friend",
+          "swissGerman": "Wie viel Mehl bruuche mer?",
+          "german": "Wie viel Mehl brauchen wir?",
+          "english": "How much flour do we need?",
+          "spanish": "¿Cuánta harina necesitamos?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Drüühundert Gramm. Hämer gnueg?",
+          "german": "Dreihundert Gramm. Haben wir genug?",
+          "english": "Three hundred grams. Do we have enough?",
+          "spanish": "Trescientos gramos. ¿Tenemos suficiente?"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Ja, me als gnueg! Und Eier? Wie viel?",
+          "german": "Ja, mehr als genug! Und Eier? Wie viele?",
+          "english": "Yes, more than enough! And eggs? How many?",
+          "spanish": "Sí, ¡más que suficiente! ¿Y los huevos? ¿Cuántos?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Vier Stück. Aber mir händ nur no drüü.",
+          "german": "Vier Stück. Aber wir haben nur noch drei.",
+          "english": "Four pieces. But we only have three left.",
+          "spanish": "Cuatro piezas. Pero solo nos quedan tres."
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Langets mit drüü?",
+          "german": "Reicht es mit drei?",
+          "english": "Is three enough?",
+          "spanish": "¿Con tres es suficiente?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, das sött lange. Denn nämme mer eifach echli weniger Mehl.",
+          "german": "Ja, das sollte reichen. Dann nehmen wir einfach etwas weniger Mehl.",
+          "english": "Yes, that should be enough. Then we'll just use a bit less flour.",
+          "spanish": "Sí, eso debería ser suficiente. Entonces solo usaremos un poco menos de harina."
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Und wie viel Butter? D'Rezept säit hundert Gramm.",
+          "german": "Und wie viel Butter? Das Rezept sagt hundert Gramm.",
+          "english": "And how much butter? The recipe says one hundred grams.",
+          "spanish": "¿Y cuánta mantequilla? La receta dice cien gramos."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Genau hundert. Das isch en halbi Packig — zehn Dezi.",
+          "german": "Genau hundert. Das ist eine halbe Packung — zehn Deziliter.",
+          "english": "Exactly one hundred. That's half a pack — ten decilitres.",
+          "spanish": "Exactamente cien. Eso es medio paquete — diez decilitros."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "gnueg",
+          "german": "genug",
+          "explanation": "'gnueg' = 'genug'. Very frequently used quantity word."
+        },
+        {
+          "swissGerman": "me als gnueg",
+          "german": "mehr als genug",
+          "explanation": "'me' = 'mehr'. 'me als' = 'more than'."
+        },
+        {
+          "swissGerman": "echli weniger",
+          "german": "etwas weniger",
+          "explanation": "'echli' = 'etwas / ein wenig'. Softer than 'weniger' alone."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Gnueg",
+          "german": "Genug",
+          "english": "Enough"
+        },
+        {
+          "swissGerman": "Z'viel / Z'wenig",
+          "german": "Zu viel / Zu wenig",
+          "english": "Too much / Too little"
+        },
+        {
+          "swissGerman": "Echli / Es bitzeli",
+          "german": "Etwas / Ein bisschen",
+          "english": "A bit / A little"
+        },
+        {
+          "swissGerman": "Viel / Wenig",
+          "german": "Viel / Wenig",
+          "english": "A lot / Little"
+        }
+      ]
+    },
+    {
+      "id": "numbers-quantities-5",
+      "level": "beginner",
+      "title": "Learning to count with a child",
+      "situation": "Your Swiss neighbor's kid is teaching you to count in Swiss German while playing a board game.",
+      "lines": [
+        {
+          "speaker": "Kid",
+          "swissGerman": "Ich zelle! Eis, zwöi, drüü, vier, föif!",
+          "german": "Ich zähle! Eins, zwei, drei, vier, fünf!",
+          "english": "I'm counting! One, two, three, four, five!",
+          "spanish": "¡Estoy contando! ¡Uno, dos, tres, cuatro, cinco!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und denn? Sächs, sibne... wie gaht's witer?",
+          "german": "Und dann? Sechs, sieben... wie geht es weiter?",
+          "english": "And then? Six, seven... how does it continue?",
+          "spanish": "¿Y luego? Seis, siete... ¿cómo sigue?"
+        },
+        {
+          "speaker": "Kid",
+          "swissGerman": "Sächs, sibne, achte, nüüni, zäh! Du chasch das!",
+          "german": "Sechs, sieben, acht, neun, zehn! Du kannst das!",
+          "english": "Six, seven, eight, nine, ten! You can do it!",
+          "spanish": "¡Seis, siete, ocho, nueve, diez! ¡Puedes hacerlo!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und elfi, zwölfi?",
+          "german": "Und elf, zwölf?",
+          "english": "And eleven, twelve?",
+          "spanish": "¿Y once, doce?"
+        },
+        {
+          "speaker": "Kid",
+          "swissGerman": "Ja! Und drüzäh, vierzäh, füfzäh... bis hundert!",
+          "german": "Ja! Und dreizehn, vierzehn, fünfzehn... bis hundert!",
+          "english": "Yes! And thirteen, fourteen, fifteen... up to a hundred!",
+          "spanish": "Sí, y trece, catorce, quince... ¡hasta cien!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Hundert isch viel! Wie seit me hunderteis?",
+          "german": "Hundert ist viel! Wie sagt man hundertein?",
+          "english": "A hundred is a lot! How do you say a hundred and one?",
+          "spanish": "¡Cien es mucho! ¿Cómo se dice ciento uno?"
+        },
+        {
+          "speaker": "Kid",
+          "swissGerman": "Hunderteeis! Isch eifach!",
+          "german": "Hundertein! Ist einfach!",
+          "english": "A hundred and one! It's easy!",
+          "spanish": "¡Ciento uno! ¡Es fácil!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Eis, zwöi, drüü",
+          "german": "Eins, zwei, drei",
+          "explanation": "Swiss numbers: eis (1), zwöi (2), drüü (3), vier (4), föif (5)."
+        },
+        {
+          "swissGerman": "sächs, sibne, achte, nüüni, zäh",
+          "german": "sechs, sieben, acht, neun, zehn",
+          "explanation": "More Swiss numbers: sächs (6), sibne (7), achte (8), nüüni (9), zäh (10)."
+        },
+        {
+          "swissGerman": "drüzäh, vierzäh, füfzäh",
+          "german": "dreizehn, vierzehn, fünfzehn",
+          "explanation": "Teens use '-zäh' instead of '-zehn': drüzäh (13), vierzäh (14), füfzäh (15)."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Eis bis zäh",
+          "german": "Eins bis zehn",
+          "english": "One to ten"
+        },
+        {
+          "swissGerman": "Zwänzg, drüssg, vierzg, füfzg",
+          "german": "Zwanzig, dreissig, vierzig, fünfzig",
+          "english": "20, 30, 40, 50"
+        },
+        {
+          "swissGerman": "Sächzg, sibezg, achtzg, nüünzg, hundert",
+          "german": "Sechzig, siebzig, achtzig, neunzig, hundert",
+          "english": "60, 70, 80, 90, 100"
+        }
+      ]
+    }
+  ]
+}

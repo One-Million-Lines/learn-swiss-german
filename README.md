@@ -1,0 +1,1 @@
+To add a new subtopic: drop a .json file in data-json/subtopics/ and update index.json. No Python changes needed.

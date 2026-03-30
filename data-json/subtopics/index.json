@@ -1,0 +1,737 @@
+[
+  {
+    "id": "saying-hello",
+    "topicId": "everyday-basics",
+    "title": "Saying Hello",
+    "description": "Formal and informal greetings used every day in Switzerland",
+    "dialogueCount": 5
+  },
+  {
+    "id": "small-talk-neighbors",
+    "topicId": "everyday-basics",
+    "title": "Small Talk with Neighbors",
+    "description": "Chatting with neighbors in the hallway or staircase",
+    "dialogueCount": 5
+  },
+  {
+    "id": "buying-bread-coffee",
+    "topicId": "daily-life",
+    "title": "Buying Bread & Coffee",
+    "description": "Ordering at a bakery, café, or takeaway counter",
+    "dialogueCount": 5
+  },
+  {
+    "id": "supermarket-checkout",
+    "topicId": "daily-life",
+    "title": "Supermarket Checkout",
+    "description": "At the Migros or Coop checkout and asking about products",
+    "dialogueCount": 5
+  },
+  {
+    "id": "asking-directions",
+    "topicId": "daily-life",
+    "title": "Asking for Directions",
+    "description": "Finding your way around a Swiss city",
+    "dialogueCount": 5
+  },
+  {
+    "id": "train-station",
+    "topicId": "daily-life",
+    "title": "Train Station",
+    "description": "Buying tickets, finding platforms, and dealing with delays",
+    "dialogueCount": 5
+  },
+  {
+    "id": "making-plans-after-work",
+    "topicId": "social",
+    "title": "Making Plans After Work",
+    "description": "Arranging to meet up with friends or colleagues after the workday",
+    "dialogueCount": 5
+  },
+  {
+    "id": "work-informal-chat",
+    "topicId": "work",
+    "title": "Quick Informal Chat at Work",
+    "description": "Casual conversations with colleagues in the office",
+    "dialogueCount": 5
+  },
+  {
+    "id": "talking-to-parents",
+    "topicId": "family-school",
+    "title": "Talking to Parents at School",
+    "description": "Conversations at school events, parent meetings, and with other parents",
+    "dialogueCount": 5
+  },
+  {
+    "id": "at-the-doctor",
+    "topicId": "practical-swiss-life",
+    "title": "At the Doctor's Office",
+    "description": "Conversations when visiting the doctor, describing symptoms and understanding instructions",
+    "dialogueCount": 5
+  },
+  {
+    "id": "making-appointment",
+    "topicId": "practical-swiss-life",
+    "title": "Making an Appointment",
+    "description": "Scheduling appointments by phone or in person for various services",
+    "dialogueCount": 5
+  },
+  {
+    "id": "landlord-repair",
+    "topicId": "practical-swiss-life",
+    "title": "Contacting the Landlord for Repairs",
+    "description": "Communicating with your landlord or property management about apartment issues",
+    "dialogueCount": 5
+  },
+  {
+    "id": "job-interview",
+    "topicId": "work",
+    "title": "Job Interview",
+    "description": "Preparing for and going through a job interview in Swiss German",
+    "dialogueCount": 5
+  },
+  {
+    "id": "office-it-problems",
+    "topicId": "work",
+    "title": "IT Problems at the Office",
+    "description": "Dealing with computer issues, printers, and calling IT support",
+    "dialogueCount": 5
+  },
+  {
+    "id": "presenting-meeting",
+    "topicId": "work",
+    "title": "Presenting in a Meeting",
+    "description": "Giving updates, presenting ideas, and handling questions in meetings",
+    "dialogueCount": 5
+  },
+  {
+    "id": "hr-salary-talk",
+    "topicId": "work",
+    "title": "HR & Salary Discussions",
+    "description": "Talking to HR about contracts, raises, vacation, and workplace issues",
+    "dialogueCount": 5
+  },
+  {
+    "id": "client-call",
+    "topicId": "work",
+    "title": "Client Calls & Emails",
+    "description": "Professional communication with clients over phone and email",
+    "dialogueCount": 5
+  },
+  {
+    "id": "onboarding-new-employee",
+    "topicId": "work",
+    "title": "Onboarding a New Employee",
+    "description": "Showing a new colleague around and helping them get started",
+    "dialogueCount": 5
+  },
+  {
+    "id": "working-from-home",
+    "topicId": "work",
+    "title": "Working from Home",
+    "description": "Remote work situations, video calls, and work-life balance at home",
+    "dialogueCount": 5
+  },
+  {
+    "id": "bank-office",
+    "topicId": "work",
+    "title": "Working at a Bank",
+    "description": "Customer interactions and daily work life in a Swiss bank",
+    "dialogueCount": 5
+  },
+  {
+    "id": "construction-site",
+    "topicId": "work",
+    "title": "On the Construction Site",
+    "description": "Working on a building site — tools, safety, teamwork, and breaks",
+    "dialogueCount": 5
+  },
+  {
+    "id": "restaurant-kitchen",
+    "topicId": "work",
+    "title": "Working in a Restaurant Kitchen",
+    "description": "Cooking, taking orders, and teamwork in a busy Swiss restaurant",
+    "dialogueCount": 5
+  },
+  {
+    "id": "retail-shop",
+    "topicId": "work",
+    "title": "Working in a Retail Shop",
+    "description": "Helping customers, stocking shelves, and daily life in a Swiss shop",
+    "dialogueCount": 5
+  },
+  {
+    "id": "warehouse-logistics",
+    "topicId": "work",
+    "title": "Warehouse & Logistics",
+    "description": "Working in a warehouse — receiving goods, shipping, and inventory",
+    "dialogueCount": 5
+  },
+  {
+    "id": "farming",
+    "topicId": "work",
+    "title": "Working on a Farm",
+    "description": "Daily farm life — animals, crops, markets, and rural Swiss German",
+    "dialogueCount": 5
+  },
+  {
+    "id": "hairdresser",
+    "topicId": "work",
+    "title": "At the Hairdresser",
+    "description": "Cutting hair, chatting with customers, and salon life",
+    "dialogueCount": 5
+  },
+  {
+    "id": "cleaning-job",
+    "topicId": "work",
+    "title": "Working as a Cleaner",
+    "description": "Cleaning offices, homes, and commercial spaces — products, tasks, and instructions",
+    "dialogueCount": 5
+  },
+  {
+    "id": "newborn-baby",
+    "topicId": "family-school",
+    "title": "Newborn Baby",
+    "description": "At the hospital, first days with the baby, and visitors",
+    "dialogueCount": 5
+  },
+  {
+    "id": "baby-toddler",
+    "topicId": "family-school",
+    "title": "Baby & Toddler at Home",
+    "description": "First steps, feeding, playing, and milestones with your little one",
+    "dialogueCount": 5
+  },
+  {
+    "id": "kita-daycare",
+    "topicId": "family-school",
+    "title": "Kita & Daycare",
+    "description": "Dropping off, picking up, and communicating with daycare staff",
+    "dialogueCount": 5
+  },
+  {
+    "id": "kindergarten",
+    "topicId": "family-school",
+    "title": "Kindergarten",
+    "description": "First day, Znüni time, activities, and making friends",
+    "dialogueCount": 5
+  },
+  {
+    "id": "primarschule",
+    "topicId": "family-school",
+    "title": "Primarschule (Primary School)",
+    "description": "Reading, writing, maths, and the first years of Swiss school life",
+    "dialogueCount": 5
+  },
+  {
+    "id": "elternabend",
+    "topicId": "family-school",
+    "title": "Elternabend (Parents' Evening)",
+    "description": "Formal school parent evenings, class information, and school events",
+    "dialogueCount": 5
+  },
+  {
+    "id": "homework-studying",
+    "topicId": "family-school",
+    "title": "Homework & Studying",
+    "description": "Doing homework at home, studying for exams, and getting help",
+    "dialogueCount": 5
+  },
+  {
+    "id": "sekundarschule",
+    "topicId": "family-school",
+    "title": "Sekundarschule (Secondary School)",
+    "description": "Choosing tracks, Übertritt, and navigating secondary school in Switzerland",
+    "dialogueCount": 5
+  },
+  {
+    "id": "gymnasium",
+    "topicId": "family-school",
+    "title": "Gymnasium (Gymi)",
+    "description": "Academic secondary school — entrance exams, Matura, and Gymi life",
+    "dialogueCount": 5
+  },
+  {
+    "id": "berufslehre",
+    "topicId": "family-school",
+    "title": "Berufslehre (Apprenticeship)",
+    "description": "Finding a Lehrstelle, Berufsschule, and starting your career through the Swiss apprenticeship system",
+    "dialogueCount": 5
+  },
+  {
+    "id": "schulreise",
+    "topicId": "family-school",
+    "title": "Schulreise (School Trip)",
+    "description": "Planning and going on a school excursion — hiking, museums, and adventures",
+    "dialogueCount": 5
+  },
+  {
+    "id": "zeugnis-day",
+    "topicId": "family-school",
+    "title": "Zeugnis Day (Report Card)",
+    "description": "Receiving and discussing grades, report cards, and academic progress",
+    "dialogueCount": 5
+  },
+  {
+    "id": "spielplatz",
+    "topicId": "family-school",
+    "title": "Spielplatz (Playground)",
+    "description": "Playing at the playground — swings, slides, and making new friends",
+    "dialogueCount": 5
+  },
+  {
+    "id": "park-family",
+    "topicId": "family-school",
+    "title": "Walk in the Park",
+    "description": "Family walks in the park — nature, picnics, and outdoor time together",
+    "dialogueCount": 5
+  },
+  {
+    "id": "pausenplatz",
+    "topicId": "family-school",
+    "title": "Pausenplatz (School Yard)",
+    "description": "Recess time at school — playing, snacking, and socializing on the Pausenplatz",
+    "dialogueCount": 5
+  },
+  {
+    "id": "family-vacation",
+    "topicId": "family-school",
+    "title": "Family Vacation",
+    "description": "Planning, packing, and going on vacation as a family",
+    "dialogueCount": 5
+  },
+  {
+    "id": "morning-routine-family",
+    "topicId": "family-school",
+    "title": "Morning Routine",
+    "description": "Getting the family ready in the morning — breakfast, dressing, and rushing out the door",
+    "dialogueCount": 5
+  },
+  {
+    "id": "bedtime-routine",
+    "topicId": "family-school",
+    "title": "Bedtime Routine",
+    "description": "Bath time, bedtime stories, and getting the kids to sleep",
+    "dialogueCount": 5
+  },
+  {
+    "id": "family-meals",
+    "topicId": "family-school",
+    "title": "Family Meals",
+    "description": "Cooking and eating together as a family — recipes, table manners, and conversations",
+    "dialogueCount": 5
+  },
+  {
+    "id": "weekend-family",
+    "topicId": "family-school",
+    "title": "Weekend with Family",
+    "description": "Weekend activities — Ausflüge, family time, errands, and relaxation",
+    "dialogueCount": 5
+  },
+  {
+    "id": "kids-birthday",
+    "topicId": "family-school",
+    "title": "Kids Birthday Party",
+    "description": "Planning, celebrating, and hosting a children's birthday party",
+    "dialogueCount": 5
+  },
+  {
+    "id": "visiting-grandparents",
+    "topicId": "family-school",
+    "title": "Visiting Grandparents",
+    "description": "Visiting grandparents, family gatherings, and intergenerational conversations",
+    "dialogueCount": 5
+  },
+  {
+    "id": "first-contact",
+    "topicId": "social",
+    "title": "First Contact",
+    "description": "Starting interactions — greeting, introducing yourself, and first basic questions",
+    "dialogueCount": 5
+  },
+  {
+    "id": "breaking-the-ice",
+    "topicId": "social",
+    "title": "Breaking the Ice",
+    "description": "Opening small talk, commenting on context, and keeping the conversation going",
+    "dialogueCount": 5
+  },
+  {
+    "id": "talking-about-yourself",
+    "topicId": "social",
+    "title": "Talking About Yourself",
+    "description": "Sharing about your job, family, hobbies, and why you're in Switzerland",
+    "dialogueCount": 5
+  },
+  {
+    "id": "asking-about-others",
+    "topicId": "social",
+    "title": "Asking About Others",
+    "description": "Asking about someone's job, family, hobbies, and background — and showing genuine interest",
+    "dialogueCount": 5
+  },
+  {
+    "id": "reacting-naturally",
+    "topicId": "social",
+    "title": "Reacting Naturally",
+    "description": "Agreeing, disagreeing, showing surprise, and acknowledging — natural social reactions",
+    "dialogueCount": 5
+  },
+  {
+    "id": "casual-opinions",
+    "topicId": "social",
+    "title": "Casual Opinions & Light Conversation",
+    "description": "Sharing simple opinions about weather, food, restaurants, and local life",
+    "dialogueCount": 5
+  },
+  {
+    "id": "humor-light-tone",
+    "topicId": "social",
+    "title": "Humor & Light Tone",
+    "description": "Light jokes, playful comments, teasing, and using informal Swiss expressions",
+    "dialogueCount": 5
+  },
+  {
+    "id": "making-plans-social",
+    "topicId": "social",
+    "title": "Making Plans",
+    "description": "Suggesting meetings, proposing activities, asking availability, and confirming plans",
+    "dialogueCount": 5
+  },
+  {
+    "id": "invitations",
+    "topicId": "social",
+    "title": "Accepting & Declining Invitations",
+    "description": "Accepting invitations naturally, declining politely, suggesting alternatives, and keeping the door open",
+    "dialogueCount": 5
+  },
+  {
+    "id": "social-flow",
+    "topicId": "social",
+    "title": "Managing Social Flow",
+    "description": "Joining groups, leaving conversations, switching topics, and handling silences",
+    "dialogueCount": 5
+  },
+  {
+    "id": "social-etiquette",
+    "topicId": "social",
+    "title": "Social Etiquette & Politeness",
+    "description": "Thank you in social contexts, light apologies, du vs. Sie, and Swiss politeness norms",
+    "dialogueCount": 5
+  },
+  {
+    "id": "ending-interactions",
+    "topicId": "social",
+    "title": "Ending Interactions",
+    "description": "Ending conversations naturally, saying goodbye in different contexts, and 'see you later' expressions",
+    "dialogueCount": 5
+  },
+  {
+    "id": "staying-in-touch",
+    "topicId": "social",
+    "title": "Staying in Touch",
+    "description": "Exchanging contacts, suggesting future contact, following up after meeting, and reacting to messages",
+    "dialogueCount": 5
+  },
+  {
+    "id": "shopping-local-shops",
+    "topicId": "daily-life",
+    "title": "Shopping at Local Shops",
+    "description": "Buying at the bakery, butcher, and local shops — asking for products, quantities, prices, and paying",
+    "dialogueCount": 5
+  },
+  {
+    "id": "daily-services",
+    "topicId": "daily-life",
+    "title": "Services & Practical Interactions",
+    "description": "Visiting the post office, bank counter, pharmacy, dry cleaning, and asking for help at service locations",
+    "dialogueCount": 5
+  },
+  {
+    "id": "eating-out",
+    "topicId": "daily-life",
+    "title": "Eating Out",
+    "description": "Ordering food, asking about the menu, dietary needs, paying the bill, and takeaway vs. dine-in",
+    "dialogueCount": 5
+  },
+  {
+    "id": "public-transport",
+    "topicId": "daily-life",
+    "title": "Public Transport",
+    "description": "Buying tickets, asking about routes, understanding announcements, and dealing with delays",
+    "dialogueCount": 5
+  },
+  {
+    "id": "understanding-directions",
+    "topicId": "daily-life",
+    "title": "Understanding Directions",
+    "description": "Understanding directions with landmarks, locations, and clarifying when you're confused",
+    "dialogueCount": 5
+  },
+  {
+    "id": "appointments-scheduling",
+    "topicId": "daily-life",
+    "title": "Appointments & Scheduling",
+    "description": "Booking appointments, confirming, rescheduling, cancelling, and saying you'll be late",
+    "dialogueCount": 5
+  },
+  {
+    "id": "time-planning",
+    "topicId": "daily-life",
+    "title": "Time & Planning Your Day",
+    "description": "Asking for the time, opening hours, understanding schedules, and planning same-day activities",
+    "dialogueCount": 5
+  },
+  {
+    "id": "housing-daily",
+    "topicId": "daily-life",
+    "title": "Housing & Day-to-Day Living",
+    "description": "Talking to your landlord, reporting issues, understanding building notices, and neighbor communication",
+    "dialogueCount": 5
+  },
+  {
+    "id": "utilities-basic-needs",
+    "topicId": "daily-life",
+    "title": "Utilities & Basic Needs",
+    "description": "Internet, phone, electricity — setting up services, asking questions, and resolving issues",
+    "dialogueCount": 5
+  },
+  {
+    "id": "health-pharmacy",
+    "topicId": "daily-life",
+    "title": "Health & Pharmacy",
+    "description": "Describing symptoms, asking for medicine, understanding instructions, and buying OTC products",
+    "dialogueCount": 5
+  },
+  {
+    "id": "personal-errands",
+    "topicId": "daily-life",
+    "title": "Personal Errands",
+    "description": "Hairdresser, service bookings, explaining what you want, and completing everyday tasks",
+    "dialogueCount": 5
+  },
+  {
+    "id": "weather-daily",
+    "topicId": "daily-life",
+    "title": "Weather & Daily Plans",
+    "description": "Understanding forecasts, asking about weather conditions, and planning activities around the weather",
+    "dialogueCount": 5
+  },
+  {
+    "id": "handling-problems",
+    "topicId": "daily-life",
+    "title": "Handling Problems",
+    "description": "Something wrong with a product or service, returning items, making complaints, and getting a refund or exchange",
+    "dialogueCount": 5
+  },
+  {
+    "id": "safety-urgent",
+    "topicId": "daily-life",
+    "title": "Safety & Urgent Situations",
+    "description": "Asking for help, reporting minor incidents, understanding simple instructions in emergencies",
+    "dialogueCount": 5
+  },
+  {
+    "id": "greetings-goodbyes",
+    "topicId": "everyday-basics",
+    "title": "Greetings & Goodbyes",
+    "description": "All the ways to say hello and goodbye — formal, informal, and regional",
+    "dialogueCount": 5
+  },
+  {
+    "id": "politeness-essentials",
+    "topicId": "everyday-basics",
+    "title": "Politeness Essentials",
+    "description": "Thank you, please, excuse me, sorry — the polite phrases you need every day",
+    "dialogueCount": 5
+  },
+  {
+    "id": "yes-no-maybe",
+    "topicId": "everyday-basics",
+    "title": "Yes, No & Maybe",
+    "description": "All the ways to agree, disagree, and stay on the fence in Swiss German",
+    "dialogueCount": 5
+  },
+  {
+    "id": "basic-needs-requests",
+    "topicId": "everyday-basics",
+    "title": "Basic Needs & Simple Requests",
+    "description": "I want, I need, can you help me — essential request phrases",
+    "dialogueCount": 5
+  },
+  {
+    "id": "understanding-misunderstanding",
+    "topicId": "everyday-basics",
+    "title": "Understanding & Not Understanding",
+    "description": "How to say you understand, you don't, and ask people to slow down or explain",
+    "dialogueCount": 5
+  },
+  {
+    "id": "basic-questions",
+    "topicId": "everyday-basics",
+    "title": "Basic Questions",
+    "description": "What, where, when, why, how, who — forming core questions in Swiss German",
+    "dialogueCount": 5
+  },
+  {
+    "id": "numbers-quantities",
+    "topicId": "everyday-basics",
+    "title": "Numbers & Quantities",
+    "description": "Counting, prices, and saying how much or how little in Swiss German",
+    "dialogueCount": 5
+  },
+  {
+    "id": "time-basics",
+    "topicId": "everyday-basics",
+    "title": "Time Basics",
+    "description": "Telling time, talking about today, tomorrow, yesterday, and parts of the day",
+    "dialogueCount": 5
+  },
+  {
+    "id": "directions-basic",
+    "topicId": "everyday-basics",
+    "title": "Directions (Basic Words)",
+    "description": "Here, there, left, right, near, far — the building blocks of navigation",
+    "dialogueCount": 5
+  },
+  {
+    "id": "common-verbs",
+    "topicId": "everyday-basics",
+    "title": "Common Everyday Verbs",
+    "description": "To be, to have, to go, to come, to take, to give, to make — the verbs you use every day",
+    "dialogueCount": 5
+  },
+  {
+    "id": "basic-connectors",
+    "topicId": "everyday-basics",
+    "title": "Basic Connectors",
+    "description": "And, or, but, because, then — linking your sentences together",
+    "dialogueCount": 5
+  },
+  {
+    "id": "simple-reactions",
+    "topicId": "everyday-basics",
+    "title": "Simple Reactions",
+    "description": "Okay, good, bad, nice, really?, wow — quick everyday responses",
+    "dialogueCount": 5
+  },
+  {
+    "id": "confirming-clarifying",
+    "topicId": "everyday-basics",
+    "title": "Confirming & Clarifying",
+    "description": "Is that correct? Like this? You mean...? — making sure you got it right",
+    "dialogueCount": 5
+  },
+  {
+    "id": "closing-micro-interactions",
+    "topicId": "everyday-basics",
+    "title": "Closing Micro-Interactions",
+    "description": "That's it, done, all good, perfect — wrapping up any exchange",
+    "dialogueCount": 5
+  },
+  {
+    "id": "healthcare-insurance",
+    "topicId": "practical-swiss-life",
+    "title": "Health Insurance & Referrals",
+    "description": "Navigating the Swiss Krankenkasse system, referrals, prescriptions, and understanding medical bills",
+    "dialogueCount": 5
+  },
+  {
+    "id": "pharmacy-swiss",
+    "topicId": "practical-swiss-life",
+    "title": "At the Swiss Pharmacy",
+    "description": "Getting medication, asking for advice, and understanding dosage at a Swiss Apotheke",
+    "dialogueCount": 5
+  },
+  {
+    "id": "appointments-formal",
+    "topicId": "practical-swiss-life",
+    "title": "Managing Appointments",
+    "description": "Confirming, cancelling, rescheduling appointments, and handling delays in the Swiss formal style",
+    "dialogueCount": 5
+  },
+  {
+    "id": "gemeinde-admin",
+    "topicId": "practical-swiss-life",
+    "title": "At the Gemeinde Office",
+    "description": "Registering, deregistering, requesting documents, and dealing with local administration",
+    "dialogueCount": 5
+  },
+  {
+    "id": "permits-residency",
+    "topicId": "practical-swiss-life",
+    "title": "Permits & Residency",
+    "description": "B and C permits, submitting documents, and understanding official residency communication",
+    "dialogueCount": 5
+  },
+  {
+    "id": "insurance-general",
+    "topicId": "practical-swiss-life",
+    "title": "Insurance Beyond Health",
+    "description": "Liability insurance, household insurance, reporting incidents, and understanding coverage in Switzerland",
+    "dialogueCount": 5
+  },
+  {
+    "id": "housing-swiss",
+    "topicId": "practical-swiss-life",
+    "title": "Housing & Renting in Switzerland",
+    "description": "Renting apartments, dealing with Verwaltung, Hausordnung, and rent-related communication",
+    "dialogueCount": 5
+  },
+  {
+    "id": "mail-official-letters",
+    "topicId": "practical-swiss-life",
+    "title": "Mail & Official Letters",
+    "description": "Understanding official Swiss letters, responding to written requests, and handling registered mail",
+    "dialogueCount": 5
+  },
+  {
+    "id": "banking-payments",
+    "topicId": "practical-swiss-life",
+    "title": "Banking & Payments",
+    "description": "Opening accounts, QR bills, invoices, and navigating the Swiss payment system",
+    "dialogueCount": 5
+  },
+  {
+    "id": "taxes-basic",
+    "topicId": "practical-swiss-life",
+    "title": "Taxes (Basic Interactions)",
+    "description": "Receiving tax documents, asking questions, deadlines, and submitting your Swiss tax return",
+    "dialogueCount": 5
+  },
+  {
+    "id": "work-admin",
+    "topicId": "practical-swiss-life",
+    "title": "Work-Related Admin",
+    "description": "Understanding contracts, salary slips, HR questions, and official work documents in Switzerland",
+    "dialogueCount": 5
+  },
+  {
+    "id": "school-childcare",
+    "topicId": "practical-swiss-life",
+    "title": "School & Childcare System",
+    "description": "Communicating with teachers, Kita/Hort interactions, and understanding school notices",
+    "dialogueCount": 5
+  },
+  {
+    "id": "waste-recycling",
+    "topicId": "practical-swiss-life",
+    "title": "Waste & Recycling System",
+    "description": "Trash separation, official garbage bags, recycling points, and understanding Swiss waste disposal rules",
+    "dialogueCount": 5
+  },
+  {
+    "id": "transport-swiss",
+    "topicId": "practical-swiss-life",
+    "title": "Swiss Transport System",
+    "description": "Travelcards, ticket inspections, fines, and understanding SBB communication",
+    "dialogueCount": 5
+  },
+  {
+    "id": "rules-compliance",
+    "topicId": "practical-swiss-life",
+    "title": "Rules, Compliance & Local Norms",
+    "description": "Quiet hours, building rules, public behavior expectations, and compliance communication in Switzerland",
+    "dialogueCount": 5
+  }
+]

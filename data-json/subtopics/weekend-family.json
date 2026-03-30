@@ -1,0 +1,533 @@
+{
+  "id": "weekend-family",
+  "topicId": "family-school",
+  "title": "Weekend with Family",
+  "description": "Weekend activities — Ausflüge, family time, errands, and relaxation",
+  "dialogues": [
+    {
+      "id": "weekend-1",
+      "level": "beginner",
+      "title": "Planning the weekend",
+      "situation": "The family plans what to do over the weekend.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "So, was mache mir am Wuchenänd? Öppis Speziells?",
+          "german": "So, was machen wir am Wochenende? Etwas Besonderes?",
+          "english": "So, what are we doing this weekend? Something special?",
+          "spanish": "Bueno, ¿qué hacemos este fin de semana? ¿Algo especial?"
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "Am Samstig sölte mir go Poschte. De Chüelschrank isch leer.",
+          "german": "Am Samstag sollten wir einkaufen. Der Kühlschrank ist leer.",
+          "english": "On Saturday we should go shopping. The fridge is empty.",
+          "spanish": "El sábado deberíamos ir de compras. La nevera está vacía."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Und am Sunntig? Chömer en Usflug mache? Bitte!",
+          "german": "Und am Sonntag? Können wir einen Ausflug machen? Bitte!",
+          "english": "And on Sunday? Can we go on an outing? Please!",
+          "spanish": "¿Y el domingo? ¿Podemos hacer una excursión? ¡Por favor!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Gueti Idee! Mir chöntid uf de Uetliberg wandere.",
+          "german": "Gute Idee! Wir könnten auf den Uetliberg wandern.",
+          "english": "Good idea! We could hike up the Uetliberg.",
+          "spanish": "¡Buena idea! Podríamos subir al Uetliberg caminando."
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "Oder mir gönd is Technorama. D'Chind liebed das.",
+          "german": "Oder wir gehen ins Technorama. Die Kinder lieben das.",
+          "english": "Or we go to the Technorama. The kids love it.",
+          "spanish": "O vamos al Technorama. A los niños les encanta."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Isch s'Technorama wiiit? Fahre mir mit em Auto oder mit em Zug?",
+          "german": "Ist das Technorama weit? Fahren wir mit dem Auto oder mit dem Zug?",
+          "english": "Is the Technorama far? Do we drive or take the train?",
+          "spanish": "¿El Technorama está lejos? ¿Vamos en coche o en tren?"
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "Mit em Zug isch am bäschte — mir chönd s'Halbtax bruuche und sparred Parkigsgäld.",
+          "german": "Mit dem Zug ist am besten — wir können das Halbtax benutzen und sparen Parkgebühren.",
+          "english": "Train is best — we can use the Halbtax and save on parking fees.",
+          "spanish": "El tren es lo mejor — podemos usar el Halbtax y ahorrar en estacionamiento."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Technorama! Technorama! Biiitte!",
+          "german": "Technorama! Technorama! Biiitte!",
+          "english": "Technorama! Technorama! Pleease!",
+          "spanish": "¡Technorama! ¡Technorama! ¡Porfa!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Wuchenänd",
+          "german": "Wochenende",
+          "explanation": "'Wuchenänd' = 'Wochenende'. Swiss form."
+        },
+        {
+          "swissGerman": "Poschte",
+          "german": "Einkaufen",
+          "explanation": "'Poschte' = 'Einkaufen'. Swiss word for grocery shopping."
+        },
+        {
+          "swissGerman": "Chüelschrank",
+          "german": "Kühlschrank",
+          "explanation": "'Chüelschrank' = 'Kühlschrank'. K→Ch."
+        },
+        {
+          "swissGerman": "Usflug",
+          "german": "Ausflug",
+          "explanation": "'Usflug' = 'Ausflug'. 'Aus-' → 'Us-'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Wuchenänd",
+          "german": "Wochenende",
+          "english": "weekend"
+        },
+        {
+          "swissGerman": "Poschte",
+          "german": "Einkaufen",
+          "english": "grocery shopping"
+        },
+        {
+          "swissGerman": "Usflug",
+          "german": "Ausflug",
+          "english": "outing/day trip"
+        }
+      ]
+    },
+    {
+      "id": "weekend-2",
+      "level": "beginner",
+      "title": "Grocery shopping at Migros",
+      "situation": "The family goes grocery shopping together.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "So, mir gönd zur Migros. Häsch du d'Iichaufslischt?",
+          "german": "So, wir gehen zur Migros. Hast du die Einkaufsliste?",
+          "english": "Alright, we're going to Migros. Do you have the shopping list?",
+          "spanish": "Bueno, vamos al Migros. ¿Tienes la lista de la compra?"
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "Ja: Milch, Brot, Öpfel, Rüebli, Poulet und Joghurt.",
+          "german": "Ja: Milch, Brot, Äpfel, Karotten, Hähnchen und Joghurt.",
+          "english": "Yes: milk, bread, apples, carrots, chicken and yogurt.",
+          "spanish": "Sí: leche, pan, manzanas, zanahorias, pollo y yogur."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Chömer au Glacé chaufe? Bitte Mami!",
+          "german": "Können wir auch Eis kaufen? Bitte Mama!",
+          "english": "Can we also buy ice cream? Please Mom!",
+          "spanish": "¿También podemos comprar helado? ¡Por favor, mamá!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Okay, aber nur eis. Und du hilfsch bim Träge.",
+          "german": "Okay, aber nur eins. Und du hilfst beim Tragen.",
+          "english": "Okay, but only one. And you help carry.",
+          "spanish": "Bien, pero solo uno. Y tú ayudas a llevarlo."
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "Bruuchts no Chäs? Und ich glaub mir händ kei Eier meh.",
+          "german": "Brauchen wir noch Käse? Und ich glaube wir haben keine Eier mehr.",
+          "english": "Do we need cheese? And I think we're out of eggs.",
+          "spanish": "¿Necesitamos queso? Y creo que nos hemos quedado sin huevos."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Chasch au de Cumulus-Charte scannen? Mir sammled Punkt.",
+          "german": "Kannst du auch die Cumulus-Karte scannen? Wir sammeln Punkte.",
+          "english": "Can you also scan the Cumulus card? We collect points.",
+          "spanish": "¿También puedes escanear la tarjeta Cumulus? Acumulamos puntos."
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "Ja, ich ha sie im Natel. Ich scan sie bim Bezahle.",
+          "german": "Ja, ich habe sie im Handy. Ich scanne sie beim Bezahlen.",
+          "english": "Yes, I have it on my phone. I'll scan it at checkout.",
+          "spanish": "Sí, lo tengo en el teléfono. Lo escanearé en la caja."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Stimmt! Und Wöschpulver bruuchts au. Los, mir müend vor em Mittag fertig si.",
+          "german": "Stimmt! Und Waschpulver brauchen wir auch. Los, wir müssen vor Mittag fertig sein.",
+          "english": "Right! And we need laundry detergent too. Let's go, we need to be done before noon.",
+          "spanish": "¡Cierto! Y también necesitamos detergente. Venga, tenemos que terminar antes del mediodía."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Migros",
+          "german": "Migros",
+          "explanation": "Largest Swiss supermarket chain. An institution."
+        },
+        {
+          "swissGerman": "Iichaufslischt",
+          "german": "Einkaufsliste",
+          "explanation": "'Iichaufslischt' = 'Einkaufsliste'. Swiss form."
+        },
+        {
+          "swissGerman": "Poulet",
+          "german": "Hähnchen",
+          "explanation": "'Poulet' = 'Hähnchen'. Swiss/French word for chicken."
+        },
+        {
+          "swissGerman": "Wöschpulver",
+          "german": "Waschpulver",
+          "explanation": "'Wöschpulver' = 'Waschpulver'. Swiss form."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Poschte",
+          "german": "Einkaufen",
+          "english": "shopping"
+        },
+        {
+          "swissGerman": "Poulet",
+          "german": "Hähnchen",
+          "english": "chicken"
+        },
+        {
+          "swissGerman": "Iichaufslischt",
+          "german": "Einkaufsliste",
+          "english": "shopping list"
+        }
+      ]
+    },
+    {
+      "id": "weekend-3",
+      "level": "intermediate",
+      "title": "A day trip to the mountains",
+      "situation": "The family goes on a mountain excursion.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Mir fahred hüt uf de Rigi. D'Zahnradbahn isch mega!",
+          "german": "Wir fahren heute auf die Rigi. Die Zahnradbahn ist mega!",
+          "english": "We're going to the Rigi today. The cog railway is awesome!",
+          "spanish": "Vamos al Rigi hoy. ¡El tren de cremallera es increíble!"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Chömer au e Gondel näh?",
+          "german": "Können wir auch eine Gondel nehmen?",
+          "english": "Can we also take a gondola?",
+          "spanish": "¿También podemos coger un teleférico?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, mir fahred mit de Bahn uuf und mit de Gondel abe.",
+          "german": "Ja, wir fahren mit der Bahn hoch und mit der Gondel runter.",
+          "english": "Yes, we take the train up and the gondola down.",
+          "spanish": "Sí, subimos en tren y bajamos en góndola."
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "Häsch d'Halbtax-Aabo mitgnoh? Und d'Junior-Charte für d'Chind?",
+          "german": "Hast du das Halbtax-Abo mitgenommen? Und die Junior-Karte für die Kinder?",
+          "english": "Did you bring the Halbtax card? And the Junior card for the kids?",
+          "spanish": "¿Trajiste la tarjeta Halbtax? ¿Y la tarjeta Junior para los niños?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, alles debii. Uf em Gipfel gits es Restaurant — mir chönd dört zmittag ässe.",
+          "german": "Ja, alles dabei. Auf dem Gipfel gibt es ein Restaurant — wir können dort zu Mittag essen.",
+          "english": "Yes, everything with us. There's a restaurant on the summit — we can have lunch there.",
+          "spanish": "Sí, todo es maravilloso. Estoy muy contento con la habitación."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Lueg! D'Chüe händ Glogge um de Hals — isch das nöd z'lut für sie?",
+          "german": "Schau! Die Kühe haben Glocken um den Hals — ist das nicht zu laut für sie?",
+          "english": "Look! The cows have bells around their necks — isn't that too loud for them?",
+          "spanish": "¡Mira! Las vacas tienen cencerros — ¿no es demasiado ruidoso para ellas?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Es isch Tradition — d'Bauere chönd so d'Chüe im Nebel finde. Das nennt me d'Alpfahrt.",
+          "german": "Es ist Tradition — die Bauern können so die Kühe im Nebel finden. Das nennt man die Alpfahrt.",
+          "english": "It's tradition — the farmers can find the cows in the fog. That's called the Alpfahrt.",
+          "spanish": "Es tradición — los granjeros pueden encontrar las vacas en la niebla. Se llama el Alpfahrt."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Lueg, d'Alpe! Und Chüe! Die händ Glogge um de Hals!",
+          "german": "Schau, die Alpen! Und Kühe! Die haben Glocken um den Hals!",
+          "english": "Look, the Alps! And cows! They have bells around their necks!",
+          "spanish": "¡Mira, los Alpes! ¡Y vacas! Llevan cencerros."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Zahnradbahn",
+          "german": "Zahnradbahn",
+          "explanation": "Cog railway. Common in Swiss mountains."
+        },
+        {
+          "swissGerman": "Halbtax-Aabo",
+          "german": "Halbtax-Abo",
+          "explanation": "Swiss rail discount card (50% off all public transport)."
+        },
+        {
+          "swissGerman": "Junior-Charte",
+          "german": "Junior-Karte",
+          "explanation": "Swiss rail card: kids travel free with a parent. K→Ch."
+        },
+        {
+          "swissGerman": "Chüe",
+          "german": "Kühe",
+          "explanation": "'Chüe' = 'Kühe'. K→Ch."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Halbtax",
+          "german": "Halbtax",
+          "english": "half-fare travel card"
+        },
+        {
+          "swissGerman": "Zahnradbahn",
+          "german": "Zahnradbahn",
+          "english": "cog railway"
+        },
+        {
+          "swissGerman": "Chüe",
+          "german": "Kühe",
+          "english": "cows"
+        }
+      ]
+    },
+    {
+      "id": "weekend-4",
+      "level": "beginner",
+      "title": "Lazy Saturday at home",
+      "situation": "The family stays home and relaxes on a rainy Saturday.",
+      "lines": [
+        {
+          "speaker": "Partner",
+          "swissGerman": "Es rägnets de ganz Tag. Mir bliibed dehei.",
+          "german": "Es regnet den ganzen Tag. Wir bleiben zu Hause.",
+          "english": "It's raining all day. We stay at home.",
+          "spanish": "Llueve todo el día. Nos quedamos en casa."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Was mache mir? Mir isch langwiilig!",
+          "german": "Was machen wir? Mir ist langweilig!",
+          "english": "What do we do? I'm bored!",
+          "spanish": "¿Qué hacemos? ¡Estoy aburrido!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Mir chönd es Puzzle mache. Oder es Spiel spile.",
+          "german": "Wir können ein Puzzle machen. Oder ein Spiel spielen.",
+          "english": "We can do a puzzle. Or play a game.",
+          "spanish": "Podemos hacer un puzle. O jugar a un juego."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Eile mit Weile! Das isch mis Lieblings-Brettspiel!",
+          "german": "Eile mit Weile! Das ist mein Lieblings-Brettspiel!",
+          "english": "Eile mit Weile! That's my favorite board game!",
+          "spanish": "¡Eile mit Weile! ¡Ese es mi juego de mesa favorito!"
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "Guet! Und ich mach eus en warme Schoggi.",
+          "german": "Gut! Und ich mache uns eine warme Schokolade.",
+          "english": "Good! And I'll make us a hot chocolate.",
+          "spanish": "¡Bien! Y preparo un chocolate caliente."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Chöme mir spöter no en Film luege? Ich wott Heidi!",
+          "german": "Können wir später noch einen Film schauen? Ich will Heidi!",
+          "english": "Can we watch a movie later? I want Heidi!",
+          "spanish": "¿Podemos ver una película después? ¡Quiero Heidi!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, guet! Aber zerscht müend alli hälfe ufruume. Denn cuschelt mir eus uf de Sofa.",
+          "german": "Ja, gut! Aber zuerst müssen alle helfen aufzuräumen. Dann kuscheln wir uns aufs Sofa.",
+          "english": "Yes, good! But first everyone has to help tidy up. Then we snuggle on the sofa.",
+          "spanish": "Sí, ¡bien! Pero primero todos tienen que ayudar a recoger. Luego nos acurrucamos en el sofá."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt! Es gmüetlichs Samstig-Namittag. Ich lieb das.",
+          "german": "Perfekt! Ein gemütlicher Samstagnachmittag. Ich liebe das.",
+          "english": "Perfect! A cozy Saturday afternoon. I love this.",
+          "spanish": "¡Perfecto! Una tarde de sábado acogedora. Me encanta esto."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "langwiilig",
+          "german": "langweilig",
+          "explanation": "'langwiilig' = 'langweilig'. Vowel shift."
+        },
+        {
+          "swissGerman": "Eile mit Weile",
+          "german": "Eile mit Weile",
+          "explanation": "Traditional Swiss board game, similar to Ludo."
+        },
+        {
+          "swissGerman": "gmüetlichs",
+          "german": "gemütlich",
+          "explanation": "'gmüetlichs' = 'gemütliches'. Swiss form for cozy."
+        },
+        {
+          "swissGerman": "Schoggi",
+          "german": "Schokolade",
+          "explanation": "'Schoggi' = 'Schokolade'. Classic Swiss abbreviation."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "gmüetlich",
+          "german": "gemütlich",
+          "english": "cozy"
+        },
+        {
+          "swissGerman": "Schoggi",
+          "german": "Schokolade",
+          "english": "chocolate"
+        },
+        {
+          "swissGerman": "Brettspiel",
+          "german": "Brettspiel",
+          "english": "board game"
+        }
+      ]
+    },
+    {
+      "id": "weekend-5",
+      "level": "intermediate",
+      "title": "Visiting the Bauernhof",
+      "situation": "The family visits a farm on the weekend.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Mir gönd hüt zum Burehof uf em Land. D'Chind chönd d'Tier streichle.",
+          "german": "Wir gehen heute zum Bauernhof auf dem Land. Die Kinder können die Tiere streicheln.",
+          "english": "We're going to the farm in the countryside today. The kids can pet the animals.",
+          "spanish": "Hoy vamos a la granja en el campo. Los niños pueden acariciar a los animales."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Gits Chüeli und Geissli?",
+          "german": "Gibt es Kälber und Ziegen?",
+          "english": "Are there calves and goats?",
+          "spanish": "¿Hay terneros y cabras?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, und Hüener und Schwii. Und mir chönd au Eier chaufe.",
+          "german": "Ja, und Hühner und Schweine. Und wir können auch Eier kaufen.",
+          "english": "Yes, and chickens and pigs. And we can buy eggs too.",
+          "spanish": "Sí, y gallinas y cerdos. Y también podemos comprar huevos."
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "D'Büüri hät letscht Mal gsäit sie hät au sälber gmachte Chäs und Konfi.",
+          "german": "Die Bäuerin hat letztes Mal gesagt sie hat auch selbstgemachten Käse und Konfitüre.",
+          "english": "The farmer's wife said last time she also has homemade cheese and jam.",
+          "spanish": "La esposa del granjero dijo la última vez que también tiene queso casero y mermelada."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Und chani uf em Traktor sitze? Das isch so cool!",
+          "german": "Und kann ich auf dem Traktor sitzen? Das ist so cool!",
+          "english": "And can I sit on the tractor? That's so cool!",
+          "spanish": "¿Y puedo sentarme en el tractor? ¡Es tan guay!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und kaufe mir au no öppis vom Hof? D'Büüri hät sicher frische Chäs.",
+          "german": "Und kaufen wir auch noch etwas vom Hof? Die Bäuerin hat sicher frischen Käse.",
+          "english": "And shall we also buy something from the farm? The farmer's wife surely has fresh cheese.",
+          "spanish": "¿Y compramos algo en la granja también? La granjera seguro que tiene queso fresco."
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "Ja, und Apfelsaft direkt vom Bure! Das isch vill besser als im Läde.",
+          "german": "Ja, und Apfelsaft direkt vom Bauern! Das ist viel besser als im Laden.",
+          "english": "Yes, and apple juice directly from the farmer! That's much better than from the shop.",
+          "spanish": "Sí, ¡y también zumo de manzana directamente del granjero! Eso es mucho mejor que el de la tienda."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Mir frööged de Buur. Vilicht laat er dich sogar mitfahre!",
+          "german": "Wir fragen den Bauern. Vielleicht lässt er dich sogar mitfahren!",
+          "english": "We'll ask the farmer. Maybe he'll even let you ride along!",
+          "spanish": "¡Le preguntaremos al granjero. Quizás incluso te deje subir al tractor!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Burehof",
+          "german": "Bauernhof",
+          "explanation": "'Burehof' = 'Bauernhof'. Swiss form."
+        },
+        {
+          "swissGerman": "Chüeli",
+          "german": "Kälber",
+          "explanation": "'Chüeli' = calves. Swiss diminutive."
+        },
+        {
+          "swissGerman": "Geissli",
+          "german": "Ziegen",
+          "explanation": "'Geissli' = 'Ziegen'. Swiss word for goats + diminutive."
+        },
+        {
+          "swissGerman": "Schwii",
+          "german": "Schweine",
+          "explanation": "'Schwii' = 'Schweine'. Swiss form."
+        },
+        {
+          "swissGerman": "Büüri",
+          "german": "Bäuerin",
+          "explanation": "'Büüri' = 'Bäuerin'. Farmer's wife."
+        },
+        {
+          "swissGerman": "Buur",
+          "german": "Bauer",
+          "explanation": "'Buur' = 'Bauer'. Farmer."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Burehof",
+          "german": "Bauernhof",
+          "english": "farm"
+        },
+        {
+          "swissGerman": "Geissli",
+          "german": "Ziegen",
+          "english": "goats"
+        },
+        {
+          "swissGerman": "Buur",
+          "german": "Bauer",
+          "english": "farmer"
+        }
+      ]
+    }
+  ]
+}

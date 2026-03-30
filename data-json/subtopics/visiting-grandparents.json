@@ -1,0 +1,528 @@
+{
+  "id": "visiting-grandparents",
+  "topicId": "family-school",
+  "title": "Visiting Grandparents",
+  "description": "Visiting grandparents, family gatherings, and intergenerational conversations",
+  "dialogues": [
+    {
+      "id": "grandparents-1",
+      "level": "beginner",
+      "title": "Arriving at Grosi's house",
+      "situation": "The family arrives at the grandparents' house.",
+      "lines": [
+        {
+          "speaker": "Child",
+          "swissGerman": "Grosi! Grosspapi! Mir sind do!",
+          "german": "Oma! Opa! Wir sind da!",
+          "english": "Grandma! Grandpa! We're here!",
+          "spanish": "¡Abuela! ¡Abuelo! ¡Estamos aquí!"
+        },
+        {
+          "speaker": "Grosi",
+          "swissGerman": "Ah, mini Schätzli! Chömed ine! Ich ha Chueche backe!",
+          "german": "Ah, meine Schätze! Kommt rein! Ich habe Kuchen gebacken!",
+          "english": "Ah, my darlings! Come in! I baked a cake!",
+          "spanish": "¡Ah, mis queridos! ¡Entrad! ¡He hecho un pastel!"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Was für Chueche? Schoggichueche?",
+          "german": "Was für Kuchen? Schokoladenkuchen?",
+          "english": "What cake? Chocolate cake?",
+          "spanish": "¿Qué tarta? ¿Tarta de chocolate?"
+        },
+        {
+          "speaker": "Grosi",
+          "swissGerman": "Rüeblitorte! Dis Liebligsrezäpt. Mit Zuckerguss.",
+          "german": "Rüblitorte! Dein Lieblingsrezept. Mit Zuckerguss.",
+          "english": "Carrot cake! Your favorite recipe. With icing.",
+          "spanish": "¡Tarta de zanahoria! Tu receta favorita. Con glaseado."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Hoi Muetter! Schön, euch z'gseh. Wie gaht's?",
+          "german": "Hallo Mama! Schön, euch zu sehen. Wie geht's?",
+          "english": "Hi Mom! Nice to see you. How are you?",
+          "spanish": "¡Hola Mamá! Qué bueno verte. ¿Cómo estás?"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Und wo isch Grosspapi? Isch er im Garte?",
+          "german": "Und wo ist Opa? Ist er im Garten?",
+          "english": "And where is Grandpa? Is he in the garden?",
+          "spanish": "¿Y dónde está el abuelo? ¿Está en el jardín?"
+        },
+        {
+          "speaker": "Grosi",
+          "swissGerman": "Ja, er hät scho uf euch gwartet. Er hät d'Hängematte uufghänkt!",
+          "german": "Ja, er hat schon auf euch gewartet. Er hat die Hängematte aufgehängt!",
+          "english": "Yes, he has been waiting for you. He put up the hammock!",
+          "spanish": "Sí, él te ha estado esperando. ¡Ha colgado la hamaca!"
+        },
+        {
+          "speaker": "Grosi",
+          "swissGerman": "Guet, guet! Mir händ euch vermisst. Chömed, sitzt euch!",
+          "german": "Gut, gut! Wir haben euch vermisst. Kommt, setzt euch!",
+          "english": "Good, good! We missed you. Come, sit down!",
+          "spanish": "¡Bien, bien! Te echamos de menos. ¡Ven, siéntate!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Grosi",
+          "german": "Oma/Großmutter",
+          "explanation": "'Grosi' = 'Oma'. Swiss word for grandmother."
+        },
+        {
+          "swissGerman": "Grosspapi",
+          "german": "Opa/Großvater",
+          "explanation": "'Grosspapi' = 'Opa'. Swiss word for grandfather."
+        },
+        {
+          "swissGerman": "Rüeblitorte",
+          "german": "Rüblitorte/Karottentorte",
+          "explanation": "Swiss carrot cake. An Aargau specialty."
+        },
+        {
+          "swissGerman": "Schätzli",
+          "german": "Schätze",
+          "explanation": "'Schätzli' = term of endearment. Swiss diminutive."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Grosi",
+          "german": "Oma",
+          "english": "grandma"
+        },
+        {
+          "swissGerman": "Grosspapi",
+          "german": "Opa",
+          "english": "grandpa"
+        },
+        {
+          "swissGerman": "Rüeblitorte",
+          "german": "Karottentorte",
+          "english": "carrot cake"
+        }
+      ]
+    },
+    {
+      "id": "grandparents-2",
+      "level": "beginner",
+      "title": "Grandpa tells stories",
+      "situation": "Grandpa tells stories from the old days.",
+      "lines": [
+        {
+          "speaker": "Child",
+          "swissGerman": "Grosspapi, verzell mir e Gschicht! Vo früener!",
+          "german": "Opa, erzähl mir eine Geschichte! Von früher!",
+          "english": "Grandpa, tell me a story! From the old days!",
+          "spanish": "¡Abuelo, cuéntame una historia! ¡De los viejos tiempos!"
+        },
+        {
+          "speaker": "Grosspapi",
+          "swissGerman": "Also, wo ich so alt gsi bi wie du, hämer kei Natel gha.",
+          "german": "Also, als ich so alt war wie du, hatten wir kein Handy.",
+          "english": "Well, when I was as old as you, we didn't have phones.",
+          "spanish": "Bueno, cuando yo tenía tu edad, no teníamos teléfonos."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Keis Natel?! Wie händ ihr denn glackt?!",
+          "german": "Kein Handy?! Wie habt ihr dann gelacht?!",
+          "english": "No phone?! How did you have fun then?!",
+          "spanish": "¿Sin teléfono? ¡¿Cómo os divertíais entonces?!"
+        },
+        {
+          "speaker": "Grosspapi",
+          "swissGerman": "Mir händ dusse gspillt! Fangis, Versteckis, im Bach gfischt.",
+          "german": "Wir haben draußen gespielt! Fangen, Verstecken, im Bach gefischt.",
+          "english": "We played outside! Tag, hide and seek, fishing in the creek.",
+          "spanish": "¡Jugamos fuera! Pilla-pilla, escondite, pesca en el arroyo."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Und d'Schuel? Isch die au anderst gsi?",
+          "german": "Und die Schule? Ist die auch anders gewesen?",
+          "english": "And school? Was it different too?",
+          "spanish": "¿Y el colegio? ¿Era diferente también?"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Was hät de Lehrer gseit, wänn ihm öpper nöd zueghört hät?",
+          "german": "Was hat der Lehrer gesagt, wenn ihm jemand nicht zugehört hat?",
+          "english": "What did the teacher say when someone didn't listen?",
+          "spanish": "¿Qué dijo el profesor cuando alguien no escuchaba?"
+        },
+        {
+          "speaker": "Grosspapi",
+          "swissGerman": "Er hät mit em Lineal uf d'Tafel gchlopft! Mir händ sofort still gsi.",
+          "german": "Er hat mit dem Lineal auf die Tafel geklopft! Wir waren sofort still.",
+          "english": "He knocked on the board with the ruler! We were immediately quiet.",
+          "spanish": "¡Golpeó la pizarra con la regla! Nos quedamos callados inmediatamente."
+        },
+        {
+          "speaker": "Grosspapi",
+          "swissGerman": "Oh ja! De Lehrer hät no mit Chriide uf d'Tafel gschriibe.",
+          "german": "Oh ja! Der Lehrer hat noch mit Kreide auf die Tafel geschrieben.",
+          "english": "Oh yes! The teacher still wrote on the board with chalk.",
+          "spanish": "¡Oh, sí! El profesor todavía escribía en la pizarra con tiza."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "verzell",
+          "german": "erzähl",
+          "explanation": "'verzell' = 'erzähl'. Swiss form of 'erzählen'."
+        },
+        {
+          "swissGerman": "Natel",
+          "german": "Handy",
+          "explanation": "'Natel' = 'Handy'. Swiss word for mobile phone."
+        },
+        {
+          "swissGerman": "dusse",
+          "german": "draußen",
+          "explanation": "'dusse' = 'draußen'. Swiss form."
+        },
+        {
+          "swissGerman": "Chriide",
+          "german": "Kreide",
+          "explanation": "'Chriide' = 'Kreide'. K→Ch."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "verzelle",
+          "german": "erzählen",
+          "english": "to tell/narrate"
+        },
+        {
+          "swissGerman": "dusse",
+          "german": "draußen",
+          "english": "outside"
+        },
+        {
+          "swissGerman": "Chriide",
+          "german": "Kreide",
+          "english": "chalk"
+        }
+      ]
+    },
+    {
+      "id": "grandparents-3",
+      "level": "intermediate",
+      "title": "Helping in the garden",
+      "situation": "The child helps grandpa in the garden.",
+      "lines": [
+        {
+          "speaker": "Grosspapi",
+          "swissGerman": "Chunnsch du mir im Garte hälfe? D'Tomatene sind riif.",
+          "german": "Kommst du mir im Garten helfen? Die Tomaten sind reif.",
+          "english": "Will you come help me in the garden? The tomatoes are ripe.",
+          "spanish": "¿Vendrás a ayudarme en el jardín? Los tomates están maduros."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Ja! Chani sie sälber pflücke?",
+          "german": "Ja! Kann ich sie selbst pflücken?",
+          "english": "Yes! Can I pick them myself?",
+          "spanish": "Sí, ¿puedo cogerlos yo mismo?"
+        },
+        {
+          "speaker": "Grosspapi",
+          "swissGerman": "Klar! Nimm die rote. D'grüene sind no nöd parat.",
+          "german": "Klar! Nimm die roten. Die grünen sind noch nicht fertig.",
+          "english": "Sure! Take the red ones. The green ones aren't ready yet.",
+          "spanish": "¡Claro! Coge los rojos. Los verdes todavía no están listos."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Lueg, die isch riisig! Und do häts no Zucchetti und Rüebli.",
+          "german": "Schau, die ist riesig! Und hier gibt es noch Zucchini und Karotten.",
+          "english": "Look, this one is huge! And there's also zucchini and carrots.",
+          "spanish": "Mira, esta es enorme. Y también hay calabacines y zanahorias."
+        },
+        {
+          "speaker": "Grosspapi",
+          "swissGerman": "Ja, und d'Chräuter: Basilikum, Petersilie und Schnittlauch.",
+          "german": "Ja, und die Kräuter: Basilikum, Petersilie und Schnittlauch.",
+          "english": "Yes, and the herbs: basil, parsley and chives.",
+          "spanish": "Sí, y las hierbas: albahaca, perejil y cebollino."
+        },
+        {
+          "speaker": "Grosspapi",
+          "swissGerman": "Und schau do — d'Zucchetti sind scho riif fürs Abehärbeige!",
+          "german": "Und schau hier — die Zucchini sind schon reif zum Ernten!",
+          "english": "And look here — the zucchini are already ripe for harvesting!",
+          "spanish": "¡Y mira aquí — los calabacines ya están maduros para cosechar!"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Darf ich die zum Grosi bringe? Cha sie drus es Risotto mache?",
+          "german": "Darf ich die zu Oma bringen? Kann sie daraus ein Risotto machen?",
+          "english": "May I bring these to Grandma? Can she make a risotto from them?",
+          "spanish": "¿Puedo llevarle esto a la abuela? ¿Puede hacer un risotto con ellas?"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Grosspapi, du häsch de bescht Garte! Chani au äine ha?",
+          "german": "Opa, du hast den besten Garten! Kann ich auch einen haben?",
+          "english": "Grandpa, you have the best garden! Can I have one too?",
+          "spanish": "¡Abuelo, tienes el mejor jardín! ¿Puedo tener uno también?"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Tomatene",
+          "german": "Tomaten",
+          "explanation": "'Tomatene' = 'Tomaten'. Swiss plural form."
+        },
+        {
+          "swissGerman": "pflücke",
+          "german": "pflücken",
+          "explanation": "'pflücke' = 'pflücken'. To pick."
+        },
+        {
+          "swissGerman": "Zucchetti",
+          "german": "Zucchini",
+          "explanation": "'Zucchetti' = 'Zucchini'. Swiss word (Italian influenced)."
+        },
+        {
+          "swissGerman": "Chräuter",
+          "german": "Kräuter",
+          "explanation": "'Chräuter' = 'Kräuter'. K→Ch."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Garte",
+          "german": "Garten",
+          "english": "garden"
+        },
+        {
+          "swissGerman": "Zucchetti",
+          "german": "Zucchini",
+          "english": "zucchini"
+        },
+        {
+          "swissGerman": "Chräuter",
+          "german": "Kräuter",
+          "english": "herbs"
+        }
+      ]
+    },
+    {
+      "id": "grandparents-4",
+      "level": "intermediate",
+      "title": "Sunday lunch at grandparents'",
+      "situation": "The extended family gathers for Sunday lunch.",
+      "lines": [
+        {
+          "speaker": "Grosi",
+          "swissGerman": "S'Ässe isch parat! Chömed alli an Tisch!",
+          "german": "Das Essen ist fertig! Kommt alle an den Tisch!",
+          "english": "The food is ready! Everyone come to the table!",
+          "spanish": "¡La comida está lista! ¡Todos a la mesa!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Mmh, Braten mit Chöpfli! Und Spätzli dezue?",
+          "german": "Mmh, Braten mit Knödel! Und Spätzle dazu?",
+          "english": "Mmh, roast with dumplings! And Spätzle too?",
+          "spanish": "Mmh, ¡asado con albóndigas! ¿Y Spätzle también?"
+        },
+        {
+          "speaker": "Grosi",
+          "swissGerman": "Natürlich! Und en Salat. En Guete mitenand!",
+          "german": "Natürlich! Und ein Salat. Guten Appetit miteinander!",
+          "english": "Of course! And a salad. Bon appétit everyone!",
+          "spanish": "¡Por supuesto! Y una ensalada. ¡Buen provecho a todos!"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "En Guete! Grosi, dis Ässe isch s'Bescht!",
+          "german": "Guten Appetit! Oma, dein Essen ist das Beste!",
+          "english": "Bon appétit! Grandma, your food is the best!",
+          "spanish": "¡Buen provecho! ¡Abuela, tu comida es la mejor!"
+        },
+        {
+          "speaker": "Grosi",
+          "swissGerman": "Merci, Schatz. Nimmsch du no meh Sous?",
+          "german": "Danke, Schatz. Nimmst du noch mehr Soße?",
+          "english": "Thanks, darling. Want more gravy?",
+          "spanish": "Gracias, cariño. ¿Quieres más salsa?"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Grosi, darf ich de Grosspapi mit em Zvieri nachere bringe?",
+          "german": "Oma, darf ich Opa den Zvieri gleich rausbringen?",
+          "english": "Grandma, may I bring Grandpa his snack right away?",
+          "spanish": "Abuela, ¿puedo llevarle la merienda al abuelo enseguida?"
+        },
+        {
+          "speaker": "Grosi",
+          "swissGerman": "Ja, da isch en Stück Rüeblitorte für ihn — und säg ihm, er söll d'Hend wäsche!",
+          "german": "Ja, da ist ein Stück Rüblitorte für ihn — und sag ihm, er soll die Hände waschen!",
+          "english": "Yes, here is a piece of carrot cake for him — and tell him to wash his hands!",
+          "spanish": "Sí, aquí hay un trozo de tarta de zanahoria para él — ¡y dile que se lave las manos!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und zum Dessert hät s'Grosi sicher no öppis. Oder?",
+          "german": "Und zum Dessert hat Oma sicher noch etwas. Oder?",
+          "english": "And for dessert Grandma surely has something. Right?",
+          "spanish": "¿Y para el postre la abuela seguro que tiene algo? ¿Verdad?"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Chöpfli",
+          "german": "Knödel",
+          "explanation": "'Chöpfli' = small dumplings. Swiss diminutive."
+        },
+        {
+          "swissGerman": "Spätzli",
+          "german": "Spätzle",
+          "explanation": "'Spätzli' = Swiss egg noodles. Swiss '-li' ending."
+        },
+        {
+          "swissGerman": "En Guete mitenand",
+          "german": "Guten Appetit miteinander",
+          "explanation": "Swiss pre-meal greeting for a group."
+        },
+        {
+          "swissGerman": "Sous",
+          "german": "Soße",
+          "explanation": "'Sous' = 'Soße'. Swiss/French influenced word."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "En Guete mitenand",
+          "german": "Guten Appetit miteinander",
+          "english": "bon appétit everyone"
+        },
+        {
+          "swissGerman": "Spätzli",
+          "german": "Spätzle",
+          "english": "egg noodles"
+        },
+        {
+          "swissGerman": "Sous",
+          "german": "Soße",
+          "english": "gravy/sauce"
+        }
+      ]
+    },
+    {
+      "id": "grandparents-5",
+      "level": "beginner",
+      "title": "Saying goodbye",
+      "situation": "Time to go home after visiting the grandparents.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "So, mir müend langsam los. Es isch scho Sächsi.",
+          "german": "So, wir müssen langsam los. Es ist schon sechs.",
+          "english": "Well, we should get going. It's already six.",
+          "spanish": "Bueno, deberíamos irnos. Ya son las seis."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Nei, ich wott no bliibe! Bi de Grosi!",
+          "german": "Nein, ich will noch bleiben! Bei Oma!",
+          "english": "No, I want to stay longer! At Grandma's!",
+          "spanish": "No, ¡quiero quedarme más tiempo! ¡En casa de la abuela!"
+        },
+        {
+          "speaker": "Grosi",
+          "swissGerman": "Du chasch nöchscht Wuchenänd wider cho. Versprochen!",
+          "german": "Du kannst nächstes Wochenende wieder kommen. Versprochen!",
+          "english": "You can come again next weekend. Promised!",
+          "spanish": "¡Puedes volver el próximo fin de semana! ¡Prometido!"
+        },
+        {
+          "speaker": "Grosspapi",
+          "swissGerman": "Und ich ha no öppis für dich. En Fränkler fürs Sparschwiili!",
+          "german": "Und ich habe noch etwas für dich. Ein Fünfliber fürs Sparschwein!",
+          "english": "And I have something for you. A five-franc coin for the piggy bank!",
+          "spanish": "Y tengo algo para ti. ¡Una moneda de cinco francos para la hucha!"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Merci, Grosspapi! Ich ha euch gärn!",
+          "german": "Danke, Opa! Ich habe euch lieb!",
+          "english": "Thanks, Grandpa! I love you!",
+          "spanish": "Gracias, abuelo. ¡Te quiero!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Grosi, merci für alles — de Chueche isch us de Wält gsi!",
+          "german": "Oma, danke für alles — der Kuchen war aus der Welt!",
+          "english": "Grandma, thanks for everything — the cake was out of this world!",
+          "spanish": "Abuela, ¡gracias por todo — el pastel estuvo increíble!"
+        },
+        {
+          "speaker": "Grosi",
+          "swissGerman": "Ach was, chumm wider! Nöchscht Mal mache mir Guetzli z'same.",
+          "german": "Ach was, komm wieder! Nächstes Mal machen wir zusammen Guetzli.",
+          "english": "Oh come on, come again! Next time we'll make Guetzli together.",
+          "spanish": "¡Vamos, vuelve otra vez! La próxima vez hacemos Guetzli juntos."
+        },
+        {
+          "speaker": "Grosi",
+          "swissGerman": "Mir au, Schätzli! Ade und machets guet!",
+          "german": "Wir auch, mein Schatz! Tschüss und macht's gut!",
+          "english": "We love you too, darling! Bye and take care!",
+          "spanish": "¡También te queremos, cariño! ¡Adiós y cuídate!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Sächsi",
+          "german": "sechs Uhr",
+          "explanation": "'Sächsi' = six o'clock. Swiss time expression."
+        },
+        {
+          "swissGerman": "Fränkler",
+          "german": "Fünfliber",
+          "explanation": "'Fränkler' = a franc coin. Swiss money terminology."
+        },
+        {
+          "swissGerman": "Sparschwiili",
+          "german": "Sparschwein",
+          "explanation": "'Sparschwiili' = 'Sparschwein'. Piggy bank. Swiss diminutive."
+        },
+        {
+          "swissGerman": "Ade",
+          "german": "Tschüss",
+          "explanation": "'Ade' = 'Tschüss'. Swiss goodbye, from French 'adieu'."
+        },
+        {
+          "swissGerman": "machets guet",
+          "german": "macht's gut",
+          "explanation": "'machets guet' = 'macht's gut'. Take care."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Ade",
+          "german": "Tschüss",
+          "english": "goodbye"
+        },
+        {
+          "swissGerman": "Sparschwiili",
+          "german": "Sparschwein",
+          "english": "piggy bank"
+        },
+        {
+          "swissGerman": "machets guet",
+          "german": "macht's gut",
+          "english": "take care"
+        }
+      ]
+    }
+  ]
+}

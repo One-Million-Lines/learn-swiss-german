@@ -1,0 +1,523 @@
+{
+  "id": "breaking-the-ice",
+  "topicId": "social",
+  "title": "Breaking the Ice",
+  "description": "Opening small talk, commenting on context, and keeping the conversation going",
+  "dialogues": [
+    {
+      "id": "ice-1",
+      "level": "beginner",
+      "title": "Commenting on an event",
+      "situation": "You comment on the surroundings at a Dorffest (village festival).",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Wow, mega vill Lüüt hüt! Bisch du au zum erschte Mal do?",
+          "german": "Wow, mega viele Leute heute! Bist du auch zum ersten Mal hier?",
+          "english": "Wow, so many people today! Are you also here for the first time?",
+          "spanish": "¡Vaya, tanta gente hoy! ¿También es tu primera vez aquí?"
+        },
+        {
+          "speaker": "Stranger",
+          "swissGerman": "Nei, ich chume jedes Johr. S'Dorffescht isch immer toll!",
+          "german": "Nein, ich komme jedes Jahr. Das Dorffest ist immer toll!",
+          "english": "No, I come every year. The village festival is always great!",
+          "spanish": "No, vengo cada año. El festival del pueblo siempre es genial."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Was isch bsunders guet? Uf was söll ich achte?",
+          "german": "Was ist besonders gut? Auf was soll ich achten?",
+          "english": "What's especially good? What should I look out for?",
+          "spanish": "¿Qué es especialmente bueno? ¿En qué debería fijarme?"
+        },
+        {
+          "speaker": "Stranger",
+          "swissGerman": "D'Bratwürscht bim Stand dört — die sind legendär!",
+          "german": "Die Bratwürste beim Stand dort — die sind legendär!",
+          "english": "The bratwursts at that stand — they're legendary!",
+          "spanish": "¡Las salchichas de ese puesto son legendarias!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ah nice! Und was wird nocher no los si?",
+          "german": "Ah toll! Und was wird nachher noch los sein?",
+          "english": "Ah nice! And what else is going on later?",
+          "spanish": "¡Ah, qué bien! ¿Y qué más pasa después?"
+        },
+        {
+          "speaker": "Stranger",
+          "swissGerman": "Am Abig gits Livemusig. Und ums Zähni s'Füürwärk!",
+          "german": "Am Abend gibt es Livemusik. Und um zehn das Feuerwerk!",
+          "english": "In the evening there's live music. And at ten the fireworks!",
+          "spanish": "Por la noche hay música en vivo. ¡Y a las diez los fuegos artificiales!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt! Und isch bim Stand scho es Wartezig?",
+          "german": "Perfekt! Und gibt es beim Stand schon eine Wartezeit?",
+          "english": "Perfect! And is there already a wait at the bratwurst stand?",
+          "spanish": "¡Perfecto! ¿Y ya hay cola en el puesto de salchichas?"
+        },
+        {
+          "speaker": "Stranger",
+          "swissGerman": "Am Aaafang nöd. Aber ab sechsi wird d'Schlange lang — geh lieber jetzt!",
+          "german": "Am Anfang nicht. Aber ab sechs Uhr wird die Schlange lang — geh lieber jetzt!",
+          "english": "Not at the start. But after six the queue gets long — better go now!",
+          "spanish": "Al principio no. Pero después de las seis la cola se alarga — ¡mejor ir ahora!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "mega vill Lüüt",
+          "german": "mega viele Leute",
+          "explanation": "'Lüüt' = 'Leute'. People. Swiss form."
+        },
+        {
+          "swissGerman": "bsunders",
+          "german": "besonders",
+          "explanation": "'bsunders' = 'besonders'. 'Be-' dropped."
+        },
+        {
+          "swissGerman": "Bratwürscht",
+          "german": "Bratwürste",
+          "explanation": "'Bratwürscht' = 'Bratwürste'. Swiss plural."
+        },
+        {
+          "swissGerman": "Füürwärk",
+          "german": "Feuerwerk",
+          "explanation": "'Füürwärk' = 'Feuerwerk'. Swiss form."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Lüüt",
+          "german": "Leute",
+          "english": "people"
+        },
+        {
+          "swissGerman": "bsunders",
+          "german": "besonders",
+          "english": "especially"
+        },
+        {
+          "swissGerman": "Füürwärk",
+          "german": "Feuerwerk",
+          "english": "fireworks"
+        }
+      ]
+    },
+    {
+      "id": "ice-2",
+      "level": "beginner",
+      "title": "Waiting in line",
+      "situation": "You start a conversation while waiting in line at the Bäckerei.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Hüt isch d'Schlange aber lang! Isch das normal?",
+          "german": "Heute ist die Schlange aber lang! Ist das normal?",
+          "english": "The line's really long today! Is that normal?",
+          "spanish": "¡La cola es muy larga hoy! ¿Es eso normal?"
+        },
+        {
+          "speaker": "Stranger",
+          "swissGerman": "Ja, am Samstigmorge isch immer vill los. Alli wänd frische Zopf.",
+          "german": "Ja, am Samstagmorgen ist immer viel los. Alle wollen frischen Zopf.",
+          "english": "Yes, on Saturday morning it's always busy. Everyone wants fresh Zopf.",
+          "spanish": "Sí, el sábado por la mañana siempre está concurrido. Todo el mundo quiere el Zopf fresco."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ah, stimmt, s'isch ja Sunntig morn! Was isch dis Liebigs-Brot?",
+          "german": "Ah, stimmt, es ist ja morgen Sonntag! Was ist dein Lieblingsbrot?",
+          "english": "Ah right, it's Sunday tomorrow! What's your favorite bread?",
+          "spanish": "¡Ah, es verdad, mañana es domingo! ¿Cuál es tu pan favorito?"
+        },
+        {
+          "speaker": "Stranger",
+          "swissGerman": "De Nussbrötli. Und du? Chasch du scho uf Schwizerdütsch bstelle?",
+          "german": "Die Nussbrötchen. Und du? Kannst du schon auf Schweizerdeutsch bestellen?",
+          "english": "The nut rolls. And you? Can you order in Swiss German already?",
+          "spanish": "Los panecillos de nuez. ¿Y tú? ¿Ya puedes pedir en alemán suizo?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Haha, ich probiers! 'Ich hett gärn zwöi Gipfeli bitte.'",
+          "german": "Haha, ich versuche es! 'Ich hätte gerne zwei Croissants bitte.'",
+          "english": "Haha, I try! 'I'd like two croissants please.'",
+          "spanish": "Jaja, ¡lo intento! 'Me gustaría dos croissants por favor.'"
+        },
+        {
+          "speaker": "Stranger",
+          "swissGerman": "Perfekt! Das klingt scho mega guet!",
+          "german": "Perfekt! Das klingt schon mega gut!",
+          "english": "Perfect! That already sounds really good!",
+          "spanish": "¡Perfecto! ¡Ya suena muy bien!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Danke für d'Ermutigig! Ich probier's eifach.",
+          "german": "Danke für die Ermutigung! Ich versuche es einfach.",
+          "english": "Thanks for the encouragement! I'll just give it a try.",
+          "spanish": "¡Gracias por el ánimo! Le doy una oportunidad."
+        },
+        {
+          "speaker": "Stranger",
+          "swissGerman": "Los! Einmal gmacht, denn chunt's vo allein. Mer sind jetzt az dra!",
+          "german": "Los! Einmal gemacht, dann kommt es von selbst. Wir sind jetzt dran!",
+          "english": "Go for it! Once you've done it, it comes naturally. We're up now!",
+          "spanish": "¡Adelante! Una vez que lo hayas hecho, sale solo. ¡Ahora nos toca a nosotros!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Schlange",
+          "german": "Schlange",
+          "explanation": "Same word for queue/line."
+        },
+        {
+          "swissGerman": "Gipfeli",
+          "german": "Croissant",
+          "explanation": "'Gipfeli' = 'Croissant'. Swiss word. Literally 'little peak'."
+        },
+        {
+          "swissGerman": "bstelle",
+          "german": "bestellen",
+          "explanation": "'bstelle' = 'bestellen'. 'Be-' → 'B-'."
+        },
+        {
+          "swissGerman": "Nussbrötli",
+          "german": "Nussbrötchen",
+          "explanation": "'Nussbrötli' = 'Nussbrötchen'. '-chen' → '-li'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Gipfeli",
+          "german": "Croissant",
+          "english": "croissant"
+        },
+        {
+          "swissGerman": "Schlange",
+          "german": "Schlange/Warteschlange",
+          "english": "queue/line"
+        },
+        {
+          "swissGerman": "bstelle",
+          "german": "bestellen",
+          "english": "to order"
+        }
+      ]
+    },
+    {
+      "id": "ice-3",
+      "level": "intermediate",
+      "title": "Commenting on the weather",
+      "situation": "You start chatting with someone at the bus stop about the weather.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Huere chalt hüt, oder? Ich gspür mini Finger nümm.",
+          "german": "Furchtbar kalt heute, oder? Ich spüre meine Finger nicht mehr.",
+          "english": "Terribly cold today, right? I can't feel my fingers anymore.",
+          "spanish": "¡Qué frío tan espantoso hoy, verdad? ¡Ya no siento los dedos!"
+        },
+        {
+          "speaker": "Stranger",
+          "swissGerman": "Ja, es isch Bise. Die isch immer brutal i Züri.",
+          "german": "Ja, es ist Bise. Die ist immer brutal in Zürich.",
+          "english": "Yes, it's the Bise wind. It's always brutal in Zurich.",
+          "spanish": "Sí, es el viento Bise. Siempre es brutal en Zúrich."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Bise? Was isch das genau?",
+          "german": "Bise? Was ist das genau?",
+          "english": "Bise? What's that exactly?",
+          "spanish": "¿Bise? ¿Qué es exactamente eso?"
+        },
+        {
+          "speaker": "Stranger",
+          "swissGerman": "De chalti Nordostwind. Wenn de blaast, isch es gfüehlt minus zwänzg.",
+          "german": "Der kalte Nordostwind. Wenn der bläst, fühlt es sich an wie minus zwanzig.",
+          "english": "The cold northeast wind. When it blows, it feels like minus twenty.",
+          "spanish": "El frío viento del noreste. Cuando sopla, parece que hay menos veinte grados."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Krass! Und wie lang goht das?",
+          "german": "Krass! Und wie lange dauert das?",
+          "english": "Wow! And how long does it last?",
+          "spanish": "¡Vaya! ¿Y cuánto dura?"
+        },
+        {
+          "speaker": "Stranger",
+          "swissGerman": "Meischtens es paar Täg. Denn wird's wider besser. D'Schwiiz halt!",
+          "german": "Meistens ein paar Tage. Dann wird es wieder besser. Die Schweiz halt!",
+          "english": "Usually a few days. Then it gets better again. Switzerland, you know!",
+          "spanish": "Normalmente unos días. Luego mejora de nuevo. ¡Suiza, ya sabes!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Wenigschtes isch s'Tram pünktlich. Ohni das wäri ich verlore!",
+          "german": "Wenigstens ist das Tram pünktlich. Ohne das wäre ich verloren!",
+          "english": "At least the tram is on time. Without that I'd be lost!",
+          "spanish": "Por lo menos el tranvía llega a tiempo. ¡Sin eso estaría perdido/a!"
+        },
+        {
+          "speaker": "Stranger",
+          "swissGerman": "Haha, genau! Pünktlichkeit isch in de Schwiiz s'Heiligschte!",
+          "german": "Haha, genau! Pünktlichkeit ist in der Schweiz das Allerheiligste!",
+          "english": "Haha, exactly! Punctuality is sacred in Switzerland!",
+          "spanish": "Jaja, ¡exacto! ¡La puntualidad es sagrada en Suiza!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Huere",
+          "german": "Furchtbar/sehr",
+          "explanation": "'Huere' = intensifier. Very Swiss, slightly vulgar but widely used casually."
+        },
+        {
+          "swissGerman": "Bise",
+          "german": "Bise",
+          "explanation": "Cold northeast wind in Switzerland. Very typical weather topic."
+        },
+        {
+          "swissGerman": "gspür",
+          "german": "spüre",
+          "explanation": "'gspür' = 'spüre'. 'Ge-' prefix dropped."
+        },
+        {
+          "swissGerman": "gfüehlt",
+          "german": "gefühlt",
+          "explanation": "'gfüehlt' = 'gefühlt'. Swiss pronunciation."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Bise",
+          "german": "Bise (Nordostwind)",
+          "english": "cold northeast wind"
+        },
+        {
+          "swissGerman": "Huere chalt",
+          "german": "Furchtbar kalt",
+          "english": "terribly cold"
+        },
+        {
+          "swissGerman": "gfüehlt",
+          "german": "gefühlt",
+          "english": "feels like"
+        }
+      ]
+    },
+    {
+      "id": "ice-4",
+      "level": "beginner",
+      "title": "Asking about weekend plans",
+      "situation": "You chat with a colleague at the coffee machine.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Und? Häsch scho Plän fürs Wuchenänd?",
+          "german": "Und? Hast du schon Pläne fürs Wochenende?",
+          "english": "So? Do you have any plans for the weekend?",
+          "spanish": "¿Y? ¿Tienes planes para el fin de semana?"
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Ja, mir gönd go wandere. Uf de Pilatus.",
+          "german": "Ja, wir gehen wandern. Auf den Pilatus.",
+          "english": "Yes, we're going hiking. Up the Pilatus.",
+          "spanish": "Sí, vamos de senderismo. Subimos el Pilatus."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ah, cool! Isch das nöd mega astrengend?",
+          "german": "Ah, cool! Ist das nicht mega anstrengend?",
+          "english": "Ah, cool! Isn't that super exhausting?",
+          "spanish": "¡Ah, qué guay! ¿No es súper agotador?"
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Nei, mir fahred mit de Gondelbahn uuf und laufed nur abe.",
+          "german": "Nein, wir fahren mit der Gondelbahn hoch und laufen nur runter.",
+          "english": "No, we take the gondola up and only walk down.",
+          "spanish": "No, subimos en teleférico y solo bajamos caminando."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Schlau! Und du? Was machsch du so am Wuchenänd?",
+          "german": "Schlau! Und du? Was machst du so am Wochenende?",
+          "english": "Smart! And you? What do you do on weekends?",
+          "spanish": "¡Listo! ¿Y tú? ¿Qué haces los fines de semana?"
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Meischtens nüüt Bsunders. Chli usschlafe, chli Poschte.",
+          "german": "Meistens nichts Besonderes. Ein bisschen ausschlafen, ein bisschen einkaufen.",
+          "english": "Mostly nothing special. Sleep in a bit, do some shopping.",
+          "spanish": "Normalmente nada especial. Dormir un poco más, hacer algunas compras."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ha! Das tönt nach em perfäkte Wuchenänd!",
+          "german": "Ha! Das klingt nach dem perfekten Wochenende!",
+          "english": "Ha! That sounds like the perfect weekend!",
+          "spanish": "¡Ja! ¡Eso suena como el fin de semana perfecto!"
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Ja, manchmal isch weniger meh. Aber hüt Nami no en schnälle Kafi?",
+          "german": "Ja, manchmal ist weniger mehr. Aber heute Nachmittag noch einen schnellen Kaffee?",
+          "english": "Yes, sometimes less is more. But a quick coffee this afternoon?",
+          "spanish": "Sí, a veces menos es más. ¿Pero un café rápido esta tarde?"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Plän",
+          "german": "Pläne",
+          "explanation": "'Plän' = 'Pläne'. Dropped '-e'."
+        },
+        {
+          "swissGerman": "go wandere",
+          "german": "wandern gehen",
+          "explanation": "'go wandere' = 'wandern gehen'. Swiss word order."
+        },
+        {
+          "swissGerman": "astrengend",
+          "german": "anstrengend",
+          "explanation": "'astrengend' = 'anstrengend'. 'An-' → 'A-'."
+        },
+        {
+          "swissGerman": "usschlafe",
+          "german": "ausschlafen",
+          "explanation": "'usschlafe' = 'ausschlafen'. To sleep in."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Wuchenänd",
+          "german": "Wochenende",
+          "english": "weekend"
+        },
+        {
+          "swissGerman": "go wandere",
+          "german": "wandern gehen",
+          "english": "to go hiking"
+        },
+        {
+          "swissGerman": "usschlafe",
+          "german": "ausschlafen",
+          "english": "to sleep in"
+        }
+      ]
+    },
+    {
+      "id": "ice-5",
+      "level": "intermediate",
+      "title": "Follow-up questions",
+      "situation": "You keep a conversation going by asking follow-up questions at a house party.",
+      "lines": [
+        {
+          "speaker": "Person",
+          "swissGerman": "Ich schaffe bi ere Start-up im Chreis 5.",
+          "german": "Ich arbeite bei einem Start-up im Kreis 5.",
+          "english": "I work at a start-up in district 5.",
+          "spanish": "Trabajo en una start-up en el distrito 5."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Oh, spannend! Was für eis? Was mached ihr genau?",
+          "german": "Oh, spannend! Was für eins? Was macht ihr genau?",
+          "english": "Oh, exciting! What kind? What exactly do you do?",
+          "spanish": "¡Oh, qué emocionante! ¿De qué tipo? ¿Qué haces exactamente?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Mir mached e App für Velo-Teile. So en Marktplatz.",
+          "german": "Wir machen eine App für Fahrrad-Teile. So ein Marktplatz.",
+          "english": "We're building an app for bike parts. Like a marketplace.",
+          "spanish": "Estamos construyendo una aplicación para piezas de bicicleta. Como un mercado."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Krass! Und wie isch es so — s'Start-up-Läbe?",
+          "german": "Krass! Und wie ist es so — das Start-up-Leben?",
+          "english": "Cool! And how is it — the start-up life?",
+          "spanish": "¡Genial! ¿Y cómo es — la vida en una startup?"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Strässig, aber mega spannend. Und was machsch du so?",
+          "german": "Stressig, aber mega spannend. Und was machst du so?",
+          "english": "Stressful, but super exciting. And what do you do?",
+          "spanish": "Estresante, ¡pero muy emocionante! ¿Y tú qué haces?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich bi Grafiker. Aber e eigeni App — das tönt scho verlockend!",
+          "german": "Ich bin Grafiker. Aber eine eigene App — das klingt schon verlockend!",
+          "english": "I'm a graphic designer. But having your own app — that does sound tempting!",
+          "spanish": "Soy diseñador gráfico. Pero tener tu propia app — ¡eso suena tentador!"
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Wenn's dir mal langwiilis wird — mir sueche no Lüüt fürs UI-Design!",
+          "german": "Wenn es dir mal langweilig wird — wir suchen noch Leute fürs UI-Design!",
+          "english": "If you ever get bored — we're still looking for people for UI design!",
+          "spanish": "Si alguna vez te aburres — ¡todavía estamos buscando gente para diseño de interfaces!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ha! Das isch en gueti Idee. Muesch du mir dini Visitecharte gä!",
+          "german": "Ha! Das ist eine gute Idee. Du musst mir deine Visitenkarte geben!",
+          "english": "Ha! That's a good idea. You need to give me your business card!",
+          "spanish": "¡Ja! Buena idea. ¡Tienes que darme tu tarjeta de visita!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Chreis",
+          "german": "Kreis",
+          "explanation": "'Chreis' = 'Kreis'. K→Ch. Zurich districts are called 'Kreise'."
+        },
+        {
+          "swissGerman": "Velo",
+          "german": "Fahrrad",
+          "explanation": "'Velo' = 'Fahrrad'. Swiss/French word for bicycle."
+        },
+        {
+          "swissGerman": "strässig",
+          "german": "stressig",
+          "explanation": "'strässig' = 'stressig'. Swiss pronunciation."
+        },
+        {
+          "swissGerman": "tönt",
+          "german": "klingt",
+          "explanation": "'tönt' = 'klingt'. Swiss word for 'sounds'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Chreis",
+          "german": "Kreis/Bezirk",
+          "english": "district"
+        },
+        {
+          "swissGerman": "Velo",
+          "german": "Fahrrad",
+          "english": "bicycle"
+        },
+        {
+          "swissGerman": "tönt",
+          "german": "klingt",
+          "english": "sounds"
+        }
+      ]
+    }
+  ]
+}

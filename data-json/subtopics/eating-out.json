@@ -1,0 +1,523 @@
+{
+  "id": "eating-out",
+  "topicId": "daily-life",
+  "title": "Eating Out",
+  "description": "Ordering food, asking about the menu, dietary needs, paying the bill, and takeaway vs. dine-in",
+  "dialogues": [
+    {
+      "id": "eating-1",
+      "level": "beginner",
+      "title": "Ordering at a restaurant",
+      "situation": "You order food at a traditional Swiss restaurant.",
+      "lines": [
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Grüezi! Händ Sie scho gwählt?",
+          "german": "Guten Tag! Haben Sie schon gewählt?",
+          "english": "Hello! Have you chosen yet?",
+          "spanish": "¡Hola! ¿Ya ha elegido?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, ich nimm d'Tagessuppa und s'Züri-Gschnetzelts.",
+          "german": "Ja, ich nehme die Tagessuppe und das Zürcher Geschnetzeltes.",
+          "english": "Yes, I'll have the soup of the day and the Zürich-style sliced veal.",
+          "spanish": "Sí, tomaré la sopa del día y la ternera al estilo de Zúrich."
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "S'Gschnetzelts mit Röschti oder Riis?",
+          "german": "Das Geschnetzeltes mit Rösti oder Reis?",
+          "english": "The sliced veal with rösti or rice?",
+          "spanish": "¿La ternera en rodajas con rösti o con arroz?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Mit Röschti, natürlich! Und zum Trinke es Mineralwasser.",
+          "german": "Mit Rösti, natürlich! Und zum Trinken ein Mineralwasser.",
+          "english": "With rösti, of course! And a mineral water to drink.",
+          "spanish": "¡Con rösti, por supuesto! Y un agua mineral para beber."
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Mit oder ohni Kohlesüüri?",
+          "german": "Mit oder ohne Kohlensäure?",
+          "english": "With or without sparkling?",
+          "spanish": "¿Con o sin gas?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Mit, bitte. Und no e Stange zum Start.",
+          "german": "Mit, bitte. Und noch ein kleines Bier zum Start.",
+          "english": "With, please. And a small beer to start.",
+          "spanish": "Con, por favor. Y una cerveza pequeña para empezar."
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Gärn! Und wänd Sie e Vorspeise oder direkt s'Hauptgricht?",
+          "german": "Gerne! Und möchten Sie eine Vorspeise oder direkt das Hauptgericht?",
+          "english": "Gladly! And would you like a starter or straight to the main course?",
+          "spanish": "¡Con mucho gusto! ¿Quieres un entrante o directamente el plato principal?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Direkt s'Hauptgricht danke — ich bi gnueg hungrig!",
+          "german": "Direkt das Hauptgericht danke — ich bin hungrig genug!",
+          "english": "Straight to the main course thanks — I'm hungry enough!",
+          "spanish": "Directo al plato principal, gracias — ¡tengo suficiente hambre!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Züri-Gschnetzelts",
+          "german": "Zürcher Geschnetzeltes",
+          "explanation": "Classic Zurich dish: sliced veal in cream sauce with mushrooms."
+        },
+        {
+          "swissGerman": "Röschti",
+          "german": "Rösti",
+          "explanation": "'Röschti' = 'Rösti'. Shredded potato cake. Swiss national dish."
+        },
+        {
+          "swissGerman": "Kohlesüüri",
+          "german": "Kohlensäure",
+          "explanation": "'Kohlesüüri' = 'Kohlensäure'. Carbonation/sparkling."
+        },
+        {
+          "swissGerman": "Stange",
+          "german": "kleines Bier (3dl)",
+          "explanation": "'Stange' = a 3dl beer glass. Standard small beer size in Switzerland."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Ich nimm...",
+          "german": "Ich nehme...",
+          "english": "I'll have..."
+        },
+        {
+          "swissGerman": "Stange",
+          "german": "kleines Bier",
+          "english": "small beer (3dl)"
+        },
+        {
+          "swissGerman": "Röschti",
+          "german": "Rösti",
+          "english": "rösti (potato dish)"
+        }
+      ]
+    },
+    {
+      "id": "eating-2",
+      "level": "intermediate",
+      "title": "Asking about menu items",
+      "situation": "You don't understand some items on the menu and ask the waiter.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Entschuldigung, was isch 'Capuns'? Ich ha das no nie ghört.",
+          "german": "Entschuldigung, was sind 'Capuns'? Ich habe das noch nie gehört.",
+          "english": "Excuse me, what are 'Capuns'? I've never heard of that.",
+          "spanish": "Perdona, ¿qué son los 'Capuns'? Nunca lo había escuchado."
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Das isch es Bündner Gricht. Teig i Mangoldblätter iigwicklet, mit Käs und Speck.",
+          "german": "Das ist ein Bündner Gericht. Teig in Mangoldblätter eingewickelt, mit Käse und Speck.",
+          "english": "It's a Graubünden dish. Dough wrapped in chard leaves, with cheese and bacon.",
+          "spanish": "Es un plato de Grisones. Masa envuelta en hojas de acelga, con queso y beicon."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Tönt guet! Und was isch de Unterschied zwüsched 'Ghackets mit Hörnli' und Pasta?",
+          "german": "Klingt gut! Und was ist der Unterschied zwischen 'Ghacktes mit Hörnli' und Pasta?",
+          "english": "Sounds good! And what's the difference between 'Ghackets mit Hörnli' and pasta?",
+          "spanish": "¡Suena bien! ¿Y cuál es la diferencia entre 'Ghackets mit Hörnli' y la pasta?"
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Hörnli sind chliini, chrummi Nudeln. Das isch s'typische Schwizer Comfort-Food.",
+          "german": "Hörnli sind kleine, krumme Nudeln. Das ist das typische Schweizer Comfort-Food.",
+          "english": "Hörnli are small, curved pasta. It's the typical Swiss comfort food.",
+          "spanish": "Los Hörnli son pasta pequeña y curvada. Es la típica comida reconfortante suiza."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Mit Apfelmuus dezue?",
+          "german": "Mit Apfelmus dazu?",
+          "english": "With applesauce on the side?",
+          "spanish": "¿Con compota de manzana?"
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Genau, s'ghört dezue! Das isch de Klassiker.",
+          "german": "Genau, das gehört dazu! Das ist der Klassiker.",
+          "english": "Exactly, it's part of it! That's the classic.",
+          "spanish": "Exacto, ¡es parte de ello! Eso es lo clásico."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Gut, ich nimm dann d'Hörnli! Und chunnt geriibener Käs automatisch dezue?",
+          "german": "Gut, ich nehme dann die Hörnli! Und kommt geriebener Käse automatisch dazu?",
+          "english": "Good, I'll take the Hörnli then! And does grated cheese come automatically?",
+          "spanish": "Bien, me llevo los Hörnli entonces. ¿Y el queso rallado viene automáticamente?"
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Ja klar, Bergkäs isch immer dezue. En Guete!",
+          "german": "Ja klar, Bergkäse ist immer dabei. Guten Appetit!",
+          "english": "Yes of course, mountain cheese is always included. Enjoy!",
+          "spanish": "Sí, por supuesto, el queso de montaña siempre está incluido. ¡Buen provecho!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Capuns",
+          "german": "Capuns",
+          "explanation": "Traditional Graubünden dish. Chard-wrapped dough parcels."
+        },
+        {
+          "swissGerman": "Ghackets mit Hörnli",
+          "german": "Hackfleisch mit kleinen Nudeln",
+          "explanation": "Classic Swiss comfort dish: minced meat with small elbow pasta and applesauce."
+        },
+        {
+          "swissGerman": "Hörnli",
+          "german": "kleine Nudeln",
+          "explanation": "'Hörnli' = small elbow-shaped pasta. Very Swiss."
+        },
+        {
+          "swissGerman": "Apfelmuus",
+          "german": "Apfelmus",
+          "explanation": "'Apfelmuus' = 'Apfelmus'. Applesauce. Traditional side dish."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Was isch...?",
+          "german": "Was ist...?",
+          "english": "What is...?"
+        },
+        {
+          "swissGerman": "Hörnli",
+          "german": "Hörnli-Nudeln",
+          "english": "small elbow pasta"
+        },
+        {
+          "swissGerman": "Apfelmuus",
+          "german": "Apfelmus",
+          "english": "applesauce"
+        }
+      ]
+    },
+    {
+      "id": "eating-3",
+      "level": "intermediate",
+      "title": "Dietary questions and allergies",
+      "situation": "You ask about vegetarian options and allergens.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Händ ihr au vegetarischi Gricht?",
+          "german": "Haben Sie auch vegetarische Gerichte?",
+          "english": "Do you also have vegetarian dishes?",
+          "spanish": "¿También tienen platos vegetarianos?"
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Ja, mir händ e Gemüesplatte und en Chäschüechli-Salat.",
+          "german": "Ja, wir haben eine Gemüseplatte und einen Käseküchlein-Salat.",
+          "english": "Yes, we have a vegetable platter and a cheese tartlet salad.",
+          "spanish": "Sí, tenemos una bandeja de verduras y una ensalada de tartaleta de queso."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und isch i de Gemüessuppe Fleischbrüe drin?",
+          "german": "Und ist in der Gemüsesuppe Fleischbrühe drin?",
+          "english": "And does the vegetable soup contain meat broth?",
+          "spanish": "¿Y la sopa de verduras contiene caldo de carne?"
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Ja leider scho. Aber ich cha de Koch frage, ob er die ohni mache cha.",
+          "german": "Ja leider schon. Aber ich kann den Koch fragen, ob er sie ohne machen kann.",
+          "english": "Yes unfortunately. But I can ask the chef if he can make it without.",
+          "spanish": "Sí, desafortunadamente. Pero puedo preguntarle al chef si puede hacerlo sin."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Das wär super. Und ich bi au allergisch uf Nöss. Isch das en Problem?",
+          "german": "Das wäre super. Und ich bin auch allergisch auf Nüsse. Ist das ein Problem?",
+          "english": "That'd be great. And I'm also allergic to nuts. Is that a problem?",
+          "spanish": "Eso sería genial. Y también soy alérgico a los frutos secos. ¿Es eso un problema?"
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Ich prüef das mit de Chuchi. Mir nämed Allergene sehr ernst.",
+          "german": "Ich prüfe das mit der Küche. Wir nehmen Allergien sehr ernst.",
+          "english": "I'll check with the kitchen. We take allergies very seriously.",
+          "spanish": "Lo verificaré con la cocina. Nos tomamos las alergias muy en serio."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Merci vielmal! Das isch wichtig für mich.",
+          "german": "Vielen Dank! Das ist wichtig für mich.",
+          "english": "Thank you very much! That's important to me.",
+          "spanish": "¡Muchas gracias! Eso es importante para mí."
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Selbstverständlich. Ich chume i ere Minute zrugg mit de Info.",
+          "german": "Selbstverständlich. Ich komme in einer Minute zurück mit der Information.",
+          "english": "Of course. I'll be back in a minute with the information.",
+          "spanish": "Por supuesto. Vuelvo en un momento con la información."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Gricht",
+          "german": "Gerichte",
+          "explanation": "'Gricht' = 'Gerichte'. Dishes."
+        },
+        {
+          "swissGerman": "Chäschüechli",
+          "german": "Käseküchlein",
+          "explanation": "'Chäschüechli' = small cheese tartlet. Swiss pastry."
+        },
+        {
+          "swissGerman": "Nöss",
+          "german": "Nüsse",
+          "explanation": "'Nöss' = 'Nüsse'. Nuts. Swiss form."
+        },
+        {
+          "swissGerman": "Chuchi",
+          "german": "Küche",
+          "explanation": "'Chuchi' = 'Küche'. Kitchen."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "allergisch uf...",
+          "german": "allergisch auf...",
+          "english": "allergic to..."
+        },
+        {
+          "swissGerman": "vegetarisch",
+          "german": "vegetarisch",
+          "english": "vegetarian"
+        },
+        {
+          "swissGerman": "ohni",
+          "german": "ohne",
+          "english": "without"
+        }
+      ]
+    },
+    {
+      "id": "eating-4",
+      "level": "beginner",
+      "title": "Paying the bill and splitting",
+      "situation": "You ask for the bill and want to split it.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Entschuldigung, chönd mir zahle bitte?",
+          "german": "Entschuldigung, können wir zahlen bitte?",
+          "english": "Excuse me, can we pay please?",
+          "spanish": "Perdona, ¿podemos pagar, por favor?"
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Gärn! Zäme oder getrennt?",
+          "german": "Gerne! Zusammen oder getrennt?",
+          "english": "Sure! Together or separate?",
+          "spanish": "¡Claro! ¿Juntos o por separado?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Getrennt, bitte. Ich ha d'Suppa und s'Gschnetzelts gha.",
+          "german": "Getrennt, bitte. Ich hatte die Suppe und das Geschnetzeltes.",
+          "english": "Separate, please. I had the soup and the sliced veal.",
+          "spanish": "Por separado, por favor. Yo tomé la sopa y el ternera en salsa."
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Das macht drüedrissg Sächzg. Wie wänd Sie zahle?",
+          "german": "Das macht dreiunddreißig sechzig. Wie möchten Sie zahlen?",
+          "english": "That's thirty-three sixty. How would you like to pay?",
+          "spanish": "Son treinta y tres sesenta. ¿Cómo quiere pagar?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Mit TWINT, bitte. Und ich gib gärn no drüü Franke Trinkgäld.",
+          "german": "Mit TWINT, bitte. Und ich gebe gerne noch drei Franken Trinkgeld.",
+          "english": "With TWINT, please. And I'd like to add three francs as a tip.",
+          "spanish": "Con TWINT, por favor. Y me gustaría añadir tres francos de propina."
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Merci vilmal! Das isch nett. Ich scann de QR-Code für Sie.",
+          "german": "Vielen Dank! Das ist nett. Ich scanne den QR-Code für Sie.",
+          "english": "Thank you very much! That's kind. I'll scan the QR code for you.",
+          "spanish": "¡Muchas gracias! Es muy amable. Le escaneo el código QR."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und no e Frag — isch d'Chuchi no offe für en Dessert?",
+          "german": "Und noch eine Frage — ist die Küche noch für einen Dessert geöffnet?",
+          "english": "And one more question — is the kitchen still open for a dessert?",
+          "spanish": "¿Y todavía una pregunta más — está abierta la cocina para un postre?"
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Ja, bis zähni! Mir händ hüt es herrligs Schoggimousse.",
+          "german": "Ja, bis zehn! Wir haben heute ein herrliches Schokoladenmousse.",
+          "english": "Yes, until ten! We have a wonderful chocolate mousse today.",
+          "spanish": "Sí, hasta las diez. ¡Hoy tenemos una mousse de chocolate maravillosa!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "getrennt",
+          "german": "getrennt",
+          "explanation": "Splitting the bill. Very common in Switzerland (unlike some countries)."
+        },
+        {
+          "swissGerman": "Trinkgäld",
+          "german": "Trinkgeld",
+          "explanation": "'Trinkgäld' = 'Trinkgeld'. Tip. Not mandatory in Switzerland but appreciated."
+        },
+        {
+          "swissGerman": "drüedrissg",
+          "german": "dreiunddreißig",
+          "explanation": "'drüedrissg' = 'dreiunddreißig'. 33. Swiss number form."
+        },
+        {
+          "swissGerman": "TWINT",
+          "german": "TWINT",
+          "explanation": "Swiss mobile payment. Very widely used in restaurants."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Chönd mir zahle?",
+          "german": "Können wir zahlen?",
+          "english": "Can we pay?"
+        },
+        {
+          "swissGerman": "getrennt",
+          "german": "getrennt",
+          "english": "separate/split"
+        },
+        {
+          "swissGerman": "Trinkgäld",
+          "german": "Trinkgeld",
+          "english": "tip"
+        }
+      ]
+    },
+    {
+      "id": "eating-5",
+      "level": "beginner",
+      "title": "Takeaway vs. dine-in",
+      "situation": "You order food and specify takeaway or dine-in.",
+      "lines": [
+        {
+          "speaker": "Employee",
+          "swissGerman": "Grüezi! Zum da ässe oder zum mitneh?",
+          "german": "Guten Tag! Zum Hier-Essen oder zum Mitnehmen?",
+          "english": "Hello! To eat here or take away?",
+          "spanish": "¡Hola! ¿Para comer aquí o para llevar?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Zum mitneh, bitte. Ich hätt gärn en Döner mit allem.",
+          "german": "Zum Mitnehmen, bitte. Ich hätte gerne einen Döner mit allem.",
+          "english": "To take away, please. I'd like a döner with everything.",
+          "spanish": "Para llevar, por favor. Me gustaría un döner con todo."
+        },
+        {
+          "speaker": "Employee",
+          "swissGerman": "Scharfi Sauce?",
+          "german": "Scharfe Sauce?",
+          "english": "Spicy sauce?",
+          "spanish": "¿Salsa picante?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, scharfi bitte! Und dezue no en Ayran.",
+          "german": "Ja, scharfe bitte! Und dazu noch einen Ayran.",
+          "english": "Yes, spicy please! And also an Ayran.",
+          "spanish": "Sí, ¡picante por favor! Y también un Ayran."
+        },
+        {
+          "speaker": "Employee",
+          "swissGerman": "Isch i füf Minute parat. Wänd Sie doo warte?",
+          "german": "Ist in fünf Minuten bereit. Wollen Sie hier warten?",
+          "english": "Ready in five minutes. Want to wait here?",
+          "spanish": "Listo en cinco minutos. ¿Quieres esperar aquí?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja klar, ich wart. Was macht das?",
+          "german": "Ja klar, ich warte. Was macht das?",
+          "english": "Sure, I'll wait. How much is it?",
+          "spanish": "Claro, espero. ¿Cuánto cuesta?"
+        },
+        {
+          "speaker": "Employee",
+          "swissGerman": "Sibäzäh Franke füfzg.",
+          "german": "Siebzehn Franken fünfzig.",
+          "english": "Seventeen francs fifty.",
+          "spanish": "Diecisiete francos cincuenta."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Do isch zwänzg. Stimmt so!",
+          "german": "Hier ist zwanzig. Stimmt so!",
+          "english": "Here's twenty. Keep the change!",
+          "spanish": "¡Aquí tiene veinte. Quédese con el cambio!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "zum mitneh",
+          "german": "zum Mitnehmen",
+          "explanation": "'zum mitneh' = 'zum Mitnehmen'. Takeaway. Very common question."
+        },
+        {
+          "swissGerman": "zum da ässe",
+          "german": "zum Hier-Essen/Vor-Ort",
+          "explanation": "'zum da ässe' = eat here. Dine-in."
+        },
+        {
+          "swissGerman": "scharfi",
+          "german": "scharfe",
+          "explanation": "'scharfi' = 'scharfe'. Spicy. Swiss adjective form."
+        },
+        {
+          "swissGerman": "parat",
+          "german": "bereit/fertig",
+          "explanation": "'parat' = ready. Common Swiss word from French."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "zum mitneh",
+          "german": "zum Mitnehmen",
+          "english": "takeaway"
+        },
+        {
+          "swissGerman": "zum da ässe",
+          "german": "zum Hier-Essen",
+          "english": "dine-in"
+        },
+        {
+          "swissGerman": "parat",
+          "german": "bereit",
+          "english": "ready"
+        }
+      ]
+    }
+  ]
+}

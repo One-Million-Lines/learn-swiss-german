@@ -1,0 +1,478 @@
+{
+  "id": "time-basics",
+  "topicId": "everyday-basics",
+  "title": "Time Basics",
+  "description": "Telling time, talking about today, tomorrow, yesterday, and parts of the day",
+  "dialogues": [
+    {
+      "id": "time-basics-1",
+      "level": "beginner",
+      "title": "Asking what time it is",
+      "situation": "Your phone is dead and you ask a passerby for the time.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Exgüsi, wieviel Uhr isch es?",
+          "german": "Entschuldigung, wie viel Uhr ist es?",
+          "english": "Excuse me, what time is it?",
+          "spanish": "Perdona, ¿qué hora es?"
+        },
+        {
+          "speaker": "Passerby",
+          "swissGerman": "Es isch halbi drüü.",
+          "german": "Es ist halb drei.",
+          "english": "It's half past two.",
+          "spanish": "Son las dos y media."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Halbi drüü? Isch scho so spaat?!",
+          "german": "Halb drei? Ist schon so spät?!",
+          "english": "Half past two? Is it that late already?!",
+          "spanish": "¡¿Las dos y media?! ¡¿Ya es tan tarde?!"
+        },
+        {
+          "speaker": "Passerby",
+          "swissGerman": "Ja, fasch Viertel ab zwöi sogar.",
+          "german": "Ja, fast Viertel nach zwei sogar.",
+          "english": "Yes, almost quarter past two actually.",
+          "spanish": "Sí, casi las dos y cuarto en realidad."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Oh nein! Ich muess no de Tram am Bürkliplatz erwiische!",
+          "german": "Oh nein! Ich muss noch die Tram am Bürkliplatz erwischen!",
+          "english": "Oh no! I still have to catch the tram at Bürkliplatz!",
+          "spanish": "¡Oh no! ¡Todavía tengo que coger el tranvía en Bürkliplatz!"
+        },
+        {
+          "speaker": "Passerby",
+          "swissGerman": "De Nummer 4 fahrt i zwei Minute — los scho!",
+          "german": "Die Nummer 4 fährt in zwei Minuten — lauf schon!",
+          "english": "The number 4 leaves in two minutes — start running!",
+          "spanish": "¡El número 4 sale en dos minutos, ponte a correr!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Uh, denn muessi mi beeile! Merci!",
+          "german": "Oh, dann muss ich mich beeilen! Danke!",
+          "english": "Oh, then I need to hurry! Thanks!",
+          "spanish": "¡Oh, entonces tengo que darme prisa! ¡Gracias!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Wieviel Uhr isch es?",
+          "german": "Wie viel Uhr ist es?",
+          "explanation": "The standard way to ask for the time. 'isch' = 'ist'."
+        },
+        {
+          "swissGerman": "halbi drüü",
+          "german": "halb drei",
+          "explanation": "'halbi' = 'halb'. Swiss adds '-i'. Note: 'halb drei' means 2:30, not 3:30!"
+        },
+        {
+          "swissGerman": "Viertel ab zwöi",
+          "german": "Viertel nach zwei",
+          "explanation": "'ab' = 'nach' (past). Swiss German uses 'ab' for minutes past the hour."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Wieviel Uhr isch es?",
+          "german": "Wie viel Uhr ist es?",
+          "english": "What time is it?"
+        },
+        {
+          "swissGerman": "Viertel ab / Viertel vor",
+          "german": "Viertel nach / Viertel vor",
+          "english": "Quarter past / Quarter to"
+        },
+        {
+          "swissGerman": "Halbi...",
+          "german": "Halb...",
+          "english": "Half past..."
+        }
+      ]
+    },
+    {
+      "id": "time-basics-2",
+      "level": "beginner",
+      "title": "Talking about now, later, soon",
+      "situation": "You and a friend are deciding when to leave for a movie.",
+      "lines": [
+        {
+          "speaker": "Friend",
+          "swissGerman": "De Film fangt um achti aa. Gömer jetzt?",
+          "german": "Der Film fängt um acht an. Gehen wir jetzt?",
+          "english": "The movie starts at eight. Shall we go now?",
+          "spanish": "La película empieza a las ocho. ¿Vamos ahora?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Nei, no nöd. Es isch erst halbi sibnni.",
+          "german": "Nein, noch nicht. Es ist erst halb sieben.",
+          "english": "No, not yet. It's only half past six.",
+          "spanish": "No, todavía no. Solo son las seis y media."
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Aber mir müend no s'Ticket chaufe!",
+          "german": "Aber wir müssen noch das Ticket kaufen!",
+          "english": "But we still need to buy the ticket!",
+          "spanish": "¡Pero todavía tenemos que comprar el billete!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Kei Stress, mir gönd bald. So in ere halbe Stund.",
+          "german": "Kein Stress, wir gehen bald. So in einer halben Stunde.",
+          "english": "No rush, we'll go soon. In about half an hour.",
+          "spanish": "Sin prisa, pronto vamos. En unos treinta minutos."
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Okay, denn machi mi spööter parat.",
+          "german": "Okay, dann mache ich mich später bereit.",
+          "english": "Okay, then I'll get ready later.",
+          "spanish": "Bien, entonces me preparo más tarde."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und vergiss d'Popcorn nöd — am Cinemax hät's de bescht Caramel-Popcorn vo Züri!",
+          "german": "Und vergiss das Popcorn nicht — im Cinemax hat's das beste Caramel-Popcorn von Zürich!",
+          "english": "And don't forget the popcorn — Cinemax has the best caramel popcorn in Zurich!",
+          "spanish": "¡Y no olvides las palomitas — ¡Cinemax tiene las mejores palomitas de caramelo de todo Zúrich!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Guet, ich sägä der denn Bescheid.",
+          "german": "Gut, ich sage dir dann Bescheid.",
+          "english": "Good, I'll let you know then.",
+          "spanish": "Bien, te aviso entonces."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "jetzt",
+          "german": "jetzt",
+          "explanation": "Same word 'jetzt' (now). Also 'etzt' or 'jez' in very casual speech."
+        },
+        {
+          "swissGerman": "bald",
+          "german": "bald",
+          "explanation": "'bald' (soon) is the same in both. 'gliich' can also mean 'right away'."
+        },
+        {
+          "swissGerman": "spööter",
+          "german": "später",
+          "explanation": "'spööter' = 'später'. The ä → öö vowel shift."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Jetzt",
+          "german": "Jetzt",
+          "english": "Now"
+        },
+        {
+          "swissGerman": "Bald / Gliich",
+          "german": "Bald / Gleich",
+          "english": "Soon / Right away"
+        },
+        {
+          "swissGerman": "Spööter",
+          "german": "Später",
+          "english": "Later"
+        },
+        {
+          "swissGerman": "No nöd",
+          "german": "Noch nicht",
+          "english": "Not yet"
+        }
+      ]
+    },
+    {
+      "id": "time-basics-3",
+      "level": "intermediate",
+      "title": "Yesterday, today, tomorrow",
+      "situation": "You and a colleague talk about what happened yesterday and plans for tomorrow.",
+      "lines": [
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Wie isch de Meeting geschter gsi?",
+          "german": "Wie war das Meeting gestern?",
+          "english": "How was the meeting yesterday?",
+          "spanish": "¿Cómo fue la reunión de ayer?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Lang und langwiilig. Aber hüt isch's besser.",
+          "german": "Lang und langweilig. Aber heute ist es besser.",
+          "english": "Long and boring. But today is better.",
+          "spanish": "Largo y aburrido. Pero hoy es mejor."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Und morn? Hämer wider eis?",
+          "german": "Und morgen? Haben wir wieder eins?",
+          "english": "And tomorrow? Do we have another one?",
+          "spanish": "¿Y mañana? ¿Tenemos otro?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja leider, aber erst am Namittag. Übermorn denn nöd.",
+          "german": "Ja leider, aber erst am Nachmittag. Übermorgen dann nicht.",
+          "english": "Yes unfortunately, but not until the afternoon. Day after tomorrow not.",
+          "spanish": "Sí, desafortunadamente, pero no hasta la tarde. Pasado mañana tampoco."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Wenigschtens! Vorgeschter hämmer ja drüü gha!",
+          "german": "Wenigstens! Vorgestern hatten wir ja drei!",
+          "english": "At least! Day before yesterday we had three!",
+          "spanish": "¡Al menos! Anteayer tuvimos tres."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Jede Tag de gliich Raum — mer chäm sich vor wie im Bundeshuus!",
+          "german": "Jeden Tag der gleiche Raum — man kommt sich vor wie im Bundeshaus!",
+          "english": "Every day the same room — you feel like you're in parliament!",
+          "spanish": "¡Cada día en la misma sala — te sientes como en el parlamento!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Stimmt, das isch en harte Wuche gsi.",
+          "german": "Stimmt, das war eine harte Woche.",
+          "english": "True, it's been a tough week.",
+          "spanish": "Es verdad, ha sido una semana dura."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "geschter",
+          "german": "gestern",
+          "explanation": "'geschter' = 'gestern'. Drops the -n ending."
+        },
+        {
+          "swissGerman": "hüt",
+          "german": "heute",
+          "explanation": "'hüt' = 'heute'. One of the most-used daily words."
+        },
+        {
+          "swissGerman": "morn",
+          "german": "morgen",
+          "explanation": "'morn' = 'morgen' (tomorrow). Note: 'Morge' = morning, 'morn' = tomorrow."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Geschter",
+          "german": "Gestern",
+          "english": "Yesterday"
+        },
+        {
+          "swissGerman": "Hüt",
+          "german": "Heute",
+          "english": "Today"
+        },
+        {
+          "swissGerman": "Morn",
+          "german": "Morgen",
+          "english": "Tomorrow"
+        },
+        {
+          "swissGerman": "Vorgeschter / Übermorn",
+          "german": "Vorgestern / Übermorgen",
+          "english": "Day before yesterday / Day after tomorrow"
+        }
+      ]
+    },
+    {
+      "id": "time-basics-4",
+      "level": "beginner",
+      "title": "Parts of the day",
+      "situation": "You're describing your daily routine to a language partner.",
+      "lines": [
+        {
+          "speaker": "Partner",
+          "swissGerman": "Was machsch am Morge?",
+          "german": "Was machst du am Morgen?",
+          "english": "What do you do in the morning?",
+          "spanish": "¿Qué haces por la mañana?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Am Morge früeh trinki en Kafi. So um sächsi.",
+          "german": "Am frühen Morgen trinke ich einen Kaffee. So um sechs.",
+          "english": "Early in the morning I drink a coffee. Around six.",
+          "spanish": "Por la mañana temprano me tomo un café. Alrededor de las seis."
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "Und am Namittag?",
+          "german": "Und am Nachmittag?",
+          "english": "And in the afternoon?",
+          "spanish": "¿Y por la tarde?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Am Namittag schaff ich. Und am Aabig chochi meischtens.",
+          "german": "Am Nachmittag arbeite ich. Und am Abend koche ich meistens.",
+          "english": "In the afternoon I work. And in the evening I usually cook.",
+          "spanish": "Por la tarde trabajo. Y por la noche normalmente cocino."
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "Und z'Nacht?",
+          "german": "Und nachts?",
+          "english": "And at night?",
+          "spanish": "¿Y por la noche?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Am Aabig luegi meischtens no en Folg vo de SRF-Mediathek.",
+          "german": "Am Abend schaue ich meistens noch eine Folge in der SRF-Mediathek.",
+          "english": "In the evening I usually watch an episode on SRF Mediathek.",
+          "spanish": "Por la noche normalmente veo un episodio en SRF Mediathek."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Z'Nacht gang ich meischtens um elfi is Bett.",
+          "german": "Nachts gehe ich meistens um elf ins Bett.",
+          "english": "At night I usually go to bed around eleven.",
+          "spanish": "Por la noche normalmente me acuesto alrededor de las once."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "am Morge",
+          "german": "am Morgen",
+          "explanation": "'Morge' = 'Morgen' (morning). Drop the final -n."
+        },
+        {
+          "swissGerman": "am Namittag",
+          "german": "am Nachmittag",
+          "explanation": "'Namittag' = 'Nachmittag'. The 'ch' gets dropped."
+        },
+        {
+          "swissGerman": "z'Nacht",
+          "german": "nachts / in der Nacht",
+          "explanation": "'z'Nacht' = 'in der Nacht / nachts'. The 'z' comes from 'zu'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Am Morge",
+          "german": "Am Morgen",
+          "english": "In the morning"
+        },
+        {
+          "swissGerman": "Am Namittag",
+          "german": "Am Nachmittag",
+          "english": "In the afternoon"
+        },
+        {
+          "swissGerman": "Am Aabig",
+          "german": "Am Abend",
+          "english": "In the evening"
+        },
+        {
+          "swissGerman": "Z'Nacht",
+          "german": "Nachts",
+          "english": "At night"
+        }
+      ]
+    },
+    {
+      "id": "time-basics-5",
+      "level": "intermediate",
+      "title": "A scheduling mix-up",
+      "situation": "You show up to a dentist appointment at the wrong time and sort it out.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Grüezi, ich ha en Termin um drüü.",
+          "german": "Grüezi, ich habe einen Termin um drei.",
+          "english": "Hello, I have an appointment at three.",
+          "spanish": "Hola, tengo una cita a las tres."
+        },
+        {
+          "speaker": "Receptionist",
+          "swissGerman": "Hmm, bi mir staht Viertel vor vieri.",
+          "german": "Hmm, bei mir steht Viertel vor vier.",
+          "english": "Hmm, I have quarter to four.",
+          "spanish": "Hmm, tengo las cuatro menos cuarto."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Echt? Ich ha gmeint drüü. Bini z'früeh?",
+          "german": "Echt? Ich dachte drei. Bin ich zu früh?",
+          "english": "Really? I thought three. Am I too early?",
+          "spanish": "¿De verdad? Creía que a las tres. ¿Llego demasiado pronto?"
+        },
+        {
+          "speaker": "Receptionist",
+          "swissGerman": "Ja, öppe drüüviertel Stund z'früeh. Aber kei Problem, mir gänd Bescheid.",
+          "german": "Ja, etwa dreiviertel Stunde zu früh. Aber kein Problem, wir geben Bescheid.",
+          "english": "Yes, about forty-five minutes early. But no problem, we'll let you know.",
+          "spanish": "Sí, unos cuarenta y cinco minutos antes. Pero no hay problema, te avisaremos."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Okay, denn warteni. Besser z'früeh als z'spaat!",
+          "german": "Okay, dann warte ich. Besser zu früh als zu spät!",
+          "english": "Okay, I'll wait then. Better too early than too late!",
+          "spanish": "Bien, espero entonces. ¡Mejor llegar demasiado pronto que demasiado tarde!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich losi denn no chli de Zürich-Podcast — de Wartezimmer-Klassiker!",
+          "german": "Ich höre dann noch kurz den Zürich-Podcast — den Wartezimmer-Klassiker!",
+          "english": "I'll listen to the Zurich podcast briefly — the waiting room classic!",
+          "spanish": "Escucharé brevemente el podcast de Zúrich — ¡el clásico de la sala de espera!"
+        },
+        {
+          "speaker": "Receptionist",
+          "swissGerman": "So gfallt's mir! Sitzed Sie ab, mir rüefed Sie uf.",
+          "german": "So gefällt es mir! Setzen Sie sich, wir rufen Sie auf.",
+          "english": "That's the spirit! Have a seat, we'll call you.",
+          "spanish": "¡Eso me anima! Siéntate, te llamamos."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Viertel vor vieri",
+          "german": "Viertel vor vier",
+          "explanation": "'vor' = 'to/before'. Swiss adds '-i' to the hour: 'vieri' = 'vier Uhr'."
+        },
+        {
+          "swissGerman": "drüüviertel Stund",
+          "german": "dreiviertel Stunde",
+          "explanation": "'drüüviertel' = 'dreiviertel' (three quarters). Used for 45 minutes."
+        },
+        {
+          "swissGerman": "z'früeh / z'spaat",
+          "german": "zu früh / zu spät",
+          "explanation": "'z'früeh' = 'zu früh', 'z'spaat' = 'zu spät'. The 'zu' becomes 'z'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Z'früeh",
+          "german": "Zu früh",
+          "english": "Too early"
+        },
+        {
+          "swissGerman": "Z'spaat",
+          "german": "Zu spät",
+          "english": "Too late"
+        },
+        {
+          "swissGerman": "Drüüviertel Stund",
+          "german": "Dreiviertel Stunde",
+          "english": "Forty-five minutes"
+        }
+      ]
+    }
+  ]
+}

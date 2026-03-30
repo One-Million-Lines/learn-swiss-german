@@ -1,0 +1,523 @@
+{
+  "id": "health-pharmacy",
+  "topicId": "daily-life",
+  "title": "Health & Pharmacy",
+  "description": "Describing symptoms, asking for medicine, understanding instructions, and buying OTC products",
+  "dialogues": [
+    {
+      "id": "health-pharm-1",
+      "level": "beginner",
+      "title": "Buying cold medicine",
+      "situation": "You go to the pharmacy because you have a cold.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Grüezi! Ich bi verchältet und bruuch öppis gäge de Schnupfe.",
+          "german": "Guten Tag! Ich bin erkältet und brauche etwas gegen den Schnupfen.",
+          "english": "Hello! I have a cold and need something for the runny nose.",
+          "spanish": "¡Hola! Tengo un resfriado y necesito algo para la nariz."
+        },
+        {
+          "speaker": "Pharmacist",
+          "swissGerman": "Händ Sie au Hueschte oder Halsweeh?",
+          "german": "Haben Sie auch Husten oder Halsschmerzen?",
+          "english": "Do you also have a cough or sore throat?",
+          "spanish": "¿También tienes tos o dolor de garganta?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, chli Halsweeh und ich ha au Chopfweeh.",
+          "german": "Ja, etwas Halsschmerzen und ich habe auch Kopfschmerzen.",
+          "english": "Yes, some sore throat and I also have a headache.",
+          "spanish": "Sí, algo de dolor de garganta y también me duele la cabeza."
+        },
+        {
+          "speaker": "Pharmacist",
+          "swissGerman": "Ich empfehl Ihne NeoCitran für de Aabig und Halstablätte für zwüschedure.",
+          "german": "Ich empfehle Ihnen NeoCitran für den Abend und Halstabletten für zwischendurch.",
+          "english": "I recommend NeoCitran for the evening and throat lozenges for in between.",
+          "spanish": "Recomiendo NeoCitran para la noche y pastillas para la garganta entre horas."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Guet, ich nimm beides. Und händ ihr Nasetröpfli?",
+          "german": "Gut, ich nehme beides. Und haben Sie Nasentropfen?",
+          "english": "Good, I'll take both. And do you have nasal drops?",
+          "spanish": "Bien, cojo los dos. ¿Y tienen gotas nasales?"
+        },
+        {
+          "speaker": "Pharmacist",
+          "swissGerman": "Ja, Otrivin ohni Rezäpt. Aber nöd länger als e Wuche bruuche.",
+          "german": "Ja, Otrivin ohne Rezept. Aber nicht länger als eine Woche benutzen.",
+          "english": "Yes, Otrivin without prescription. But don't use it longer than a week.",
+          "spanish": "Sí, Otrivin sin receta. Pero no lo uses más de una semana."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und händ ihr au Ingwer-Tee oder öppis Natürlichi gäge Halswee?",
+          "german": "Und haben Sie auch Ingwer-Tee oder etwas Natürliches gegen Halsschmerzen?",
+          "english": "And do you also have ginger tea or something natural for the sore throat?",
+          "spanish": "¿Y también tienen té de jengibre o algo natural para el dolor de garganta?"
+        },
+        {
+          "speaker": "Pharmacist",
+          "swissGerman": "Ja, do — der Tee mit Honig und Ingwer isch sehr guet. Warm trinke, so oft wie möglich.",
+          "german": "Ja, hier — der Tee mit Honig und Ingwer ist sehr gut. Warm trinken, so oft wie möglich.",
+          "english": "Yes, here — the tea with honey and ginger is very good. Drink warm, as often as possible.",
+          "spanish": "Sí, aquí — este té con miel y jengibre es muy bueno. Bébelo caliente, tan a menudo como sea posible."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "verchältet",
+          "german": "erkältet",
+          "explanation": "'verchältet' = 'erkältet'. Having a cold."
+        },
+        {
+          "swissGerman": "Schnupfe",
+          "german": "Schnupfen",
+          "explanation": "'Schnupfe' = 'Schnupfen'. Runny nose/cold."
+        },
+        {
+          "swissGerman": "Chopfweeh",
+          "german": "Kopfschmerzen",
+          "explanation": "'Chopfweeh' = 'Kopfschmerzen'. Headache. 'Weeh' = pain."
+        },
+        {
+          "swissGerman": "Nasetröpfli",
+          "german": "Nasentropfen",
+          "explanation": "'Nasetröpfli' = 'Nasentropfen'. Nasal drops. Swiss diminutive."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "verchältet",
+          "german": "erkältet",
+          "english": "having a cold"
+        },
+        {
+          "swissGerman": "Chopfweeh",
+          "german": "Kopfschmerzen",
+          "english": "headache"
+        },
+        {
+          "swissGerman": "ohni Rezäpt",
+          "german": "ohne Rezept",
+          "english": "without prescription"
+        }
+      ]
+    },
+    {
+      "id": "health-pharm-2",
+      "level": "intermediate",
+      "title": "Describing symptoms",
+      "situation": "You describe more specific symptoms to the pharmacist.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Ich ha sit zwöi Täg Buuchweh und mir isch übel.",
+          "german": "Ich habe seit zwei Tagen Bauchschmerzen und mir ist übel.",
+          "english": "I've had stomach pain for two days and I feel nauseous.",
+          "spanish": "Llevo dos días con dolor de estómago y me siento con náuseas."
+        },
+        {
+          "speaker": "Pharmacist",
+          "swissGerman": "Händ Sie au Durchfall oder müessed Sie sich übergeh?",
+          "german": "Haben Sie auch Durchfall oder müssen Sie sich übergeben?",
+          "english": "Do you also have diarrhea or do you need to vomit?",
+          "spanish": "¿También tienes diarrea o necesitas vomitar?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, Durchfall sit geschter. Aber kei Fieber.",
+          "german": "Ja, Durchfall seit gestern. Aber kein Fieber.",
+          "english": "Yes, diarrhea since yesterday. But no fever.",
+          "spanish": "Sí, diarrea desde ayer. Pero sin fiebre."
+        },
+        {
+          "speaker": "Pharmacist",
+          "swissGerman": "Okay. Ich gib Ihne Kohletablätte und en Elektrolyt-Löösig. Vill Wasser trinke!",
+          "german": "Okay. Ich gebe Ihnen Kohletabletten und eine Elektrolyt-Lösung. Viel Wasser trinken!",
+          "english": "Okay. I'll give you charcoal tablets and an electrolyte solution. Drink lots of water!",
+          "spanish": "Bien. ¡Te doy carbón vegetal y una solución de electrolitos. Bebe mucha agua!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und wänn's nöd besser wird?",
+          "german": "Und wenn es nicht besser wird?",
+          "english": "And if it doesn't get better?",
+          "spanish": "¿Y si no mejora?"
+        },
+        {
+          "speaker": "Pharmacist",
+          "swissGerman": "Wänn's nach drüü Täg nöd besser isch, gönd Sie zum Dokter.",
+          "german": "Wenn es nach drei Tagen nicht besser ist, gehen Sie zum Arzt.",
+          "english": "If it's not better after three days, go to the doctor.",
+          "spanish": "Si no mejora después de tres días, ve al médico."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und de schlaffe — dräffe ich mit de Chohletablätte au normal ässe?",
+          "german": "Und das Schlafen — darf ich mit den Kohletabletten auch normal essen?",
+          "english": "And sleeping — with the charcoal tablets can I also eat normally?",
+          "spanish": "¿Y durmiendo — con los comprimidos de carbón también puedo comer con normalidad?"
+        },
+        {
+          "speaker": "Pharmacist",
+          "swissGerman": "Leichte Choscht nur — Riis, Karotte, trochni Biscott. Kei Fätt und kei Milchprodukti.",
+          "german": "Leichte Kost nur — Reis, Karotten, trockene Zwiebäcke. Kein Fett und keine Milchprodukte.",
+          "english": "Light foods only — rice, carrots, dry rusks. No fat and no dairy.",
+          "spanish": "Solo alimentos ligeros — arroz, zanahorias, tostadas secas. Sin grasa y sin lácteos."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Buuchweh",
+          "german": "Bauchschmerzen",
+          "explanation": "'Buuchweh' = stomach ache. 'Buuch' = belly, 'Weeh' = pain."
+        },
+        {
+          "swissGerman": "übel",
+          "german": "übel/schlecht",
+          "explanation": "'übel' = nauseous. Same word."
+        },
+        {
+          "swissGerman": "Durchfall",
+          "german": "Durchfall",
+          "explanation": "Diarrhea. Same in both."
+        },
+        {
+          "swissGerman": "Kohletablätte",
+          "german": "Kohletabletten",
+          "explanation": "Charcoal tablets. Common OTC remedy."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Buuchweh",
+          "german": "Bauchschmerzen",
+          "english": "stomach ache"
+        },
+        {
+          "swissGerman": "mir isch übel",
+          "german": "mir ist übel",
+          "english": "I feel nauseous"
+        },
+        {
+          "swissGerman": "Durchfall",
+          "german": "Durchfall",
+          "english": "diarrhea"
+        }
+      ]
+    },
+    {
+      "id": "health-pharm-3",
+      "level": "beginner",
+      "title": "Asking for advice on sunscreen",
+      "situation": "You want to buy sunscreen before going to the mountains.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Grüezi! Ich gang morn go Wandere. Was für Sunnecrème empfähled Sie?",
+          "german": "Guten Tag! Ich gehe morgen wandern. Was für eine Sonnencreme empfehlen Sie?",
+          "english": "Hello! I'm going hiking tomorrow. What sunscreen do you recommend?",
+          "spanish": "¡Hola! Voy de excursión mañana. ¿Qué protector solar me recomienda?"
+        },
+        {
+          "speaker": "Pharmacist",
+          "swissGerman": "I de Bärge bruuched Sie mindeschtes Faktor 50.",
+          "german": "In den Bergen brauchen Sie mindestens Faktor 50.",
+          "english": "In the mountains you need at least factor 50.",
+          "spanish": "En la montaña necesitas al menos factor 50."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Guet, und händ ihr au Lippebalm mit UV-Schutz?",
+          "german": "Gut, und haben Sie auch Lippenbalsam mit UV-Schutz?",
+          "english": "Good, and do you also have lip balm with UV protection?",
+          "spanish": "Bien, ¿y también tienen bálsamo labial con protección UV?"
+        },
+        {
+          "speaker": "Pharmacist",
+          "swissGerman": "Ja, do — de isch speziell für d'Bärge. Wasserfescht.",
+          "german": "Ja, hier — der ist speziell für die Berge. Wasserfest.",
+          "english": "Yes, here — this one is specially for the mountains. Waterproof.",
+          "spanish": "Sí, aquí — este es especialmente para la montaña. Impermeable."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt! Ich nimm beides. Was macht das?",
+          "german": "Perfekt! Ich nehme beides. Was macht das?",
+          "english": "Perfect! I'll take both. How much is it?",
+          "spanish": "¡Perfecto! Me llevo los dos. ¿Cuánto cuesta?"
+        },
+        {
+          "speaker": "Pharmacist",
+          "swissGerman": "40 Franke zäme. Guets Wandere und vergässed nöd: au im Schatte iischmiere!",
+          "german": "40 Franken zusammen. Gutes Wandern und vergessen Sie nicht: auch im Schatten eincremen!",
+          "english": "40 francs together. Happy hiking and don't forget: apply sunscreen even in the shade!",
+          "spanish": "40 francos en total. ¡Que disfrutes la caminata y no olvides: aplica protector solar incluso en la sombra!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Guet z'wüsse — ich hätt nöd dra denkt. Und vo weli Höhi aa?",
+          "german": "Gut zu wissen — ich hätte nicht daran gedacht. Und ab welcher Höhe?",
+          "english": "Good to know — I wouldn't have thought of that. And from what altitude?",
+          "spanish": "Qué bien saberlo — yo no lo habría pensado. ¿Y desde qué altitud?"
+        },
+        {
+          "speaker": "Pharmacist",
+          "swissGerman": "Ab tausend Meter isch d'UV-Stralig stark. Ab zweitusig brauchen Sie Faktor 50+.",
+          "german": "Ab tausend Metern ist die UV-Strahlung stark. Ab zweitausend brauchen Sie Faktor 50+.",
+          "english": "From a thousand meters UV radiation is strong. From two thousand you need factor 50+.",
+          "spanish": "A partir de mil metros la radiación UV es fuerte. A partir de dos mil necesitas factor 50+."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Sunnecrème",
+          "german": "Sonnencreme",
+          "explanation": "'Sunnecrème' = sunscreen. Swiss uses French 'crème'."
+        },
+        {
+          "swissGerman": "go Wandere",
+          "german": "wandern gehen",
+          "explanation": "'go Wandere' = to go hiking. Very Swiss activity."
+        },
+        {
+          "swissGerman": "Bärge",
+          "german": "Berge",
+          "explanation": "'Bärge' = mountains. Swiss form."
+        },
+        {
+          "swissGerman": "iischmiere",
+          "german": "eincremen",
+          "explanation": "'iischmiere' = to apply cream/sunscreen. Swiss form."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Sunnecrème",
+          "german": "Sonnencreme",
+          "english": "sunscreen"
+        },
+        {
+          "swissGerman": "go Wandere",
+          "german": "wandern gehen",
+          "english": "to go hiking"
+        },
+        {
+          "swissGerman": "iischmiere",
+          "german": "eincremen",
+          "english": "to apply cream"
+        }
+      ]
+    },
+    {
+      "id": "health-pharm-4",
+      "level": "intermediate",
+      "title": "Understanding medication instructions",
+      "situation": "The pharmacist explains how to take a medication.",
+      "lines": [
+        {
+          "speaker": "Pharmacist",
+          "swissGerman": "Die Tablätte nämed Sie drümal am Tag, jewiils nach em Ässe.",
+          "german": "Die Tabletten nehmen Sie dreimal am Tag, jeweils nach dem Essen.",
+          "english": "Take the tablets three times a day, each time after eating.",
+          "spanish": "Toma los comprimidos tres veces al día, cada vez después de comer."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und muess ich die ganz schlucke oder chan ich sie teile?",
+          "german": "Und muss ich die ganz schlucken oder kann ich sie teilen?",
+          "english": "And do I have to swallow them whole or can I split them?",
+          "spanish": "¿Y tengo que tragármelas enteras o puedo partirlas?"
+        },
+        {
+          "speaker": "Pharmacist",
+          "swissGerman": "Die münd ganz gschluckt wärde. Mit vill Wasser.",
+          "german": "Die müssen ganz geschluckt werden. Mit viel Wasser.",
+          "english": "They need to be swallowed whole. With lots of water.",
+          "spanish": "Hay que tragárselas enteras. Con mucha agua."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Wie lang muess ich die neh?",
+          "german": "Wie lange muss ich die nehmen?",
+          "english": "How long do I have to take them?",
+          "spanish": "¿Cuánto tiempo tengo que tomarlas?"
+        },
+        {
+          "speaker": "Pharmacist",
+          "swissGerman": "Siebe Täg. Und ganz wichtig — nöd früener ufhöre, au wänn's besser gaat.",
+          "german": "Sieben Tage. Und ganz wichtig — nicht früher aufhören, auch wenn es besser geht.",
+          "english": "Seven days. And very important — don't stop earlier, even if you feel better.",
+          "spanish": "Siete días. Y muy importante: termina el ciclo, aunque te sientas mejor."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Verstande! Und darf ich debii Alkohol trinke?",
+          "german": "Verstanden! Und darf ich dabei Alkohol trinken?",
+          "english": "Understood! And am I allowed to drink alcohol with it?",
+          "spanish": "¡Entendido! ¿Y puedo beber alcohol con esto?"
+        },
+        {
+          "speaker": "Pharmacist",
+          "swissGerman": "Nei, bitte kein Alkohol während de Behandlig. Das kann d'Wirchig verstärke oder verminderig.",
+          "german": "Nein, bitte keinen Alkohol während der Behandlung. Das kann die Wirkung verstärken oder vermindern.",
+          "english": "No, please no alcohol during the treatment. It can increase or reduce the effect.",
+          "spanish": "No, por favor sin alcohol durante el tratamiento. Puede aumentar o reducir el efecto."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Wärschd das stimmen au für Kafi oder Energy Drink?",
+          "german": "Gilt das auch für Kaffee oder Energy Drink?",
+          "english": "Does that also apply for coffee or energy drink?",
+          "spanish": "¿Eso también vale para el café o las bebidas energéticas?"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Tablätte",
+          "german": "Tabletten",
+          "explanation": "'Tablätte' = 'Tabletten'. Tablets/pills."
+        },
+        {
+          "swissGerman": "gschluckt",
+          "german": "geschluckt",
+          "explanation": "'gschluckt' = 'geschluckt'. Swallowed."
+        },
+        {
+          "swissGerman": "ufhöre",
+          "german": "aufhören",
+          "explanation": "'ufhöre' = 'aufhören'. To stop."
+        },
+        {
+          "swissGerman": "drümal",
+          "german": "dreimal",
+          "explanation": "'drümal' = 'dreimal'. Three times."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "drümal am Tag",
+          "german": "dreimal am Tag",
+          "english": "three times a day"
+        },
+        {
+          "swissGerman": "nach em Ässe",
+          "german": "nach dem Essen",
+          "english": "after eating"
+        },
+        {
+          "swissGerman": "ufhöre",
+          "german": "aufhören",
+          "english": "to stop"
+        }
+      ]
+    },
+    {
+      "id": "health-pharm-5",
+      "level": "beginner",
+      "title": "Picking up a prescription",
+      "situation": "You pick up a prescription at the pharmacy.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Grüezi! Ich ha es Rezäpt vom Dokter.",
+          "german": "Guten Tag! Ich habe ein Rezept vom Arzt.",
+          "english": "Hello! I have a prescription from the doctor.",
+          "spanish": "¡Hola! Tengo una receta del médico."
+        },
+        {
+          "speaker": "Pharmacist",
+          "swissGerman": "Merci! Momänt bitte, ich lueg nach... Ja, mir händ alles a Lager.",
+          "german": "Danke! Moment bitte, ich schaue nach... Ja, wir haben alles auf Lager.",
+          "english": "Thanks! One moment please, I'll check... Yes, we have everything in stock.",
+          "spanish": "¡Gracias! Un momento, compruebo... Sí, tenemos todo en stock."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Super. Und chostet das öppis oder zahlt d'Chrankekasse?",
+          "german": "Super. Und kostet das etwas oder zahlt die Krankenkasse?",
+          "english": "Great. And does it cost anything or does the health insurance pay?",
+          "spanish": "Genial. ¿Y cuesta algo o lo paga el seguro médico?"
+        },
+        {
+          "speaker": "Pharmacist",
+          "swissGerman": "Es git en Selbstbehalt vo 10 Prozänt. Also 8 Franke für Sie.",
+          "german": "Es gibt einen Selbstbehalt von 10 Prozent. Also 8 Franken für Sie.",
+          "english": "There's a co-pay of 10 percent. So 8 francs for you.",
+          "spanish": "Hay un copago del 10 por ciento. Así que 8 francos para ti."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Guet. Chan ich mit Charte zahle?",
+          "german": "Gut. Kann ich mit Karte zahlen?",
+          "english": "Good. Can I pay by card?",
+          "spanish": "Bien. ¿Puedo pagar con tarjeta?"
+        },
+        {
+          "speaker": "Pharmacist",
+          "swissGerman": "Ja klar. Und vergässed nöd: d'Bipackzettel ganz läse!",
+          "german": "Ja klar. Und vergessen Sie nicht: den Beipackzettel ganz lesen!",
+          "english": "Yes of course. And don't forget: read the package insert completely!",
+          "spanish": "Sí, por supuesto. ¡Y no te olvides de leer el prospecto completamente!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Selbstverständlich! Und wänn ich noch Frage ha, chan ich hie aaluege?",
+          "german": "Selbstverständlich! Und wenn ich noch Fragen habe, kann ich hier anrufen?",
+          "english": "Of course! And if I have more questions, can I call here?",
+          "spanish": "¡Por supuesto! ¿Y si tengo más preguntas, puedo llamar aquí?"
+        },
+        {
+          "speaker": "Pharmacist",
+          "swissGerman": "Ja, mir sind Montag bis Samstig erreichbar. Oder chömed eifach verbi.",
+          "german": "Ja, wir sind Montag bis Samstag erreichbar. Oder kommen Sie einfach vorbei.",
+          "english": "Yes, we're reachable Monday through Saturday. Or just come in.",
+          "spanish": "Sí, estamos disponibles de lunes a sábado. O simplemente ven."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Rezäpt",
+          "german": "Rezept",
+          "explanation": "'Rezäpt' = 'Rezept'. Prescription."
+        },
+        {
+          "swissGerman": "Chrankekasse",
+          "german": "Krankenkasse",
+          "explanation": "'Chrankekasse' = health insurance. Mandatory in Switzerland."
+        },
+        {
+          "swissGerman": "Selbstbehalt",
+          "german": "Selbstbehalt/Selbstbeteiligung",
+          "explanation": "Co-pay/deductible. Part of Swiss health insurance."
+        },
+        {
+          "swissGerman": "Bipackzettel",
+          "german": "Beipackzettel",
+          "explanation": "Package insert/leaflet. Medicine information sheet."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Rezäpt",
+          "german": "Rezept",
+          "english": "prescription"
+        },
+        {
+          "swissGerman": "Chrankekasse",
+          "german": "Krankenkasse",
+          "english": "health insurance"
+        },
+        {
+          "swissGerman": "Selbstbehalt",
+          "german": "Selbstbehalt",
+          "english": "co-pay/deductible"
+        }
+      ]
+    }
+  ]
+}

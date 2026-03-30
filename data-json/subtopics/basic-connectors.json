@@ -1,0 +1,492 @@
+{
+  "id": "basic-connectors",
+  "topicId": "everyday-basics",
+  "title": "Basic Connectors",
+  "description": "And, or, but, because, then — linking your sentences together",
+  "dialogues": [
+    {
+      "id": "basic-connectors-1",
+      "level": "beginner",
+      "title": "And / or — choosing lunch",
+      "situation": "You and a friend decide what to eat at a canteen.",
+      "lines": [
+        {
+          "speaker": "Friend",
+          "swissGerman": "Wotsch Suppe und Brot oder lieber en Salat?",
+          "german": "Willst du Suppe und Brot oder lieber einen Salat?",
+          "english": "Do you want soup and bread or would you prefer a salad?",
+          "spanish": "¿Quieres sopa y pan o preferirías una ensalada?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich nimm Suppe und Brot. Und du?",
+          "german": "Ich nehme Suppe und Brot. Und du?",
+          "english": "I'll take soup and bread. And you?",
+          "spanish": "Yo tomaré sopa y pan. ¿Y tú?"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Ich weiss nöd. Suppe oder Salat... beids tönt guet.",
+          "german": "Ich weiss nicht. Suppe oder Salat... beides klingt gut.",
+          "english": "I don't know. Soup or salad... both sound good.",
+          "spanish": "No sé. Sopa o ensalada... ambas suenan bien."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Nimm doch beids! Suppe und Salat.",
+          "german": "Nimm doch beides! Suppe und Salat.",
+          "english": "Take both! Soup and salad.",
+          "spanish": "¡Coge los dos! Sopa y ensalada."
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Gueti Idee! Und es Dessert dezue?",
+          "german": "Gute Idee! Und ein Dessert dazu?",
+          "english": "Good idea! And a dessert with it?",
+          "spanish": "¡Buena idea! ¿Y un postre también?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Klar, Dessert und Kafi!",
+          "german": "Klar, Dessert und Kaffee!",
+          "english": "Sure, dessert and coffee!",
+          "spanish": "¡Claro, postre y café!"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Und wenn es git, es Stückli Schoggi dezue?",
+          "german": "Und wenn es geht, ein Stück Schokolade dazu?",
+          "english": "And if possible, a piece of chocolate with it?",
+          "spanish": "¿Y si es posible, un trozo de chocolate con ello?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Na sicher! Suppe, Salat, Dessert, Kafi und Schoggi — mir machid das richtig!",
+          "german": "Natürlich! Suppe, Salat, Dessert, Kaffee und Schokolade — wir machen das richtig!",
+          "english": "Of course! Soup, salad, dessert, coffee and chocolate — we're doing this properly!",
+          "spanish": "¡Por supuesto! Sopa, ensalada, postre, café y chocolate — ¡lo hacemos como debe ser!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "und",
+          "german": "und",
+          "explanation": "'und' is the same in both. Most basic connector. Used exactly like English 'and'."
+        },
+        {
+          "swissGerman": "oder",
+          "german": "oder",
+          "explanation": "'oder' is the same. Presents alternatives. Very frequently used."
+        },
+        {
+          "swissGerman": "beids",
+          "german": "beides",
+          "explanation": "'beids' = 'beides'. Swiss German drops the '-e': 'beids tönt guet' instead of 'beides klingt gut'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Und",
+          "german": "Und",
+          "english": "And"
+        },
+        {
+          "swissGerman": "Oder",
+          "german": "Oder",
+          "english": "Or"
+        },
+        {
+          "swissGerman": "Beids",
+          "german": "Beides",
+          "english": "Both"
+        }
+      ]
+    },
+    {
+      "id": "basic-connectors-2",
+      "level": "beginner",
+      "title": "But — making excuses",
+      "situation": "Your friend wants you to come to a party but you have reasons not to.",
+      "lines": [
+        {
+          "speaker": "Friend",
+          "swissGerman": "Chunnsch hüt Aabig?",
+          "german": "Kommst du heute Abend?",
+          "english": "Are you coming tonight?",
+          "spanish": "¿Vienes esta noche?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich wett scho, aber ich muess no schaffe.",
+          "german": "Ich würde schon, aber ich muss noch arbeiten.",
+          "english": "I'd like to, but I still have to work.",
+          "spanish": "Me gustaría, pero todavía tengo que trabajar."
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Schad! Aber morn denn?",
+          "german": "Schade! Aber morgen dann?",
+          "english": "Too bad! But tomorrow then?",
+          "spanish": "¡Qué lástima! ¿Pero mañana entonces?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Morn wär guet, aber erst ab achti.",
+          "german": "Morgen wäre gut, aber erst ab acht.",
+          "english": "Tomorrow would be good, but only from eight.",
+          "spanish": "Mañana estaría bien, pero solo a partir de las ocho."
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Passt! Mir fangend spaat aa, aber es wird lustig!",
+          "german": "Passt! Wir fangen spät an, aber es wird lustig!",
+          "english": "Works! We'll start late, but it'll be fun!",
+          "spanish": "¡Perfecto! Empezaremos tarde, ¡pero será divertido!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Tönt guet, aber versprich mer, dass es nöd z'lang gaht!",
+          "german": "Klingt gut, aber versprich mir, dass es nicht zu lang geht!",
+          "english": "Sounds good, but promise me it won't go too long!",
+          "spanish": "Suena bien, pero prométeme que no se alargará demasiado."
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Ha! Ich värspreche nüüt, aber mir versuchid um mitternacht Schluss z'mache.",
+          "german": "Ha! Ich verspreche nichts, aber wir versuchen um Mitternacht aufzuhören.",
+          "english": "Ha! I promise nothing, but we'll try to finish at midnight.",
+          "spanish": "¡Ja! No prometo nada, pero intentaremos terminar a medianoche."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Das kenn ich vo dir, aber okay — ich bi morn um achti do!",
+          "german": "Das kenne ich von dir, aber okay — ich bin morgen um acht dort!",
+          "english": "I know you, but okay — I'll be there tomorrow at eight!",
+          "spanish": "¡Ya lo sé, pero vale — estaré ahí mañana a las ocho!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "aber",
+          "german": "aber",
+          "explanation": "'aber' (but) is the same. The most common contrast word. Used constantly."
+        },
+        {
+          "swissGerman": "Ich wett scho, aber...",
+          "german": "Ich würde schon, aber...",
+          "explanation": "'Ich wett scho, aber...' is the classic 'I'd like to, but...' pattern for polite refusals."
+        },
+        {
+          "swissGerman": "Tönt guet",
+          "german": "Klingt gut",
+          "explanation": "'tönt' = 'klingt'. Different verb entirely — Swiss uses 'töne' where German uses 'klingen'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Aber",
+          "german": "Aber",
+          "english": "But"
+        },
+        {
+          "swissGerman": "Ich wett scho, aber...",
+          "german": "Ich würde schon, aber...",
+          "english": "I'd like to, but..."
+        },
+        {
+          "swissGerman": "Tönt guet",
+          "german": "Klingt gut",
+          "english": "Sounds good"
+        }
+      ]
+    },
+    {
+      "id": "basic-connectors-3",
+      "level": "intermediate",
+      "title": "Because — explaining reasons",
+      "situation": "Your boss asks why you were late and you explain the chain of events.",
+      "lines": [
+        {
+          "speaker": "Boss",
+          "swissGerman": "Warum bisch z'spaat?",
+          "german": "Warum bist du zu spät?",
+          "english": "Why are you late?",
+          "spanish": "¿Por qué llegas tarde?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Tuet mer leid, will de Zug Verspaatig gha hät.",
+          "german": "Tut mir leid, weil der Zug Verspätung hatte.",
+          "english": "I'm sorry, because the train was delayed.",
+          "spanish": "Lo siento, porque el tren se retrasó."
+        },
+        {
+          "speaker": "Boss",
+          "swissGerman": "Und warum häsch nöd de nöchscht gno?",
+          "german": "Und warum hast du nicht den nächsten genommen?",
+          "english": "And why didn't you take the next one?",
+          "spanish": "¿Y por qué no cogiste el siguiente?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Will de nöchscht erscht in ere halbe Stund cho isch. Drum bini z'spaat.",
+          "german": "Weil der nächste erst in einer halben Stunde kam. Darum bin ich zu spät.",
+          "english": "Because the next one only came in half an hour. That's why I'm late.",
+          "spanish": "Porque el siguiente solo llegaba media hora después. Por eso llego tarde."
+        },
+        {
+          "speaker": "Boss",
+          "swissGerman": "Okay, ich verstah. Aber nöchscht Mol bitte aruefe, will mir müend planne.",
+          "german": "Okay, ich verstehe. Aber nächstes Mal bitte anrufen, weil wir planen müssen.",
+          "english": "Okay, I understand. But next time please call, because we need to plan.",
+          "spanish": "Bien, entiendo. Pero la próxima vez llama, porque necesitamos planificarlo."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, das machi, versprochen!",
+          "german": "Ja, das mache ich, versprochen!",
+          "english": "Yes, I'll do that, promised!",
+          "spanish": "Sí, lo haré, ¡lo prometo!"
+        },
+        {
+          "speaker": "Boss",
+          "swissGerman": "Guet. Und wenn du nöchscht Mal e Verspaatig häsch, schrib mir kurz uf WhatsApp.",
+          "german": "Gut. Und wenn du nächstes Mal Verspätung hast, schreib mir kurz auf WhatsApp.",
+          "english": "Good. And if you're late next time, drop me a quick message on WhatsApp.",
+          "spanish": "Bien. Y si llegas tarde la próxima vez, mándame un mensaje rápido por WhatsApp."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Selbstverständlich! Das machi bi de nöchschte Mal sofort.",
+          "german": "Selbstverständlich! Das mache ich beim nächsten Mal sofort.",
+          "english": "Of course! I'll do that right away next time.",
+          "spanish": "¡Por supuesto! La próxima vez lo hago así."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "will",
+          "german": "weil",
+          "explanation": "'will' = 'weil' (because). Despite looking like English 'will', it means 'because' in Swiss German!"
+        },
+        {
+          "swissGerman": "drum",
+          "german": "darum / deshalb",
+          "explanation": "'drum' = 'darum/deshalb' (that's why / therefore). Short and very common."
+        },
+        {
+          "swissGerman": "gha hät",
+          "german": "gehabt hat",
+          "explanation": "'gha' = 'gehabt'. Swiss past participle of 'haben'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Will",
+          "german": "Weil",
+          "english": "Because"
+        },
+        {
+          "swissGerman": "Drum / Dorum",
+          "german": "Darum / Deshalb",
+          "english": "That's why / Therefore"
+        },
+        {
+          "swissGerman": "Obwohl",
+          "german": "Obwohl",
+          "english": "Although"
+        }
+      ]
+    },
+    {
+      "id": "basic-connectors-4",
+      "level": "intermediate",
+      "title": "Then — describing a sequence",
+      "situation": "You describe your morning routine step by step to a new flatmate.",
+      "lines": [
+        {
+          "speaker": "Flatmate",
+          "swissGerman": "Wie isch din Morge so?",
+          "german": "Wie ist dein Morgen so?",
+          "english": "What's your morning like?",
+          "spanish": "¿Cómo es tu mañana?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Zerscht stani uf, denn dusch ich mi.",
+          "german": "Zuerst stehe ich auf, dann dusche ich mich.",
+          "english": "First I get up, then I take a shower.",
+          "spanish": "Primero me levanto, luego me ducho."
+        },
+        {
+          "speaker": "Flatmate",
+          "swissGerman": "Und denn?",
+          "german": "Und dann?",
+          "english": "And then?",
+          "spanish": "¿Y luego?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Denn machi mir en Kafi und denn z'Morge.",
+          "german": "Dann mache ich mir einen Kaffee und dann Frühstück.",
+          "english": "Then I make myself a coffee and then breakfast.",
+          "spanish": "Entonces me hago un café y luego el desayuno."
+        },
+        {
+          "speaker": "Flatmate",
+          "swissGerman": "Und danach gasch go schaffe?",
+          "german": "Und danach gehst du arbeiten?",
+          "english": "And after that you go to work?",
+          "spanish": "¿Y después vas a trabajar?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Genau, zerscht Kafi, denn z'Morge, denn go schaffe. Immer s'gliiche!",
+          "german": "Genau, erst Kaffee, dann Frühstück, dann arbeiten gehen. Immer das gleiche!",
+          "english": "Exactly, first coffee, then breakfast, then work. Always the same!",
+          "spanish": "Exacto, primero café, luego desayuno, luego trabajo. ¡Siempre lo mismo!"
+        },
+        {
+          "speaker": "Flatmate",
+          "swissGerman": "Und denn gasch scho um siibe ab?",
+          "german": "Und dann gehst du schon um sieben weg?",
+          "english": "And then you leave at seven already?",
+          "spanish": "¿Y luego sales a las siete ya?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Genau, um siibe. Ich mags wenn s'Büro no ruhig isch.",
+          "german": "Genau, um sieben. Ich mag es wenn das Büro noch ruhig ist.",
+          "english": "Exactly, at seven. I like it when the office is still quiet.",
+          "spanish": "Exacto, a las siete. Me gusta cuando la oficina todavía está tranquila."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "denn",
+          "german": "dann",
+          "explanation": "'denn' = 'dann' (then). The key sequencing word. Used to chain events."
+        },
+        {
+          "swissGerman": "zerscht",
+          "german": "zuerst",
+          "explanation": "'zerscht' = 'zuerst' (first). Starts many sequences."
+        },
+        {
+          "swissGerman": "danach",
+          "german": "danach",
+          "explanation": "'danach' (after that) is the same. Used for what follows next."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Denn",
+          "german": "Dann",
+          "english": "Then"
+        },
+        {
+          "swissGerman": "Zerscht",
+          "german": "Zuerst",
+          "english": "First"
+        },
+        {
+          "swissGerman": "Danach",
+          "german": "Danach",
+          "english": "After that"
+        }
+      ]
+    },
+    {
+      "id": "basic-connectors-5",
+      "level": "intermediate",
+      "title": "Mixing connectors in a story",
+      "situation": "You tell a friend about a chaotic day using all the connectors naturally.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Du, ich ha hüt en verruckte Tag gha.",
+          "german": "Du, ich hatte heute einen verrückten Tag.",
+          "english": "You know, I had a crazy day today.",
+          "spanish": "Sabes, hoy he tenido un día de locura."
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Was isch passiert?",
+          "german": "Was ist passiert?",
+          "english": "What happened?",
+          "spanish": "¿Qué pasó?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Zerscht ha ich min Schlüssel vergässe, aber ich ha's nöd gmerkt.",
+          "german": "Zuerst habe ich meinen Schlüssel vergessen, aber ich habe es nicht gemerkt.",
+          "english": "First I forgot my key, but I didn't notice.",
+          "spanish": "Primero se me olvidó la llave, pero no me di cuenta."
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Und denn?",
+          "german": "Und dann?",
+          "english": "And then?",
+          "spanish": "¿Y luego?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Denn bini go poschte, will der Chüelschrank leer gsi isch. Aber de Lade isch zue gsi, will Fiirig isch!",
+          "german": "Dann bin ich einkaufen gegangen, weil der Kühlschrank leer war. Aber der Laden war zu, weil Feiertag ist!",
+          "english": "Then I went grocery shopping because the fridge was empty. But the store was closed because it's a holiday!",
+          "spanish": "Luego fui a hacer la compra porque la nevera estaba vacía. ¡Pero la tienda estaba cerrada porque era festivo!"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Ha ha! Also kei Schlüssel und kei Ässe!",
+          "german": "Ha ha! Also kein Schlüssel und kein Essen!",
+          "english": "Ha ha! So no key and no food!",
+          "spanish": "¡Ja, ja! ¡Así que sin llave y sin comida!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Genau! Drum bini jetzt da bi dir, will ich hungrig bi und kalt ha!",
+          "german": "Genau! Deshalb bin ich jetzt bei dir, weil ich hungrig bin und kalt habe!",
+          "english": "Exactly! That's why I'm here at your place, because I'm hungry and cold!",
+          "spanish": "¡Exacto! Por eso estoy aquí en tu casa, ¡porque tengo hambre y frío!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "also",
+          "german": "also",
+          "explanation": "'also' (so/therefore) is the same. Used to draw conclusions from what was said."
+        },
+        {
+          "swissGerman": "will + will",
+          "german": "weil + weil",
+          "explanation": "Two 'will' (because) clauses can stack — just like 'because' in English."
+        },
+        {
+          "swissGerman": "Fiirig",
+          "german": "Feiertag",
+          "explanation": "'Fiirig' = 'Feiertag'. Swiss German term for public holiday."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Also",
+          "german": "Also",
+          "english": "So / Therefore"
+        },
+        {
+          "swissGerman": "Zerscht... denn... aber... will... drum",
+          "german": "Zuerst... dann... aber... weil... deshalb",
+          "english": "First... then... but... because... that's why"
+        },
+        {
+          "swissGerman": "Und denn?",
+          "german": "Und dann?",
+          "english": "And then?",
+          "spanish": "¿Y luego?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,523 @@
+{
+  "id": "pausenplatz",
+  "topicId": "family-school",
+  "title": "Pausenplatz (School Yard)",
+  "description": "Recess time at school — playing, snacking, and socializing on the Pausenplatz",
+  "dialogues": [
+    {
+      "id": "pausenplatz-1",
+      "level": "beginner",
+      "title": "Recess snack time",
+      "situation": "Kids eat their Znüni during the morning break.",
+      "lines": [
+        {
+          "speaker": "Child",
+          "swissGerman": "Yes, Pause! Ich ha Hunger. Was häsch du als Znüni?",
+          "german": "Yes, Pause! Ich habe Hunger. Was hast du als Znüni?",
+          "english": "Yes, break time! I'm hungry. What do you have for snack?",
+          "spanish": "Sí, ¡es el recreo! Tengo hambre. ¿Qué traes para picar?"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "En Öpfel und es Vollkornbrot. Und du?",
+          "german": "Einen Apfel und ein Vollkornbrot. Und du?",
+          "english": "An apple and whole grain bread. And you?",
+          "spanish": "Una manzana y pan integral. ¿Y tú?"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Rüebli und en Müesliriegel. Wottsch tuusche?",
+          "german": "Karotten und einen Müsliriegel. Willst du tauschen?",
+          "english": "Carrots and a granola bar. Want to swap?",
+          "spanish": "Zanahorias y una barrita de granola. ¿Quieres cambiar?"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Ja, ich nimm s'Rüebli und du de Öpfel!",
+          "german": "Ja, ich nehme die Karotte und du den Apfel!",
+          "english": "Yes, I'll take the carrot and you the apple!",
+          "spanish": "Sí, ¡yo cojo la zanahoria y tú la manzana!"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Chum, mir sitzed uf de Treppe und ässed dört.",
+          "german": "Komm, wir sitzen auf der Treppe und essen dort.",
+          "english": "Come on, let's sit on the steps and eat there.",
+          "spanish": "Venga, sentémonos en los escalones y comemos allí."
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Guet, aber schnäll. Mir wänd no go Fangis spile!",
+          "german": "Gut, aber schnell. Wir wollen noch Fangen spielen!",
+          "english": "Good, but fast. We still want to play tag!",
+          "spanish": "Bien, pero rápido. ¡Todavía queremos jugar al pilla-pilla!"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Und nach Fangis? Chömmer no en Rundi Seilspringen mache?",
+          "german": "Und nach dem Fangen? Können wir noch eine Runde Seilspringen machen?",
+          "english": "And after tag? Can we also do a round of jump rope?",
+          "spanish": "¿Y después del pilla-pilla? ¿También podemos hacer una ronda de saltar a la comba?"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Ja! Aber mir müend ersch Pause-Ende abwarte. D'Glocke lütet in zwöi Minute.",
+          "german": "Ja! Aber wir müssen erst Pausenende abwarten. Die Glocke läutet in zwei Minuten.",
+          "english": "Yes! But we have to wait for break's end. The bell rings in two minutes.",
+          "spanish": "Sí, pero tenemos que esperar a que acabe el recreo. El timbre suena en dos minutos."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Znüni",
+          "german": "Pausensnack",
+          "explanation": "'Znüni' = morning snack at 9:00. Swiss tradition."
+        },
+        {
+          "swissGerman": "Rüebli",
+          "german": "Karotten",
+          "explanation": "'Rüebli' = 'Karotten'. Very Swiss word."
+        },
+        {
+          "swissGerman": "Müesliriegel",
+          "german": "Müsliriegel",
+          "explanation": "'Müesli-' = 'Müsli-'. Swiss spelling."
+        },
+        {
+          "swissGerman": "Fangis",
+          "german": "Fangen",
+          "explanation": "'Fangis' = 'Fangen'. Swiss word for tag."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Znüni",
+          "german": "Pausensnack",
+          "english": "morning snack"
+        },
+        {
+          "swissGerman": "Rüebli",
+          "german": "Karotten",
+          "english": "carrots"
+        },
+        {
+          "swissGerman": "tuusche",
+          "german": "tauschen",
+          "english": "to swap"
+        }
+      ]
+    },
+    {
+      "id": "pausenplatz-2",
+      "level": "beginner",
+      "title": "Playing Völkerball",
+      "situation": "The kids organize a game of dodgeball during recess.",
+      "lines": [
+        {
+          "speaker": "Child",
+          "swissGerman": "Hey, spile mir Völkerball? Mir bruuched no Lüüt!",
+          "german": "Hey, spielen wir Völkerball? Wir brauchen noch Leute!",
+          "english": "Hey, shall we play dodgeball? We need more people!",
+          "spanish": "¡Oye, ¿jugamos al balón prisionero? ¡Necesitamos más gente!"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Ja! Ich bi im Team vo de Sarah.",
+          "german": "Ja! Ich bin im Team von Sarah.",
+          "english": "Yes! I'm on Sarah's team.",
+          "spanish": "Sí, soy del equipo de Sarah."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Okay, denn mach ich es Team mit em Leon und de Mia.",
+          "german": "Okay, dann mache ich ein Team mit Leon und Mia.",
+          "english": "Okay, then I'll make a team with Leon and Mia.",
+          "spanish": "Bien, entonces hago equipo con Leon y Mia."
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Wer macht de Aawurf?",
+          "german": "Wer macht den Anwurf?",
+          "english": "Who does the first throw?",
+          "spanish": "¿Quién hace el primer lanzamiento?"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Mir mached Schnick-Schnack-Schnuck! De Gwünner fängt aa.",
+          "german": "Wir machen Schnick-Schnack-Schnuck! Der Gewinner fängt an.",
+          "english": "We'll do rock-paper-scissors! The winner starts.",
+          "spanish": "¡Haremos piedra, papel o tijera! El ganador empieza."
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Gopf, troffe! Ich muess ufs Feld!",
+          "german": "Mist, getroffen! Ich muss aufs Feld!",
+          "english": "Darn, hit! I have to go to the field!",
+          "spanish": "¡Vaya, toco! ¡Tengo que salir al campo!"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Kei Sorge, bald bisch wieder ine! Chatch de Ball fanä und wieder im Spiel.",
+          "german": "Keine Sorge, bald bist du wieder drin! Fang den Ball und du bist wieder im Spiel.",
+          "english": "No worries, you'll be back in soon! Catch the ball and you're back in the game.",
+          "spanish": "No te preocupes, ¡enseguida vuelves! Atrapa la pelota y vuelves al juego."
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Okay! Ich wärte, ich bin gut im Fange — ich chum schnell zrück!",
+          "german": "Okay! Ich warte, ich bin gut im Fangen — ich komme schnell zurück!",
+          "english": "Okay! I'll wait, I'm good at catching — I'll be back quickly!",
+          "spanish": "¡Bien! ¡Espera, soy bueno atrapando — vuelvo rápido!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Völkerball",
+          "german": "Völkerball/Dodgeball",
+          "explanation": "Traditional Swiss school game, similar to dodgeball."
+        },
+        {
+          "swissGerman": "Aawurf",
+          "german": "Anwurf",
+          "explanation": "'Aawurf' = 'Anwurf'. 'An-' → 'Aa-'."
+        },
+        {
+          "swissGerman": "Schnick-Schnack-Schnuck",
+          "german": "Stein-Schere-Papier",
+          "explanation": "Swiss name for rock-paper-scissors."
+        },
+        {
+          "swissGerman": "Gopf",
+          "german": "Mist",
+          "explanation": "'Gopf' = mild Swiss exclamation of frustration."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Völkerball",
+          "german": "Völkerball",
+          "english": "dodgeball"
+        },
+        {
+          "swissGerman": "Schnick-Schnack-Schnuck",
+          "german": "Schere-Stein-Papier",
+          "english": "rock-paper-scissors"
+        },
+        {
+          "swissGerman": "Gopf",
+          "german": "Mist",
+          "english": "darn"
+        }
+      ]
+    },
+    {
+      "id": "pausenplatz-3",
+      "level": "intermediate",
+      "title": "A conflict at recess",
+      "situation": "Two kids have a disagreement and need to resolve it.",
+      "lines": [
+        {
+          "speaker": "Child",
+          "swissGerman": "Du häsch gschummlet! Das zellt nöd!",
+          "german": "Du hast geschummelt! Das zählt nicht!",
+          "english": "You cheated! That doesn't count!",
+          "spanish": "¡Hiciste trampa! ¡Eso no cuenta!"
+        },
+        {
+          "speaker": "Other Child",
+          "swissGerman": "Ich ha nöd gschummlet! Du bisch eifach en schlechte Verlierer!",
+          "german": "Ich habe nicht geschummelt! Du bist einfach ein schlechter Verlierer!",
+          "english": "I didn't cheat! You're just a sore loser!",
+          "spanish": "¡No hice trampa! ¡Tú solo eres mal perdedor!"
+        },
+        {
+          "speaker": "Teacher",
+          "swissGerman": "Stopp! Was isch da los? Eis nochsem andere bitte.",
+          "german": "Stopp! Was ist hier los? Einer nach dem anderen bitte.",
+          "english": "Stop! What's going on here? One at a time please.",
+          "spanish": "¡Alto! ¿Qué está pasando aquí? De uno en uno, por favor."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Er hät de Ball mit em Fuess gschpilt, und das isch bi Völkerball verbote!",
+          "german": "Er hat den Ball mit dem Fuß gespielt, und das ist bei Völkerball verboten!",
+          "english": "He played the ball with his foot, and that's against the rules in dodgeball!",
+          "spanish": "¡Jugó la pelota con el pie, y eso va contra las reglas del balón prisionero!"
+        },
+        {
+          "speaker": "Teacher",
+          "swissGerman": "Okay, denn gältet de Punkt nöd. Aber jetzt gönd euch d'Händ gäh und wiiterspile.",
+          "german": "Okay, dann gilt der Punkt nicht. Aber jetzt gebt euch die Hand und spielt weiter.",
+          "english": "Okay, then the point doesn't count. But now shake hands and keep playing.",
+          "spanish": "Bien, entonces el punto no cuenta. Pero ahora daos la mano y seguid jugando."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Okay... Sorry. Chum, mir mached wiiter.",
+          "german": "Okay... Sorry. Komm, wir machen weiter.",
+          "english": "Okay... Sorry. Come on, let's continue.",
+          "spanish": "Bien... Lo siento. Venga, seguimos."
+        },
+        {
+          "speaker": "Teacher",
+          "swissGerman": "Guet so. Und de nächschte Mal diskutiert zerscht, bevor ihr streited.",
+          "german": "Gut so. Und das nächste Mal diskutiert zuerst, bevor ihr streitet.",
+          "english": "Good. And next time discuss first before you argue.",
+          "spanish": "Bien. Y la próxima vez habla primero antes de discutir."
+        },
+        {
+          "speaker": "Other Child",
+          "swissGerman": "Ja, Herr Lehrer. Mir mäched das näschte Mal besser.",
+          "german": "Ja, Herr Lehrer. Wir machen das nächste Mal besser.",
+          "english": "Yes, Mr. Teacher. We'll do better next time.",
+          "spanish": "Sí, señor Profesor. La próxima vez lo haremos mejor."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "gschummlet",
+          "german": "geschummelt",
+          "explanation": "'gschummlet' = 'geschummelt'. 'Ge-' → 'G-'."
+        },
+        {
+          "swissGerman": "zellt",
+          "german": "zählt",
+          "explanation": "'zellt' = 'zählt'. Swiss form."
+        },
+        {
+          "swissGerman": "gältet",
+          "german": "gilt",
+          "explanation": "'gältet' = 'gilt'. Swiss conjugation."
+        },
+        {
+          "swissGerman": "wiiterspile",
+          "german": "weiterspielen",
+          "explanation": "'wiiterspile' = 'weiterspielen'. 'Weiter-' → 'Wiiter-'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "gschummlet",
+          "german": "geschummelt",
+          "english": "cheated"
+        },
+        {
+          "swissGerman": "verbote",
+          "german": "verboten",
+          "english": "forbidden"
+        },
+        {
+          "swissGerman": "Sorry",
+          "german": "Entschuldigung",
+          "english": "sorry"
+        }
+      ]
+    },
+    {
+      "id": "pausenplatz-4",
+      "level": "beginner",
+      "title": "Jumping rope",
+      "situation": "A group of kids jump rope together.",
+      "lines": [
+        {
+          "speaker": "Child",
+          "swissGerman": "Mir mached Seilspringge! Wer macht mit?",
+          "german": "Wir machen Seilspringen! Wer macht mit?",
+          "english": "We're doing jump rope! Who's joining?",
+          "spanish": "¡Estamos saltando a la comba! ¿Quién se une?"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Ich! Wer haltet s'Seil?",
+          "german": "Ich! Wer hält das Seil?",
+          "english": "Me! Who holds the rope?",
+          "spanish": "¡Yo! ¿Quién sujeta la cuerda?"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "De Tim und d'Mia halted. Mir springed!",
+          "german": "Tim und Mia halten. Wir springen!",
+          "english": "Tim and Mia hold it. We jump!",
+          "spanish": "¡Tim y Mia lo sujetan. Saltamos!"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Okay, ich zell: Eis, zwei, drü, vier, füf, sächs...",
+          "german": "Okay, ich zähle: Eins, zwei, drei, vier, fünf, sechs...",
+          "english": "Okay, I'll count: One, two, three, four, five, six...",
+          "spanish": "Bien, cuento: uno, dos, tres, cuatro, cinco, seis..."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Mist, ich bi hänge blibe! Wie viel hani gschafft?",
+          "german": "Mist, ich bin hängengeblieben! Wie viel habe ich geschafft?",
+          "english": "Darn, I got caught! How many did I manage?",
+          "spanish": "¡Vaya, me pillaron! ¿Cuántos conseguí?"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Sächzäh! Neuer Rekord! Jetzt bin ich draa!",
+          "german": "Sechzehn! Neuer Rekord! Jetzt bin ich dran!",
+          "english": "Sixteen! New record! Now it's my turn!",
+          "spanish": "¡Dieciséis! ¡Nuevo récord! ¡Ahora me toca a mí!"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Okay, und ich zäll jetzt. Bi Sächzäh gits en neus Rekord für dich!",
+          "german": "Okay, und ich zähle jetzt. Bei Sechzehn gibt es einen neuen Rekord für dich!",
+          "english": "Okay, and I'll count now. At sixteen you'll have a new record!",
+          "spanish": "Bien, y cuento ahora. ¡A los dieciséis tendrás un nuevo récord!"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Top! Ich versuch's mit drüssig! Tim hatt amal zwünzg gschafft!",
+          "german": "Top! Ich versuche dreissig! Tim hat einmal zwanzig geschafft!",
+          "english": "Deal! I'm going for thirty! Tim once managed twenty!",
+          "spanish": "¡Trato! ¡Voy a por treinta! ¡Tim una vez llegó a veinte!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Seilspringge",
+          "german": "Seilspringen",
+          "explanation": "'Seilspringge' = 'Seilspringen'. Swiss form."
+        },
+        {
+          "swissGerman": "drü",
+          "german": "drei",
+          "explanation": "'drü' = 'drei'. Swiss number."
+        },
+        {
+          "swissGerman": "sächs",
+          "german": "sechs",
+          "explanation": "'sächs' = 'sechs'. Swiss pronunciation."
+        },
+        {
+          "swissGerman": "hänge blibe",
+          "german": "hängengeblieben",
+          "explanation": "'hänge blibe' = 'hängengeblieben'. Got tangled."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Seilspringge",
+          "german": "Seilspringen",
+          "english": "jump rope"
+        },
+        {
+          "swissGerman": "draa",
+          "german": "dran",
+          "english": "one's turn"
+        },
+        {
+          "swissGerman": "Rekord",
+          "german": "Rekord",
+          "english": "record"
+        }
+      ]
+    },
+    {
+      "id": "pausenplatz-5",
+      "level": "intermediate",
+      "title": "The bell rings",
+      "situation": "Recess ends and the kids head back to class.",
+      "lines": [
+        {
+          "speaker": "Friend",
+          "swissGerman": "D'Glocke hät glüttet! Mir müend ine!",
+          "german": "Die Glocke hat geläutet! Wir müssen rein!",
+          "english": "The bell rang! We need to go inside!",
+          "spanish": "¡Sonó el timbre! ¡Tenemos que entrar!"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Neeei, d'Pause isch scho verbii? Das isch immer so schnäll!",
+          "german": "Neein, die Pause ist schon vorbei? Das geht immer so schnell!",
+          "english": "Nooo, break is already over? It always goes so fast!",
+          "spanish": "¡Noooo, ya se acabó el recreo? ¡Siempre pasa tan rápido!"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Uf was hämmer jetzt? Mathe?",
+          "german": "Was haben wir jetzt? Mathe?",
+          "english": "What do we have now? Maths?",
+          "spanish": "¿Qué tenemos ahora? ¿Matemáticas?"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Nei, NMG. Mir mached e Experiment hüt!",
+          "german": "Nein, NMG. Wir machen ein Experiment heute!",
+          "english": "No, NMG. We're doing an experiment today!",
+          "spanish": "No, NMG. ¡Hoy hacemos un experimento!"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Cool! Ich muess no schnäll uf s'WC. Gang scho vor!",
+          "german": "Cool! Ich muss noch schnell aufs WC. Geh schon vor!",
+          "english": "Cool! I need to quickly go to the bathroom. Go ahead!",
+          "spanish": "¡Genial! Necesito ir al baño un momento. ¡Id adelante!"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Okay, aber beil dich! De Lehrer wartet nöd.",
+          "german": "Okay, aber beeil dich! Der Lehrer wartet nicht.",
+          "english": "Okay, but hurry! The teacher won't wait.",
+          "spanish": "Bien, pero ¡date prisa! El maestro no espera."
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Warte mal, ich ha mi Jacke vergesse am Pausenplatz!",
+          "german": "Warte mal, ich habe meine Jacke vergessen auf dem Pausenplatz!",
+          "english": "Wait, I forgot my jacket on the playground!",
+          "spanish": "¡Espera, olvidé mi chaqueta en el patio de recreo!"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Ich gäh mit! Mir chömed de ufem schnellschte Wäg zrück — um's Eck und dur d'Träppe!",
+          "german": "Ich gehe mit! Wir kommen auf dem schnellsten Weg zurück — ums Eck und durch die Treppe!",
+          "english": "I'll come! We'll take the fastest route back — round the corner and through the stairs!",
+          "spanish": "¡Voy! Tomaremos el camino más rápido de vuelta — ¡por la esquina y por las escaleras!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "glüttet",
+          "german": "geläutet",
+          "explanation": "'glüttet' = 'geläutet'. Swiss form of 'ring'."
+        },
+        {
+          "swissGerman": "verbii",
+          "german": "vorbei",
+          "explanation": "'verbii' = 'vorbei'. Vowel doubling."
+        },
+        {
+          "swissGerman": "NMG",
+          "german": "Natur-Mensch-Gesellschaft",
+          "explanation": "NMG: Swiss integrated subject covering nature, people, society."
+        },
+        {
+          "swissGerman": "beil dich",
+          "german": "beeil dich",
+          "explanation": "'beil dich' = 'beeil dich'. Shortened."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Glocke",
+          "german": "Glocke",
+          "english": "bell"
+        },
+        {
+          "swissGerman": "NMG",
+          "german": "Natur-Mensch-Gesellschaft",
+          "english": "nature-people-society (subject)"
+        },
+        {
+          "swissGerman": "verbii",
+          "german": "vorbei",
+          "english": "over/finished"
+        }
+      ]
+    }
+  ]
+}

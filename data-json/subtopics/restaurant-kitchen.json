@@ -1,0 +1,528 @@
+{
+  "id": "restaurant-kitchen",
+  "topicId": "work",
+  "title": "Working in a Restaurant Kitchen",
+  "description": "Cooking, taking orders, and teamwork in a busy Swiss restaurant",
+  "dialogues": [
+    {
+      "id": "kitchen-1",
+      "level": "beginner",
+      "title": "Start of the shift",
+      "situation": "You arrive for your shift and check what needs to be prepared.",
+      "lines": [
+        {
+          "speaker": "Head Chef",
+          "swissGerman": "Guete Aabig! Mir händ hüt vili Reservatione. S'wird strässig.",
+          "german": "Guten Abend! Wir haben heute viele Reservierungen. Es wird stressig.",
+          "english": "Good evening! We have many reservations today. It's going to be stressful.",
+          "spanish": "¡Buenas noches! Tenemos muchas reservas hoy. Va a ser estresante."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Was muess ich vorbereite?",
+          "german": "Was muss ich vorbereiten?",
+          "english": "What do I need to prepare?",
+          "spanish": "¿Qué tengo que preparar?"
+        },
+        {
+          "speaker": "Head Chef",
+          "swissGerman": "D'Salaatsauce mache und s'Gmüehs rüschte. Und denn d'Supe ufsetze.",
+          "german": "Die Salatsauce machen und das Gemüse putzen. Und dann die Suppe aufsetzen.",
+          "english": "Make the salad dressing and clean the vegetables. Then put on the soup.",
+          "spanish": "Haz el aliño de la ensalada y limpia las verduras. Luego pon la sopa."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Okay, ich fang grad aa. Häts gnueg Rüebli?",
+          "german": "Okay, ich fange gleich an. Gibt es genug Karotten?",
+          "english": "Okay, I'll start right away. Are there enough carrots?",
+          "spanish": "Bien, empiezo enseguida. ¿Hay suficientes zanahorias?"
+        },
+        {
+          "speaker": "Head Chef",
+          "swissGerman": "Ja, im Chüelschrank. Und d'Zwiibele sind im Lager.",
+          "german": "Ja, im Kühlschrank. Und die Zwiebeln sind im Lager.",
+          "english": "Yes, in the fridge. And the onions are in the storage room.",
+          "spanish": "Sí, en la nevera. Y las cebollas están en el almacén."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Bin scho underwegs!",
+          "german": "Bin schon unterwegs!",
+          "english": "Already on it!",
+          "spanish": "¡Ya está en ello!"
+        },
+        {
+          "speaker": "Head Chef",
+          "swissGerman": "Guet. Und wenn du fertig bisch mit em Gmüeh, mach d'Salaatsauce. Olivenol und Zitrone isch drin.",
+          "german": "Gut. Und wenn du fertig bist mit dem Gemüse, mach die Salatsauce. Olivenöl und Zitrone ist drin.",
+          "english": "Good. And when you're done with the vegetables, make the salad dressing. Olive oil and lemon are in there.",
+          "spanish": "Bien. Y cuando termines con las verduras, haz el aliño de la ensalada. El aceite de oliva y el limón están ahí."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und Senf au? Mir händ geschter no Dijonsenf gha.",
+          "german": "Und Senf auch? Wir hatten gestern noch Dijonsenf.",
+          "english": "And mustard too? We still had Dijon mustard yesterday.",
+          "spanish": "¿Y también mostaza? Todavía teníamos mostaza de Dijon ayer."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Reservatione",
+          "german": "Reservierungen",
+          "explanation": "'-ungen' → '-one' pattern in some Swiss dialects."
+        },
+        {
+          "swissGerman": "Gmüehs",
+          "german": "Gemüse",
+          "explanation": "'Gmüehs' = 'Gemüse'. Swiss German form."
+        },
+        {
+          "swissGerman": "rüschte",
+          "german": "putzen/vorbereiten",
+          "explanation": "'rüschte' = 'putzen/schälen'. Swiss kitchen term."
+        },
+        {
+          "swissGerman": "Rüebli",
+          "german": "Karotten",
+          "explanation": "'Rüebli' = 'Karotten'. Iconic Swiss German word."
+        },
+        {
+          "swissGerman": "Chüelschrank",
+          "german": "Kühlschrank",
+          "explanation": "'Chüelschrank' = 'Kühlschrank'. K→Ch."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Gmüehs rüschte",
+          "german": "Gemüse putzen",
+          "english": "to clean/prep vegetables"
+        },
+        {
+          "swissGerman": "Rüebli",
+          "german": "Karotten",
+          "english": "carrots"
+        },
+        {
+          "swissGerman": "Chüelschrank",
+          "german": "Kühlschrank",
+          "english": "fridge"
+        }
+      ]
+    },
+    {
+      "id": "kitchen-2",
+      "level": "beginner",
+      "title": "Taking a food order",
+      "situation": "The waiter brings a food order to the kitchen.",
+      "lines": [
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Bstellig! Zwöi Mal Züri Gschnätzlets und einmal Röschti.",
+          "german": "Bestellung! Zweimal Zürcher Geschnetzeltes und einmal Rösti.",
+          "english": "Order! Two Zurich-style sliced meat and one Rösti.",
+          "spanish": "¡Pedido! Dos carne de Zúrich y un Rösti."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Isch nomal! Hät de Tisch spezielli Wünsch?",
+          "german": "Ist notiert! Hat der Tisch spezielle Wünsche?",
+          "english": "Noted! Does the table have special requests?",
+          "spanish": "¡Anotado! ¿La mesa tiene alguna petición especial?"
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Ja, eini isch laktoseintolerant. Ohni Rahm bitte.",
+          "german": "Ja, eine ist laktoseintolerant. Ohne Rahm bitte.",
+          "english": "Yes, one is lactose intolerant. Without cream please.",
+          "spanish": "Sí, una es intolerante a la lactosa. Sin nata por favor."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Okay, ohni Rahm. Isch in zehn Minute parat.",
+          "german": "Okay, ohne Rahm. Ist in zehn Minuten fertig.",
+          "english": "Okay, no cream. Ready in ten minutes.",
+          "spanish": "Bien, sin nata. Listo en diez minutos."
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Merci! Und Tisch füüf wottet no Dessert, d'Charte bitte.",
+          "german": "Danke! Und Tisch fünf möchte noch Dessert, die Karte bitte.",
+          "english": "Thanks! And table five wants dessert, the menu please.",
+          "spanish": "¡Gracias! ¿Y la mesa cinco quiere el postre, la carta por favor?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "D'Dessert-Charte liegt bim Pass. Nimm si mit!",
+          "german": "Die Dessertkarte liegt beim Pass. Nimm sie mit!",
+          "english": "The dessert menu is at the pass. Take it!",
+          "spanish": "La carta de postres está en el pase. ¡Tómala!"
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Merci! Und Tisch siibe fragt ob mir au Glacewafflä händ.",
+          "german": "Danke! Und Tisch sieben fragt, ob wir auch Eis-Waffeln haben.",
+          "english": "Thanks! And table seven asks if we also have ice cream wafers.",
+          "spanish": "¡Gracias! ¿Y la mesa siete pregunta si también tienen barquillos de helado?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Nei, das sch in de Charte, aber mir händ hut nur Coupe Daniäl äs Dessert.",
+          "german": "Nein, das steht in der Karte, aber wir haben heute nur Coupe Daniel als Dessert.",
+          "english": "No, that's in the menu, but today we only have Coupe Daniel as dessert.",
+          "spanish": "No, ese está en el menú, pero hoy solo tenemos Coupe Daniel de postre."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Bstellig",
+          "german": "Bestellung",
+          "explanation": "'Bstellig' = 'Bestellung'. Shortened prefix, '-ung' → '-ig'."
+        },
+        {
+          "swissGerman": "Gschnätzlets",
+          "german": "Geschnetzeltes",
+          "explanation": "'Gschnätzlets' = 'Geschnetzeltes'. Iconic Zurich dish."
+        },
+        {
+          "swissGerman": "Rahm",
+          "german": "Sahne/Rahm",
+          "explanation": "Swiss German uses 'Rahm' for cream (not 'Sahne')."
+        },
+        {
+          "swissGerman": "Charte",
+          "german": "Karte",
+          "explanation": "'Charte' = 'Karte'. K→Ch."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Bstellig",
+          "german": "Bestellung",
+          "english": "order"
+        },
+        {
+          "swissGerman": "Gschnätzlets",
+          "german": "Geschnetzeltes",
+          "english": "sliced meat"
+        },
+        {
+          "swissGerman": "ohni Rahm",
+          "german": "ohne Sahne",
+          "english": "without cream"
+        }
+      ]
+    },
+    {
+      "id": "kitchen-3",
+      "level": "intermediate",
+      "title": "Dealing with a rush",
+      "situation": "The kitchen is slammed and the team needs to coordinate.",
+      "lines": [
+        {
+          "speaker": "Head Chef",
+          "swissGerman": "Los, los! Mir händ sächs Bstellige ufem Pass! Wer macht d'Vorspiise?",
+          "german": "Los, los! Wir haben sechs Bestellungen auf dem Pass! Wer macht die Vorspeisen?",
+          "english": "Let's go! We have six orders on the pass! Who's doing starters?",
+          "spanish": "¡Vamos! ¡Tenemos seis pedidos en la pase! ¿Quién hace los entrantes?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich mach d'Salät und d'Supe. D'Salät sind in zwöi Minute parat.",
+          "german": "Ich mache die Salate und die Suppe. Die Salate sind in zwei Minuten fertig.",
+          "english": "I'll do the salads and soup. Salads ready in two minutes.",
+          "spanish": "Yo haré las ensaladas y la sopa. Ensaladas listas en dos minutos."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "D'Fisch-Bstellige übernimm ich. Wie lang brucht de Fleischposchte no?",
+          "german": "Die Fischbestellungen übernehme ich. Wie lang braucht der Fleischposten noch?",
+          "english": "I'll take the fish orders. How long does the meat station need?",
+          "spanish": "Yo me encargo de los pedidos de pescado. ¿Cuánto necesita la estación de carne?"
+        },
+        {
+          "speaker": "Head Chef",
+          "swissGerman": "Drü Minute für s'Entrecôte. Tisch zwöi cha scho use!",
+          "german": "Drei Minuten für das Entrecôte. Tisch zwei kann schon raus!",
+          "english": "Three minutes for the entrecôte. Table two can go out!",
+          "spanish": "Tres minutos para el entrecot. ¡La mesa dos puede salir!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Vorspiise Tisch zwei: parat! Ufe Pass!",
+          "german": "Vorspeise Tisch zwei: fertig! Auf den Pass!",
+          "english": "Starter table two: ready! On the pass!",
+          "spanish": "¡Mesa dos, primer plato listo! ¡Al pase!"
+        },
+        {
+          "speaker": "Head Chef",
+          "swissGerman": "Sauber! Wiiter so, mir schaffed das!",
+          "german": "Sauber! Weiter so, wir schaffen das!",
+          "english": "Clean! Keep it up, we've got this!",
+          "spanish": "¡Limpio! ¡Seguid así, podemos con esto!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Tisch driet isch au parat. D'Salate are bereit zum Service!",
+          "german": "Tisch drei ist auch fertig. Die Salate sind bereit zum Service!",
+          "english": "Table three is ready too. The salads are ready for service!",
+          "spanish": "La mesa tres también está lista. ¡Las ensaladas están listas para servir!"
+        },
+        {
+          "speaker": "Head Chef",
+          "swissGerman": "Top! Ich ruf wenn Tisch vier chunnt. Bliib konzentriert!",
+          "german": "Top! Ich rufe wenn Tisch vier kommt. Bleib konzentriert!",
+          "english": "Top! I'll call when table four comes. Stay focused!",
+          "spanish": "¡Genial! Llamaré cuando llegue la mesa cuatro. ¡Mantente concentrado!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Vorspiise",
+          "german": "Vorspeisen",
+          "explanation": "'Vorspiise' = 'Vorspeisen'. Vowel shift."
+        },
+        {
+          "swissGerman": "Fleischposchte",
+          "german": "Fleischposten",
+          "explanation": "'Poschte' = 'Posten'. Kitchen station."
+        },
+        {
+          "swissGerman": "use",
+          "german": "raus",
+          "explanation": "'use' = 'raus/hinaus'. Swiss direction particle."
+        },
+        {
+          "swissGerman": "Sauber!",
+          "german": "Sauber!",
+          "explanation": "Kitchen exclamation meaning 'clean/perfect!'"
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Vorspiise",
+          "german": "Vorspeisen",
+          "english": "starters"
+        },
+        {
+          "swissGerman": "de Pass",
+          "german": "der Pass",
+          "english": "the pass (where dishes go out)"
+        },
+        {
+          "swissGerman": "Wiiter so!",
+          "german": "Weiter so!",
+          "english": "Keep it up!"
+        }
+      ]
+    },
+    {
+      "id": "kitchen-4",
+      "level": "intermediate",
+      "title": "Menu planning with the chef",
+      "situation": "You discuss the weekly special menu with the head chef.",
+      "lines": [
+        {
+          "speaker": "Head Chef",
+          "swissGerman": "Mir müend s'Wuchemenü ändere. D'Spargel-Saison isch jetzt.",
+          "german": "Wir müssen das Wochenmenü ändern. Die Spargel-Saison ist jetzt.",
+          "english": "We need to change the weekly menu. Asparagus season is now.",
+          "spanish": "Tenemos que cambiar el menú semanal. La temporada de espárragos ya está aquí."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Wie wär's mit ere Spargle-Supe als Vorspiis?",
+          "german": "Wie wäre es mit einer Spargelsuppe als Vorspeise?",
+          "english": "How about asparagus soup as a starter?",
+          "spanish": "¿Qué tal sopa de espárragos como entrante?"
+        },
+        {
+          "speaker": "Head Chef",
+          "swissGerman": "Gueti Idee! Und als Hauptgang en Spargle-Risotto.",
+          "german": "Gute Idee! Und als Hauptgang ein Spargel-Risotto.",
+          "english": "Good idea! And as a main course asparagus risotto.",
+          "spanish": "¡Buena idea! Y de plato principal risotto de espárragos."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Söllemer de Risotto mit Parmesan oder mit Sbrinz mache?",
+          "german": "Sollen wir den Risotto mit Parmesan oder mit Sbrinz machen?",
+          "english": "Should we make the risotto with Parmesan or Sbrinz?",
+          "spanish": "¿Hacemos el risotto con parmesano o con Sbrinz?"
+        },
+        {
+          "speaker": "Head Chef",
+          "swissGerman": "Sbrinz natürlich! Mir sind i de Schwiiz, mir nähmed Schwiizer Chäs!",
+          "german": "Sbrinz natürlich! Wir sind in der Schweiz, wir nehmen Schweizer Käse!",
+          "english": "Sbrinz of course! We're in Switzerland, we use Swiss cheese!",
+          "spanish": "¡Sbrinz, por supuesto! ¡Estamos en Suiza, usamos queso suizo!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Haha, klar! Ich bstell grad de Sbrinz und d'Spargle bim Liferant.",
+          "german": "Haha, klar! Ich bestelle gleich den Sbrinz und den Spargel beim Lieferanten.",
+          "english": "Haha, right! I'll order the Sbrinz and asparagus from the supplier right away.",
+          "spanish": "Jaja, ¡cierto! Pediré el Sbrinz y los espárragos al proveedor enseguida."
+        },
+        {
+          "speaker": "Head Chef",
+          "swissGerman": "Und sag dem Liferant, mirs wend nur Inland-Spargle. Chasch das erwenne?",
+          "german": "Und sag dem Lieferanten, wir wollen nur Inland-Spargel. Kannst du das erwähnen?",
+          "english": "And tell the supplier, we want only domestic asparagus. Can you mention that?",
+          "spanish": "¿Y dile al proveedor que solo queremos espárragos nacionales. ¿Puedes mencionarlo?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Selbstverständlich. Ich merk's mir. Schwiizer Spargle wenn mögliich.",
+          "german": "Selbstverständlich. Ich merke es mir. Schweizer Spargel wenn möglich.",
+          "english": "Of course. I'll note it. Swiss asparagus when possible.",
+          "spanish": "Por supuesto. Lo anoto. Espárragos suizos si es posible."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Wuchemenü",
+          "german": "Wochenmenü",
+          "explanation": "'Wuche-' = 'Wochen-'."
+        },
+        {
+          "swissGerman": "Spargle",
+          "german": "Spargel",
+          "explanation": "'Spargle' = 'Spargel'. Rearranged letters."
+        },
+        {
+          "swissGerman": "Söllemer",
+          "german": "Sollen wir",
+          "explanation": "'Söllemer' = 'Sollen wir'. Verb+pronoun fusion."
+        },
+        {
+          "swissGerman": "Liferant",
+          "german": "Lieferant",
+          "explanation": "'Liferant' = 'Lieferant'. Shortened."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Wuchemenü",
+          "german": "Wochenmenü",
+          "english": "weekly menu"
+        },
+        {
+          "swissGerman": "Hauptgang",
+          "german": "Hauptgang",
+          "english": "main course"
+        },
+        {
+          "swissGerman": "Sbrinz",
+          "german": "Sbrinz",
+          "english": "Sbrinz (Swiss hard cheese)"
+        }
+      ]
+    },
+    {
+      "id": "kitchen-5",
+      "level": "beginner",
+      "title": "End of shift cleanup",
+      "situation": "The restaurant has closed and the team cleans the kitchen.",
+      "lines": [
+        {
+          "speaker": "Head Chef",
+          "swissGerman": "So, letschti Bstellig isch use. Mir putzed jetzt.",
+          "german": "So, letzte Bestellung ist raus. Wir putzen jetzt.",
+          "english": "Alright, last order is out. We clean now.",
+          "spanish": "Bueno, el último pedido está listo. Ahora limpiamos."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich mach d'Herdplatte und de Grill suuber.",
+          "german": "Ich mache die Herdplatte und den Grill sauber.",
+          "english": "I'll clean the stovetop and the grill.",
+          "spanish": "Limpiaré la encimera y la parrilla."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Ich rüüm de Chüelschrank uf und kontrollier s'Verfalldatum.",
+          "german": "Ich räume den Kühlschrank auf und kontrolliere das Verfallsdatum.",
+          "english": "I'll tidy the fridge and check expiration dates.",
+          "spanish": "Ordenaré la nevera y comprobaré las fechas de caducidad."
+        },
+        {
+          "speaker": "Head Chef",
+          "swissGerman": "Guet. Und vergässed nöd de Bode z'wüsche!",
+          "german": "Gut. Und vergesst nicht den Boden zu wischen!",
+          "english": "Good. And don't forget to mop the floor!",
+          "spanish": "Bien. ¡Y no olvides fregar el suelo!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Mach ich. In zwänzg Minute isch alles blitzblank.",
+          "german": "Mach ich. In zwanzig Minuten ist alles blitzsauber.",
+          "english": "Will do. In twenty minutes everything will be spotless.",
+          "spanish": "Lo haré. En veinte minutos todo estará impecable."
+        },
+        {
+          "speaker": "Head Chef",
+          "swissGerman": "Merci Lüüt, gueti Arbeit hüt! Schöne Fiirig.",
+          "german": "Danke Leute, gute Arbeit heute! Schönen Feierabend.",
+          "english": "Thanks everyone, good work today! Have a nice evening.",
+          "spanish": "Gracias a todos, ¡buen trabajo hoy! Que tengáis buena noche."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Dir au! Mir händ wirklich top teamwork hüt.",
+          "german": "Ihnen auch! Wir hatten wirklich top Teamwork heute.",
+          "english": "You too! We really had top teamwork today.",
+          "spanish": "¡Tú también! Realmente tuvimos un trabajo en equipo de primera hoy."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Jaja, und d'Reservatione vom Wuchenend sind au scho voll. Wird weder strässig!",
+          "german": "Jaja, und die Reservierungen vom Wochenende sind auch schon voll. Wird wieder stressig!",
+          "english": "Yes yes, and the weekend reservations are already full. It'll be stressful again!",
+          "spanish": "Sí, sí, ¡y las reservas del fin de semana ya están llenas. ¡Será estresante otra vez!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "suuber",
+          "german": "sauber",
+          "explanation": "'suuber' = 'sauber'. Vowel doubling."
+        },
+        {
+          "swissGerman": "rüüm...uf",
+          "german": "räume...auf",
+          "explanation": "'rüüme uf' = 'aufräumen'. Vowel shift."
+        },
+        {
+          "swissGerman": "Bode",
+          "german": "Boden",
+          "explanation": "'Bode' = 'Boden'. Dropped '-n'."
+        },
+        {
+          "swissGerman": "z'wüsche",
+          "german": "zu wischen",
+          "explanation": "'z'' = 'zu', 'wüsche' = 'wischen'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "suuber mache",
+          "german": "sauber machen",
+          "english": "to clean"
+        },
+        {
+          "swissGerman": "Bode wüsche",
+          "german": "Boden wischen",
+          "english": "to mop the floor"
+        },
+        {
+          "swissGerman": "blitzblank",
+          "german": "blitzsauber",
+          "english": "spotless"
+        }
+      ]
+    }
+  ]
+}
