@@ -57,7 +57,7 @@ if __name__ == "__main__":
     signal.signal(signal.SIGTERM, exit_handler)
     signal.signal(signal.SIGINT, exit_handler)
 
-    port = int(config.get("APP_PORT", "5020"))
+    port = int(config.get("APP_PORT", "5206"))
     host = config.get("APP_HOST", "0.0.0.0")
 
     vtlog.info("Starting Grüezi API", port=port, host=host)

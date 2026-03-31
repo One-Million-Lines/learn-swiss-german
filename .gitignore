@@ -31,3 +31,7 @@ backend/**/__pycache__/
 
 .env
 .env.*
+
+# Python
+__pycache__/
+*.pyc
