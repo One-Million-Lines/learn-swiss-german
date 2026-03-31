@@ -3,10 +3,40 @@ import json
 import base64
 import hashlib
 import datetime
+from typing import Optional
 
 
 def get_project_root():
     return str(Path(__file__).parent.parent)
+
+
+def resolve_project_file_path(file_path: Optional[str], project_root: Optional[str] = None) -> Optional[str]:
+    """
+    Resolves a file path against the project root for relative paths.
+
+    Resolution order:
+    1. absolute path as-is
+    2. project root + relative path
+    3. current working directory + relative path
+
+    If the file does not exist in any of those places, returns the project-root candidate.
+    """
+    if not file_path:
+        return None
+
+    path_obj = Path(file_path).expanduser()
+    if path_obj.is_absolute():
+        return str(path_obj)
+
+    root_candidate = Path(project_root or get_project_root()) / path_obj
+    if root_candidate.is_file():
+        return str(root_candidate)
+
+    cwd_candidate = Path.cwd() / path_obj
+    if cwd_candidate.is_file():
+        return str(cwd_candidate)
+
+    return str(root_candidate)
 
 
 def str2bool(element):

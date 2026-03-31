@@ -75,7 +75,7 @@ class GenerativeLLM:
 
         # # sets the keys as environment variables for litellm to use
         # if openai_key:
-        #     os.environ.setdefault("OPENAI_API_KEY", openai_key)
+        #     os.environ.setdefault("OPENAI_APIKEY", openai_key)
         # if gemini_key:
         #     os.environ.setdefault("GEMINI_API_KEY", gemini_key)
         # if anthropic_key:
