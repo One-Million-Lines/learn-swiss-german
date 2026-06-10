@@ -18,7 +18,7 @@ export default defineConfig(({ mode }) => ({
       name: "serve-data-json",
       configureServer(server) {
         server.middlewares.use("/data", (req, res, next) => {
-          const filePath = path.join(__dirname, "data-json", req.url!);
+          const filePath = path.join(__dirname, "../data-json", req.url!);
           if (fs.existsSync(filePath) && fs.statSync(filePath).isFile()) {
             res.setHeader("Content-Type", "application/json");
             fs.createReadStream(filePath).pipe(res);
