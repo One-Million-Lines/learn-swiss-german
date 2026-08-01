@@ -5,7 +5,7 @@
   "description": "Reading, writing, maths, and the first years of Swiss school life",
   "dialogues": [
     {
-      "id": "primar-1",
+      "id": "primarschule-1",
       "level": "beginner",
       "title": "Homework after school",
       "situation": "Your child comes home and you ask about school and homework.",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "primar-2",
+      "id": "primarschule-2",
       "level": "intermediate",
       "title": "Parent-teacher meeting",
       "situation": "You attend a scheduled meeting with your child's teacher.",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "id": "primar-3",
+      "id": "primarschule-3",
       "level": "beginner",
       "title": "Packing the school bag",
       "situation": "You help your child get ready for school the night before.",
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "id": "primar-4",
+      "id": "primarschule-4",
       "level": "intermediate",
       "title": "Schwimmunterricht — Swimming lessons",
       "situation": "Your child tells you about swimming class at school.",
@@ -417,7 +417,7 @@
       ]
     },
     {
-      "id": "primar-5",
+      "id": "primarschule-5",
       "level": "beginner",
       "title": "School play rehearsal",
       "situation": "Your child is excited about the school play.",

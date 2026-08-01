@@ -5,7 +5,7 @@
   "description": "Weekend activities — Ausflüge, family time, errands, and relaxation",
   "dialogues": [
     {
-      "id": "weekend-1",
+      "id": "weekend-family-1",
       "level": "beginner",
       "title": "Planning the weekend",
       "situation": "The family plans what to do over the weekend.",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "weekend-2",
+      "id": "weekend-family-2",
       "level": "beginner",
       "title": "Grocery shopping at Migros",
       "situation": "The family goes grocery shopping together.",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "id": "weekend-3",
+      "id": "weekend-family-3",
       "level": "intermediate",
       "title": "A day trip to the mountains",
       "situation": "The family goes on a mountain excursion.",
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "id": "weekend-4",
+      "id": "weekend-family-4",
       "level": "beginner",
       "title": "Lazy Saturday at home",
       "situation": "The family stays home and relaxes on a rainy Saturday.",
@@ -417,7 +417,7 @@
       ]
     },
     {
-      "id": "weekend-5",
+      "id": "weekend-family-5",
       "level": "intermediate",
       "title": "Visiting the Bauernhof",
       "situation": "The family visits a farm on the weekend.",

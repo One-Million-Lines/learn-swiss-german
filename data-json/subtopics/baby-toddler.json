@@ -5,7 +5,7 @@
   "description": "First steps, feeding, playing, and milestones with your little one",
   "dialogues": [
     {
-      "id": "toddler-1",
+      "id": "baby-toddler-1",
       "level": "beginner",
       "title": "First steps",
       "situation": "Your toddler just started walking and you talk to your partner.",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "toddler-2",
+      "id": "baby-toddler-2",
       "level": "beginner",
       "title": "Feeding the baby",
       "situation": "It's mealtime and you feed your toddler.",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "id": "toddler-3",
+      "id": "baby-toddler-3",
       "level": "intermediate",
       "title": "At the Spielgruppe",
       "situation": "You bring your 2-year-old to the playgroup for the first time.",
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "id": "toddler-4",
+      "id": "baby-toddler-4",
       "level": "beginner",
       "title": "Changing a diaper",
       "situation": "You and your partner negotiate who changes the diaper.",
@@ -417,7 +417,7 @@
       ]
     },
     {
-      "id": "toddler-5",
+      "id": "baby-toddler-5",
       "level": "intermediate",
       "title": "Toddler won't sleep",
       "situation": "Your toddler refuses to go to sleep and you try everything.",

@@ -5,7 +5,7 @@
   "description": "Sharing about your job, family, hobbies, and why you're in Switzerland",
   "dialogues": [
     {
-      "id": "about-self-1",
+      "id": "talking-about-yourself-1",
       "level": "beginner",
       "title": "What do you do for work?",
       "situation": "Someone asks about your job at a dinner party.",
@@ -58,6 +58,13 @@
           "german": "Ja, genau! Ohne Züge funktioniert die Schweiz nicht, haha.",
           "english": "Yes, exactly! Without trains Switzerland doesn't work, haha.",
           "spanish": "Sí, ¡exactamente! Sin trenes Suiza no funciona, ja."
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -101,7 +108,7 @@
       ]
     },
     {
-      "id": "about-self-2",
+      "id": "talking-about-yourself-2",
       "level": "beginner",
       "title": "Talking about family",
       "situation": "At a playground, another parent asks about your family.",
@@ -154,6 +161,13 @@
           "german": "Ja, in der Nähe von Como. Die kommen uns ab und zu besuchen.",
           "english": "Yes, near Como. They come visit us from time to time.",
           "spanish": "Cerca de Como. De vez en cuando nos vienen a visitar."
+        },
+        {
+          "speaker": "Parent",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -197,7 +211,7 @@
       ]
     },
     {
-      "id": "about-self-3",
+      "id": "talking-about-yourself-3",
       "level": "intermediate",
       "title": "Talking about hobbies",
       "situation": "At an Apéro, someone asks what you do in your free time.",
@@ -250,6 +264,13 @@
           "german": "Gerne! Ich mache eine legendäre Carbonara. Die ist der Hammer.",
           "english": "Gladly! I make a legendary Carbonara. It's amazing.",
           "spanish": "¡Con mucho gusto! Hago una Carbonara legendaria. Es increíble."
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -293,7 +314,7 @@
       ]
     },
     {
-      "id": "about-self-4",
+      "id": "talking-about-yourself-4",
       "level": "intermediate",
       "title": "Why are you in Switzerland?",
       "situation": "At a Grillplatz, someone asks about your move to Switzerland.",
@@ -346,6 +367,13 @@
           "german": "Das Essen natürlich! Und die Familie. Und das Meer. Aber sonst — ich bin glücklich.",
           "english": "The food of course! And the family. And the sea. But otherwise — I'm happy.",
           "spanish": "La comida, claro. Y la familia. Y el mar. Pero por lo demás, estoy contento."
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -389,7 +417,7 @@
       ]
     },
     {
-      "id": "about-self-5",
+      "id": "talking-about-yourself-5",
       "level": "beginner",
       "title": "Where do you live?",
       "situation": "Someone asks about where you live.",
@@ -442,6 +470,13 @@
           "german": "Zur Miete natürlich! Kaufen in Zürich — das kann ich vergessen, haha.",
           "english": "Renting of course! Buying in Zurich — I can forget about that, haha.",
           "spanish": "Alquilando, claro. Comprar en Zúrich — ni pensarlo, jaja."
+        },
+        {
+          "speaker": "Person",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [

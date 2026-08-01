@@ -156,6 +156,13 @@
           "german": "Der Chef, wer sonst!",
           "english": "The boss, who else!",
           "spanish": "¡El jefe, quién más!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [

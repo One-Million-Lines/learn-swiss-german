@@ -5,7 +5,7 @@
   "description": "Getting the family ready in the morning — breakfast, dressing, and rushing out the door",
   "dialogues": [
     {
-      "id": "morning-1",
+      "id": "morning-routine-family-1",
       "level": "beginner",
       "title": "Waking up the kids",
       "situation": "You try to wake your kids up for school.",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "morning-2",
+      "id": "morning-routine-family-2",
       "level": "beginner",
       "title": "Breakfast chaos",
       "situation": "The family has a hectic breakfast before school.",
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "id": "morning-3",
+      "id": "morning-routine-family-3",
       "level": "beginner",
       "title": "Getting dressed",
       "situation": "Your child picks out clothes for school.",
@@ -309,7 +309,7 @@
       ]
     },
     {
-      "id": "morning-4",
+      "id": "morning-routine-family-4",
       "level": "intermediate",
       "title": "Running late",
       "situation": "The family is running late and rushing to get out.",
@@ -412,7 +412,7 @@
       ]
     },
     {
-      "id": "morning-5",
+      "id": "morning-routine-family-5",
       "level": "beginner",
       "title": "Brushing teeth drama",
       "situation": "Getting your child to brush their teeth.",

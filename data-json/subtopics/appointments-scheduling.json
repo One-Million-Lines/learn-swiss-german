@@ -5,7 +5,7 @@
   "description": "Booking appointments, confirming, rescheduling, cancelling, and saying you'll be late",
   "dialogues": [
     {
-      "id": "appointments-1",
+      "id": "appointments-scheduling-1",
       "level": "beginner",
       "title": "Booking a doctor's appointment",
       "situation": "You call to book a doctor's appointment.",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "appointments-2",
+      "id": "appointments-scheduling-2",
       "level": "intermediate",
       "title": "Rescheduling an appointment",
       "situation": "You need to reschedule a previously booked appointment.",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "id": "appointments-3",
+      "id": "appointments-scheduling-3",
       "level": "beginner",
       "title": "Confirming an appointment",
       "situation": "You call to confirm an upcoming appointment.",
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "id": "appointments-4",
+      "id": "appointments-scheduling-4",
       "level": "intermediate",
       "title": "Cancelling an appointment",
       "situation": "You need to cancel an appointment.",
@@ -417,7 +417,7 @@
       ]
     },
     {
-      "id": "appointments-5",
+      "id": "appointments-scheduling-5",
       "level": "beginner",
       "title": "Running late for an appointment",
       "situation": "You're stuck in traffic and call to say you'll be late.",

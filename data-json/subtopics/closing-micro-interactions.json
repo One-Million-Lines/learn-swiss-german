@@ -51,6 +51,20 @@
           "german": "Danke, gleichfalls! Tschüss!",
           "english": "Thanks, same to you! Bye!",
           "spanish": "¡Gracias, igualmente! ¡Hasta luego!"
+        },
+        {
+          "speaker": "Clerk",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [

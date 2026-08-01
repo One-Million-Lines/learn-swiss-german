@@ -5,7 +5,7 @@
   "description": "Planning, packing, and going on vacation as a family",
   "dialogues": [
     {
-      "id": "vacation-1",
+      "id": "family-vacation-1",
       "level": "intermediate",
       "title": "Planning the vacation",
       "situation": "The family discusses where to go on vacation.",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "vacation-2",
+      "id": "family-vacation-2",
       "level": "beginner",
       "title": "Packing the suitcases",
       "situation": "The family packs for the trip.",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "id": "vacation-3",
+      "id": "family-vacation-3",
       "level": "intermediate",
       "title": "Road trip in the car",
       "situation": "The family drives to their vacation destination.",
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "id": "vacation-4",
+      "id": "family-vacation-4",
       "level": "beginner",
       "title": "At the beach",
       "situation": "The family spends a day at the beach.",
@@ -412,7 +412,7 @@
       ]
     },
     {
-      "id": "vacation-5",
+      "id": "family-vacation-5",
       "level": "intermediate",
       "title": "Coming home from vacation",
       "situation": "The family returns home and unpacks.",

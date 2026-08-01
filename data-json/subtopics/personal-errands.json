@@ -5,7 +5,7 @@
   "description": "Hairdresser, service bookings, explaining what you want, and completing everyday tasks",
   "dialogues": [
     {
-      "id": "errands-1",
+      "id": "personal-errands-1",
       "level": "beginner",
       "title": "At the hairdresser / Coiffeur",
       "situation": "You get a haircut at the local Coiffeur.",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "errands-2",
+      "id": "personal-errands-2",
       "level": "intermediate",
       "title": "Getting shoes repaired",
       "situation": "You bring shoes to be repaired at the cobbler.",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "id": "errands-3",
+      "id": "personal-errands-3",
       "level": "beginner",
       "title": "Dropping off recycling",
       "situation": "You bring recycling to the Sammelstelle.",
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "id": "errands-4",
+      "id": "personal-errands-4",
       "level": "intermediate",
       "title": "At the optician",
       "situation": "You need new glasses and visit the optician.",
@@ -417,7 +417,7 @@
       ]
     },
     {
-      "id": "errands-5",
+      "id": "personal-errands-5",
       "level": "beginner",
       "title": "Picking up a package",
       "situation": "You go to the post office to pick up a package.",

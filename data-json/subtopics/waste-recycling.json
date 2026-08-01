@@ -482,6 +482,13 @@
           "german": "Nein! Tetra Pak ist ein Verbundstoff. Die können Sie bei Coop oder Migros zurückgeben.",
           "english": "No! Tetra Pak is a composite material. You can return those at Coop or Migros.",
           "spanish": "¡No! El Tetra Pak es un material compuesto. Puedes devolverlos en Coop o Migros."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [

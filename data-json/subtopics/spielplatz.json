@@ -58,6 +58,13 @@
           "german": "Super! Ich sitze auf der Bank und schaue dir zu.",
           "english": "Great! I'll sit on the bench and watch you.",
           "spanish": "¡Genial! Me sentaré en el banco y te miraré."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -147,6 +154,20 @@
           "german": "Hallo, ich bin Linas Mutter. Wie heißt du?",
           "english": "Hi, I'm Lina's mother. What's your name?",
           "spanish": "Hola, soy la mamá de Lina. ¿Cómo te llamas?"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -238,6 +259,13 @@
           "german": "Nein nein, wir sind vorsichtig!",
           "english": "No no, we're careful!",
           "spanish": "No, no, ¡tenemos cuidado!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -334,6 +362,13 @@
           "german": "Klar, aber pass besser auf beim Klettergerüst!",
           "english": "Sure, but be more careful on the climbing frame!",
           "spanish": "Claro, pero ¡ten más cuidado en el trepador!"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -430,6 +465,13 @@
           "german": "Tschüss Leon! Bis morgen! Tschüss!",
           "english": "Bye Leon! See you tomorrow! Bye!",
           "spanish": "¡Adiós, León! ¡Hasta mañana! ¡Adiós!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [

@@ -254,6 +254,13 @@
           "german": "Dann schüttest du etwas Wein dazu.",
           "english": "Then you add a bit of wine.",
           "spanish": "Entonces añades un poco de vino."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [

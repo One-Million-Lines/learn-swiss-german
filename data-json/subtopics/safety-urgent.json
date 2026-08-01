@@ -5,7 +5,7 @@
   "description": "Asking for help, reporting minor incidents, understanding simple instructions in emergencies",
   "dialogues": [
     {
-      "id": "safety-1",
+      "id": "safety-urgent-1",
       "level": "beginner",
       "title": "Asking for help on the street",
       "situation": "You feel unwell on the street and ask for help.",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "safety-2",
+      "id": "safety-urgent-2",
       "level": "intermediate",
       "title": "Reporting a minor incident",
       "situation": "You witness a minor car accident and talk to someone about it.",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "id": "safety-3",
+      "id": "safety-urgent-3",
       "level": "beginner",
       "title": "Emergency numbers",
       "situation": "Someone explains the Swiss emergency numbers to you.",
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "id": "safety-4",
+      "id": "safety-urgent-4",
       "level": "intermediate",
       "title": "Lost wallet",
       "situation": "You lost your wallet and try to find it.",
@@ -417,7 +417,7 @@
       ]
     },
     {
-      "id": "safety-5",
+      "id": "safety-urgent-5",
       "level": "beginner",
       "title": "Fire alarm in a building",
       "situation": "The fire alarm goes off in your building.",

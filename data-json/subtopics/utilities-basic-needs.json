@@ -5,7 +5,7 @@
   "description": "Internet, phone, electricity — setting up services, asking questions, and resolving issues",
   "dialogues": [
     {
-      "id": "utilities-1",
+      "id": "utilities-basic-needs-1",
       "level": "intermediate",
       "title": "Setting up internet",
       "situation": "You go to a Swisscom shop to set up internet at home.",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "utilities-2",
+      "id": "utilities-basic-needs-2",
       "level": "beginner",
       "title": "Phone shop — new SIM card",
       "situation": "You go to a phone shop to get a new SIM card.",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "id": "utilities-3",
+      "id": "utilities-basic-needs-3",
       "level": "intermediate",
       "title": "Electricity bill question",
       "situation": "You call your Elektrizitätswerk about your bill.",
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "id": "utilities-4",
+      "id": "utilities-basic-needs-4",
       "level": "beginner",
       "title": "Internet not working",
       "situation": "Your internet isn't working and you call the hotline.",
@@ -417,7 +417,7 @@
       ]
     },
     {
-      "id": "utilities-5",
+      "id": "utilities-basic-needs-5",
       "level": "intermediate",
       "title": "Registering for Billag / Serafe",
       "situation": "You learn about the Swiss TV/radio fee.",

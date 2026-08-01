@@ -5,7 +5,7 @@
   "description": "Ending conversations naturally, saying goodbye in different contexts, and 'see you later' expressions",
   "dialogues": [
     {
-      "id": "ending-1",
+      "id": "ending-interactions-1",
       "level": "beginner",
       "title": "Saying goodbye casually",
       "situation": "You say goodbye to a friend after having coffee.",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "ending-2",
+      "id": "ending-interactions-2",
       "level": "beginner",
       "title": "Formal goodbye",
       "situation": "You say goodbye to older neighbors after a chance meeting.",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "id": "ending-3",
+      "id": "ending-interactions-3",
       "level": "intermediate",
       "title": "Wrapping up a long evening",
       "situation": "You end a long dinner evening at a friend's home.",
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "id": "ending-4",
+      "id": "ending-interactions-4",
       "level": "beginner",
       "title": "Quick goodbye at work",
       "situation": "You say goodbye at the end of a workday.",
@@ -417,7 +417,7 @@
       ]
     },
     {
-      "id": "ending-5",
+      "id": "ending-interactions-5",
       "level": "intermediate",
       "title": "Goodbye at a party",
       "situation": "You make the rounds saying goodbye at a house party.",

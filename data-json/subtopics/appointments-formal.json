@@ -58,6 +58,13 @@
           "german": "Bitte denken Sie an die Versicherungskarte. Bis morgen!",
           "english": "Please remember the insurance card. See you tomorrow!",
           "spanish": "Por favor, recuerda la tarjeta del seguro médico. ¡Hasta mañana!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -458,6 +465,13 @@
           "german": "Gut, dann komme ich um acht. Danke für den Tipp!",
           "english": "Good, then I'll come at eight. Thanks for the tip!",
           "spanish": "Bien, entonces vendré a las ocho. ¡Gracias por el consejo!"
+        },
+        {
+          "speaker": "Officer",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [

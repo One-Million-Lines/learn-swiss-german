@@ -5,7 +5,7 @@
   "description": "Planning, celebrating, and hosting a children's birthday party",
   "dialogues": [
     {
-      "id": "birthday-1",
+      "id": "kids-birthday-1",
       "level": "beginner",
       "title": "Planning the party",
       "situation": "You plan your child's birthday party.",
@@ -58,6 +58,13 @@
           "german": "T-Rex! Der größte und gefährlichste! Mit Zähnen!",
           "english": "T-Rex! The biggest and most dangerous! With teeth!",
           "spanish": "¡T-Rex! ¡El más grande y peligroso! ¡Con dientes!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -101,7 +108,7 @@
       ]
     },
     {
-      "id": "birthday-2",
+      "id": "kids-birthday-2",
       "level": "beginner",
       "title": "Baking the birthday cake",
       "situation": "You bake the birthday cake with your child.",
@@ -204,7 +211,7 @@
       ]
     },
     {
-      "id": "birthday-3",
+      "id": "kids-birthday-3",
       "level": "intermediate",
       "title": "Welcome to the party!",
       "situation": "The birthday party guests arrive.",
@@ -307,7 +314,7 @@
       ]
     },
     {
-      "id": "birthday-4",
+      "id": "kids-birthday-4",
       "level": "beginner",
       "title": "Blowing out the candles",
       "situation": "The big moment — blowing out the birthday candles.",
@@ -405,7 +412,7 @@
       ]
     },
     {
-      "id": "birthday-5",
+      "id": "kids-birthday-5",
       "level": "intermediate",
       "title": "Party games",
       "situation": "The kids play birthday party games.",

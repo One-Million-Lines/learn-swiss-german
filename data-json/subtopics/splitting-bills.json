@@ -1,0 +1,448 @@
+{
+  "id": "splitting-bills",
+  "topicId": "money-finance",
+  "title": "Splitting Bills",
+  "description": "Paying together, using TWINT, and sharing costs after meals or trips.",
+  "dialogues": [
+    {
+      "id": "splitting-bills-1",
+      "level": "beginner",
+      "title": "Getting basic information",
+      "situation": "You ask about splitting bills for the first time.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Grüezi, ich bruuche chli Hilf wäge em Teile vo de Rechnig.",
+          "german": "Guten Tag, ich brauche etwas Hilfe wegen dem Teilen der Rechnung.",
+          "english": "Hello, I need a little help with splitting the bill.",
+          "spanish": "Hola, necesito un poco de ayuda con dividir la cuenta."
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Grüezi! Natürlich, was genau möchted Sie wüsse?",
+          "german": "Guten Tag! Natürlich, was genau möchten Sie wissen?",
+          "english": "Hello! Of course, what exactly would you like to know?",
+          "spanish": "¡Hola! Por supuesto, ¿qué le gustaría saber exactamente?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich bi nöd sicher, wie das do funktioniert.",
+          "german": "Ich bin nicht sicher, wie das hier funktioniert.",
+          "english": "I am not sure how this works here.",
+          "spanish": "No estoy seguro de cómo funciona esto aquí."
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Kei Problem, ich erklär's Ihne Schritt für Schritt.",
+          "german": "Kein Problem, ich erkläre es Ihnen Schritt für Schritt.",
+          "english": "No problem, I will explain it to you step by step.",
+          "spanish": "No hay problema, se lo explico paso a paso."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Merci. Mues ich öppis Speziells beachte?",
+          "german": "Danke. Muss ich etwas Besonderes beachten?",
+          "english": "Thanks. Do I need to watch out for anything special?",
+          "spanish": "Gracias. ¿Tengo que tener en cuenta algo especial?"
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Ja, behalted d'Bestätigung und prüefed Ziit, Ort und Name nomal ruhig.",
+          "german": "Ja, behalten Sie die Bestätigung und prüfen Sie Zeit, Ort und Namen noch einmal in Ruhe.",
+          "english": "Yes, keep the confirmation and calmly check time, place, and name again.",
+          "spanish": "Sí, conserve la confirmación y revise con calma hora, lugar y nombre otra vez."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, dänn probier ich das grad so.",
+          "german": "Perfekt, dann probiere ich das gleich so.",
+          "english": "Perfect, then I will try it just like that.",
+          "spanish": "Perfecto, entonces lo probaré así."
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Gern gschäh. Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen. Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome. If there is anything else, just let me know.",
+          "spanish": "De nada. Si hay algo más, avíseme sin problema."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "chli",
+          "german": "ein bisschen / etwas",
+          "explanation": "A common Swiss German softener in polite requests."
+        },
+        {
+          "swissGerman": "luege",
+          "german": "schauen",
+          "explanation": "The everyday Swiss German verb for looking or checking."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Ich bruuche chli Hilf",
+          "german": "Ich brauche etwas Hilfe",
+          "english": "I need a little help"
+        },
+        {
+          "swissGerman": "Merci vilmal",
+          "german": "Vielen Dank",
+          "english": "Thank you very much"
+        }
+      ]
+    },
+    {
+      "id": "splitting-bills-2",
+      "level": "beginner",
+      "title": "Arranging it at the counter",
+      "situation": "You arrange splitting bills with staff.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Ich möcht gern d'Rechnig uf zwei Persone teile.",
+          "german": "Ich möchte gern die Rechnung auf zwei Personen teilen.",
+          "english": "I would like to split the bill between two people.",
+          "spanish": "Me gustaría dividir la cuenta entre dos personas."
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Sehr gern. Für wänn bruuched Sie das?",
+          "german": "Sehr gern. Für wann brauchen Sie das?",
+          "english": "Gladly. When do you need it for?",
+          "spanish": "Con gusto. ¿Para cuándo lo necesita?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Jetzt grad, mir hend zäme z'Nacht gässe.",
+          "german": "Jetzt gerade, wir haben zusammen zu Abend gegessen.",
+          "english": "Right now, we had dinner together.",
+          "spanish": "Ahora mismo, cenamos juntos."
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Ich cha separat kassiere oder eine zahlt und teilt mit TWINT.",
+          "german": "Ich kann separat kassieren oder eine Person zahlt und teilt mit TWINT.",
+          "english": "I can charge separately, or one person pays and splits with TWINT.",
+          "spanish": "Puedo cobrar por separado o una persona paga y divide con TWINT."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Was choschtet das ungefähr?",
+          "german": "Was kostet das ungefähr?",
+          "english": "About how much does that cost?",
+          "spanish": "¿Cuánto cuesta aproximadamente?"
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Das isch abhängig vom Tarif, aber ich zeig Ihne de Betrag vor em Abschlüsse.",
+          "german": "Das hängt vom Tarif ab, aber ich zeige Ihnen den Betrag vor dem Abschließen.",
+          "english": "That depends on the rate, but I will show you the amount before completing it.",
+          "spanish": "Depende de la tarifa, pero le muestro el importe antes de finalizar."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Guet, dänn mach ich das so. Chani mit Charte zahle?",
+          "german": "Gut, dann mache ich das so. Kann ich mit Karte zahlen?",
+          "english": "Good, then I will do it that way. Can I pay by card?",
+          "spanish": "Bien, entonces lo haré así. ¿Puedo pagar con tarjeta?"
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Ja, Charte gaht. Ich mach Ihne grad d'Bestätigung.",
+          "german": "Ja, Karte geht. Ich mache Ihnen gleich die Bestätigung.",
+          "english": "Yes, card works. I will prepare the confirmation for you now.",
+          "spanish": "Sí, se puede pagar con tarjeta. Le preparo la confirmación ahora."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "chli",
+          "german": "ein bisschen / etwas",
+          "explanation": "A common Swiss German softener in polite requests."
+        },
+        {
+          "swissGerman": "luege",
+          "german": "schauen",
+          "explanation": "The everyday Swiss German verb for looking or checking."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Ich bruuche chli Hilf",
+          "german": "Ich brauche etwas Hilfe",
+          "english": "I need a little help"
+        },
+        {
+          "swissGerman": "Merci vilmal",
+          "german": "Vielen Dank",
+          "english": "Thank you very much"
+        }
+      ]
+    },
+    {
+      "id": "splitting-bills-3",
+      "level": "intermediate",
+      "title": "Solving a small problem",
+      "situation": "Something is unclear with splitting bills and you ask for help.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Entschuldigung, ich ha es Problem mit em Teile vo de Rechnig.",
+          "german": "Entschuldigung, ich habe ein Problem mit dem Teilen der Rechnung.",
+          "english": "Excuse me, I have a problem with splitting the bill.",
+          "spanish": "Disculpe, tengo un problema con dividir la cuenta."
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Was isch passiert?",
+          "german": "Was ist passiert?",
+          "english": "What happened?",
+          "spanish": "¿Qué ha pasado?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich ha öppis falsch verstande und bi drum chli unsicher.",
+          "german": "Ich habe etwas falsch verstanden und bin deshalb etwas unsicher.",
+          "english": "I misunderstood something and am therefore a little unsure.",
+          "spanish": "Entendí algo mal y por eso estoy un poco inseguro."
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Kei Sorge, mir lueged d'Date zäme aa und korrigiered, was nötig isch.",
+          "german": "Keine Sorge, wir schauen die Daten zusammen an und korrigieren, was nötig ist.",
+          "english": "Do not worry, we will check the details together and correct what is needed.",
+          "spanish": "No se preocupe, revisamos los datos juntos y corregimos lo necesario."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Isch das kompliziert?",
+          "german": "Ist das kompliziert?",
+          "english": "Is that complicated?",
+          "spanish": "¿Es complicado?"
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Nei, mir lönd das ruhig aaluege und finde e Lösig.",
+          "german": "Nein, wir schauen das in Ruhe an und finden eine Lösung.",
+          "english": "No, we will look at it calmly and find a solution.",
+          "spanish": "No, lo revisaremos con calma y encontraremos una solución."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Super, merci für d'Hilf.",
+          "german": "Super, danke für die Hilfe.",
+          "english": "Great, thanks for the help.",
+          "spanish": "Genial, gracias por la ayuda."
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Gern. Wichtig isch, dass Sie alles guet verstönd.",
+          "german": "Gern. Wichtig ist, dass Sie alles gut verstehen.",
+          "english": "Gladly. The important thing is that you understand everything well.",
+          "spanish": "Con gusto. Lo importante es que lo entienda todo bien."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "chli",
+          "german": "ein bisschen / etwas",
+          "explanation": "A common Swiss German softener in polite requests."
+        },
+        {
+          "swissGerman": "luege",
+          "german": "schauen",
+          "explanation": "The everyday Swiss German verb for looking or checking."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Ich bruuche chli Hilf",
+          "german": "Ich brauche etwas Hilfe",
+          "english": "I need a little help"
+        },
+        {
+          "swissGerman": "Merci vilmal",
+          "german": "Vielen Dank",
+          "english": "Thank you very much"
+        }
+      ]
+    },
+    {
+      "id": "splitting-bills-4",
+      "level": "intermediate",
+      "title": "Asking a local friend",
+      "situation": "A friend gives practical advice about splitting bills.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Hoi, hesch du e Tipp für em Teile vo de Rechnig?",
+          "german": "Hallo, hast du einen Tipp für dem Teilen der Rechnung?",
+          "english": "Hi, do you have a tip for splitting the bill?",
+          "spanish": "Hola, ¿tienes algún consejo para dividir la cuenta?"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Hoi! Ja, sicher. Was suechsch genau?",
+          "german": "Hallo! Ja, sicher. Was suchst du genau?",
+          "english": "Hi! Yes, sure. What exactly are you looking for?",
+          "spanish": "¡Hola! Sí, claro. ¿Qué buscas exactamente?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Öppis Praktischs, nöd z'kompliziert und wenn möglich nöd z'tüür.",
+          "german": "Etwas Praktisches, nicht zu kompliziert und wenn möglich nicht zu teuer.",
+          "english": "Something practical, not too complicated, and not too expensive if possible.",
+          "spanish": "Algo práctico, no demasiado complicado y si es posible no muy caro."
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Dänn mach's eifach und frag vor Ort nomal nah. D'Lüüt sind meischtens hilfsbereit.",
+          "german": "Dann mach es einfach und frag vor Ort noch einmal nach. Die Leute sind meistens hilfsbereit.",
+          "english": "Then keep it simple and ask again on site. People are usually helpful.",
+          "spanish": "Entonces hazlo sencillo y pregunta otra vez allí. La gente suele ayudar."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Tönt guet. Isch das eher tüür?",
+          "german": "Klingt gut. Ist das eher teuer?",
+          "english": "Sounds good. Is it on the expensive side?",
+          "spanish": "Suena bien. ¿Es más bien caro?"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Es chunnt druf aa, aber mit chli Vorausplanig sparsch oft öppis.",
+          "german": "Es kommt darauf an, aber mit etwas Vorausplanung sparst du oft etwas.",
+          "english": "It depends, but with a little planning ahead you often save something.",
+          "spanish": "Depende, pero con un poco de planificación sueles ahorrar algo."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Cool, das passt. Chönd mir das zäme aaluege?",
+          "german": "Cool, das passt. Können wir das zusammen anschauen?",
+          "english": "Cool, that works. Can we look at it together?",
+          "spanish": "Genial, eso encaja. ¿Podemos mirarlo juntos?"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Klar, ich zeig dir grad, wo du afange chasch.",
+          "german": "Klar, ich zeige dir gleich, wo du anfangen kannst.",
+          "english": "Sure, I will show you where you can start.",
+          "spanish": "Claro, te enseño ahora mismo por dónde puedes empezar."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "chli",
+          "german": "ein bisschen / etwas",
+          "explanation": "A common Swiss German softener in polite requests."
+        },
+        {
+          "swissGerman": "luege",
+          "german": "schauen",
+          "explanation": "The everyday Swiss German verb for looking or checking."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Ich bruuche chli Hilf",
+          "german": "Ich brauche etwas Hilfe",
+          "english": "I need a little help"
+        },
+        {
+          "swissGerman": "Merci vilmal",
+          "german": "Vielen Dank",
+          "english": "Thank you very much"
+        }
+      ]
+    },
+    {
+      "id": "splitting-bills-5",
+      "level": "beginner",
+      "title": "Confirming the details",
+      "situation": "You double-check the important details for splitting bills.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Ich wett nume no d'Details bestätige.",
+          "german": "Ich möchte nur noch die Details bestätigen.",
+          "english": "I just want to confirm the details.",
+          "spanish": "Solo quiero confirmar los detalles."
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Natürlich, ich lueg grad nah.",
+          "german": "Natürlich, ich schaue gleich nach.",
+          "english": "Of course, I will check right away.",
+          "spanish": "Por supuesto, lo compruebo ahora mismo."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich wett Ziit, Ort und nöchschti Schritt nomal prüefe.",
+          "german": "Ich möchte Zeit, Ort und nächste Schritte noch einmal prüfen.",
+          "english": "I want to check the time, place, and next steps again.",
+          "spanish": "Quiero comprobar otra vez la hora, el lugar y los próximos pasos."
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Alles stimmt: d'Date sind erfasst und Sie hend d'Bestätigung per E-Mail.",
+          "german": "Alles stimmt: Die Daten sind erfasst und Sie haben die Bestätigung per E-Mail.",
+          "english": "Everything is correct: the details are recorded and you have the confirmation by email.",
+          "spanish": "Todo está correcto: los datos están registrados y tiene la confirmación por correo."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Und wenn ich z'spät bi, söll ich alüte?",
+          "german": "Und wenn ich zu spät bin, soll ich anrufen?",
+          "english": "And if I am late, should I call?",
+          "spanish": "Y si llego tarde, ¿debo llamar?"
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Ja, am beschte churz vorher alüte oder e Nachricht schicke.",
+          "german": "Ja, am besten kurz vorher anrufen oder eine Nachricht schicken.",
+          "english": "Yes, it is best to call shortly before or send a message.",
+          "spanish": "Sí, lo mejor es llamar un poco antes o enviar un mensaje."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Alles klar, merci vilmal.",
+          "german": "Alles klar, vielen Dank.",
+          "english": "All clear, thank you very much.",
+          "spanish": "Todo claro, muchas gracias."
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Sehr gern. Ich wünsch Ihne e gueti Ziit.",
+          "german": "Sehr gern. Ich wünsche Ihnen eine gute Zeit.",
+          "english": "Very gladly. I wish you a good time.",
+          "spanish": "Con mucho gusto. Le deseo que lo pase bien."
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "chli",
+          "german": "ein bisschen / etwas",
+          "explanation": "A common Swiss German softener in polite requests."
+        },
+        {
+          "swissGerman": "luege",
+          "german": "schauen",
+          "explanation": "The everyday Swiss German verb for looking or checking."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Ich bruuche chli Hilf",
+          "german": "Ich brauche etwas Hilfe",
+          "english": "I need a little help"
+        },
+        {
+          "swissGerman": "Merci vilmal",
+          "german": "Vielen Dank",
+          "english": "Thank you very much"
+        }
+      ]
+    }
+  ]
+}

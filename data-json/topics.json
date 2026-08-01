@@ -46,5 +46,29 @@
     "icon": "flag",
     "color": "from-rose-500 to-red-500",
     "subtopicCount": 18
+  },
+  {
+    "id": "travel-leisure",
+    "title": "Travel & Leisure",
+    "description": "Trains, hikes, hotels, tickets, and sightseeing for free time in Switzerland",
+    "icon": "home",
+    "color": "from-blue-500 to-cyan-500",
+    "subtopicCount": 5
+  },
+  {
+    "id": "money-finance",
+    "title": "Money & Finance",
+    "description": "ATMs, budgeting, splitting bills, rent deposits, and everyday insurance claims",
+    "icon": "briefcase",
+    "color": "from-emerald-500 to-teal-500",
+    "subtopicCount": 5
+  },
+  {
+    "id": "emergencies-safety",
+    "title": "Emergencies & Safety",
+    "description": "Getting help, calling emergency numbers, reporting problems, and staying safe",
+    "icon": "flag",
+    "color": "from-rose-500 to-red-500",
+    "subtopicCount": 5
   }
 ]

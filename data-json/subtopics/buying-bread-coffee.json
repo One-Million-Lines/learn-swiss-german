@@ -5,7 +5,7 @@
   "description": "Ordering at a bakery, café, or takeaway counter",
   "dialogues": [
     {
-      "id": "bread-coffee-1",
+      "id": "buying-bread-coffee-1",
       "level": "beginner",
       "title": "Simple bakery order",
       "situation": "You walk into a bakery to grab a coffee and a croissant.",
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "id": "bread-coffee-2",
+      "id": "buying-bread-coffee-2",
       "level": "beginner",
       "title": "Morning takeaway coffee",
       "situation": "You're rushing to work and stop for a quick coffee to go.",
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "id": "bread-coffee-3",
+      "id": "buying-bread-coffee-3",
       "level": "intermediate",
       "title": "Ordering with preferences",
       "situation": "You're at a café ordering a specific type of coffee and asking about pastries.",
@@ -259,6 +259,13 @@
           "german": "Ja, das Passwort steht auf der Karte. Guten Appetit!",
           "english": "Yes, the password is on the menu card. Enjoy!",
           "spanish": "Sí, la contraseña está en la carta del menú. ¡Que aproveche!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -303,7 +310,7 @@
       ]
     },
     {
-      "id": "bread-coffee-4",
+      "id": "buying-bread-coffee-4",
       "level": "intermediate",
       "title": "Buying bread for a party",
       "situation": "You need several items from the bakery for a dinner party tonight.",
@@ -356,6 +363,13 @@
           "german": "Super, danke! Haben Sie noch eine Tragetasche für mich?",
           "english": "Great, thanks! Do you have a bag for me?",
           "spanish": "Genial, ¡gracias! ¿Tienes una bolsa para mí?"
+        },
+        {
+          "speaker": "Baker",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -399,7 +413,7 @@
       ]
     },
     {
-      "id": "bread-coffee-5",
+      "id": "buying-bread-coffee-5",
       "level": "beginner",
       "title": "Ordering the Znüni break snack",
       "situation": "It's 9am and you pop into the bakery for your morning Znüni break.",

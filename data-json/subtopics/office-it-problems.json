@@ -5,7 +5,7 @@
   "description": "Dealing with computer issues, printers, and calling IT support",
   "dialogues": [
     {
-      "id": "office-it-1",
+      "id": "office-it-problems-1",
       "level": "beginner",
       "title": "Computer won't start",
       "situation": "Your computer won't turn on and you ask a colleague for help.",
@@ -58,6 +58,13 @@
           "german": "Gute Idee, danke! Ich mache das gleich.",
           "english": "Good idea, thanks! I'll do that right away.",
           "spanish": "Buena idea, ¡gracias! Lo hago ahora mismo."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -96,7 +103,7 @@
       ]
     },
     {
-      "id": "office-it-2",
+      "id": "office-it-problems-2",
       "level": "beginner",
       "title": "Printer is jammed",
       "situation": "The printer is jammed and you need to print something urgently.",
@@ -149,6 +156,13 @@
           "german": "Ah stimmt, danke! Ich gehe gleich hoch.",
           "english": "Oh right, thanks! I'll head up right away.",
           "spanish": "¡Ah, es verdad, gracias! Subo enseguida."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -187,7 +201,7 @@
       ]
     },
     {
-      "id": "office-it-3",
+      "id": "office-it-problems-3",
       "level": "intermediate",
       "title": "Calling IT support",
       "situation": "You call the IT helpdesk because you can't access a shared folder.",
@@ -285,7 +299,7 @@
       ]
     },
     {
-      "id": "office-it-4",
+      "id": "office-it-problems-4",
       "level": "intermediate",
       "title": "WiFi not working",
       "situation": "The office WiFi is down and multiple people are affected.",
@@ -383,7 +397,7 @@
       ]
     },
     {
-      "id": "office-it-5",
+      "id": "office-it-problems-5",
       "level": "beginner",
       "title": "Forgot the password",
       "situation": "You forgot your password after vacation and need it reset.",

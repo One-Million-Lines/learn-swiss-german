@@ -5,7 +5,7 @@
   "description": "Working on a building site — tools, safety, teamwork, and breaks",
   "dialogues": [
     {
-      "id": "construction-1",
+      "id": "construction-site-1",
       "level": "beginner",
       "title": "Morning briefing",
       "situation": "The foreman gives a quick briefing before the workday begins.",
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "id": "construction-2",
+      "id": "construction-site-2",
       "level": "beginner",
       "title": "Asking for a tool",
       "situation": "You need a specific tool and ask your colleague to pass it.",
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "id": "construction-3",
+      "id": "construction-site-3",
       "level": "intermediate",
       "title": "Safety incident discussion",
       "situation": "The team discusses a near-miss safety incident.",
@@ -304,7 +304,7 @@
       ]
     },
     {
-      "id": "construction-4",
+      "id": "construction-site-4",
       "level": "beginner",
       "title": "Znüni break on site",
       "situation": "You take a morning break with colleagues on the construction site.",
@@ -407,7 +407,7 @@
       ]
     },
     {
-      "id": "construction-5",
+      "id": "construction-site-5",
       "level": "intermediate",
       "title": "Bad weather on site",
       "situation": "It starts raining heavily and work needs to be adjusted.",

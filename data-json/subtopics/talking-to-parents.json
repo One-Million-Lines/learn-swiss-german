@@ -5,7 +5,7 @@
   "description": "Conversations at school events, parent meetings, and with other parents",
   "dialogues": [
     {
-      "id": "parents-1",
+      "id": "talking-to-parents-1",
       "level": "beginner",
       "title": "Meeting at school pickup",
       "situation": "You meet another parent while picking up your children from school.",
@@ -58,6 +58,13 @@
           "german": "Ja, mega gern! Tauschen wir Nummern aus?",
           "english": "Yes, I'd love to! Shall we exchange numbers?",
           "spanish": "Sí, con mucho gusto. ¿Intercambiamos números?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -101,7 +108,7 @@
       ]
     },
     {
-      "id": "parents-2",
+      "id": "talking-to-parents-2",
       "level": "beginner",
       "title": "Asking about homework",
       "situation": "You call another parent to ask about a homework assignment your child forgot.",
@@ -154,6 +161,13 @@
           "german": "Super, vielen Dank! Das hilft mir mega.",
           "english": "Great, thanks a lot! That helps me a lot.",
           "spanish": "¡Genial, muchas gracias! Eso me ayuda mucho."
+        },
+        {
+          "speaker": "Parent",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -192,7 +206,7 @@
       ]
     },
     {
-      "id": "parents-3",
+      "id": "talking-to-parents-3",
       "level": "intermediate",
       "title": "At the parent-teacher conference",
       "situation": "You attend a parent evening at school and speak with other parents and the teacher.",
@@ -245,6 +259,13 @@
           "german": "Ja, wie ist es mit den Ausflügen nächstes Semester?",
           "english": "Yes, what about the excursions next semester?",
           "spanish": "Sí, ¿qué hay de las excursiones del próximo semestre?"
+        },
+        {
+          "speaker": "Teacher",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -288,7 +309,7 @@
       ]
     },
     {
-      "id": "parents-4",
+      "id": "talking-to-parents-4",
       "level": "intermediate",
       "title": "Organizing a playdate",
       "situation": "You organize a playdate for your children with another parent.",
@@ -341,6 +362,13 @@
           "german": "Nein, sie kann alles essen. Danke, das ist super nett!",
           "english": "No, she can eat everything. Thanks, that's super nice!",
           "spanish": "No, ella puede comer de todo. ¡Gracias, es muy amable!"
+        },
+        {
+          "speaker": "Parent",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -389,7 +417,7 @@
       ]
     },
     {
-      "id": "parents-5",
+      "id": "talking-to-parents-5",
       "level": "beginner",
       "title": "At the school festival",
       "situation": "You're helping at the school festival and chat with another parent at the cake stand.",
@@ -442,6 +470,13 @@
           "german": "Super Sache! Hier hast du ein Fünffrankenstück.",
           "english": "Great thing! Here's a five-franc coin.",
           "spanish": "¡Qué bien! Aquí tienes una moneda de cinco francos."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [

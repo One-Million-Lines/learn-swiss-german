@@ -264,6 +264,13 @@
           "german": "Unbedingt! Die SBB-App ist mega gut. Zeigt auch Anschlüsse und Ersatzverbindungen an.",
           "english": "Absolutely! The SBB app is super good. Also shows connections and alternative routes.",
           "spanish": "¡Por supuesto! La aplicación SBB es muy buena. También muestra conexiones y rutas alternativas."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [

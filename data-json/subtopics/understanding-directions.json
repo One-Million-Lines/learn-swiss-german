@@ -5,7 +5,7 @@
   "description": "Understanding directions with landmarks, locations, and clarifying when you're confused",
   "dialogues": [
     {
-      "id": "directions-1",
+      "id": "understanding-directions-1",
       "level": "beginner",
       "title": "Using landmarks",
       "situation": "Someone gives you directions using local landmarks.",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "directions-2",
+      "id": "understanding-directions-2",
       "level": "intermediate",
       "title": "Clarifying confusing directions",
       "situation": "You didn't understand the directions and ask for repetition.",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "id": "directions-3",
+      "id": "understanding-directions-3",
       "level": "beginner",
       "title": "Is it nearby?",
       "situation": "You ask whether a place is close or far.",
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "id": "directions-4",
+      "id": "understanding-directions-4",
       "level": "intermediate",
       "title": "Using Google Maps with local help",
       "situation": "You have Google Maps but the streets are confusing. You ask someone for help.",
@@ -417,7 +417,7 @@
       ]
     },
     {
-      "id": "directions-5",
+      "id": "understanding-directions-5",
       "level": "beginner",
       "title": "Finding the right building entrance",
       "situation": "You're in front of a building but can't find the entrance.",

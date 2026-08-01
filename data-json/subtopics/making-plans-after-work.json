@@ -5,7 +5,7 @@
   "description": "Arranging to meet up with friends or colleagues after the workday",
   "dialogues": [
     {
-      "id": "plans-1",
+      "id": "making-plans-after-work-1",
       "level": "beginner",
       "title": "Quick after-work drink",
       "situation": "It's Friday afternoon and you ask a colleague about after-work plans.",
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "id": "plans-2",
+      "id": "making-plans-after-work-2",
       "level": "beginner",
       "title": "Suggesting dinner after work",
       "situation": "You and your colleague are finishing up and you suggest grabbing dinner.",
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "id": "plans-3",
+      "id": "making-plans-after-work-3",
       "level": "intermediate",
       "title": "Planning a weekend dinner with friends",
       "situation": "You're texting your friend group about weekend plans.",
@@ -309,7 +309,7 @@
       ]
     },
     {
-      "id": "plans-4",
+      "id": "making-plans-after-work-4",
       "level": "intermediate",
       "title": "Canceling plans last minute",
       "situation": "You need to cancel plans with a friend because something came up.",
@@ -362,6 +362,13 @@
           "german": "Abgemacht! Danke für das Verständnis.",
           "english": "Deal! Thanks for understanding.",
           "spanish": "¡Trato! Gracias por entender."
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -405,7 +412,7 @@
       ]
     },
     {
-      "id": "plans-5",
+      "id": "making-plans-after-work-5",
       "level": "intermediate",
       "title": "Organizing a group activity on the weekend",
       "situation": "You're coordinating a hiking trip with a group of friends.",
@@ -458,6 +465,13 @@
           "german": "Super, ich freue mich! Bis Sonntag am Bahnhof!",
           "english": "Great, I'm looking forward to it! See you Sunday at the station!",
           "spanish": "¡Genial, estoy deseando que llegue! ¡Nos vemos el domingo en la estación!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [

@@ -5,7 +5,7 @@
   "description": "Agreeing, disagreeing, showing surprise, and acknowledging — natural social reactions",
   "dialogues": [
     {
-      "id": "reacting-1",
+      "id": "reacting-naturally-1",
       "level": "beginner",
       "title": "Agreeing and acknowledging",
       "situation": "You agree with people during a casual conversation.",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "reacting-2",
+      "id": "reacting-naturally-2",
       "level": "intermediate",
       "title": "Disagreeing politely",
       "situation": "You politely disagree with someone's opinion at a dinner.",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "id": "reacting-3",
+      "id": "reacting-naturally-3",
       "level": "beginner",
       "title": "Showing surprise",
       "situation": "Someone tells you surprising news.",
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "id": "reacting-4",
+      "id": "reacting-naturally-4",
       "level": "intermediate",
       "title": "Showing interest and following up",
       "situation": "Someone tells you about their vacation.",
@@ -417,7 +417,7 @@
       ]
     },
     {
-      "id": "reacting-5",
+      "id": "reacting-naturally-5",
       "level": "beginner",
       "title": "Asking for clarification",
       "situation": "You don't understand something and ask for clarification.",

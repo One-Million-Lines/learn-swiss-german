@@ -5,7 +5,7 @@
   "description": "Cooking, taking orders, and teamwork in a busy Swiss restaurant",
   "dialogues": [
     {
-      "id": "kitchen-1",
+      "id": "restaurant-kitchen-1",
       "level": "beginner",
       "title": "Start of the shift",
       "situation": "You arrive for your shift and check what needs to be prepared.",
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "id": "kitchen-2",
+      "id": "restaurant-kitchen-2",
       "level": "beginner",
       "title": "Taking a food order",
       "situation": "The waiter brings a food order to the kitchen.",
@@ -216,7 +216,7 @@
       ]
     },
     {
-      "id": "kitchen-3",
+      "id": "restaurant-kitchen-3",
       "level": "intermediate",
       "title": "Dealing with a rush",
       "situation": "The kitchen is slammed and the team needs to coordinate.",
@@ -319,7 +319,7 @@
       ]
     },
     {
-      "id": "kitchen-4",
+      "id": "restaurant-kitchen-4",
       "level": "intermediate",
       "title": "Menu planning with the chef",
       "situation": "You discuss the weekly special menu with the head chef.",
@@ -422,7 +422,7 @@
       ]
     },
     {
-      "id": "kitchen-5",
+      "id": "restaurant-kitchen-5",
       "level": "beginner",
       "title": "End of shift cleanup",
       "situation": "The restaurant has closed and the team cleans the kitchen.",

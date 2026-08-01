@@ -5,7 +5,7 @@
   "description": "Communicating with your landlord or property management about apartment issues",
   "dialogues": [
     {
-      "id": "landlord-1",
+      "id": "landlord-repair-1",
       "level": "beginner",
       "title": "Reporting a broken heater",
       "situation": "You call your landlord because the heating in your apartment isn't working.",
@@ -58,6 +58,13 @@
           "german": "Ja, vielen Dank! Am besten am Morgen.",
           "english": "Yes, thanks a lot! Best in the morning.",
           "spanish": "Sí, ¡muchas gracias! Mejor por la mañana."
+        },
+        {
+          "speaker": "Landlord",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -106,7 +113,7 @@
       ]
     },
     {
-      "id": "landlord-2",
+      "id": "landlord-repair-2",
       "level": "intermediate",
       "title": "Water leak in the kitchen",
       "situation": "You discover a water leak under the kitchen sink and call the property management.",
@@ -219,7 +226,7 @@
       ]
     },
     {
-      "id": "landlord-3",
+      "id": "landlord-repair-3",
       "level": "beginner",
       "title": "Noisy neighbors complaint",
       "situation": "You email the landlord about noisy neighbors keeping you awake.",
@@ -272,6 +279,13 @@
           "german": "Danke! Ich hoffe es wird besser.",
           "english": "Thanks! I hope it gets better.",
           "spanish": "¡Gracias! Espero que mejore."
+        },
+        {
+          "speaker": "Landlord",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -320,7 +334,7 @@
       ]
     },
     {
-      "id": "landlord-4",
+      "id": "landlord-repair-4",
       "level": "intermediate",
       "title": "Requesting permission for changes",
       "situation": "You want to paint the walls in your apartment and need to ask the landlord.",
@@ -428,7 +442,7 @@
       ]
     },
     {
-      "id": "landlord-5",
+      "id": "landlord-repair-5",
       "level": "beginner",
       "title": "Keys and mailbox issue",
       "situation": "You need a replacement key for the main entrance and your mailbox isn't closing properly.",

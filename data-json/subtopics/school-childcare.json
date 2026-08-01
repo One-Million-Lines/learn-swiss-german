@@ -269,6 +269,13 @@
           "german": "Ja, drei Wochen vorher über die Website. Die Plätze sind begrenzt.",
           "english": "Yes, three weeks in advance via the website. Spots are limited.",
           "spanish": "Sí, con tres semanas de antelación a través de la página web. Los lugares son limitados."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [

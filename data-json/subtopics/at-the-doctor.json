@@ -5,7 +5,7 @@
   "description": "Conversations when visiting the doctor, describing symptoms and understanding instructions",
   "dialogues": [
     {
-      "id": "doctor-1",
+      "id": "at-the-doctor-1",
       "level": "beginner",
       "title": "Checking in at reception",
       "situation": "You arrive at the doctor's office and check in with the receptionist.",
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "id": "doctor-2",
+      "id": "at-the-doctor-2",
       "level": "intermediate",
       "title": "Describing a headache and cold",
       "situation": "You're seeing the doctor because you've had a bad cold for a few days.",
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "id": "doctor-3",
+      "id": "at-the-doctor-3",
       "level": "intermediate",
       "title": "At the pharmacy after the doctor visit",
       "situation": "You go to the pharmacy with a prescription from the doctor.",
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "id": "doctor-4",
+      "id": "at-the-doctor-4",
       "level": "beginner",
       "title": "Calling in sick",
       "situation": "You call your doctor's office because you're feeling unwell and need an appointment.",
@@ -367,6 +367,13 @@
           "german": "Gut, kommen Sie um vierzehn Uhr. Der Arzt hat dann eine Lücke.",
           "english": "Good, come at two. The doctor has a gap then.",
           "spanish": "Bien, ven a las dos. El doctor tiene un hueco entonces."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -410,7 +417,7 @@
       ]
     },
     {
-      "id": "doctor-5",
+      "id": "at-the-doctor-5",
       "level": "intermediate",
       "title": "Follow-up visit and blood results",
       "situation": "You return to the doctor to discuss blood test results.",

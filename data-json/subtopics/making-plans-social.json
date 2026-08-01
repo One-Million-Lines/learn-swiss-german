@@ -5,7 +5,7 @@
   "description": "Suggesting meetings, proposing activities, asking availability, and confirming plans",
   "dialogues": [
     {
-      "id": "plans-1",
+      "id": "making-plans-social-1",
       "level": "beginner",
       "title": "Suggesting a coffee",
       "situation": "You suggest meeting for a coffee with a new acquaintance.",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "plans-2",
+      "id": "making-plans-social-2",
       "level": "intermediate",
       "title": "Suggesting an activity",
       "situation": "You suggest going for a walk or an activity with a friend.",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "id": "plans-3",
+      "id": "making-plans-social-3",
       "level": "beginner",
       "title": "Asking availability",
       "situation": "You check when someone is free.",
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "id": "plans-4",
+      "id": "making-plans-social-4",
       "level": "intermediate",
       "title": "Proposing time and place",
       "situation": "You finalize details for meeting up.",
@@ -417,7 +417,7 @@
       ]
     },
     {
-      "id": "plans-5",
+      "id": "making-plans-social-5",
       "level": "beginner",
       "title": "Confirming plans",
       "situation": "You confirm plans for the next day via a quick chat.",

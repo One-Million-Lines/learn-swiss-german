@@ -5,7 +5,7 @@
   "description": "Doing homework at home, studying for exams, and getting help",
   "dialogues": [
     {
-      "id": "homework-1",
+      "id": "homework-studying-1",
       "level": "beginner",
       "title": "Struggling with maths",
       "situation": "Your child asks for help with a maths problem.",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "homework-2",
+      "id": "homework-studying-2",
       "level": "intermediate",
       "title": "Studying for a test",
       "situation": "Your child needs to study for a vocabulary test.",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "id": "homework-3",
+      "id": "homework-studying-3",
       "level": "beginner",
       "title": "Not wanting to do homework",
       "situation": "Your child resists doing their homework.",
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "id": "homework-4",
+      "id": "homework-studying-4",
       "level": "intermediate",
       "title": "Asking for a tutor",
       "situation": "You discuss getting a tutor (Nachhilfe) for your child.",
@@ -417,7 +417,7 @@
       ]
     },
     {
-      "id": "homework-5",
+      "id": "homework-studying-5",
       "level": "beginner",
       "title": "Reading time before bed",
       "situation": "Your child reads their school book aloud before bed.",

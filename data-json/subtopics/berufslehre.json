@@ -5,7 +5,7 @@
   "description": "Finding a Lehrstelle, Berufsschule, and starting your career through the Swiss apprenticeship system",
   "dialogues": [
     {
-      "id": "lehre-1",
+      "id": "berufslehre-1",
       "level": "intermediate",
       "title": "Looking for a Lehrstelle",
       "situation": "Your child searches for an apprenticeship position.",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "lehre-2",
+      "id": "berufslehre-2",
       "level": "intermediate",
       "title": "First day of apprenticeship",
       "situation": "Your child starts their apprenticeship and tells you about it.",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "id": "lehre-3",
+      "id": "berufslehre-3",
       "level": "intermediate",
       "title": "Überbetriebliche Kurse",
       "situation": "Your apprentice child explains their ÜK (inter-company courses).",
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "id": "lehre-4",
+      "id": "berufslehre-4",
       "level": "beginner",
       "title": "First own salary",
       "situation": "Your apprentice child receives their first salary.",
@@ -417,7 +417,7 @@
       ]
     },
     {
-      "id": "lehre-5",
+      "id": "berufslehre-5",
       "level": "intermediate",
       "title": "LAP — Lehrabschlussprüfung",
       "situation": "Your child prepares for the final apprenticeship exam.",

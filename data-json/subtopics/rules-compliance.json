@@ -58,6 +58,13 @@
           "german": "Kein Problem. Es ist gut, wenn man es weiß. Willkommen in der Schweiz!",
           "english": "No problem. It's good to know. Welcome to Switzerland!",
           "spanish": "Sin problema. Es bueno saberlo. ¡Bienvenido a Suiza!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -257,6 +264,13 @@
           "german": "Acht Franken für Erwachsene. Kinder unter sechzehn zahlen vier Franken.",
           "english": "Eight francs for adults. Children under sixteen pay four francs.",
           "spanish": "Ocho francos para adultos. Los niños menores de dieciséis pagan cuatro francos."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [

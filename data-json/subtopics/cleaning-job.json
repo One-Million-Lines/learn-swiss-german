@@ -5,7 +5,7 @@
   "description": "Cleaning offices, homes, and commercial spaces — products, tasks, and instructions",
   "dialogues": [
     {
-      "id": "cleaning-1",
+      "id": "cleaning-job-1",
       "level": "beginner",
       "title": "Starting the shift",
       "situation": "You arrive at the office building for your cleaning shift.",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "cleaning-2",
+      "id": "cleaning-job-2",
       "level": "beginner",
       "title": "Asking about cleaning products",
       "situation": "You're unsure which product to use on a specific surface.",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "id": "cleaning-3",
+      "id": "cleaning-job-3",
       "level": "intermediate",
       "title": "Dealing with a complaint",
       "situation": "An office manager complains that a meeting room wasn't cleaned properly.",
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "id": "cleaning-4",
+      "id": "cleaning-job-4",
       "level": "intermediate",
       "title": "Deep cleaning day",
       "situation": "It's the quarterly deep cleaning and the team plans the tasks.",
@@ -422,7 +422,7 @@
       ]
     },
     {
-      "id": "cleaning-5",
+      "id": "cleaning-job-5",
       "level": "beginner",
       "title": "End of shift report",
       "situation": "You finish your shift and report to the supervisor what you've done.",

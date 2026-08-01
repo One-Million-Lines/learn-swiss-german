@@ -5,7 +5,7 @@
   "description": "Thank you in social contexts, light apologies, du vs. Sie, and Swiss politeness norms",
   "dialogues": [
     {
-      "id": "etiquette-1",
+      "id": "social-etiquette-1",
       "level": "beginner",
       "title": "Thanking someone properly",
       "situation": "A neighbor helps you carry groceries.",
@@ -58,6 +58,13 @@
           "german": "Abgemacht! Ich bringe dir morgen einen vorbei. Nochmals danke!",
           "english": "Deal! I'll bring you one tomorrow. Thanks again!",
           "spanish": "¡Trato! Te traeré uno mañana. ¡Gracias de nuevo!"
+        },
+        {
+          "speaker": "Neighbor",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -103,7 +110,7 @@
       ]
     },
     {
-      "id": "etiquette-2",
+      "id": "social-etiquette-2",
       "level": "intermediate",
       "title": "Du vs. Sie — navigating formality",
       "situation": "You meet your neighbor's parents and navigate formality.",
@@ -156,6 +163,13 @@
           "german": "Freut mich, Margrit! Die Schweizer sind so nett — in anderen Ländern ist das alles formeller.",
           "english": "Nice to meet you, Margrit! The Swiss are so kind — in other countries it's all more formal.",
           "spanish": "¡Encantada de conocerte, Margrit! Los suizos son muy amables — en otros países todo es más formal."
+        },
+        {
+          "speaker": "Neighbor",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -199,7 +213,7 @@
       ]
     },
     {
-      "id": "etiquette-3",
+      "id": "social-etiquette-3",
       "level": "beginner",
       "title": "Light apologies in social settings",
       "situation": "You arrive late to meet friends.",
@@ -252,6 +266,13 @@
           "german": "Haha, genau! Dann bist du richtig integriert!",
           "english": "Haha, exactly! Then you'll be properly integrated!",
           "spanish": "Jaja, ¡exacto! ¡Entonces estarás bien integrado!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -295,7 +316,7 @@
       ]
     },
     {
-      "id": "etiquette-4",
+      "id": "social-etiquette-4",
       "level": "intermediate",
       "title": "Greeting etiquette — three kisses",
       "situation": "Someone explains the Swiss greeting ritual to you.",
@@ -348,6 +369,13 @@
           "german": "Okay, ich versuche es! Hoffentlich küsse ich niemanden auf die Nase!",
           "english": "Okay, I'll try! Hopefully I don't kiss anyone on the nose!",
           "spanish": "Bien, ¡lo intento! ¡Espero no besar a nadie en la nariz!"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -391,7 +419,7 @@
       ]
     },
     {
-      "id": "etiquette-5",
+      "id": "social-etiquette-5",
       "level": "beginner",
       "title": "Bringing something when visiting",
       "situation": "You learn about bringing gifts when visiting someone.",
@@ -444,6 +472,13 @@
           "german": "Perfekt! Und noch ein 'Danke für die Einladung' — dann machst du alles richtig.",
           "english": "Perfect! And also a 'thank you for the invitation' — then you're doing everything right.",
           "spanish": "¡Perfecto! Y también un 'gracias por la invitación' — así lo haces todo bien."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [

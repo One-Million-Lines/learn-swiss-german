@@ -5,7 +5,7 @@
   "description": "Buying tickets, asking about routes, understanding announcements, and dealing with delays",
   "dialogues": [
     {
-      "id": "transport-1",
+      "id": "public-transport-1",
       "level": "beginner",
       "title": "Buying a ticket",
       "situation": "You buy a ticket at the SBB counter.",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "transport-2",
+      "id": "public-transport-2",
       "level": "intermediate",
       "title": "Asking about routes and connections",
       "situation": "You ask about how to get to a destination using public transport.",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "id": "transport-3",
+      "id": "public-transport-3",
       "level": "intermediate",
       "title": "Understanding announcements and delays",
       "situation": "There's a delay and you overhear the announcement.",
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "id": "transport-4",
+      "id": "public-transport-4",
       "level": "beginner",
       "title": "On the tram",
       "situation": "You ask about the right tram stop.",
@@ -417,7 +417,7 @@
       ]
     },
     {
-      "id": "transport-5",
+      "id": "public-transport-5",
       "level": "intermediate",
       "title": "Asking for help at the station",
       "situation": "You're confused at a station and ask for help.",

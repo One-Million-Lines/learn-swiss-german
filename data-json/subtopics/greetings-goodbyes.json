@@ -156,6 +156,13 @@
           "german": "Ja, danke! Und es ist so unglaublich gemütlich bei Ihnen — so eine schöne Einrichtung!",
           "english": "Yes, thank you! And it's so wonderfully cozy at yours — such nice decor!",
           "spanish": "Sí, ¡gracias! Y es tan maravillosamente acogedor en tu casa — ¡qué decoración tan bonita!"
+        },
+        {
+          "speaker": "Neighbor",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -350,6 +357,13 @@
           "german": "Danke, gerne! Ich richte es aus. Auf Wiederhören!",
           "english": "Thanks, gladly! I'll pass it on. Goodbye (by phone)!",
           "spanish": "Gracias, ¡con mucho gusto! Se lo transmito. ¡Hasta luego (por teléfono)!"
+        },
+        {
+          "speaker": "Client",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [

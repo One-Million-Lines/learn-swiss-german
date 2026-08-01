@@ -273,6 +273,13 @@
           "german": "Ah stimmt, die steht auf der Mietrechnung. Danke!",
           "english": "Ah right, that's on the rent invoice. Thanks!",
           "spanish": "Ah, es verdad, está en la factura del alquiler. ¡Gracias!"
+        },
+        {
+          "speaker": "Banker",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [

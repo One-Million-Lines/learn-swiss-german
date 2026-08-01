@@ -5,7 +5,7 @@
   "description": "Talking to HR about contracts, raises, vacation, and workplace issues",
   "dialogues": [
     {
-      "id": "hr-salary-1",
+      "id": "hr-salary-talk-1",
       "level": "beginner",
       "title": "Asking about vacation days",
       "situation": "You check with HR how many vacation days you have left.",
@@ -51,6 +51,20 @@
           "german": "Bis Ende März des neuen Jahres. Sonst verfallen sie.",
           "english": "By end of March of the new year. Otherwise they expire.",
           "spanish": "Para finales de marzo del año nuevo. De lo contrario caducan."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
+        },
+        {
+          "speaker": "HR",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -89,7 +103,7 @@
       ]
     },
     {
-      "id": "hr-salary-2",
+      "id": "hr-salary-talk-2",
       "level": "intermediate",
       "title": "Requesting a raise",
       "situation": "You have your annual review and bring up a salary increase.",
@@ -142,6 +156,13 @@
           "german": "Ich denke, innerhalb von zwei Wochen kann ich dir etwas sagen.",
           "english": "I think I can tell you something within two weeks.",
           "spanish": "Creo que puedo darte una respuesta en dos semanas."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -185,7 +206,7 @@
       ]
     },
     {
-      "id": "hr-salary-3",
+      "id": "hr-salary-talk-3",
       "level": "beginner",
       "title": "Calling in sick",
       "situation": "You wake up sick and need to inform your boss.",
@@ -238,6 +259,13 @@
           "german": "Gut, halt mich auf dem Laufenden. Gute Besserung!",
           "english": "Good, keep me posted. Get well soon!",
           "spanish": "¡Bien, mantenme informado. Que te mejores pronto!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -276,7 +304,7 @@
       ]
     },
     {
-      "id": "hr-salary-4",
+      "id": "hr-salary-talk-4",
       "level": "intermediate",
       "title": "Discussing contract renewal",
       "situation": "Your fixed-term contract is ending and you discuss renewal with HR.",
@@ -379,7 +407,7 @@
       ]
     },
     {
-      "id": "hr-salary-5",
+      "id": "hr-salary-talk-5",
       "level": "beginner",
       "title": "Requesting parental leave",
       "situation": "You inform HR that you'll need parental leave soon.",

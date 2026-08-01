@@ -5,7 +5,7 @@
   "description": "Bath time, bedtime stories, and getting the kids to sleep",
   "dialogues": [
     {
-      "id": "bedtime-1",
+      "id": "bedtime-routine-1",
       "level": "beginner",
       "title": "Bath time",
       "situation": "You give your child a bath before bed.",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "bedtime-2",
+      "id": "bedtime-routine-2",
       "level": "beginner",
       "title": "Choosing pajamas",
       "situation": "Your child picks out their pajamas.",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "id": "bedtime-3",
+      "id": "bedtime-routine-3",
       "level": "beginner",
       "title": "Bedtime story",
       "situation": "You read a bedtime story to your child.",
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "id": "bedtime-4",
+      "id": "bedtime-routine-4",
       "level": "beginner",
       "title": "Afraid of the dark",
       "situation": "Your child is scared of the dark and doesn't want to sleep alone.",
@@ -417,7 +417,7 @@
       ]
     },
     {
-      "id": "bedtime-5",
+      "id": "bedtime-routine-5",
       "level": "intermediate",
       "title": "Can't fall asleep",
       "situation": "Your child keeps coming out of the bedroom.",

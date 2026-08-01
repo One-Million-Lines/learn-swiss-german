@@ -5,7 +5,7 @@
   "description": "Academic secondary school — entrance exams, Matura, and Gymi life",
   "dialogues": [
     {
-      "id": "gymi-1",
+      "id": "gymnasium-1",
       "level": "intermediate",
       "title": "Preparing for the Gymi entrance exam",
       "situation": "You help your child study for the Gymiprüfung.",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "gymi-2",
+      "id": "gymnasium-2",
       "level": "intermediate",
       "title": "Choosing a Gymi profile",
       "situation": "Your child discusses which Gymi profile to choose.",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "id": "gymi-3",
+      "id": "gymnasium-3",
       "level": "intermediate",
       "title": "Matura preparation",
       "situation": "Your teenager stresses about the Matura exams.",
@@ -319,7 +319,7 @@
       ]
     },
     {
-      "id": "gymi-4",
+      "id": "gymnasium-4",
       "level": "beginner",
       "title": "After-school activities at Gymi",
       "situation": "Your teenager tells you about extra-curricular activities at school.",
@@ -422,7 +422,7 @@
       ]
     },
     {
-      "id": "gymi-5",
+      "id": "gymnasium-5",
       "level": "intermediate",
       "title": "Matura party planning",
       "situation": "Your child is about to finish the Matura and plans the celebration.",

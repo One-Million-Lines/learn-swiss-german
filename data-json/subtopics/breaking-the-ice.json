@@ -5,7 +5,7 @@
   "description": "Opening small talk, commenting on context, and keeping the conversation going",
   "dialogues": [
     {
-      "id": "ice-1",
+      "id": "breaking-the-ice-1",
       "level": "beginner",
       "title": "Commenting on an event",
       "situation": "You comment on the surroundings at a Dorffest (village festival).",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "ice-2",
+      "id": "breaking-the-ice-2",
       "level": "beginner",
       "title": "Waiting in line",
       "situation": "You start a conversation while waiting in line at the Bäckerei.",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "id": "ice-3",
+      "id": "breaking-the-ice-3",
       "level": "intermediate",
       "title": "Commenting on the weather",
       "situation": "You start chatting with someone at the bus stop about the weather.",
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "id": "ice-4",
+      "id": "breaking-the-ice-4",
       "level": "beginner",
       "title": "Asking about weekend plans",
       "situation": "You chat with a colleague at the coffee machine.",
@@ -417,7 +417,7 @@
       ]
     },
     {
-      "id": "ice-5",
+      "id": "breaking-the-ice-5",
       "level": "intermediate",
       "title": "Follow-up questions",
       "situation": "You keep a conversation going by asking follow-up questions at a house party.",

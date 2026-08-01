@@ -5,7 +5,7 @@
   "description": "Showing a new colleague around and helping them get started",
   "dialogues": [
     {
-      "id": "onboarding-1",
+      "id": "onboarding-new-employee-1",
       "level": "beginner",
       "title": "Welcome on the first day",
       "situation": "You welcome a new colleague on their first day at work.",
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "id": "onboarding-2",
+      "id": "onboarding-new-employee-2",
       "level": "beginner",
       "title": "Explaining the daily routine",
       "situation": "You explain the team's typical daily schedule to the new colleague.",
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "id": "onboarding-3",
+      "id": "onboarding-new-employee-3",
       "level": "intermediate",
       "title": "Introducing to the team",
       "situation": "You bring the new colleague to the team meeting for introductions.",
@@ -304,7 +304,7 @@
       ]
     },
     {
-      "id": "onboarding-4",
+      "id": "onboarding-new-employee-4",
       "level": "intermediate",
       "title": "Explaining tools and systems",
       "situation": "You walk the new colleague through the company's software tools.",
@@ -407,7 +407,7 @@
       ]
     },
     {
-      "id": "onboarding-5",
+      "id": "onboarding-new-employee-5",
       "level": "beginner",
       "title": "First lunch with the team",
       "situation": "You take the new colleague along for the first team lunch.",

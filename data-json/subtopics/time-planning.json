@@ -5,7 +5,7 @@
   "description": "Asking for the time, opening hours, understanding schedules, and planning same-day activities",
   "dialogues": [
     {
-      "id": "time-1",
+      "id": "time-planning-1",
       "level": "beginner",
       "title": "Asking for the time",
       "situation": "You ask someone on the street what time it is.",
@@ -58,6 +58,13 @@
           "german": "Dann viel Glück! Sie schaffen das schon.",
           "english": "Good luck then! You'll make it.",
           "spanish": "¡Mucha suerte! Lo conseguirás."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -101,7 +108,7 @@
       ]
     },
     {
-      "id": "time-2",
+      "id": "time-planning-2",
       "level": "intermediate",
       "title": "Asking about opening hours",
       "situation": "You want to know when shops and services are open.",
@@ -154,6 +161,13 @@
           "german": "Der hat am Montag zu. Sonst von neun bis sechs.",
           "english": "They're closed Monday. Otherwise nine to six.",
           "spanish": "Están cerrados el lunes. Si no, de nueve a seis."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -197,7 +211,7 @@
       ]
     },
     {
-      "id": "time-3",
+      "id": "time-planning-3",
       "level": "beginner",
       "title": "Making a plan for the day",
       "situation": "You plan your day with a friend.",
@@ -250,6 +264,13 @@
           "german": "Ja, aber nicht zu spät. Ich muss morgen früh auf.",
           "english": "Yes, but not too late. I have to get up early tomorrow.",
           "spanish": "Sí, pero no demasiado tarde. Tengo que levantarme temprano mañana."
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -293,7 +314,7 @@
       ]
     },
     {
-      "id": "time-4",
+      "id": "time-planning-4",
       "level": "intermediate",
       "title": "Understanding a schedule",
       "situation": "You look at a schedule board and ask about it.",
@@ -346,6 +367,13 @@
           "german": "Ja, jeden Montag und Mittwoch. Außer in den Ferienwochen.",
           "english": "Yes, every Monday and Wednesday. Except during holiday weeks.",
           "spanish": "Sí, todos los lunes y miércoles. Excepto durante las semanas de vacaciones."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -389,7 +417,7 @@
       ]
     },
     {
-      "id": "time-5",
+      "id": "time-planning-5",
       "level": "beginner",
       "title": "Will I make it in time?",
       "situation": "You wonder if you'll be on time for something.",
@@ -442,6 +470,13 @@
           "german": "Gut, dann gehen wir!",
           "english": "Good, let's go!",
           "spanish": "¡Bien, vamos!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [

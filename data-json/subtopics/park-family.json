@@ -5,7 +5,7 @@
   "description": "Family walks in the park — nature, picnics, and outdoor time together",
   "dialogues": [
     {
-      "id": "park-1",
+      "id": "park-family-1",
       "level": "beginner",
       "title": "A Sunday walk",
       "situation": "The family goes for a walk in the park on a Sunday.",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "park-2",
+      "id": "park-family-2",
       "level": "beginner",
       "title": "Picnic in the park",
       "situation": "The family has a picnic on the grass.",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "id": "park-3",
+      "id": "park-family-3",
       "level": "beginner",
       "title": "Exploring nature",
       "situation": "The family discovers plants and animals in the park.",
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "id": "park-4",
+      "id": "park-family-4",
       "level": "intermediate",
       "title": "Chatting with another family",
       "situation": "You meet another family on a walk and chat.",
@@ -417,7 +417,7 @@
       ]
     },
     {
-      "id": "park-5",
+      "id": "park-family-5",
       "level": "beginner",
       "title": "Rainy park adventure",
       "situation": "You go to the park even though it's drizzling.",

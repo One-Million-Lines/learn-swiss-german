@@ -5,7 +5,7 @@
   "description": "Talking to your landlord, reporting issues, understanding building notices, and neighbor communication",
   "dialogues": [
     {
-      "id": "housing-1",
+      "id": "housing-daily-1",
       "level": "intermediate",
       "title": "Reporting a problem to the landlord",
       "situation": "You call the Hausverwaltung to report a broken heater.",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "housing-2",
+      "id": "housing-daily-2",
       "level": "beginner",
       "title": "Reading a building notice",
       "situation": "You see a notice in the building and ask a neighbor about it.",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "id": "housing-3",
+      "id": "housing-daily-3",
       "level": "intermediate",
       "title": "Talking to neighbors about noise",
       "situation": "Your neighbors are having a party and it's late.",
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "id": "housing-4",
+      "id": "housing-daily-4",
       "level": "beginner",
       "title": "The shared laundry room",
       "situation": "You use the shared Waschküche in your building.",
@@ -417,7 +417,7 @@
       ]
     },
     {
-      "id": "housing-5",
+      "id": "housing-daily-5",
       "level": "intermediate",
       "title": "Moving in — meeting neighbors",
       "situation": "You just moved in and introduce yourself to a neighbor.",

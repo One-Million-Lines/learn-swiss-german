@@ -58,6 +58,13 @@
           "german": "Haha, wir trainieren schon seit Monaten. Aber einen Anfänger-Lauf gibt es auch!",
           "english": "Haha, we've been training for months. But there's a beginner run too!",
           "spanish": "Jaja, ¡llevamos meses entrenando. Pero hay una pista para principiantes también!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -154,6 +161,13 @@
           "german": "Super, bis dann!",
           "english": "Great, see you then!",
           "spanish": "¡Genial, nos vemos entonces!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -250,6 +264,13 @@
           "german": "Wir müssen dort hingehen! Am nächsten Wochenende?",
           "english": "We need to go check it out! Next weekend?",
           "spanish": "¡Tenemos que ir a verlo! ¿El próximo fin de semana?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -346,6 +367,13 @@
           "german": "Haha, es gibt Untertitel! Sogar die Schweizer brauchen die!",
           "english": "Haha, there are subtitles! Even the Swiss need them!",
           "spanish": "Jaja, ¡hay subtítulos! ¡Hasta los suizos los necesitan!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -442,6 +470,13 @@
           "german": "Gerne! Das nächste Zürifest ist in zwei Jahren. Wir könnten zusammen hingehen!",
           "english": "Happy to! The next Zürich festival is in two years. We could go together!",
           "spanish": "¡Con mucho gusto! El próximo festival de Zúrich es en dos años. ¡Podríamos ir juntos!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [

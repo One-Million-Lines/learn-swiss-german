@@ -5,7 +5,7 @@
   "description": "Something wrong with a product or service, returning items, making complaints, and getting a refund or exchange",
   "dialogues": [
     {
-      "id": "problems-1",
+      "id": "handling-problems-1",
       "level": "intermediate",
       "title": "Returning a defective product",
       "situation": "You return a broken appliance to the store.",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "problems-2",
+      "id": "handling-problems-2",
       "level": "intermediate",
       "title": "Wrong order at a restaurant",
       "situation": "Your food order was wrong at a restaurant.",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "id": "problems-3",
+      "id": "handling-problems-3",
       "level": "beginner",
       "title": "Something doesn't work",
       "situation": "A machine or device isn't working and you report it.",
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "id": "problems-4",
+      "id": "handling-problems-4",
       "level": "intermediate",
       "title": "Making a complaint politely",
       "situation": "You make a complaint about a service you received.",
@@ -417,7 +417,7 @@
       ]
     },
     {
-      "id": "problems-5",
+      "id": "handling-problems-5",
       "level": "beginner",
       "title": "Exchanging the wrong size",
       "situation": "You need to exchange clothing for a different size.",

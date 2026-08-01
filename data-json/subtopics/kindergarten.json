@@ -5,7 +5,7 @@
   "description": "First day, Znüni time, activities, and making friends",
   "dialogues": [
     {
-      "id": "kiga-1",
+      "id": "kindergarten-1",
       "level": "beginner",
       "title": "First day of Kindergarten",
       "situation": "Your child starts Kindergarten and you meet the teacher.",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "kiga-2",
+      "id": "kindergarten-2",
       "level": "beginner",
       "title": "Znüni time",
       "situation": "It's snack time at Kindergarten.",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "id": "kiga-3",
+      "id": "kindergarten-3",
       "level": "intermediate",
       "title": "Basteln — Arts and crafts",
       "situation": "The children are doing a craft project in Kindergarten.",
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "id": "kiga-4",
+      "id": "kindergarten-4",
       "level": "beginner",
       "title": "Playing outside",
       "situation": "Outdoor playtime at Kindergarten.",
@@ -417,7 +417,7 @@
       ]
     },
     {
-      "id": "kiga-5",
+      "id": "kindergarten-5",
       "level": "intermediate",
       "title": "Learning to share",
       "situation": "The teacher helps kids with sharing and taking turns.",

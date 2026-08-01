@@ -58,6 +58,13 @@
           "german": "Exakt! Fendant ist ja das Säuerliche — super zum Appenzeller Käse im Caquelon!",
           "english": "Exactly! Fendant is slightly tart — super with Appenzeller cheese in the caquelon!",
           "spanish": "¡Exacto! El Fendant es ligeramente ácido — ¡perfecto con queso Appenzeller en el caquelon!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -154,6 +161,13 @@
           "german": "Selbstverständlich! Du bist immer auf der Liste. Ich schicke dir eine WhatsApp.",
           "english": "Of course! You're always on the list. I'll send you a WhatsApp.",
           "spanish": "¡Por supuesto! Siempre estás en la lista. Te mando un WhatsApp."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -250,6 +264,13 @@
           "german": "Der beim HB! Dort gibt es auch guten Kuchen. Ich freue mich!",
           "english": "The one at the main station! They also have good cake there. I'm looking forward to it!",
           "spanish": "¡El de la estación central! Ahí también tienen buen pastel. ¡Tengo muchas ganas!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -346,6 +367,13 @@
           "german": "So ungefähr zwei Stunden mit dem Auto. Oder mit dem Zug bis Chur, dann Postauto.",
           "english": "About two hours by car. Or by train to Chur, then the Postbus.",
           "spanish": "Unas dos horas en coche. O en tren hasta Chur, luego el Postbus."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [

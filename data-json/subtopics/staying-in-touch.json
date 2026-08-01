@@ -5,7 +5,7 @@
   "description": "Exchanging contacts, suggesting future contact, following up after meeting, and reacting to messages",
   "dialogues": [
     {
-      "id": "staying-1",
+      "id": "staying-in-touch-1",
       "level": "beginner",
       "title": "Exchanging numbers",
       "situation": "You hit it off at a party and exchange numbers.",
@@ -58,6 +58,13 @@
           "german": "Ja, sicher! Schreib mir einfach — ich antworte schnell!",
           "english": "Yes, sure! Just text me — I reply fast!",
           "spanish": "Sí, ¡claro! ¡Solo mándame un mensaje — respondo rápido!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -101,7 +108,7 @@
       ]
     },
     {
-      "id": "staying-2",
+      "id": "staying-in-touch-2",
       "level": "intermediate",
       "title": "Following up after met someone",
       "situation": "You text someone you met at an event a few days ago.",
@@ -154,6 +161,13 @@
           "german": "Donnerstag ist perfekt! Ich melde mich noch wegen des Orts. Freu mich!",
           "english": "Thursday is perfect! I'll get back to you about the place. Looking forward!",
           "spanish": "¡El jueves es perfecto! Te aviso sobre el lugar. ¡Tengo muchas ganas!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -197,7 +211,7 @@
       ]
     },
     {
-      "id": "staying-3",
+      "id": "staying-in-touch-3",
       "level": "beginner",
       "title": "Suggesting we stay in touch",
       "situation": "At the end of meeting someone nice, you suggest staying connected.",
@@ -250,6 +264,13 @@
           "german": "Ich auch! Bis bald — und melde dich!",
           "english": "Me too! See you soon — and get in touch!",
           "spanish": "¡Yo también! ¡Nos vemos pronto — y no pierdas el contacto!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -293,7 +314,7 @@
       ]
     },
     {
-      "id": "staying-4",
+      "id": "staying-in-touch-4",
       "level": "intermediate",
       "title": "Reacting to a message",
       "situation": "You reply to a friend's message making plans.",
@@ -346,6 +367,13 @@
           "german": "Haha klar, Rivella — das Schweizer Nationalgetränk! Bis Sonntag! 🏖️",
           "english": "Haha sure, Rivella — the Swiss national drink! See you Sunday! 🏖️",
           "spanish": "Jaja seguro, Rivella — ¡la bebida nacional suiza! ¡Nos vemos el domingo! 🏖️"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -389,7 +417,7 @@
       ]
     },
     {
-      "id": "staying-5",
+      "id": "staying-in-touch-5",
       "level": "intermediate",
       "title": "Reconnecting after a while",
       "situation": "You reach out to someone you haven't seen in a while.",
@@ -442,6 +470,13 @@
           "german": "Perfekt! Ich freue mich riesig! Wir schreiben uns noch wegen der Details.",
           "english": "Perfect! I'm super excited! We'll text about the details.",
           "spanish": "¡Perfecto! ¡Estoy muy emocionado! Nos escribimos sobre los detalles."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [

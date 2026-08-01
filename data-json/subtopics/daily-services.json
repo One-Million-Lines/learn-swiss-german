@@ -5,7 +5,7 @@
   "description": "Visiting the post office, bank counter, pharmacy, dry cleaning, and asking for help at service locations",
   "dialogues": [
     {
-      "id": "services-1",
+      "id": "daily-services-1",
       "level": "beginner",
       "title": "At the post office",
       "situation": "You send a package at a Swiss Post office.",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "services-2",
+      "id": "daily-services-2",
       "level": "intermediate",
       "title": "At the bank counter",
       "situation": "You do a transaction at the bank counter.",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "id": "services-3",
+      "id": "daily-services-3",
       "level": "beginner",
       "title": "At the dry cleaner / Reinigung",
       "situation": "You drop off clothes at a dry cleaner.",
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "id": "services-4",
+      "id": "daily-services-4",
       "level": "intermediate",
       "title": "At the Gemeinde / municipal office",
       "situation": "You visit the Gemeinde (municipal office) for an administrative task.",
@@ -417,7 +417,7 @@
       ]
     },
     {
-      "id": "services-5",
+      "id": "daily-services-5",
       "level": "beginner",
       "title": "Asking for help at a service location",
       "situation": "You need help and ask an employee in a shop.",

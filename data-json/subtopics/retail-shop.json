@@ -5,7 +5,7 @@
   "description": "Helping customers, stocking shelves, and daily life in a Swiss shop",
   "dialogues": [
     {
-      "id": "retail-1",
+      "id": "retail-shop-1",
       "level": "beginner",
       "title": "Greeting a customer",
       "situation": "A customer enters the clothing store where you work.",
@@ -110,7 +110,7 @@
       ]
     },
     {
-      "id": "retail-2",
+      "id": "retail-shop-2",
       "level": "beginner",
       "title": "At the cash register",
       "situation": "A customer is ready to pay for their items.",
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "id": "retail-3",
+      "id": "retail-shop-3",
       "level": "intermediate",
       "title": "Handling a return",
       "situation": "A customer wants to return an item they bought last week.",
@@ -306,7 +306,7 @@
       ]
     },
     {
-      "id": "retail-4",
+      "id": "retail-shop-4",
       "level": "intermediate",
       "title": "Stocking shelves",
       "situation": "Your manager asks you to restock shelves before opening.",
@@ -409,7 +409,7 @@
       ]
     },
     {
-      "id": "retail-5",
+      "id": "retail-shop-5",
       "level": "beginner",
       "title": "Closing the shop",
       "situation": "It's closing time and you do the final tasks.",

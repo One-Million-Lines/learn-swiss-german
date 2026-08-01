@@ -58,6 +58,13 @@
           "german": "Perfekt. Zwanzig Franken bitte.",
           "english": "Perfect. Twenty francs please.",
           "spanish": "Perfecto. Veinte francos, por favor."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -149,6 +156,13 @@
           "german": "Ja, es gibt viele solche Wörter. Frag einfach, wenn etwas unklar ist!",
           "english": "Yeah, there are many such words. Just ask if something is unclear!",
           "spanish": "Sí, hay muchas palabras así. ¡Solo pregunta si algo no está claro!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [

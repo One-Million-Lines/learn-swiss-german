@@ -5,7 +5,7 @@
   "description": "Chatting with neighbors in the hallway or staircase",
   "dialogues": [
     {
-      "id": "neighbors-1",
+      "id": "small-talk-neighbors-1",
       "level": "beginner",
       "title": "Quick hallway encounter",
       "situation": "You run into your neighbor Frau Müller while checking the mail.",
@@ -58,6 +58,13 @@
           "german": "Danke, Ihnen auch!",
           "english": "Thanks, you too!",
           "spanish": "¡Gracias, igualmente!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -91,7 +98,7 @@
       ]
     },
     {
-      "id": "neighbors-2",
+      "id": "small-talk-neighbors-2",
       "level": "beginner",
       "title": "Talking about the recycling schedule",
       "situation": "You meet your neighbor by the recycling bins and ask about the schedule.",
@@ -144,6 +151,13 @@
           "german": "Kein Problem. Tschüss!",
           "english": "No problem. Bye!",
           "spanish": "Sin problema. ¡Hasta luego!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -177,7 +191,7 @@
       ]
     },
     {
-      "id": "neighbors-3",
+      "id": "small-talk-neighbors-3",
       "level": "intermediate",
       "title": "Chatting about a package and weekend",
       "situation": "Your neighbor stops you to mention a package and you chat a bit.",
@@ -230,6 +244,13 @@
           "german": "Danke! Und Ihnen ein schönes Wochenende!",
           "english": "Thanks! And have a nice weekend!",
           "spanish": "¡Gracias! ¡Y que tengas un buen fin de semana!"
+        },
+        {
+          "speaker": "Neighbor",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -273,7 +294,7 @@
       ]
     },
     {
-      "id": "neighbors-4",
+      "id": "small-talk-neighbors-4",
       "level": "intermediate",
       "title": "Noise complaint handled politely",
       "situation": "Your neighbor politely mentions that they heard noise from your flat last night.",
@@ -326,6 +347,13 @@
           "german": "Alles gut! Schönen Tag!",
           "english": "All good! Have a nice day!",
           "spanish": "¡Todo bien! ¡Que tengas un buen día!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -369,7 +397,7 @@
       ]
     },
     {
-      "id": "neighbors-5",
+      "id": "small-talk-neighbors-5",
       "level": "intermediate",
       "title": "Asking a neighbor to water the plants",
       "situation": "You're going on vacation and ask your neighbor for a small favor.",
@@ -422,6 +450,13 @@
           "german": "Danke, Sie sind so nett! Wir bringen Ihnen etwas mit.",
           "english": "Thanks, you're so kind! We'll bring you something back.",
           "spanish": "¡Gracias, eres muy amable! Os traemos algo a la vuelta."
+        },
+        {
+          "speaker": "Neighbor",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [

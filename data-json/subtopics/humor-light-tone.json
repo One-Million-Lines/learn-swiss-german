@@ -5,7 +5,7 @@
   "description": "Light jokes, playful comments, teasing, and using informal Swiss expressions",
   "dialogues": [
     {
-      "id": "humor-1",
+      "id": "humor-light-tone-1",
       "level": "intermediate",
       "title": "Joking about Swiss precision",
       "situation": "You joke about how punctual everything is in Switzerland.",
@@ -58,6 +58,13 @@
           "german": "Ja, die SBB — die sind überpfünktlich. Wenn etwas nicht stimmt, macht ganz die Schweiz Schlagzeilen!",
           "english": "Yes, the SBB — they're overly precise. If something goes wrong, all of Switzerland makes headlines!",
           "spanish": "Sí, los SBB — son demasiado precisos. ¡Si algo sale mal, toda Suiza sale en los titulares!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -101,7 +108,7 @@
       ]
     },
     {
-      "id": "humor-2",
+      "id": "humor-light-tone-2",
       "level": "intermediate",
       "title": "Teasing a friend",
       "situation": "You playfully tease a friend about their cooking.",
@@ -154,6 +161,13 @@
           "german": "(lacht) Ja! Ich bin nicht komplett verrückt! Aber es war knapp...",
           "english": "(laughs) Yes! I'm not completely crazy! But it was close...",
           "spanish": "(ríe) ¡Sí! ¡No estoy completamente loco/a! Pero estuvo cerca..."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -197,7 +211,7 @@
       ]
     },
     {
-      "id": "humor-3",
+      "id": "humor-light-tone-3",
       "level": "beginner",
       "title": "Laughing at Swiss German",
       "situation": "You laugh about Swiss German words that sound funny to you.",
@@ -300,7 +314,7 @@
       ]
     },
     {
-      "id": "humor-4",
+      "id": "humor-light-tone-4",
       "level": "intermediate",
       "title": "Playful banter about Swiss vs. other cultures",
       "situation": "Friends from different countries joke about cultural differences.",
@@ -353,6 +367,13 @@
           "german": "(lacht) Du kennst uns schon besser als wir uns selbst!",
           "english": "(laughs) You already know us better than we know ourselves!",
           "spanish": "(ríe) ¡Ya nos conoces mejor que nosotros mismos!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -396,7 +417,7 @@
       ]
     },
     {
-      "id": "humor-5",
+      "id": "humor-light-tone-5",
       "level": "beginner",
       "title": "Using informal expressions",
       "situation": "You pick up Swiss slang and use it naturally.",

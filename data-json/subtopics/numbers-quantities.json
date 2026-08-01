@@ -58,6 +58,13 @@
           "german": "Natürlich. Noch zwei Franken dazu — macht vierzehn vierzig insgesamt.",
           "english": "Of course. Another two francs — makes fourteen forty altogether.",
           "spanish": "Por supuesto. Otros dos francos — son catorce cuarenta en total."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -448,6 +455,13 @@
           "german": "Hundertein! Ist einfach!",
           "english": "A hundred and one! It's easy!",
           "spanish": "¡Ciento uno! ¡Es fácil!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [

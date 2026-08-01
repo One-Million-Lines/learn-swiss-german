@@ -58,6 +58,13 @@
           "german": "Top! Dann melde ich mich.",
           "english": "Great! I'll be in touch then.",
           "spanish": "¡Genial! Estaré en contacto entonces."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -149,6 +156,13 @@
           "german": "Abgemacht! Erhole dich gut.",
           "english": "Deal! Rest well.",
           "spanish": "¡Trato! Descansa bien."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [

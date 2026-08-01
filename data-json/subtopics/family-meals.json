@@ -5,7 +5,7 @@
   "description": "Cooking and eating together as a family — recipes, table manners, and conversations",
   "dialogues": [
     {
-      "id": "meals-1",
+      "id": "family-meals-1",
       "level": "beginner",
       "title": "Cooking dinner together",
       "situation": "You and your child cook dinner together.",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "meals-2",
+      "id": "family-meals-2",
       "level": "beginner",
       "title": "Setting the table",
       "situation": "Your child helps set the table for dinner.",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "id": "meals-3",
+      "id": "family-meals-3",
       "level": "intermediate",
       "title": "Picky eater",
       "situation": "Your child refuses to eat vegetables.",
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "id": "meals-4",
+      "id": "family-meals-4",
       "level": "intermediate",
       "title": "Sunday Zopf breakfast",
       "situation": "The family enjoys a typical Swiss Sunday breakfast.",
@@ -417,7 +417,7 @@
       ]
     },
     {
-      "id": "meals-5",
+      "id": "family-meals-5",
       "level": "intermediate",
       "title": "Raclette evening",
       "situation": "The family has a Raclette evening.",

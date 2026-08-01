@@ -5,7 +5,7 @@
   "description": "Choosing tracks, Übertritt, and navigating secondary school in Switzerland",
   "dialogues": [
     {
-      "id": "sek-1",
+      "id": "sekundarschule-1",
       "level": "intermediate",
       "title": "The Übertritt discussion",
       "situation": "The teacher discusses with parents which secondary school track fits the child.",
@@ -58,6 +58,13 @@
           "german": "Okay, wir besprechen das zu Hause und geben Ihnen Bescheid.",
           "english": "Okay, we'll discuss it at home and let you know.",
           "spanish": "Bien, lo discutimos en casa y te avisamos."
+        },
+        {
+          "speaker": "Lehrerin",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -101,7 +108,7 @@
       ]
     },
     {
-      "id": "sek-2",
+      "id": "sekundarschule-2",
       "level": "intermediate",
       "title": "First day at Sek",
       "situation": "Your child starts secondary school and tells you about it.",
@@ -154,6 +161,13 @@
           "german": "Toll! Und vergiss den Stundenplan nicht, damit du weißt welche Bücher mitnehmen.",
           "english": "Great! And don't forget the schedule, so you know which books to bring.",
           "spanish": "¡Genial! Y no olvides el horario, para saber qué libros traer."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -197,7 +211,7 @@
       ]
     },
     {
-      "id": "sek-3",
+      "id": "sekundarschule-3",
       "level": "intermediate",
       "title": "Choosing electives",
       "situation": "Your child needs to choose Wahlfächer (elective subjects).",
@@ -250,6 +264,13 @@
           "german": "Du kannst zwei wählen. Nimm doch beides!",
           "english": "You can choose two. Just take both!",
           "spanish": "Puedes elegir dos. ¡Coge los dos!"
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -293,7 +314,7 @@
       ]
     },
     {
-      "id": "sek-4",
+      "id": "sekundarschule-4",
       "level": "beginner",
       "title": "Getting a bad grade",
       "situation": "Your child comes home upset about a test grade.",
@@ -346,6 +367,13 @@
           "german": "Siehst du! Jeder hat seinen eigenen Weg. Du findest deinen.",
           "english": "See! Everyone has their own way. You'll find yours.",
           "spanish": "¡Mira! Cada uno tiene su manera. Tú encontrarás la tuya."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -389,7 +417,7 @@
       ]
     },
     {
-      "id": "sek-5",
+      "id": "sekundarschule-5",
       "level": "intermediate",
       "title": "Talking about career goals",
       "situation": "Your teenager discusses future options with you.",
@@ -442,6 +470,13 @@
           "german": "Ja klar! Wir gehen mal zur Berufsberatung, die helfen dir.",
           "english": "Yes of course! We'll go to career counseling, they'll help you.",
           "spanish": "Sí, por supuesto. Te ayudaremos con la orientación profesional."
+        },
+        {
+          "speaker": "Child",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [

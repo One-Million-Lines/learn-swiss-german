@@ -5,7 +5,7 @@
   "description": "Receiving and discussing grades, report cards, and academic progress",
   "dialogues": [
     {
-      "id": "zeugnis-1",
+      "id": "zeugnis-day-1",
       "level": "beginner",
       "title": "Bringing home the Zeugnis",
       "situation": "Your child brings home the semester report card.",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "zeugnis-2",
+      "id": "zeugnis-day-2",
       "level": "intermediate",
       "title": "Disappointing grades",
       "situation": "Your child's grades have dropped and you discuss it.",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "id": "zeugnis-3",
+      "id": "zeugnis-day-3",
       "level": "beginner",
       "title": "Celebrating good grades",
       "situation": "Your child gets excellent marks and you celebrate.",
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "id": "zeugnis-4",
+      "id": "zeugnis-day-4",
       "level": "intermediate",
       "title": "Comparing with classmates",
       "situation": "Your child compares their grades with friends.",
@@ -417,7 +417,7 @@
       ]
     },
     {
-      "id": "zeugnis-5",
+      "id": "zeugnis-day-5",
       "level": "intermediate",
       "title": "Signing the Zeugnis",
       "situation": "Parents need to sign the report card and return it.",

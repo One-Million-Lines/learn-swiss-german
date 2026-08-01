@@ -5,7 +5,7 @@
   "description": "Casual conversations with colleagues in the office",
   "dialogues": [
     {
-      "id": "work-chat-1",
+      "id": "work-informal-chat-1",
       "level": "beginner",
       "title": "Morning coffee chat",
       "situation": "You're grabbing coffee in the office kitchen and a colleague walks in.",
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "id": "work-chat-2",
+      "id": "work-informal-chat-2",
       "level": "beginner",
       "title": "Asking about lunch plans",
       "situation": "It's close to noon and you check if colleagues want to have lunch together.",
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "id": "work-chat-3",
+      "id": "work-informal-chat-3",
       "level": "intermediate",
       "title": "Chatting about the weekend and lunch plans",
       "situation": "It's Monday morning and you catch up with your colleague about the weekend.",
@@ -304,7 +304,7 @@
       ]
     },
     {
-      "id": "work-chat-4",
+      "id": "work-informal-chat-4",
       "level": "intermediate",
       "title": "Talking about a meeting and stress",
       "situation": "After a long meeting, you vent with a colleague in the corridor.",
@@ -412,7 +412,7 @@
       ]
     },
     {
-      "id": "work-chat-5",
+      "id": "work-informal-chat-5",
       "level": "beginner",
       "title": "Saying goodbye at the end of the day",
       "situation": "It's late afternoon and you're packing up to leave the office.",

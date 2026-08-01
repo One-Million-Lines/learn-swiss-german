@@ -5,7 +5,7 @@
   "description": "Sharing simple opinions about weather, food, restaurants, and local life",
   "dialogues": [
     {
-      "id": "opinions-1",
+      "id": "casual-opinions-1",
       "level": "beginner",
       "title": "Talking about weather",
       "situation": "You chat about the weather with a neighbor over the garden fence.",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "opinions-2",
+      "id": "casual-opinions-2",
       "level": "intermediate",
       "title": "Talking about food and restaurants",
       "situation": "You discuss restaurants with friends over drinks.",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "id": "opinions-3",
+      "id": "casual-opinions-3",
       "level": "beginner",
       "title": "Likes and dislikes",
       "situation": "You share simple opinions about things you like and dislike.",
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "id": "opinions-4",
+      "id": "casual-opinions-4",
       "level": "intermediate",
       "title": "Talking about local life",
       "situation": "You discuss life in your neighborhood with a neighbor.",
@@ -417,7 +417,7 @@
       ]
     },
     {
-      "id": "opinions-5",
+      "id": "casual-opinions-5",
       "level": "intermediate",
       "title": "Talking about free time activities",
       "situation": "You discuss weekend activities with a colleague.",

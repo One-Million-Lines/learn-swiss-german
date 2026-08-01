@@ -5,7 +5,7 @@
   "description": "At the hospital, first days with the baby, and visitors",
   "dialogues": [
     {
-      "id": "newborn-1",
+      "id": "newborn-baby-1",
       "level": "beginner",
       "title": "At the maternity ward",
       "situation": "Your partner just had a baby and the midwife checks in.",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "newborn-2",
+      "id": "newborn-baby-2",
       "level": "beginner",
       "title": "Visitors come to see the baby",
       "situation": "Friends visit you at home to see the newborn.",
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "id": "newborn-3",
+      "id": "newborn-baby-3",
       "level": "intermediate",
       "title": "Registering the birth",
       "situation": "You go to the Zivilstandsamt to register your newborn.",
@@ -309,7 +309,7 @@
       ]
     },
     {
-      "id": "newborn-4",
+      "id": "newborn-baby-4",
       "level": "intermediate",
       "title": "Talking to the pediatrician",
       "situation": "You take the baby for the first check-up at the Kinderarzt.",
@@ -412,7 +412,7 @@
       ]
     },
     {
-      "id": "newborn-5",
+      "id": "newborn-baby-5",
       "level": "beginner",
       "title": "Buying baby supplies",
       "situation": "You go shopping for baby essentials.",

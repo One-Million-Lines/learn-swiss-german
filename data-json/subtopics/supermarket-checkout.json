@@ -5,7 +5,7 @@
   "description": "At the Migros or Coop checkout and asking about products",
   "dialogues": [
     {
-      "id": "supermarket-1",
+      "id": "supermarket-checkout-1",
       "level": "beginner",
       "title": "Asking where to find items",
       "situation": "You're at Migros and need help locating products.",
@@ -58,6 +58,13 @@
           "german": "Gern geschehen!",
           "english": "You're welcome!",
           "spanish": "¡De nada!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -91,7 +98,7 @@
       ]
     },
     {
-      "id": "supermarket-2",
+      "id": "supermarket-checkout-2",
       "level": "beginner",
       "title": "Self-checkout trouble",
       "situation": "You're at the self-checkout and the machine isn't working.",
@@ -144,6 +151,13 @@
           "german": "Gern geschehen. Guten Einkauf!",
           "english": "You're welcome. Happy shopping!",
           "spanish": "De nada. ¡Que disfrutes las compras!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -182,7 +196,7 @@
       ]
     },
     {
-      "id": "supermarket-3",
+      "id": "supermarket-checkout-3",
       "level": "intermediate",
       "title": "Checkout with loyalty card and bags",
       "situation": "You're at the Coop checkout with a full cart.",
@@ -235,6 +249,13 @@
           "german": "Danke und einen schönen Abend!",
           "english": "Thanks and have a nice evening!",
           "spanish": "¡Gracias y que tengas una buena noche!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -273,7 +294,7 @@
       ]
     },
     {
-      "id": "supermarket-4",
+      "id": "supermarket-checkout-4",
       "level": "intermediate",
       "title": "Returning a product",
       "situation": "You bought the wrong item and want to return it at the Coop service desk.",
@@ -376,7 +397,7 @@
       ]
     },
     {
-      "id": "supermarket-5",
+      "id": "supermarket-checkout-5",
       "level": "intermediate",
       "title": "Asking about organic and local products",
       "situation": "You want to find organic and locally-sourced products at Migros.",
@@ -429,6 +450,13 @@
           "german": "Das ist es mir wert. Danke für die Hilfe!",
           "english": "It's worth it to me. Thanks for the help!",
           "spanish": "Para mí merece la pena. ¡Gracias por la ayuda!"
+        },
+        {
+          "speaker": "Staff",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [

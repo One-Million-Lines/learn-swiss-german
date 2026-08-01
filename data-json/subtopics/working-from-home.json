@@ -5,7 +5,7 @@
   "description": "Remote work situations, video calls, and work-life balance at home",
   "dialogues": [
     {
-      "id": "wfh-1",
+      "id": "working-from-home-1",
       "level": "beginner",
       "title": "Morning check-in call",
       "situation": "You join the daily standup from home.",
@@ -58,6 +58,13 @@
           "german": "Perfekt. Gib Bescheid falls etwas ist.",
           "english": "Perfect. Let us know if anything comes up.",
           "spanish": "Perfecto. Avisadnos si surge algo."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
@@ -96,7 +103,7 @@
       ]
     },
     {
-      "id": "wfh-2",
+      "id": "working-from-home-2",
       "level": "beginner",
       "title": "Technical issues at home",
       "situation": "Your internet at home is unstable and you need to inform your team.",
@@ -199,7 +206,7 @@
       ]
     },
     {
-      "id": "wfh-3",
+      "id": "working-from-home-3",
       "level": "intermediate",
       "title": "Discussing work-life balance",
       "situation": "You chat with a colleague about the challenges of working from home.",
@@ -302,7 +309,7 @@
       ]
     },
     {
-      "id": "wfh-4",
+      "id": "working-from-home-4",
       "level": "beginner",
       "title": "Asking to work from home",
       "situation": "You ask your boss if you can work from home tomorrow.",
@@ -355,6 +362,13 @@
           "german": "Mach ich, versprochen!",
           "english": "Will do, promised!",
           "spanish": "¡Lo haré, lo prometo!"
+        },
+        {
+          "speaker": "Boss",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -393,7 +407,7 @@
       ]
     },
     {
-      "id": "wfh-5",
+      "id": "working-from-home-5",
       "level": "intermediate",
       "title": "Video call etiquette fail",
       "situation": "Something awkward happens during a video call from home.",

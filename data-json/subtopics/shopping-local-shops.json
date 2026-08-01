@@ -5,7 +5,7 @@
   "description": "Buying at the bakery, butcher, and local shops — asking for products, quantities, prices, and paying",
   "dialogues": [
     {
-      "id": "shopping-local-1",
+      "id": "shopping-local-shops-1",
       "level": "beginner",
       "title": "At the bakery",
       "situation": "You buy bread and pastries at a local bakery.",
@@ -58,6 +58,13 @@
           "german": "Dann nehme ich eins zum normalen Preis. Was macht das zusammen?",
           "english": "Then I'll take one at the regular price. How much is that altogether?",
           "spanish": "Entonces me llevaré uno al precio normal. ¿Cuánto es en total?"
+        },
+        {
+          "speaker": "Baker",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -101,7 +108,7 @@
       ]
     },
     {
-      "id": "shopping-local-2",
+      "id": "shopping-local-shops-2",
       "level": "intermediate",
       "title": "At the butcher",
       "situation": "You buy meat at a traditional Metzgerei.",
@@ -154,6 +161,13 @@
           "german": "Gut, ich nehme alles. Kann ich mit Karte zahlen?",
           "english": "Good, I'll take everything. Can I pay by card?",
           "spanish": "Bien, me llevo todo. ¿Puedo pagar con tarjeta?"
+        },
+        {
+          "speaker": "Butcher",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -198,7 +212,7 @@
       ]
     },
     {
-      "id": "shopping-local-3",
+      "id": "shopping-local-shops-3",
       "level": "beginner",
       "title": "Asking about quantity and price",
       "situation": "You ask about quantities and prices at a market stall.",
@@ -251,6 +265,13 @@
           "german": "Zwei Stück, bitte. Und kann ich mit TWINT zahlen?",
           "english": "Two pieces, please. And can I pay with TWINT?",
           "spanish": "Dos piezas, por favor. ¿Y puedo pagar con TWINT?"
+        },
+        {
+          "speaker": "Vendor",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -294,7 +315,7 @@
       ]
     },
     {
-      "id": "shopping-local-4",
+      "id": "shopping-local-shops-4",
       "level": "intermediate",
       "title": "Paying at the checkout",
       "situation": "You pay for groceries and deal with payment options.",
@@ -347,6 +368,13 @@
           "german": "Nein, danke. Aber können Sie mir eine Tragtasche geben? Ich habe keine eigene dabei.",
           "english": "No, thanks. But can you give me a bag? I don't have one with me.",
           "spanish": "No, gracias. Pero, ¿me puede dar una bolsa? No tengo ninguna conmigo."
+        },
+        {
+          "speaker": "Cashier",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -390,7 +418,7 @@
       ]
     },
     {
-      "id": "shopping-local-5",
+      "id": "shopping-local-shops-5",
       "level": "beginner",
       "title": "At the cheese counter",
       "situation": "You buy cheese at a Käsetheke in a shop.",
@@ -443,6 +471,13 @@
           "german": "Ja, gerne! ... Mmh, lecker! Den nehme ich. Passt!",
           "english": "Yes, please! ... Mmh, delicious! I'll take that one. Perfect!",
           "spanish": "Sí, ¡por favor! ... ¡Mmh, delicioso! Me llevo ese. ¡Perfecto!"
+        },
+        {
+          "speaker": "Employee",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [

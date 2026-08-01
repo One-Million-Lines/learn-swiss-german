@@ -5,7 +5,7 @@
   "description": "Asking about someone's job, family, hobbies, and background — and showing genuine interest",
   "dialogues": [
     {
-      "id": "about-others-1",
+      "id": "asking-about-others-1",
       "level": "beginner",
       "title": "Asking about their job",
       "situation": "You ask someone about their work at a Verein (club) event.",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "about-others-2",
+      "id": "asking-about-others-2",
       "level": "beginner",
       "title": "Asking about their family",
       "situation": "At a BBQ, you ask someone about their family.",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "id": "about-others-3",
+      "id": "asking-about-others-3",
       "level": "intermediate",
       "title": "Asking about hobbies",
       "situation": "You chat with someone at a Vereinsfest about what they do for fun.",
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "id": "about-others-4",
+      "id": "asking-about-others-4",
       "level": "intermediate",
       "title": "Asking about their background",
       "situation": "You learn more about someone's background at a neighborhood drink.",
@@ -417,7 +417,7 @@
       ]
     },
     {
-      "id": "about-others-5",
+      "id": "asking-about-others-5",
       "level": "beginner",
       "title": "Showing interest",
       "situation": "You react to someone's story at a Stammtisch.",

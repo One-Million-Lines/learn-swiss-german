@@ -465,6 +465,13 @@
           "german": "Ja klar — meine Kontaktdaten sind auf der Visitenkarte. Viel Erfolg!",
           "english": "Yes of course — my contact details are on the business card. Good luck!",
           "spanish": "Sí, por supuesto — mis datos de contacto están en la tarjeta de visita. ¡Buena suerte!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [

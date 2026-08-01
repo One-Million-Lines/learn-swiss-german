@@ -5,7 +5,7 @@
   "description": "Describing symptoms, asking for medicine, understanding instructions, and buying OTC products",
   "dialogues": [
     {
-      "id": "health-pharm-1",
+      "id": "health-pharmacy-1",
       "level": "beginner",
       "title": "Buying cold medicine",
       "situation": "You go to the pharmacy because you have a cold.",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "health-pharm-2",
+      "id": "health-pharmacy-2",
       "level": "intermediate",
       "title": "Describing symptoms",
       "situation": "You describe more specific symptoms to the pharmacist.",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "id": "health-pharm-3",
+      "id": "health-pharmacy-3",
       "level": "beginner",
       "title": "Asking for advice on sunscreen",
       "situation": "You want to buy sunscreen before going to the mountains.",
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "id": "health-pharm-4",
+      "id": "health-pharmacy-4",
       "level": "intermediate",
       "title": "Understanding medication instructions",
       "situation": "The pharmacist explains how to take a medication.",
@@ -417,7 +417,7 @@
       ]
     },
     {
-      "id": "health-pharm-5",
+      "id": "health-pharmacy-5",
       "level": "beginner",
       "title": "Picking up a prescription",
       "situation": "You pick up a prescription at the pharmacy.",

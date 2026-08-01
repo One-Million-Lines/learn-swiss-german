@@ -5,7 +5,7 @@
   "description": "Ordering food, asking about the menu, dietary needs, paying the bill, and takeaway vs. dine-in",
   "dialogues": [
     {
-      "id": "eating-1",
+      "id": "eating-out-1",
       "level": "beginner",
       "title": "Ordering at a restaurant",
       "situation": "You order food at a traditional Swiss restaurant.",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "eating-2",
+      "id": "eating-out-2",
       "level": "intermediate",
       "title": "Asking about menu items",
       "situation": "You don't understand some items on the menu and ask the waiter.",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "id": "eating-3",
+      "id": "eating-out-3",
       "level": "intermediate",
       "title": "Dietary questions and allergies",
       "situation": "You ask about vegetarian options and allergens.",
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "id": "eating-4",
+      "id": "eating-out-4",
       "level": "beginner",
       "title": "Paying the bill and splitting",
       "situation": "You ask for the bill and want to split it.",
@@ -417,7 +417,7 @@
       ]
     },
     {
-      "id": "eating-5",
+      "id": "eating-out-5",
       "level": "beginner",
       "title": "Takeaway vs. dine-in",
       "situation": "You order food and specify takeaway or dine-in.",

@@ -5,7 +5,7 @@
   "description": "Understanding forecasts, asking about weather conditions, and planning activities around the weather",
   "dialogues": [
     {
-      "id": "weather-1",
+      "id": "weather-daily-1",
       "level": "beginner",
       "title": "Talking about today's weather",
       "situation": "You chat about the weather with a colleague.",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "id": "weather-2",
+      "id": "weather-daily-2",
       "level": "intermediate",
       "title": "Asking about the forecast",
       "situation": "You ask about the weather forecast for the weekend.",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "id": "weather-3",
+      "id": "weather-daily-3",
       "level": "beginner",
       "title": "Cold and rainy day",
       "situation": "It's a cold, rainy day and you talk about it.",
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "id": "weather-4",
+      "id": "weather-daily-4",
       "level": "intermediate",
       "title": "Winter and snow",
       "situation": "You talk about winter weather and its effects.",
@@ -417,7 +417,7 @@
       ]
     },
     {
-      "id": "weather-5",
+      "id": "weather-daily-5",
       "level": "beginner",
       "title": "Planning around the weather",
       "situation": "You check the weather before making plans.",

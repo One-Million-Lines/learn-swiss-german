@@ -58,6 +58,13 @@
           "german": "Oh, dann muss ich mich beeilen! Danke!",
           "english": "Oh, then I need to hurry! Thanks!",
           "spanish": "¡Oh, entonces tengo que darme prisa! ¡Gracias!"
+        },
+        {
+          "speaker": "Passerby",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -149,6 +156,13 @@
           "german": "Gut, ich sage dir dann Bescheid.",
           "english": "Good, I'll let you know then.",
           "spanish": "Bien, te aviso entonces."
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -245,6 +259,13 @@
           "german": "Stimmt, das war eine harte Woche.",
           "english": "True, it's been a tough week.",
           "spanish": "Es verdad, ha sido una semana dura."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -341,6 +362,13 @@
           "german": "Nachts gehe ich meistens um elf ins Bett.",
           "english": "At night I usually go to bed around eleven.",
           "spanish": "Por la noche normalmente me acuesto alrededor de las once."
+        },
+        {
+          "speaker": "Partner",
+          "swissGerman": "Gern gschäh! Wenn no öppis isch, säged Sie eifach Bscheid.",
+          "german": "Gerne geschehen! Wenn noch etwas ist, sagen Sie einfach Bescheid.",
+          "english": "You are welcome! If there is anything else, just let me know.",
+          "spanish": "¡De nada! Si hay algo más, avíseme sin problema."
         }
       ],
       "differences": [
@@ -437,6 +465,13 @@
           "german": "So gefällt es mir! Setzen Sie sich, wir rufen Sie auf.",
           "english": "That's the spirit! Have a seat, we'll call you.",
           "spanish": "¡Eso me anima! Siéntate, te llamamos."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt, merci vilmal. Dänn weiss ich Bscheid.",
+          "german": "Perfekt, vielen Dank. Dann weiß ich Bescheid.",
+          "english": "Perfect, thank you very much. Then I know what to do.",
+          "spanish": "Perfecto, muchas gracias. Entonces ya sé qué hacer."
         }
       ],
       "differences": [
