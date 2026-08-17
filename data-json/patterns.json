@@ -2,236 +2,207 @@
   {
     "id": "k-to-ch",
     "title": "K → Ch Shift",
-    "description": "One of the most distinctive features of Swiss German. Initial 'k' becomes 'ch'.",
+    "description": "One of the most distinctive features of Swiss German. Initial 'k' becomes 'ch' (a voiceless velar fricative).",
     "examples": [
-      {
-        "german": "Kopf",
-        "swissGerman": "Chopf",
-        "english": "head",
-        "spanish": "cabeza"
-      },
-      {
-        "german": "Kind",
-        "swissGerman": "Chind",
-        "english": "child",
-        "spanish": "niño/a"
-      },
-      {
-        "german": "kaufen",
-        "swissGerman": "chaufe",
-        "english": "to buy",
-        "spanish": "comprar"
-      },
-      {
-        "german": "kochen",
-        "swissGerman": "choche",
-        "english": "to cook",
-        "spanish": "cocinar"
-      },
-      {
-        "german": "kalt",
-        "swissGerman": "chalt",
-        "english": "cold",
-        "spanish": "frío"
-      }
+      { "german": "Kopf", "swissGerman": "Chopf", "english": "head", "spanish": "cabeza" },
+      { "german": "Kind", "swissGerman": "Chind", "english": "child", "spanish": "niño/a" },
+      { "german": "kaufen", "swissGerman": "chaufe", "english": "to buy", "spanish": "comprar" },
+      { "german": "kochen", "swissGerman": "choche", "english": "to cook", "spanish": "cocinar" },
+      { "german": "kalt", "swissGerman": "chalt", "english": "cold", "spanish": "frío" },
+      { "german": "kommen", "swissGerman": "cho", "english": "to come", "spanish": "venir" },
+      { "german": "können", "swissGerman": "chöne", "english": "to be able to", "spanish": "poder" },
+      { "german": "Kirche", "swissGerman": "Chilche", "english": "church", "spanish": "iglesia" }
     ]
   },
   {
     "id": "verb-pronoun-fusion",
     "title": "Verb + Pronoun Fusion",
-    "description": "In Swiss German, subject pronouns commonly fuse with the verb ending.",
+    "description": "In Swiss German, subject pronouns commonly fuse with the verb ending, creating contracted forms.",
     "examples": [
-      {
-        "german": "hast du",
-        "swissGerman": "hesch",
-        "english": "have you / do you have",
-        "spanish": "¿tienes?"
-      },
-      {
-        "german": "machst du",
-        "swissGerman": "machsch",
-        "english": "do you make/do",
-        "spanish": "¿tú haces?"
-      },
-      {
-        "german": "kommst du",
-        "swissGerman": "chunsch",
-        "english": "do you come",
-        "spanish": "¿tú vienes?"
-      },
-      {
-        "german": "habe ich",
-        "swissGerman": "hani",
-        "english": "I have",
-        "spanish": "yo tengo"
-      },
-      {
-        "german": "wollen wir",
-        "swissGerman": "wämmer",
-        "english": "shall we",
-        "spanish": "¿vamos?"
-      }
+      { "german": "hast du", "swissGerman": "hesch", "english": "have you / do you have", "spanish": "¿tienes?" },
+      { "german": "machst du", "swissGerman": "machsch", "english": "do you make/do", "spanish": "¿tú haces?" },
+      { "german": "kommst du", "swissGerman": "chunsch", "english": "do you come", "spanish": "¿tú vienes?" },
+      { "german": "habe ich", "swissGerman": "hani", "english": "I have", "spanish": "yo tengo" },
+      { "german": "wollen wir", "swissGerman": "wämmer", "english": "shall we", "spanish": "¿vamos?" },
+      { "german": "haben wir", "swissGerman": "hämer", "english": "we have", "spanish": "nosotros tenemos" },
+      { "german": "ist es", "swissGerman": "isches", "english": "is it", "spanish": "¿es?" },
+      { "german": "weißt du", "swissGerman": "weisch", "english": "do you know", "spanish": "¿sabes?" }
     ]
   },
   {
     "id": "diminutive-li",
     "title": "The -li Diminutive",
-    "description": "Swiss German uses '-li' where standard German uses '-chen' or '-lein' for diminutives.",
+    "description": "Swiss German uses '-li' (or '-eli') where standard German uses '-chen' or '-lein' for diminutives. It's added to nouns and even names.",
     "examples": [
-      {
-        "german": "Brötchen",
-        "swissGerman": "Weggli",
-        "english": "bread roll",
-        "spanish": "panecillo"
-      },
-      {
-        "german": "Mädchen",
-        "swissGerman": "Meitli",
-        "english": "girl",
-        "spanish": "niña"
-      },
-      {
-        "german": "Croissant",
-        "swissGerman": "Gipfeli",
-        "english": "croissant",
-        "spanish": "cruasán"
-      },
-      {
-        "german": "Päckchen",
-        "swissGerman": "Päckli",
-        "english": "package",
-        "spanish": "paquete"
-      }
+      { "german": "Brötchen", "swissGerman": "Weggli", "english": "bread roll", "spanish": "panecillo" },
+      { "german": "Mädchen", "swissGerman": "Meitli", "english": "girl", "spanish": "niña" },
+      { "german": "Croissant", "swissGerman": "Gipfeli", "english": "croissant", "spanish": "cruasán" },
+      { "german": "Päckchen", "swissGerman": "Päckli", "english": "package", "spanish": "paquete" },
+      { "german": "kleines Bier", "swissGerman": "Bierli", "english": "small beer", "spanish": "cervecita" },
+      { "german": "kleines Haus", "swissGerman": "Hüüsli", "english": "little house", "spanish": "casita" },
+      { "german": "Müsli (Frühstück)", "swissGerman": "Müesli", "english": "muesli", "spanish": "müsli" },
+      { "german": "Hans → kleiner Hans", "swissGerman": "Hänsli", "english": "little Hans (affectionate)", "spanish": "Hansito (cariñoso)" }
     ]
   },
   {
     "id": "no-simple-past",
     "title": "No Simple Past Tense",
-    "description": "Swiss German never uses the Präteritum (simple past). Everything uses Perfekt (have + participle).",
+    "description": "Swiss German never uses the Präteritum (simple past). Everything uses Perfekt (have + participle). Even 'sein' (to be) and 'haben' (to have) use this form.",
     "examples": [
-      {
-        "german": "Ich war müde",
-        "swissGerman": "Ich bi müed gsi",
-        "english": "I was tired",
-        "spanish": "estaba cansado/a"
-      },
-      {
-        "german": "Ich ging",
-        "swissGerman": "Ich bi gange",
-        "english": "I went",
-        "spanish": "fui"
-      },
-      {
-        "german": "Er sagte",
-        "swissGerman": "Er hät gsäit",
-        "english": "He said",
-        "spanish": "dijo"
-      },
-      {
-        "german": "Wir machten",
-        "swissGerman": "Mir händ gmacht",
-        "english": "We made/did",
-        "spanish": "hicimos"
-      }
+      { "german": "Ich war müde", "swissGerman": "Ich bi müed gsi", "english": "I was tired", "spanish": "estaba cansado/a" },
+      { "german": "Ich ging", "swissGerman": "Ich bi gange", "english": "I went", "spanish": "fui" },
+      { "german": "Er sagte", "swissGerman": "Er hät gsäit", "english": "He said", "spanish": "dijo" },
+      { "german": "Wir machten", "swissGerman": "Mir händ gmacht", "english": "We made/did", "spanish": "hicimos" },
+      { "german": "Sie hatte", "swissGerman": "Si hät ghaa", "english": "She had", "spanish": "ella tenía" },
+      { "german": "Ich schlief", "swissGerman": "Ich ha gschloofe", "english": "I slept", "spanish": "dormí" },
+      { "german": "Es regnete", "swissGerman": "Es hät grägnet", "english": "It rained", "spanish": "llovió" }
     ]
   },
   {
     "id": "go-particle",
     "title": "The 'go' Motion Particle",
-    "description": "Swiss German adds 'go' before an infinitive to indicate motion toward an activity.",
+    "description": "Swiss German adds 'go' before an infinitive to indicate motion toward an activity. It corresponds to German 'gehen … zu + Infinitiv' but in a much shorter form.",
     "examples": [
-      {
-        "german": "einkaufen gehen",
-        "swissGerman": "go poschte",
-        "english": "to go shopping",
-        "spanish": "ir de compras"
-      },
-      {
-        "german": "essen gehen",
-        "swissGerman": "go esse",
-        "english": "to go eat",
-        "spanish": "ir a comer"
-      },
-      {
-        "german": "schwimmen gehen",
-        "swissGerman": "go schwümme",
-        "english": "to go swimming",
-        "spanish": "ir a nadar"
-      },
-      {
-        "german": "schauen gehen",
-        "swissGerman": "go luege",
-        "english": "to go look",
-        "spanish": "ir a mirar"
-      }
+      { "german": "einkaufen gehen", "swissGerman": "go poschte", "english": "to go shopping", "spanish": "ir de compras" },
+      { "german": "essen gehen", "swissGerman": "go esse", "english": "to go eat", "spanish": "ir a comer" },
+      { "german": "schwimmen gehen", "swissGerman": "go schwümme", "english": "to go swimming", "spanish": "ir a nadar" },
+      { "german": "schauen gehen", "swissGerman": "go luege", "english": "to go look", "spanish": "ir a mirar" },
+      { "german": "spielen gehen", "swissGerman": "go spiele", "english": "to go play", "spanish": "ir a jugar" },
+      { "german": "trinken gehen", "swissGerman": "go trinke", "english": "to go for a drink", "spanish": "ir a tomar algo" },
+      { "german": "spazieren gehen", "swissGerman": "go spaziere", "english": "to go for a walk", "spanish": "ir a pasear" }
     ]
   },
   {
     "id": "french-loanwords",
     "title": "French Loanwords",
-    "description": "Swiss German borrows many words from French due to proximity to French-speaking Switzerland.",
+    "description": "Swiss German borrows many everyday words from French, reflecting Switzerland's multilingual culture and geographic proximity to French-speaking cantons.",
     "examples": [
-      {
-        "german": "Danke",
-        "swissGerman": "Merci",
-        "english": "thank you",
-        "spanish": "gracias"
-      },
-      {
-        "german": "Entschuldigung",
-        "swissGerman": "Exgüsi",
-        "english": "excuse me",
-        "spanish": "disculpa"
-      },
-      {
-        "german": "Fahrrad",
-        "swissGerman": "Velo",
-        "english": "bicycle",
-        "spanish": "bicicleta"
-      },
-      {
-        "german": "Fahrkarte",
-        "swissGerman": "Billett",
-        "english": "ticket",
-        "spanish": "billete"
-      },
-      {
-        "german": "Bürgersteig",
-        "swissGerman": "Trottoir",
-        "english": "sidewalk",
-        "spanish": "acera"
-      }
+      { "german": "Danke", "swissGerman": "Merci", "english": "thank you", "spanish": "gracias" },
+      { "german": "Entschuldigung", "swissGerman": "Exgüsi", "english": "excuse me", "spanish": "disculpa" },
+      { "german": "Fahrrad", "swissGerman": "Velo", "english": "bicycle", "spanish": "bicicleta" },
+      { "german": "Fahrkarte", "swissGerman": "Billett", "english": "ticket", "spanish": "billete" },
+      { "german": "Bürgersteig", "swissGerman": "Trottoir", "english": "sidewalk / pavement", "spanish": "acera" },
+      { "german": "Bäckerei", "swissGerman": "Boulangerie", "english": "bakery (in some regions)", "spanish": "panadería" },
+      { "german": "Portemonnaie", "swissGerman": "Portmonee", "english": "wallet / purse", "spanish": "billetera" },
+      { "german": "Parkplatz reservieren", "swissGerman": "Parkplatz Pardon", "english": "parking space", "spanish": "plaza de aparcamiento" }
     ]
   },
   {
     "id": "infinitive-drop-n",
-    "title": "Infinitive Drops -n",
-    "description": "Swiss German infinitives typically drop the final '-n' or '-en'.",
+    "title": "Infinitive Drops Final -n",
+    "description": "Swiss German infinitives typically drop the final '-n' (and often the '-e-' becomes lengthened or changed). This affects all verb infinitives.",
     "examples": [
-      {
-        "german": "machen",
-        "swissGerman": "mache",
-        "english": "to make/do",
-        "spanish": "hacer"
-      },
-      {
-        "german": "schreiben",
-        "swissGerman": "schriibe",
-        "english": "to write",
-        "spanish": "escribir"
-      },
-      {
-        "german": "kaufen",
-        "swissGerman": "chaufe",
-        "english": "to buy",
-        "spanish": "comprar"
-      },
-      {
-        "german": "laufen",
-        "swissGerman": "laufe",
-        "english": "to walk/run",
-        "spanish": "caminar/correr"
-      }
+      { "german": "machen", "swissGerman": "mache", "english": "to make/do", "spanish": "hacer" },
+      { "german": "schreiben", "swissGerman": "schriibe", "english": "to write", "spanish": "escribir" },
+      { "german": "kaufen", "swissGerman": "chaufe", "english": "to buy", "spanish": "comprar" },
+      { "german": "laufen", "swissGerman": "laufe", "english": "to walk/run", "spanish": "caminar/correr" },
+      { "german": "sagen", "swissGerman": "säge", "english": "to say", "spanish": "decir" },
+      { "german": "fragen", "swissGerman": "frage", "english": "to ask", "spanish": "preguntar" },
+      { "german": "arbeiten", "swissGerman": "schaffe", "english": "to work", "spanish": "trabajar" }
+    ]
+  },
+  {
+    "id": "pronoun-mir-for-wir",
+    "title": "'Mir' Instead of 'Wir'",
+    "description": "Swiss German uses 'mir' as the first-person plural subject pronoun instead of standard German 'wir'. This is one of the most recognisable Swiss German markers.",
+    "examples": [
+      { "german": "Wir gehen", "swissGerman": "Mir gönd", "english": "We go / We're going", "spanish": "Nosotros vamos" },
+      { "german": "Wir haben", "swissGerman": "Mir händ", "english": "We have", "spanish": "Nosotros tenemos" },
+      { "german": "Wir sind", "swissGerman": "Mir sind", "english": "We are", "spanish": "Nosotros somos/estamos" },
+      { "german": "Wir machen", "swissGerman": "Mir mached", "english": "We do / We make", "spanish": "Nosotros hacemos" },
+      { "german": "Wir kommen", "swissGerman": "Mir chömed", "english": "We come", "spanish": "Nosotros venimos" },
+      { "german": "Wir wollen", "swissGerman": "Mir wänd", "english": "We want", "spanish": "Nosotros queremos" }
+    ]
+  },
+  {
+    "id": "no-genitive-case",
+    "title": "No Genitive Case — 'vo' instead",
+    "description": "Swiss German avoids the genitive case. Instead it uses the preposition 'vo' (von) + dative, just like French uses 'de'. This simplifies grammar significantly.",
+    "examples": [
+      { "german": "das Auto des Mannes", "swissGerman": "s Auto vom Ma", "english": "the man's car", "spanish": "el coche del hombre" },
+      { "german": "das Haus meiner Mutter", "swissGerman": "s Huus vo miinere Mueter", "english": "my mother's house", "spanish": "la casa de mi madre" },
+      { "german": "der Name des Kindes", "swissGerman": "dr Name vom Chind", "english": "the child's name", "spanish": "el nombre del niño" },
+      { "german": "wegen des Regens", "swissGerman": "wäge em Räge", "english": "because of the rain", "spanish": "a causa de la lluvia" },
+      { "german": "ein Freund meines Bruders", "swissGerman": "en Fründ vo mim Brueder", "english": "a friend of my brother's", "spanish": "un amigo de mi hermano" }
+    ]
+  },
+  {
+    "id": "article-forms",
+    "title": "Definite Articles Are Different",
+    "description": "Swiss German uses different article forms: 'de/dr' (masc.), 'di/d' (fem.), 's' (neut.), 'di/d' (pl.). They differ from standard German 'der/die/das'.",
+    "examples": [
+      { "german": "der Mann", "swissGerman": "de/dr Ma", "english": "the man", "spanish": "el hombre" },
+      { "german": "die Frau", "swissGerman": "di/d Frau", "english": "the woman", "spanish": "la mujer" },
+      { "german": "das Kind", "swissGerman": "s Chind", "english": "the child", "spanish": "el niño" },
+      { "german": "die Kinder", "swissGerman": "d Chinder", "english": "the children", "spanish": "los niños" },
+      { "german": "der Zug", "swissGerman": "de Zug", "english": "the train", "spanish": "el tren" },
+      { "german": "die Schule", "swissGerman": "d Schuel", "english": "the school", "spanish": "la escuela" }
+    ]
+  },
+  {
+    "id": "ch-sound-everywhere",
+    "title": "The 'ch' Sound — No 'sch' Drop",
+    "description": "Standard German sometimes softens 'ch' to 'sch' (e.g. 'ich' → [iç]). Swiss German keeps a strong 'ch' everywhere, and also has the back 'ch' sound even after front vowels.",
+    "examples": [
+      { "german": "ich", "swissGerman": "ich", "english": "I (said with stronger ch)", "spanish": "yo" },
+      { "german": "nicht", "swissGerman": "nöd / nit", "english": "not", "spanish": "no" },
+      { "german": "auch", "swissGerman": "au / och", "english": "also / too", "spanish": "también" },
+      { "german": "noch", "swissGerman": "no", "english": "still / yet", "spanish": "todavía" },
+      { "german": "doch", "swissGerman": "doch", "english": "but / yes (contradicting)", "spanish": "pero / sí (contradicción)" },
+      { "german": "Nacht", "swissGerman": "Nacht", "english": "night (ch clearly pronounced)", "spanish": "noche" }
+    ]
+  },
+  {
+    "id": "negation-noed",
+    "title": "Negation with 'nöd' / 'nid'",
+    "description": "Swiss German uses 'nöd' or 'nid' (depending on region) for negation instead of standard German 'nicht'. It follows the same word order as 'nicht'.",
+    "examples": [
+      { "german": "Ich verstehe nicht", "swissGerman": "Ich verstaa nöd", "english": "I don't understand", "spanish": "No entiendo" },
+      { "german": "Das stimmt nicht", "swissGerman": "Das stimmt nöd", "english": "That's not right", "spanish": "Eso no es correcto" },
+      { "german": "Ich will nicht", "swissGerman": "Ich will nöd", "english": "I don't want to", "spanish": "No quiero" },
+      { "german": "Das ist nicht gut", "swissGerman": "Das isch nöd guet", "english": "That's not good", "spanish": "Eso no está bien" },
+      { "german": "Ich bin nicht müde", "swissGerman": "Ich bi nöd müed", "english": "I'm not tired", "spanish": "No estoy cansado/a" },
+      { "german": "Er kommt nicht", "swissGerman": "Er chunnt nöd", "english": "He's not coming", "spanish": "Él no viene" }
+    ]
+  },
+  {
+    "id": "ge-prefix-g",
+    "title": "Past Participle Prefix: 'ge-' → 'g-'",
+    "description": "In Swiss German, the past participle prefix 'ge-' shortens to 'g-' (or is dropped after certain verb stems). This affects how the Perfekt tense sounds.",
+    "examples": [
+      { "german": "gemacht", "swissGerman": "gmacht", "english": "(have) done / made", "spanish": "hecho" },
+      { "german": "gegessen", "swissGerman": "gesse", "english": "(have) eaten", "spanish": "comido" },
+      { "german": "gesagt", "swissGerman": "gsäit", "english": "(have) said", "spanish": "dicho" },
+      { "german": "geschrieben", "swissGerman": "gschribe", "english": "(have) written", "spanish": "escrito" },
+      { "german": "gefunden", "swissGerman": "gfunde", "english": "(have) found", "spanish": "encontrado" },
+      { "german": "gekauft", "swissGerman": "kauft / chauft", "english": "(have) bought", "spanish": "comprado" },
+      { "german": "gelesen", "swissGerman": "gläse", "english": "(have) read", "spanish": "leído" }
+    ]
+  },
+  {
+    "id": "isch-for-ist",
+    "title": "'Isch' instead of 'ist'",
+    "description": "The verb 'sein' (to be) in the third person singular uses 'isch' in Swiss German instead of 'ist'. This is extremely common and heard constantly.",
+    "examples": [
+      { "german": "Das ist gut", "swissGerman": "Das isch guet", "english": "That is good", "spanish": "Eso es bueno" },
+      { "german": "Er ist müde", "swissGerman": "Er isch müed", "english": "He is tired", "spanish": "Él está cansado" },
+      { "german": "Was ist das?", "swissGerman": "Was isch das?", "english": "What is that?", "spanish": "¿Qué es eso?" },
+      { "german": "Sie ist hier", "swissGerman": "Si isch da", "english": "She is here", "spanish": "Ella está aquí" },
+      { "german": "Wo ist der Bahnhof?", "swissGerman": "Wo isch de Bahnhof?", "english": "Where is the train station?", "spanish": "¿Dónde está la estación?" },
+      { "german": "Es ist kalt", "swissGerman": "Es isch chalt", "english": "It is cold", "spanish": "Hace frío" }
+    ]
+  },
+  {
+    "id": "luege-lose-vs-schauen-horen",
+    "title": "Unique Swiss Verbs: 'luege' & 'lose'",
+    "description": "Swiss German uses 'luege' (to look/watch) and 'lose' (to listen/hear) instead of standard German 'schauen/sehen' and 'hören/zuhören'.",
+    "examples": [
+      { "german": "schauen / sehen", "swissGerman": "luege", "english": "to look / watch", "spanish": "mirar / ver" },
+      { "german": "zuhören / hören", "swissGerman": "lose", "english": "to listen / hear", "spanish": "escuchar / oír" },
+      { "german": "Schau mal!", "swissGerman": "Lueg mal!", "english": "Look! / Have a look!", "spanish": "¡Mira!" },
+      { "german": "Hör zu!", "swissGerman": "Los!", "english": "Listen!", "spanish": "¡Escucha!" },
+      { "german": "Ich sehe nichts", "swissGerman": "Ich gseh nüüt", "english": "I can't see anything", "spanish": "No veo nada" },
+      { "german": "Hast du das gehört?", "swissGerman": "Hesch das ghört?", "english": "Did you hear that?", "spanish": "¿Lo escuchaste?" }
     ]
   }
 ]

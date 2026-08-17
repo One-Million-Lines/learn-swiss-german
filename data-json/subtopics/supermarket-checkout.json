@@ -498,6 +498,132 @@
           "english": "A bit more expensive"
         }
       ]
+    },
+    {
+      "id": "supermarket-checkout-6",
+      "level": "intermediate",
+      "title": "Shopping at a Swiss supermarket with a price question",
+      "situation": "You're doing a weekly grocery shop at Migros and need to ask about a product and use the self-checkout.",
+      "lines": [
+        {
+          "speaker": "You",
+          "swissGerman": "Exgüsi! Wo find ich d'Pasta?",
+          "german": "Entschuldigung! Wo finde ich die Pasta?",
+          "english": "Excuse me! Where do I find the pasta?",
+          "spanish": "¡Perdona! ¿Dónde encuentro la pasta?"
+        },
+        {
+          "speaker": "Staff",
+          "swissGerman": "D'Pasta isch im Gestell drei — uf de linke Siite. Näbe de Saucen.",
+          "german": "Die Pasta ist im Regal drei — auf der linken Seite. Neben den Saucen.",
+          "english": "The pasta is on shelf three — on the left side. Next to the sauces.",
+          "spanish": "La pasta está en el estante tres — en el lado izquierdo. Al lado de las salsas."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Merci! Und isch das Olivenöl im Aagebott diese Wuche?",
+          "german": "Danke! Und ist das Olivenöl diese Woche im Angebot?",
+          "english": "Thanks! And is the olive oil on offer this week?",
+          "spanish": "¡Gracias! ¿Y el aceite de oliva está de oferta esta semana?"
+        },
+        {
+          "speaker": "Staff",
+          "swissGerman": "Ja, d'Cumulus-Charte git Ihne 20% Rabatt. Händ Sie eni?",
+          "german": "Ja, die Cumulus-Karte gibt Ihnen 20% Rabatt. Haben Sie eine?",
+          "english": "Yes, the Cumulus card gives you 20% discount. Do you have one?",
+          "spanish": "Sí, la tarjeta Cumulus le da un 20% de descuento. ¿Tiene una?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Leider nöd. Lohnt sech das?",
+          "german": "Leider nicht. Lohnt sich das?",
+          "english": "Unfortunately not. Is it worth it?",
+          "spanish": "Lamentablemente no. ¿Merece la pena?"
+        },
+        {
+          "speaker": "Staff",
+          "swissGerman": "Wenn Sie öfter hie poschted, sicher! Am Kassa cha me sie gratis aameldet.",
+          "german": "Wenn Sie öfter hier einkaufen, sicher! An der Kasse kann man sich gratis anmelden.",
+          "english": "If you shop here often, definitely! At the checkout you can register for free.",
+          "spanish": "Si hace la compra aquí a menudo, ¡seguro! En la caja se puede registrar gratis."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Guet z'wüsse. Und isch d'Selbstzahler-Kassa offe?",
+          "german": "Gut zu wissen. Und ist die Selbstzahlerkasse offen?",
+          "english": "Good to know. And is the self-checkout open?",
+          "spanish": "Bueno saberlo. ¿Está abierta la caja de autopago?"
+        },
+        {
+          "speaker": "Staff",
+          "swissGerman": "Ja, all vier sind offe. Eifach Artikel scannen und zahle — Charte oder Twint.",
+          "german": "Ja, alle vier sind offen. Einfach Artikel scannen und zahlen — Karte oder Twint.",
+          "english": "Yes, all four are open. Just scan the items and pay — card or Twint.",
+          "spanish": "Sí, las cuatro están abiertas. Solo escanee los artículos y pague — tarjeta o Twint."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich zahle mit Twint — isch super praktisch.",
+          "german": "Ich zahle mit Twint — ist super praktisch.",
+          "english": "I'll pay with Twint — it's super convenient.",
+          "spanish": "Pagaré con Twint — es muy práctico."
+        },
+        {
+          "speaker": "Staff",
+          "swissGerman": "Stimmt! Und vergässed Sie nöd: Plasticsäck chösched 5 Rappen — oder händ Sie en eigene Tragsack?",
+          "german": "Stimmt! Und vergessen Sie nicht: Plastiktüten kosten 5 Rappen — oder haben Sie eine eigene Tragetasche?",
+          "english": "That's right! And don't forget: plastic bags cost 5 centimes — or do you have your own bag?",
+          "spanish": "¡Así es! Y no olvide: las bolsas de plástico cuestan 5 céntimos — ¿o tiene su propia bolsa?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich ha ein! Ich bin scho e Weil hie — ich weiss Bscheid über d'Plastiksack-Sach.",
+          "german": "Ich habe eine! Ich bin schon eine Weile hier — ich weiß Bescheid über die Plastiktüten-Sache.",
+          "english": "I have one! I've been here a while — I know about the plastic bag thing.",
+          "spanish": "¡Tengo una! Llevo un tiempo aquí — ya sé lo del tema de las bolsas de plástico."
+        },
+        {
+          "speaker": "Staff",
+          "swissGerman": "Super! Dann viel Spass bim Poschte. Und welcome bi üs!",
+          "german": "Super! Dann viel Spaß beim Einkaufen. Und willkommen bei uns!",
+          "english": "Super! Enjoy your shopping. And welcome to us!",
+          "spanish": "¡Súper! Que disfrutes de la compra. ¡Y bienvenido/a!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Cumulus-Charte",
+          "german": "Cumulus-Karte",
+          "explanation": "The Migros loyalty card. Very common in Swiss supermarkets."
+        },
+        {
+          "swissGerman": "Twint",
+          "german": "Twint (Mobile-Zahlungssystem)",
+          "explanation": "Twint is the Swiss mobile payment app — equivalent of Apple Pay but Swiss-specific."
+        },
+        {
+          "swissGerman": "poschte",
+          "german": "einkaufen",
+          "explanation": "Swiss German word for grocery shopping. From 'Post' historically."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Wo find ich...?",
+          "german": "Wo finde ich...?",
+          "english": "Where do I find...?"
+        },
+        {
+          "swissGerman": "Lohnt sech das?",
+          "german": "Lohnt sich das?",
+          "english": "Is it worth it?"
+        },
+        {
+          "swissGerman": "Ich zahle mit Twint",
+          "german": "Ich zahle mit Twint",
+          "english": "I'll pay with Twint"
+        }
+      ]
     }
   ]
 }

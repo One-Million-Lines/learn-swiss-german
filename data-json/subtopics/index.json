@@ -46,7 +46,7 @@
     "topicId": "practical-swiss-life",
     "title": "At the Doctor's Office",
     "description": "Conversations when visiting the doctor, describing symptoms and understanding instructions",
-    "dialogueCount": 5
+    "dialogueCount": 6
   },
   {
     "id": "atm-cash",
@@ -200,7 +200,7 @@
     "topicId": "daily-life",
     "title": "Eating Out",
     "description": "Ordering food, asking about the menu, dietary needs, paying the bill, and takeaway vs. dine-in",
-    "dialogueCount": 5
+    "dialogueCount": 6
   },
   {
     "id": "elternabend",
@@ -550,7 +550,7 @@
     "topicId": "daily-life",
     "title": "Public Transport",
     "description": "Buying tickets, asking about routes, understanding announcements, and dealing with delays",
-    "dialogueCount": 5
+    "dialogueCount": 6
   },
   {
     "id": "reacting-naturally",
@@ -648,7 +648,7 @@
     "topicId": "everyday-basics",
     "title": "Small Talk with Neighbors",
     "description": "Chatting with neighbors in the hallway or staircase",
-    "dialogueCount": 5
+    "dialogueCount": 6
   },
   {
     "id": "social-etiquette",
@@ -690,7 +690,7 @@
     "topicId": "daily-life",
     "title": "Supermarket Checkout",
     "description": "At the Migros or Coop checkout and asking about products",
-    "dialogueCount": 5
+    "dialogueCount": 6
   },
   {
     "id": "talking-about-yourself",
@@ -816,7 +816,7 @@
     "topicId": "work",
     "title": "Quick Informal Chat at Work",
     "description": "Casual conversations with colleagues in the office",
-    "dialogueCount": 5
+    "dialogueCount": 6
   },
   {
     "id": "working-from-home",

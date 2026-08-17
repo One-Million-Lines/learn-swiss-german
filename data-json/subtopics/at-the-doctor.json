@@ -523,6 +523,132 @@
           "english": "iron supplement"
         }
       ]
+    },
+    {
+      "id": "at-the-doctor-6",
+      "level": "advanced",
+      "title": "Extended GP consultation with follow-up",
+      "situation": "You visit your GP for persistent back pain and need a referral and prescription.",
+      "lines": [
+        {
+          "speaker": "Doctor",
+          "swissGerman": "Grüezi! Was chasch mir hüt verzelle? Was hät di zu mir bracht?",
+          "german": "Guten Tag! Was kannst du mir heute erzählen? Was hat dich zu mir gebracht?",
+          "english": "Hello! What can you tell me today? What brought you to me?",
+          "spanish": "¡Hola! ¿Qué me puedes contar hoy? ¿Qué te ha traído aquí?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich ha scho seit zwöi Wuche Rückeschmerze. Vor allem obere Teil, bi de Schulter.",
+          "german": "Ich habe schon seit zwei Wochen Rückenschmerzen. Vor allem im oberen Teil, bei den Schultern.",
+          "english": "I've had back pain for two weeks now. Especially in the upper part, around the shoulders.",
+          "spanish": "Llevo dos semanas con dolor de espalda. Especialmente en la parte superior, cerca de los hombros."
+        },
+        {
+          "speaker": "Doctor",
+          "swissGerman": "Mhmm. Isch de Schmerz konstant oder chunnt er und gaht er?",
+          "german": "Mhmm. Ist der Schmerz konstant oder kommt er und geht er?",
+          "english": "Mhmm. Is the pain constant or does it come and go?",
+          "spanish": "Mhmm. ¿El dolor es constante o va y viene?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Er isch am schlimmschte am Morge nöd am Abig. Und wänn ich lang sitze.",
+          "german": "Er ist morgens am schlimmsten, nicht abends. Und wenn ich lange sitze.",
+          "english": "It's worst in the mornings, not evenings. And when I sit for a long time.",
+          "spanish": "Empeora por las mañanas, no por las noches. Y cuando estoy sentado/a mucho tiempo."
+        },
+        {
+          "speaker": "Doctor",
+          "swissGerman": "Verstande. Arbeitsch im Büro? Und macht s'Homeoffice de Schmerz schlimmer?",
+          "german": "Verstanden. Arbeitest du im Büro? Und macht das Homeoffice den Schmerz schlimmer?",
+          "english": "Understood. Do you work in the office? And does working from home make the pain worse?",
+          "spanish": "Entendido. ¿Trabajas en una oficina? ¿Y el teletrabajo empeora el dolor?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, ich sitz viel. Zuhause hab ich kei richtigi Ergonomie.",
+          "german": "Ja, ich sitze viel. Zuhause habe ich keine richtige Ergonomie.",
+          "english": "Yes, I sit a lot. At home I don't have proper ergonomics.",
+          "spanish": "Sí, me siento mucho. En casa no tengo una ergonomía adecuada."
+        },
+        {
+          "speaker": "Doctor",
+          "swissGerman": "Das chenn ich mir vorstelle. I'd like to examine your back. Chönsch dich bitte dezue stelle und d'Arm hochhäbe?",
+          "german": "Das kann ich mir vorstellen. Ich möchte deinen Rücken untersuchen. Kannst du dich bitte dazu stellen und die Arme hochheben?",
+          "english": "I can imagine. I'd like to examine your back. Can you stand over here and lift your arms?",
+          "spanish": "Me lo imagino. Me gustaría examinar tu espalda. ¿Puedes ponerte aquí y levantar los brazos?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja natürli. (hebt Arme hoch) Oh, das zieht scho!...",
+          "german": "Ja natürlich. (hebt Arme hoch) Oh, das zieht schon!...",
+          "english": "Yes of course. (lifts arms) Oh, that does pull!...",
+          "spanish": "Sí, claro. (levanta los brazos) Oh, ¡eso tira bastante!"
+        },
+        {
+          "speaker": "Doctor",
+          "swissGerman": "Ja, de Trapezius isch sehr verspannt. Kei Nervenproblem — das isch vor allem Muskelspannung.",
+          "german": "Ja, der Trapezius ist sehr verspannt. Kein Nervenproblem — das ist vor allem Muskelspannung.",
+          "english": "Yes, the trapezius is very tense. No nerve problem — this is mainly muscle tension.",
+          "spanish": "Sí, el trapecio está muy tenso. Sin problemas de nervios — esto es principalmente tensión muscular."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Guet z'höre! Was chani dagäge mache?",
+          "german": "Gut zu hören! Was kann ich dagegen tun?",
+          "english": "Good to hear! What can I do about it?",
+          "spanish": "¡Bueno saberlo! ¿Qué puedo hacer al respecto?"
+        },
+        {
+          "speaker": "Doctor",
+          "swissGerman": "Ich schrib dir es Rezept für en Muskelentspanner und überwiis di a en Physiotherapeut. Und: chauf dir en guete Bürostuhl!",
+          "german": "Ich schreibe dir ein Rezept für einen Muskelentspanner und überweise dich an einen Physiotherapeuten. Und: Kauf dir einen guten Bürostuhl!",
+          "english": "I'll prescribe you a muscle relaxant and refer you to a physiotherapist. And: buy yourself a good office chair!",
+          "spanish": "Te recetaré un relajante muscular y te derivaré a un fisioterapeuta. Y: ¡cómprate una buena silla de oficina!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Merci vilmal! Und wänn s'nöd besser wird — chumi wieder?",
+          "german": "Vielen Dank! Und wenn es nicht besser wird — komme ich wieder?",
+          "english": "Thank you very much! And if it doesn't improve — shall I come back?",
+          "spanish": "¡Muchas gracias! ¿Y si no mejora, vuelvo?"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Rückeschmerze",
+          "german": "Rückenschmerzen",
+          "explanation": "'Rückeschmerze' — Swiss German drops the 'n' in the plural of compound nouns."
+        },
+        {
+          "swissGerman": "ich schrib dir es Rezept",
+          "german": "ich schreibe dir ein Rezept",
+          "explanation": "'schrib' = 'schreibe'. Swiss German present tense conjugation is often shorter."
+        },
+        {
+          "swissGerman": "überwiis di",
+          "german": "überweise dich",
+          "explanation": "'überwiis' = 'überweise'. Vowel shift 'ei' → 'ii'."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Ich ha scho seit... Rückeschmerze",
+          "german": "Ich habe schon seit... Rückenschmerzen",
+          "english": "I've had back pain for..."
+        },
+        {
+          "swissGerman": "Was chani dagäge mache?",
+          "german": "Was kann ich dagegen tun?",
+          "english": "What can I do about it?"
+        },
+        {
+          "swissGerman": "Ich überwiis di a...",
+          "german": "Ich überweise dich an...",
+          "english": "I'm referring you to..."
+        }
+      ]
     }
   ]
 }

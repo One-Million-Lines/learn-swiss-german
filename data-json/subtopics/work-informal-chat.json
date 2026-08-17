@@ -513,6 +513,132 @@
           "english": "from home / remote"
         }
       ]
+    },
+    {
+      "id": "work-informal-chat-6",
+      "level": "intermediate",
+      "title": "Chatting about the weekend at the coffee machine",
+      "situation": "Monday morning at the office. You and a colleague catch up at the coffee machine.",
+      "lines": [
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Hoi! Wie isch dä Wucheendig gsi?",
+          "german": "Hallo! Wie war das Wochenende?",
+          "english": "Hi! How was the weekend?",
+          "spanish": "¡Hola! ¿Cómo fue el fin de semana?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Mega schön! Mir sind go wandere am Rigi. Das Wetter isch perfekt gsi.",
+          "german": "Mega schön! Wir sind wandern gegangen am Rigi. Das Wetter war perfekt.",
+          "english": "Really lovely! We went hiking on the Rigi. The weather was perfect.",
+          "spanish": "¡Muy bonito! Fuimos a hacer senderismo al Rigi. El tiempo fue perfecto."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Oh nice! Ich war no nie uf em Rigi. Isch s'schwer?",
+          "german": "Oh nice! Ich war noch nie auf dem Rigi. Ist es schwer?",
+          "english": "Oh nice! I've never been to the Rigi. Is it difficult?",
+          "spanish": "¡Oh, qué bien! Nunca he estado en el Rigi. ¿Es difícil?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Nöd wirkli, wenn me gueti Schueh hett. Es git au en Zänhli ufe.",
+          "german": "Nicht wirklich, wenn man gute Schuhe hat. Es gibt auch eine Zahnradbahn hoch.",
+          "english": "Not really, if you have good shoes. There's also a cog railway up.",
+          "spanish": "No realmente, si tienes buenos zapatos. También hay un ferrocarril de cremallera que sube."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Ha, das wüsst ich nöd! Und hesch vil Lüüt troffe?",
+          "german": "Ha, das wusste ich nicht! Und hast du viele Leute getroffen?",
+          "english": "Ha, I didn't know that! And did you meet many people?",
+          "spanish": "Ja, ¡no lo sabía! ¿Y encontraste mucha gente?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Es Meer voll! Alli Tourischt, Familie — aber au echti Bärgler.",
+          "german": "Ein Meer voll! Alle Touristen, Familien — aber auch echte Bergsteiger.",
+          "english": "Tons of people! All tourists, families — but also real mountain people.",
+          "spanish": "¡Un montón de gente! Todos turistas, familias — pero también verdaderos montañeros."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Und hesch öppis Spezials gässe? Ich lieb d'Bergchüchi.",
+          "german": "Und hast du etwas Spezielles gegessen? Ich liebe die Bergküche.",
+          "english": "And did you eat something special? I love mountain cuisine.",
+          "spanish": "¿Y comiste algo especial? Me encanta la gastronomía de montaña."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja! Mir händ Röschti mit Käse gässe uf em Gipfel. Unglaublich!",
+          "german": "Ja! Wir haben Rösti mit Käse gegessen auf dem Gipfel. Unglaublich!",
+          "english": "Yes! We ate rösti with cheese on the summit. Incredible!",
+          "spanish": "¡Sí! Comimos rösti con queso en la cima. ¡Increíble!"
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Das muess herrlich gsi sii! Und jetzt Mäntig... meh Kafi.",
+          "german": "Das muss herrlich gewesen sein! Und jetzt Montag... mehr Kaffee.",
+          "english": "That must have been wonderful! And now Monday... more coffee.",
+          "spanish": "¡Eso debe haber sido maravilloso! Y ahora lunes... más café."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Exakt! I de Wihnachtsferien will i widerkumme — vielleicht im Schnee.",
+          "german": "Genau! In den Weihnachtsferien will ich wiederkommen — vielleicht im Schnee.",
+          "english": "Exactly! At Christmas holidays I want to come back — maybe in the snow.",
+          "spanish": "¡Exacto! En las vacaciones de Navidad quiero volver — quizás con nieve."
+        },
+        {
+          "speaker": "Colleague",
+          "swissGerman": "Im Winter isch s'no schöner! Ich chum vielleicht mit — wänn ich no Ferie ha.",
+          "german": "Im Winter ist es noch schöner! Ich komme vielleicht mit — wenn ich noch Urlaub habe.",
+          "english": "In winter it's even nicer! I might come along — if I still have vacation days.",
+          "spanish": "En invierno es aún más bonito. ¡Quizás me una — si todavía tengo días de vacaciones!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Deal! Aber jetzt — mer müend schaffe. Danke für de Kafi!",
+          "german": "Deal! Aber jetzt — wir müssen arbeiten. Danke für den Kaffee!",
+          "english": "Deal! But now — we need to work. Thanks for the coffee!",
+          "spanish": "¡Trato! Pero ahora — tenemos que trabajar. ¡Gracias por el café!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Zänhli",
+          "german": "Zahnradbahn",
+          "explanation": "'Zänhli' — diminutive from 'Zahn' (tooth/cog). The Rigi has a famous cog railway."
+        },
+        {
+          "swissGerman": "Bärgler",
+          "german": "Bergbewohner / Bergsteiger",
+          "explanation": "Swiss word for mountain locals or hikers. From 'Bärg' = 'Berg'."
+        },
+        {
+          "swissGerman": "Mir händ Röschti mit Käse gässe",
+          "german": "Wir haben Rösti mit Käse gegessen",
+          "explanation": "Classic Swiss mountain food. 'gässe' = 'gegessen' (g- prefix shortening)."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Wie isch dä Wucheendig gsi?",
+          "german": "Wie war das Wochenende?",
+          "english": "How was the weekend?"
+        },
+        {
+          "swissGerman": "Mir sind go wandere",
+          "german": "Wir sind wandern gegangen",
+          "english": "We went hiking"
+        },
+        {
+          "swissGerman": "Das muess herrlich gsi sii",
+          "german": "Das muss herrlich gewesen sein",
+          "english": "That must have been wonderful"
+        }
+      ]
     }
   ]
 }

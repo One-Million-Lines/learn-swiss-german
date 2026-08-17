@@ -519,6 +519,132 @@
           "spanish": "¡Buen viaje!"
         }
       ]
+    },
+    {
+      "id": "public-transport-6",
+      "level": "intermediate",
+      "title": "Planning a multi-leg journey across Switzerland",
+      "situation": "You're at the SBB counter planning a trip from Zurich to Lugano with a connection in Bellinzona.",
+      "lines": [
+        {
+          "speaker": "SBB staff",
+          "swissGerman": "Grüezi! Wie chani Ihne hälfe?",
+          "german": "Guten Tag! Wie kann ich Ihnen helfen?",
+          "english": "Hello! How can I help you?",
+          "spanish": "¡Buenos días! ¿En qué puedo ayudarle?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich möcht vo Züri go Lugano. Weli Verbindig empfähled Sie?",
+          "german": "Ich möchte von Zürich nach Lugano. Welche Verbindung empfehlen Sie?",
+          "english": "I'd like to go from Zurich to Lugano. Which connection do you recommend?",
+          "spanish": "Me gustaría ir de Zúrich a Lugano. ¿Qué conexión me recomienda?"
+        },
+        {
+          "speaker": "SBB staff",
+          "swissGerman": "D'schnellscht Verbindig gaht mit em IC2 und em Umsteige in Bellinzona. Ca. drü Stund.",
+          "german": "Die schnellste Verbindung geht mit dem IC2 und dem Umsteigen in Bellinzona. Ca. drei Stunden.",
+          "english": "The fastest connection is with the IC2 and changing in Bellinzona. About three hours.",
+          "spanish": "La conexión más rápida es con el IC2 con trasbordo en Bellinzona. Unas tres horas."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Mues ich s'Billett im Voraus kaufe oder cha ich spontan fahre?",
+          "german": "Muss ich das Ticket im Voraus kaufen oder kann ich spontan fahren?",
+          "english": "Do I need to buy the ticket in advance or can I travel spontaneously?",
+          "spanish": "¿Debo comprar el billete por adelantado o puedo viajar espontáneamente?"
+        },
+        {
+          "speaker": "SBB staff",
+          "swissGerman": "Mit em Halbtax oder GA cha me immer spontan iistiige. Sonsch empfähl i's Sparticket.",
+          "german": "Mit dem Halbtax oder GA kann man immer spontan einsteigen. Sonst empfehle ich das Sparticket.",
+          "english": "With a Halbtax or GA you can always board spontaneously. Otherwise I recommend the Saver ticket.",
+          "spanish": "Con el Halbtax o el GA siempre se puede subir espontáneamente. De lo contrario, recomiendo el billete ahorro."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich ha en Halbtax. Was chostet das Billett denn?",
+          "german": "Ich habe ein Halbtax. Was kostet das Ticket dann?",
+          "english": "I have a Halbtax. What does the ticket cost then?",
+          "spanish": "Tengo un Halbtax. ¿Cuánto cuesta entonces el billete?"
+        },
+        {
+          "speaker": "SBB staff",
+          "swissGerman": "Mit Halbtax: zwöiundrischdüsel Franke zwöifezwänzg für d'Hin- und Rückfahrt.",
+          "german": "Mit Halbtax: zweiundvierzig Franken dreiundzwanzig für Hin- und Rückfahrt.",
+          "english": "With Halbtax: forty-two francs twenty-three for a return journey.",
+          "spanish": "Con Halbtax: cuarenta y dos francos veintitrés para el trayecto de ida y vuelta."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Guet! Und bi wellem Gleis faart de Zug ab?",
+          "german": "Gut! Und von welchem Gleis fährt der Zug ab?",
+          "english": "Good! And from which platform does the train leave?",
+          "spanish": "¡Bien! ¿Y desde qué andén sale el tren?"
+        },
+        {
+          "speaker": "SBB staff",
+          "swissGerman": "Änderungen si mögli — luegid bitte uf d'Aazeigetafel. Für Reisendi mit Velo git's au e spezielle Wagen.",
+          "german": "Änderungen sind möglich — bitte schauen Sie auf die Anzeigetafel. Für Reisende mit Fahrrad gibt es auch einen speziellen Wagen.",
+          "english": "Changes are possible — please look at the information board. For cyclists there's also a special car.",
+          "spanish": "Los cambios son posibles — por favor mire el tablero de información. Para los ciclistas también hay un vagón especial."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Perfekt! Ich ha kei Velo, aber guet zu wüsse. Isch s'Essen im Zug gnueg guet?",
+          "german": "Perfekt! Ich habe kein Fahrrad, aber gut zu wissen. Ist das Essen im Zug gut genug?",
+          "english": "Perfect! I don't have a bike, but good to know. Is the food in the train decent?",
+          "spanish": "¡Perfecto! No tengo bicicleta, pero es bueno saberlo. ¿Es la comida en el tren aceptable?"
+        },
+        {
+          "speaker": "SBB staff",
+          "swissGerman": "De Speisewagen isch ab Züri dabei. Eifach am richtige Wagen iisteige — dä steht im Faarplan.",
+          "german": "Der Speisewagen ist ab Zürich dabei. Einfach im richtigen Wagen einsteigen — der steht im Fahrplan.",
+          "english": "The dining car is included from Zurich. Just board the right carriage — it's in the timetable.",
+          "spanish": "El vagón restaurante está incluido desde Zúrich. Solo súbase al vagón correcto — está en el horario."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Wunderschön! Merci vilmal für Ihri Hilf. Ich freu mi scho ufs Tessin!",
+          "german": "Wunderschön! Vielen Dank für Ihre Hilfe. Ich freue mich schon aufs Tessin!",
+          "english": "Wonderful! Thank you so much for your help. I'm already excited about Ticino!",
+          "spanish": "¡Maravilloso! Muchas gracias por su ayuda. ¡Ya estoy emocionado/a con el Tesino!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Weli Verbindig",
+          "german": "Welche Verbindung",
+          "explanation": "'Weli' = 'welche'. Swiss German shortens the question word."
+        },
+        {
+          "swissGerman": "iistiige",
+          "german": "einsteigen",
+          "explanation": "'iistiige' = 'einsteigen'. 'ei-' becomes 'ii-' in Swiss German."
+        },
+        {
+          "swissGerman": "Halbtax",
+          "german": "Halbtaxabo",
+          "explanation": "The Swiss half-price rail card. One of the most common travel passes in Switzerland."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Weli Verbindig empfähled Sie?",
+          "german": "Welche Verbindung empfehlen Sie?",
+          "english": "Which connection do you recommend?"
+        },
+        {
+          "swissGerman": "bi wellem Gleis",
+          "german": "von welchem Gleis",
+          "english": "from which platform"
+        },
+        {
+          "swissGerman": "Ich freu mi scho uf...",
+          "german": "Ich freue mich schon auf...",
+          "english": "I'm already looking forward to..."
+        }
+      ]
     }
   ]
 }

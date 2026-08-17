@@ -4,54 +4,19 @@
     "topicId": "everyday-basics",
     "title": "Greetings & Farewells",
     "words": [
-      {
-        "swissGerman": "Grüezi",
-        "german": "Guten Tag",
-        "english": "Hello (formal)",
-        "spanish": "Hola (formal)"
-      },
-      {
-        "swissGerman": "Hoi / Sali",
-        "german": "Hallo",
-        "english": "Hi (informal)",
-        "spanish": "Hola (informal)"
-      },
-      {
-        "swissGerman": "Guete Morge",
-        "german": "Guten Morgen",
-        "english": "Good morning",
-        "spanish": "Buenos días"
-      },
-      {
-        "swissGerman": "Guete Aabig",
-        "german": "Guten Abend",
-        "english": "Good evening",
-        "spanish": "Buenas tardes"
-      },
-      {
-        "swissGerman": "Guet Nacht",
-        "german": "Gute Nacht",
-        "english": "Good night",
-        "spanish": "Buenas noches"
-      },
-      {
-        "swissGerman": "Tschau / Tschüss",
-        "german": "Tschüss",
-        "english": "Bye",
-        "spanish": "Adiós"
-      },
-      {
-        "swissGerman": "Uf Wiedersee",
-        "german": "Auf Wiedersehen",
-        "english": "Goodbye (formal)",
-        "spanish": "Adiós (formal)"
-      },
-      {
-        "swissGerman": "Bis morn",
-        "german": "Bis morgen",
-        "english": "See you tomorrow",
-        "spanish": "Hasta mañana"
-      }
+      { "swissGerman": "Grüezi", "german": "Guten Tag", "english": "Hello (formal)", "spanish": "Hola (formal)" },
+      { "swissGerman": "Hoi / Sali", "german": "Hallo", "english": "Hi (informal)", "spanish": "Hola (informal)" },
+      { "swissGerman": "Guete Morge", "german": "Guten Morgen", "english": "Good morning", "spanish": "Buenos días" },
+      { "swissGerman": "Guete Mittag", "german": "Guten Mittag", "english": "Good noon", "spanish": "Buen mediodía" },
+      { "swissGerman": "Guete Aabig", "german": "Guten Abend", "english": "Good evening", "spanish": "Buenas tardes" },
+      { "swissGerman": "Guet Nacht", "german": "Gute Nacht", "english": "Good night", "spanish": "Buenas noches" },
+      { "swissGerman": "Tschau / Tschüss", "german": "Tschüss", "english": "Bye", "spanish": "Adiós" },
+      { "swissGerman": "Uf Wiedersee", "german": "Auf Wiedersehen", "english": "Goodbye (formal)", "spanish": "Adiós (formal)" },
+      { "swissGerman": "Bis morn", "german": "Bis morgen", "english": "See you tomorrow", "spanish": "Hasta mañana" },
+      { "swissGerman": "Bis spöter", "german": "Bis später", "english": "See you later", "spanish": "Hasta luego" },
+      { "swissGerman": "Bis bald", "german": "Bis bald", "english": "See you soon", "spanish": "Hasta pronto" },
+      { "swissGerman": "Grüezi mitenand", "german": "Guten Tag allerseits", "english": "Hello everyone (formal)", "spanish": "Hola a todos (formal)" },
+      { "swissGerman": "Hoi zäme", "german": "Hallo zusammen", "english": "Hi everyone (informal)", "spanish": "Hola a todos (informal)" }
     ]
   },
   {
@@ -59,36 +24,17 @@
     "topicId": "everyday-basics",
     "title": "Polite Expressions",
     "words": [
-      {
-        "swissGerman": "Merci / Danke",
-        "german": "Danke",
-        "english": "Thank you",
-        "spanish": "Gracias"
-      },
-      {
-        "swissGerman": "Merci vilmal",
-        "german": "Vielen Dank",
-        "english": "Thank you very much",
-        "spanish": "Muchas gracias"
-      },
-      {
-        "swissGerman": "Bitte",
-        "german": "Bitte",
-        "english": "Please / You're welcome",
-        "spanish": "Por favor / De nada"
-      },
-      {
-        "swissGerman": "Exgüsi",
-        "german": "Entschuldigung",
-        "english": "Excuse me",
-        "spanish": "Perdona"
-      },
-      {
-        "swissGerman": "Kei Problem",
-        "german": "Kein Problem",
-        "english": "No problem",
-        "spanish": "No hay problema"
-      }
+      { "swissGerman": "Merci / Danke", "german": "Danke", "english": "Thank you", "spanish": "Gracias" },
+      { "swissGerman": "Merci vilmal", "german": "Vielen Dank", "english": "Thank you very much", "spanish": "Muchas gracias" },
+      { "swissGerman": "Bitte", "german": "Bitte", "english": "Please / You're welcome", "spanish": "Por favor / De nada" },
+      { "swissGerman": "Exgüsi", "german": "Entschuldigung", "english": "Excuse me", "spanish": "Perdona" },
+      { "swissGerman": "Kei Problem", "german": "Kein Problem", "english": "No problem", "spanish": "No hay problema" },
+      { "swissGerman": "Gern gschee", "german": "Gern geschehen", "english": "You're welcome", "spanish": "De nada" },
+      { "swissGerman": "Sori", "german": "Tut mir leid", "english": "Sorry", "spanish": "Lo siento" },
+      { "swissGerman": "Gfreut mich", "german": "Freut mich", "english": "Nice to meet you", "spanish": "Encantado/a" },
+      { "swissGerman": "Wie gaats?", "german": "Wie geht's?", "english": "How are you?", "spanish": "¿Cómo estás?" },
+      { "swissGerman": "Mir gaats guet, merci", "german": "Mir geht's gut, danke", "english": "I'm fine, thank you", "spanish": "Estoy bien, gracias" },
+      { "swissGerman": "Bitte wart kurz", "german": "Einen Moment bitte", "english": "One moment please", "spanish": "Un momento, por favor" }
     ]
   },
   {
@@ -96,48 +42,21 @@
     "topicId": "daily-life",
     "title": "Food & Drink",
     "words": [
-      {
-        "swissGerman": "Kafi",
-        "german": "Kaffee",
-        "english": "coffee",
-        "spanish": "café"
-      },
-      {
-        "swissGerman": "Gipfeli",
-        "german": "Croissant",
-        "english": "croissant",
-        "spanish": "cruasán"
-      },
-      {
-        "swissGerman": "Weggli",
-        "german": "Brötchen",
-        "english": "bread roll",
-        "spanish": "panecillo"
-      },
-      {
-        "swissGerman": "Znüni",
-        "german": "Vormittagssnack",
-        "english": "morning snack",
-        "spanish": "merienda de la mañana"
-      },
-      {
-        "swissGerman": "Zmittag",
-        "german": "Mittagessen",
-        "english": "lunch",
-        "spanish": "almuerzo"
-      },
-      {
-        "swissGerman": "Zvieri",
-        "german": "Nachmittagssnack",
-        "english": "afternoon snack",
-        "spanish": "merienda de la tarde"
-      },
-      {
-        "swissGerman": "Znacht",
-        "german": "Abendessen",
-        "english": "dinner",
-        "spanish": "cena"
-      }
+      { "swissGerman": "Kafi", "german": "Kaffee", "english": "coffee", "spanish": "café" },
+      { "swissGerman": "Gipfeli", "german": "Croissant", "english": "croissant", "spanish": "cruasán" },
+      { "swissGerman": "Weggli", "german": "Brötchen", "english": "bread roll", "spanish": "panecillo" },
+      { "swissGerman": "Znüni", "german": "Vormittagssnack", "english": "morning snack", "spanish": "merienda de la mañana" },
+      { "swissGerman": "Zmittag", "german": "Mittagessen", "english": "lunch", "spanish": "almuerzo" },
+      { "swissGerman": "Zvieri", "german": "Nachmittagssnack", "english": "afternoon snack", "spanish": "merienda de la tarde" },
+      { "swissGerman": "Znacht", "german": "Abendessen", "english": "dinner", "spanish": "cena" },
+      { "swissGerman": "Zmorge", "german": "Frühstück", "english": "breakfast", "spanish": "desayuno" },
+      { "swissGerman": "Röschti", "german": "Rösti (Kartoffelgericht)", "english": "rösti (potato dish)", "spanish": "rösti (plato de papas)" },
+      { "swissGerman": "Fondue", "german": "Fondue", "english": "fondue", "spanish": "fondue" },
+      { "swissGerman": "Raclette", "german": "Raclette", "english": "raclette", "spanish": "raclette" },
+      { "swissGerman": "Bratwurst", "german": "Bratwurst", "english": "grilled sausage", "spanish": "salchicha a la plancha" },
+      { "swissGerman": "Süessi", "german": "Süßigkeiten", "english": "sweets / candy", "spanish": "dulces" },
+      { "swissGerman": "Guetsli", "german": "Kekse", "english": "cookies / biscuits", "spanish": "galletas" },
+      { "swissGerman": "Birewegge", "german": "Birnbrot", "english": "pear bread (traditional)", "spanish": "pan de pera (tradicional)" }
     ]
   },
   {
@@ -145,42 +64,20 @@
     "topicId": "daily-life",
     "title": "Transport & Getting Around",
     "words": [
-      {
-        "swissGerman": "Zug",
-        "german": "Zug",
-        "english": "train",
-        "spanish": "tren"
-      },
-      {
-        "swissGerman": "Tram",
-        "german": "Straßenbahn",
-        "english": "tram",
-        "spanish": "tranvía"
-      },
-      {
-        "swissGerman": "Velo",
-        "german": "Fahrrad",
-        "english": "bicycle",
-        "spanish": "bicicleta"
-      },
-      {
-        "swissGerman": "Billett",
-        "german": "Fahrkarte",
-        "english": "ticket",
-        "spanish": "billete"
-      },
-      {
-        "swissGerman": "Gleis",
-        "german": "Gleis",
-        "english": "platform/track",
-        "spanish": "andén/vía"
-      },
-      {
-        "swissGerman": "Bahnhof",
-        "german": "Bahnhof",
-        "english": "train station",
-        "spanish": "estación de tren"
-      }
+      { "swissGerman": "Zug", "german": "Zug", "english": "train", "spanish": "tren" },
+      { "swissGerman": "Tram", "german": "Straßenbahn", "english": "tram", "spanish": "tranvía" },
+      { "swissGerman": "Velo", "german": "Fahrrad", "english": "bicycle", "spanish": "bicicleta" },
+      { "swissGerman": "Billett", "german": "Fahrkarte", "english": "ticket", "spanish": "billete" },
+      { "swissGerman": "Gleis", "german": "Gleis", "english": "platform/track", "spanish": "andén/vía" },
+      { "swissGerman": "Bahnhof", "german": "Bahnhof", "english": "train station", "spanish": "estación de tren" },
+      { "swissGerman": "Perron", "german": "Bahnsteig", "english": "platform", "spanish": "andén" },
+      { "swissGerman": "S-Bahn", "german": "S-Bahn", "english": "suburban train", "spanish": "tren de cercanías" },
+      { "swissGerman": "Postauto", "german": "Postbus", "english": "post bus", "spanish": "autobús postal" },
+      { "swissGerman": "GA", "german": "Generalabonnement", "english": "general travel pass", "spanish": "abono general" },
+      { "swissGerman": "Halbtax", "german": "Halbtaxabo", "english": "half-price rail card", "spanish": "tarjeta de medio precio" },
+      { "swissGerman": "Fahrplan", "german": "Fahrplan", "english": "timetable", "spanish": "horario" },
+      { "swissGerman": "Strass", "german": "Straße", "english": "street", "spanish": "calle" },
+      { "swissGerman": "Trottoir", "german": "Bürgersteig", "english": "pavement / sidewalk", "spanish": "acera" }
     ]
   },
   {
@@ -188,42 +85,20 @@
     "topicId": "family-school",
     "title": "Family & People",
     "words": [
-      {
-        "swissGerman": "Muetter / Mami",
-        "german": "Mutter / Mama",
-        "english": "mother / mom",
-        "spanish": "madre / mamá"
-      },
-      {
-        "swissGerman": "Vatter / Papi",
-        "german": "Vater / Papa",
-        "english": "father / dad",
-        "spanish": "padre / papá"
-      },
-      {
-        "swissGerman": "Chind",
-        "german": "Kind/Kinder",
-        "english": "child/children",
-        "spanish": "niño/niños"
-      },
-      {
-        "swissGerman": "Bueb",
-        "german": "Junge",
-        "english": "boy",
-        "spanish": "niño"
-      },
-      {
-        "swissGerman": "Meitli",
-        "german": "Mädchen",
-        "english": "girl",
-        "spanish": "niña"
-      },
-      {
-        "swissGerman": "Gschwiister",
-        "german": "Geschwister",
-        "english": "siblings",
-        "spanish": "hermanos"
-      }
+      { "swissGerman": "Muetter / Mami", "german": "Mutter / Mama", "english": "mother / mom", "spanish": "madre / mamá" },
+      { "swissGerman": "Vatter / Papi", "german": "Vater / Papa", "english": "father / dad", "spanish": "padre / papá" },
+      { "swissGerman": "Chind", "german": "Kind/Kinder", "english": "child/children", "spanish": "niño/niños" },
+      { "swissGerman": "Bueb", "german": "Junge", "english": "boy", "spanish": "niño" },
+      { "swissGerman": "Meitli", "german": "Mädchen", "english": "girl", "spanish": "niña" },
+      { "swissGerman": "Gschwiister", "german": "Geschwister", "english": "siblings", "spanish": "hermanos" },
+      { "swissGerman": "Brueder", "german": "Bruder", "english": "brother", "spanish": "hermano" },
+      { "swissGerman": "Schwöster", "german": "Schwester", "english": "sister", "spanish": "hermana" },
+      { "swissGerman": "Grossmuetter / Nani", "german": "Großmutter / Omi", "english": "grandmother", "spanish": "abuela" },
+      { "swissGerman": "Grossvatter / Opi", "german": "Großvater / Opi", "english": "grandfather", "spanish": "abuelo" },
+      { "swissGerman": "Onkel", "german": "Onkel", "english": "uncle", "spanish": "tío" },
+      { "swissGerman": "Tante", "german": "Tante", "english": "aunt", "spanish": "tía" },
+      { "swissGerman": "Götti / Pate", "german": "Pate / Taufpate", "english": "godfather", "spanish": "padrino" },
+      { "swissGerman": "Gotte / Patentante", "german": "Taufpatin", "english": "godmother", "spanish": "madrina" }
     ]
   },
   {
@@ -231,42 +106,18 @@
     "topicId": "work",
     "title": "Work & Office",
     "words": [
-      {
-        "swissGerman": "schaffe",
-        "german": "arbeiten",
-        "english": "to work",
-        "spanish": "trabajar"
-      },
-      {
-        "swissGerman": "Büro",
-        "german": "Büro",
-        "english": "office",
-        "spanish": "oficina"
-      },
-      {
-        "swissGerman": "Sitzig",
-        "german": "Sitzung/Meeting",
-        "english": "meeting",
-        "spanish": "reunión"
-      },
-      {
-        "swissGerman": "Bricht",
-        "german": "Bericht",
-        "english": "report",
-        "spanish": "informe"
-      },
-      {
-        "swissGerman": "Chef/Chefin",
-        "german": "Chef/Chefin",
-        "english": "boss",
-        "spanish": "jefe/jefa"
-      },
-      {
-        "swissGerman": "Ferie",
-        "german": "Urlaub/Ferien",
-        "english": "vacation",
-        "spanish": "vacaciones"
-      }
+      { "swissGerman": "schaffe", "german": "arbeiten", "english": "to work", "spanish": "trabajar" },
+      { "swissGerman": "Büro", "german": "Büro", "english": "office", "spanish": "oficina" },
+      { "swissGerman": "Sitzig", "german": "Sitzung/Meeting", "english": "meeting", "spanish": "reunión" },
+      { "swissGerman": "Bricht", "german": "Bericht", "english": "report", "spanish": "informe" },
+      { "swissGerman": "Chef/Chefin", "german": "Chef/Chefin", "english": "boss", "spanish": "jefe/jefa" },
+      { "swissGerman": "Ferie", "german": "Urlaub/Ferien", "english": "vacation", "spanish": "vacaciones" },
+      { "swissGerman": "Lehrstell", "german": "Ausbildungsplatz", "english": "apprenticeship position", "spanish": "plaza de aprendizaje" },
+      { "swissGerman": "Lohn", "german": "Gehalt/Lohn", "english": "salary / wage", "spanish": "sueldo" },
+      { "swissGerman": "Pensum", "german": "Stellenpensum", "english": "work percentage / hours", "spanish": "porcentaje de trabajo" },
+      { "swissGerman": "Überziit", "german": "Überstunden", "english": "overtime", "spanish": "horas extra" },
+      { "swissGerman": "Homeoffice", "german": "Homeoffice", "english": "working from home", "spanish": "teletrabajo" },
+      { "swissGerman": "Kolleg / Kollegin", "german": "Kollege / Kollegin", "english": "colleague", "spanish": "compañero/a de trabajo" }
     ]
   },
   {
@@ -274,42 +125,20 @@
     "topicId": "practical-swiss-life",
     "title": "Health & Body",
     "words": [
-      {
-        "swissGerman": "Chopfweh",
-        "german": "Kopfschmerzen",
-        "english": "headache",
-        "spanish": "dolor de cabeza"
-      },
-      {
-        "swissGerman": "Buuchweh",
-        "german": "Bauchschmerzen",
-        "english": "stomachache",
-        "spanish": "dolor de estómago"
-      },
-      {
-        "swissGerman": "Halsschmerze",
-        "german": "Halsschmerzen",
-        "english": "sore throat",
-        "spanish": "dolor de garganta"
-      },
-      {
-        "swissGerman": "Fieber",
-        "german": "Fieber",
-        "english": "fever",
-        "spanish": "fiebre"
-      },
-      {
-        "swissGerman": "Dokter / Arzt",
-        "german": "Arzt",
-        "english": "doctor",
-        "spanish": "médico"
-      },
-      {
-        "swissGerman": "Apothek",
-        "german": "Apotheke",
-        "english": "pharmacy",
-        "spanish": "farmacia"
-      }
+      { "swissGerman": "Chopfweh", "german": "Kopfschmerzen", "english": "headache", "spanish": "dolor de cabeza" },
+      { "swissGerman": "Buuchweh", "german": "Bauchschmerzen", "english": "stomachache", "spanish": "dolor de estómago" },
+      { "swissGerman": "Halsschmerze", "german": "Halsschmerzen", "english": "sore throat", "spanish": "dolor de garganta" },
+      { "swissGerman": "Fieber", "german": "Fieber", "english": "fever", "spanish": "fiebre" },
+      { "swissGerman": "Dokter / Arzt", "german": "Arzt", "english": "doctor", "spanish": "médico" },
+      { "swissGerman": "Apothek", "german": "Apotheke", "english": "pharmacy", "spanish": "farmacia" },
+      { "swissGerman": "Spital", "german": "Krankenhaus", "english": "hospital", "spanish": "hospital" },
+      { "swissGerman": "Krankekasse", "german": "Krankenkasse", "english": "health insurance", "spanish": "seguro médico" },
+      { "swissGerman": "Prämie", "german": "Versicherungsprämie", "english": "insurance premium", "spanish": "prima de seguro" },
+      { "swissGerman": "Rücke", "german": "Rücken", "english": "back", "spanish": "espalda" },
+      { "swissGerman": "Bei", "german": "Bein", "english": "leg", "spanish": "pierna" },
+      { "swissGerman": "Arm", "german": "Arm", "english": "arm", "spanish": "brazo" },
+      { "swissGerman": "Chopf", "german": "Kopf", "english": "head", "spanish": "cabeza" },
+      { "swissGerman": "Auge / Auge", "german": "Auge / Augen", "english": "eye / eyes", "spanish": "ojo / ojos" }
     ]
   },
   {
@@ -317,54 +146,257 @@
     "topicId": "everyday-basics",
     "title": "Numbers & Time",
     "words": [
-      {
-        "swissGerman": "eis",
-        "german": "eins",
-        "english": "one",
-        "spanish": "uno"
-      },
-      {
-        "swissGerman": "zwöi",
-        "german": "zwei",
-        "english": "two",
-        "spanish": "dos"
-      },
-      {
-        "swissGerman": "drü",
-        "german": "drei",
-        "english": "three",
-        "spanish": "tres"
-      },
-      {
-        "swissGerman": "vier",
-        "german": "vier",
-        "english": "four",
-        "spanish": "cuatro"
-      },
-      {
-        "swissGerman": "föif",
-        "german": "fünf",
-        "english": "five",
-        "spanish": "cinco"
-      },
-      {
-        "swissGerman": "hüt",
-        "german": "heute",
-        "english": "today",
-        "spanish": "hoy"
-      },
-      {
-        "swissGerman": "morn",
-        "german": "morgen",
-        "english": "tomorrow",
-        "spanish": "mañana"
-      },
-      {
-        "swissGerman": "geschter",
-        "german": "gestern",
-        "english": "yesterday",
-        "spanish": "ayer"
-      }
+      { "swissGerman": "eis", "german": "eins", "english": "one", "spanish": "uno" },
+      { "swissGerman": "zwöi", "german": "zwei", "english": "two", "spanish": "dos" },
+      { "swissGerman": "drü", "german": "drei", "english": "three", "spanish": "tres" },
+      { "swissGerman": "vier", "german": "vier", "english": "four", "spanish": "cuatro" },
+      { "swissGerman": "föif", "german": "fünf", "english": "five", "spanish": "cinco" },
+      { "swissGerman": "sächs", "german": "sechs", "english": "six", "spanish": "seis" },
+      { "swissGerman": "sibe", "german": "sieben", "english": "seven", "spanish": "siete" },
+      { "swissGerman": "acht", "german": "acht", "english": "eight", "spanish": "ocho" },
+      { "swissGerman": "nüün", "german": "neun", "english": "nine", "spanish": "nueve" },
+      { "swissGerman": "zäh", "german": "zehn", "english": "ten", "spanish": "diez" },
+      { "swissGerman": "zwänzg", "german": "zwanzig", "english": "twenty", "spanish": "veinte" },
+      { "swissGerman": "hundert", "german": "hundert", "english": "hundred", "spanish": "cien" },
+      { "swissGerman": "hüt", "german": "heute", "english": "today", "spanish": "hoy" },
+      { "swissGerman": "morn", "german": "morgen", "english": "tomorrow", "spanish": "mañana" },
+      { "swissGerman": "geschter", "german": "gestern", "english": "yesterday", "spanish": "ayer" },
+      { "swissGerman": "jetzt / jitz", "german": "jetzt", "english": "now", "spanish": "ahora" },
+      { "swissGerman": "früener", "german": "früher", "english": "earlier / before", "spanish": "antes" }
+    ]
+  },
+  {
+    "id": "weather-nature",
+    "topicId": "everyday-basics",
+    "title": "Weather & Nature",
+    "words": [
+      { "swissGerman": "Wetter", "german": "Wetter", "english": "weather", "spanish": "tiempo" },
+      { "swissGerman": "Sunne", "german": "Sonne", "english": "sun", "spanish": "sol" },
+      { "swissGerman": "Räge", "german": "Regen", "english": "rain", "spanish": "lluvia" },
+      { "swissGerman": "Schnee", "german": "Schnee", "english": "snow", "spanish": "nieve" },
+      { "swissGerman": "Wind", "german": "Wind", "english": "wind", "spanish": "viento" },
+      { "swissGerman": "Nebel", "german": "Nebel", "english": "fog", "spanish": "niebla" },
+      { "swissGerman": "Gwitter", "german": "Gewitter", "english": "thunderstorm", "spanish": "tormenta" },
+      { "swissGerman": "chalt", "german": "kalt", "english": "cold", "spanish": "frío" },
+      { "swissGerman": "warm", "german": "warm", "english": "warm", "spanish": "cálido" },
+      { "swissGerman": "heiss", "german": "heiß", "english": "hot", "spanish": "caliente" },
+      { "swissGerman": "Se / See", "german": "See", "english": "lake", "spanish": "lago" },
+      { "swissGerman": "Bärg", "german": "Berg", "english": "mountain", "spanish": "montaña" },
+      { "swissGerman": "Wald", "german": "Wald", "english": "forest", "spanish": "bosque" },
+      { "swissGerman": "Fluss", "german": "Fluss", "english": "river", "spanish": "río" }
+    ]
+  },
+  {
+    "id": "home-living",
+    "topicId": "daily-life",
+    "title": "Home & Living",
+    "words": [
+      { "swissGerman": "Wohnig", "german": "Wohnung", "english": "apartment", "spanish": "apartamento" },
+      { "swissGerman": "Zimer", "german": "Zimmer", "english": "room", "spanish": "habitación" },
+      { "swissGerman": "Chuchi", "german": "Küche", "english": "kitchen", "spanish": "cocina" },
+      { "swissGerman": "Bad / Badezimer", "german": "Bad / Badezimmer", "english": "bathroom", "spanish": "baño" },
+      { "swissGerman": "Stube", "german": "Wohnzimmer", "english": "living room", "spanish": "sala de estar" },
+      { "swissGerman": "Schlafzimer", "german": "Schlafzimmer", "english": "bedroom", "spanish": "dormitorio" },
+      { "swissGerman": "Keller", "german": "Keller", "english": "basement / cellar", "spanish": "sótano" },
+      { "swissGerman": "Estrich", "german": "Dachboden", "english": "attic", "spanish": "ático / buhardilla" },
+      { "swissGerman": "Miete", "german": "Miete", "english": "rent", "spanish": "alquiler" },
+      { "swissGerman": "Vermieter", "german": "Vermieter", "english": "landlord", "spanish": "arrendador" },
+      { "swissGerman": "Waschküchi", "german": "Waschküche", "english": "laundry room", "spanish": "lavandería" },
+      { "swissGerman": "Veloschopf", "german": "Fahrradschuppen", "english": "bike shed", "spanish": "cobertizo de bicicletas" }
+    ]
+  },
+  {
+    "id": "shopping-money",
+    "topicId": "practical-swiss-life",
+    "title": "Shopping & Money",
+    "words": [
+      { "swissGerman": "poschte", "german": "einkaufen", "english": "to go shopping", "spanish": "ir de compras" },
+      { "swissGerman": "Poschte", "german": "Einkauf", "english": "shopping / groceries", "spanish": "compras / víveres" },
+      { "swissGerman": "Lade / Gschäft", "german": "Laden / Geschäft", "english": "shop / store", "spanish": "tienda" },
+      { "swissGerman": "Kassa", "german": "Kasse", "english": "checkout / cashier", "spanish": "caja" },
+      { "swissGerman": "Rapping / Rapi", "german": "Rappen", "english": "cent (Swiss)", "spanish": "céntimo (suizo)" },
+      { "swissGerman": "Franke", "german": "Franken", "english": "franc (Swiss currency)", "spanish": "franco (moneda suiza)" },
+      { "swissGerman": "Charte", "german": "Karte", "english": "card (payment)", "spanish": "tarjeta (pago)" },
+      { "swissGerman": "Kassezettel", "german": "Kassenbon / Quittung", "english": "receipt", "spanish": "recibo" },
+      { "swissGerman": "Rabatt", "german": "Rabatt", "english": "discount", "spanish": "descuento" },
+      { "swissGerman": "Aagebott", "german": "Angebot / Aktion", "english": "offer / special deal", "spanish": "oferta" },
+      { "swissGerman": "Migros / Coop", "german": "Supermarkt", "english": "supermarket (Migros/Coop)", "spanish": "supermercado" }
+    ]
+  },
+  {
+    "id": "directions-places",
+    "topicId": "practical-swiss-life",
+    "title": "Directions & Places",
+    "words": [
+      { "swissGerman": "rechts", "german": "rechts", "english": "right", "spanish": "derecha" },
+      { "swissGerman": "links", "german": "links", "english": "left", "spanish": "izquierda" },
+      { "swissGerman": "gradusus / gerade usus", "german": "geradeaus", "english": "straight ahead", "spanish": "todo recto" },
+      { "swissGerman": "um d Egge", "german": "um die Ecke", "english": "around the corner", "spanish": "a la vuelta de la esquina" },
+      { "swissGerman": "näbed", "german": "neben", "english": "next to", "spanish": "al lado de" },
+      { "swissGerman": "gägeüber", "german": "gegenüber", "english": "opposite / across from", "spanish": "enfrente de" },
+      { "swissGerman": "Gemeind", "german": "Gemeinde", "english": "municipality / town hall", "spanish": "municipio / ayuntamiento" },
+      { "swissGerman": "Briefchaste", "german": "Briefkasten", "english": "mailbox", "spanish": "buzón" },
+      { "swissGerman": "Parkplatz", "german": "Parkplatz", "english": "parking space", "spanish": "aparcamiento" },
+      { "swissGerman": "Dorf", "german": "Dorf", "english": "village", "spanish": "pueblo" },
+      { "swissGerman": "Stadt", "german": "Stadt", "english": "city / town", "spanish": "ciudad" }
+    ]
+  },
+  {
+    "id": "emotions-states",
+    "topicId": "everyday-basics",
+    "title": "Emotions & States",
+    "words": [
+      { "swissGerman": "froh / glücklich", "german": "froh / glücklich", "english": "happy / glad", "spanish": "feliz / contento/a" },
+      { "swissGerman": "truurig", "german": "traurig", "english": "sad", "spanish": "triste" },
+      { "swissGerman": "müed", "german": "müde", "english": "tired", "spanish": "cansado/a" },
+      { "swissGerman": "hungrig / hungrig", "german": "hungrig", "english": "hungry", "spanish": "hambriento/a" },
+      { "swissGerman": "durstig", "german": "durstig", "english": "thirsty", "spanish": "sediento/a" },
+      { "swissGerman": "wüeted", "german": "wütend", "english": "angry", "spanish": "enfadado/a" },
+      { "swissGerman": "verwundert", "german": "überrascht", "english": "surprised", "spanish": "sorprendido/a" },
+      { "swissGerman": "nervös", "german": "nervös", "english": "nervous", "spanish": "nervioso/a" },
+      { "swissGerman": "entspannt", "german": "entspannt", "english": "relaxed", "spanish": "relajado/a" },
+      { "swissGerman": "gsund", "german": "gesund", "english": "healthy / well", "spanish": "sano/a" },
+      { "swissGerman": "chrank", "german": "krank", "english": "sick / ill", "spanish": "enfermo/a" },
+      { "swissGerman": "stolz", "german": "stolz", "english": "proud", "spanish": "orgulloso/a" }
+    ]
+  },
+  {
+    "id": "colours-adjectives",
+    "topicId": "everyday-basics",
+    "title": "Colours & Common Adjectives",
+    "words": [
+      { "swissGerman": "rot", "german": "rot", "english": "red", "spanish": "rojo" },
+      { "swissGerman": "blau", "german": "blau", "english": "blue", "spanish": "azul" },
+      { "swissGerman": "grüen", "german": "grün", "english": "green", "spanish": "verde" },
+      { "swissGerman": "gäl / gälu", "german": "gelb", "english": "yellow", "spanish": "amarillo" },
+      { "swissGerman": "schwarz", "german": "schwarz", "english": "black", "spanish": "negro" },
+      { "swissGerman": "wiiss", "german": "weiß", "english": "white", "spanish": "blanco" },
+      { "swissGerman": "grau", "german": "grau", "english": "grey", "spanish": "gris" },
+      { "swissGerman": "bruun", "german": "braun", "english": "brown", "spanish": "marrón" },
+      { "swissGerman": "gross", "german": "groß", "english": "big / tall", "spanish": "grande / alto" },
+      { "swissGerman": "chli / chlii", "german": "klein", "english": "small", "spanish": "pequeño" },
+      { "swissGerman": "schön", "german": "schön", "english": "beautiful / nice", "spanish": "bonito/a" },
+      { "swissGerman": "suber", "german": "sauber / schön", "english": "clean / neat", "spanish": "limpio / ordenado" },
+      { "swissGerman": "schnäll", "german": "schnell", "english": "fast / quick", "spanish": "rápido" },
+      { "swissGerman": "langsam", "german": "langsam", "english": "slow", "spanish": "lento" }
+    ]
+  },
+  {
+    "id": "common-verbs",
+    "topicId": "everyday-basics",
+    "title": "Essential Verbs",
+    "words": [
+      { "swissGerman": "gaa / gange", "german": "gehen / gegangen", "english": "to go / went", "spanish": "ir / fue" },
+      { "swissGerman": "cho / cho", "german": "kommen / gekommen", "english": "to come / came", "spanish": "venir / vino" },
+      { "swissGerman": "ha / ghaa", "german": "haben / gehabt", "english": "to have / had", "spanish": "tener / tuvo" },
+      { "swissGerman": "si / gsi", "german": "sein / gewesen", "english": "to be / was", "spanish": "ser/estar / estuvo" },
+      { "swissGerman": "mache / gmacht", "german": "machen / gemacht", "english": "to do/make / done", "spanish": "hacer / hizo" },
+      { "swissGerman": "säge / gsäit", "german": "sagen / gesagt", "english": "to say / said", "spanish": "decir / dijo" },
+      { "swissGerman": "sehe / gsee", "german": "sehen / gesehen", "english": "to see / saw", "spanish": "ver / vio" },
+      { "swissGerman": "lose / gloscht", "german": "hören / gehört", "english": "to listen/hear", "spanish": "escuchar/oír" },
+      { "swissGerman": "läse / gläse", "german": "lesen / gelesen", "english": "to read / read", "spanish": "leer / leyó" },
+      { "swissGerman": "schriibe / gschribe", "german": "schreiben / geschrieben", "english": "to write / wrote", "spanish": "escribir / escribió" },
+      { "swissGerman": "esse / gesse", "german": "essen / gegessen", "english": "to eat / ate", "spanish": "comer / comió" },
+      { "swissGerman": "trinke / trunke", "german": "trinken / getrunken", "english": "to drink / drank", "spanish": "beber / bebió" },
+      { "swissGerman": "schlofe / gschloofe", "german": "schlafen / geschlafen", "english": "to sleep / slept", "spanish": "dormir / durmió" },
+      { "swissGerman": "laufe / gloffe", "german": "laufen / gelaufen", "english": "to walk/run / walked", "spanish": "caminar / caminó" },
+      { "swissGerman": "gfalle / gfalle", "german": "gefallen", "english": "to like (something)", "spanish": "gustar" }
+    ]
+  },
+  {
+    "id": "question-words",
+    "topicId": "everyday-basics",
+    "title": "Question Words",
+    "words": [
+      { "swissGerman": "was", "german": "was", "english": "what", "spanish": "qué" },
+      { "swissGerman": "wer", "german": "wer", "english": "who", "spanish": "quién" },
+      { "swissGerman": "wo", "german": "wo", "english": "where", "spanish": "dónde" },
+      { "swissGerman": "wenn / wänn", "german": "wann", "english": "when", "spanish": "cuándo" },
+      { "swissGerman": "wie", "german": "wie", "english": "how", "spanish": "cómo" },
+      { "swissGerman": "wieso / warum", "german": "warum / weshalb", "english": "why", "spanish": "por qué" },
+      { "swissGerman": "wie vil", "german": "wie viel", "english": "how much / how many", "spanish": "cuánto/cuántos" },
+      { "swissGerman": "welle / welches", "german": "welcher / welche / welches", "english": "which", "spanish": "cuál / cuáles" }
+    ]
+  },
+  {
+    "id": "days-months",
+    "topicId": "everyday-basics",
+    "title": "Days & Months",
+    "words": [
+      { "swissGerman": "Määntig", "german": "Montag", "english": "Monday", "spanish": "lunes" },
+      { "swissGerman": "Ziischtig", "german": "Dienstag", "english": "Tuesday", "spanish": "martes" },
+      { "swissGerman": "Mittwoch", "german": "Mittwoch", "english": "Wednesday", "spanish": "miércoles" },
+      { "swissGerman": "Dunschtig", "german": "Donnerstag", "english": "Thursday", "spanish": "jueves" },
+      { "swissGerman": "Friitig", "german": "Freitag", "english": "Friday", "spanish": "viernes" },
+      { "swissGerman": "Samstig", "german": "Samstag", "english": "Saturday", "spanish": "sábado" },
+      { "swissGerman": "Suntig", "german": "Sonntag", "english": "Sunday", "spanish": "domingo" },
+      { "swissGerman": "Januar", "german": "Januar", "english": "January", "spanish": "enero" },
+      { "swissGerman": "Februar", "german": "Februar", "english": "February", "spanish": "febrero" },
+      { "swissGerman": "März", "german": "März", "english": "March", "spanish": "marzo" },
+      { "swissGerman": "April", "german": "April", "english": "April", "spanish": "abril" },
+      { "swissGerman": "Mai", "german": "Mai", "english": "May", "spanish": "mayo" },
+      { "swissGerman": "Juni", "german": "Juni", "english": "June", "spanish": "junio" },
+      { "swissGerman": "Juli", "german": "Juli", "english": "July", "spanish": "julio" },
+      { "swissGerman": "August", "german": "August", "english": "August", "spanish": "agosto" },
+      { "swissGerman": "September", "german": "September", "english": "September", "spanish": "septiembre" },
+      { "swissGerman": "Oktober", "german": "Oktober", "english": "October", "spanish": "octubre" },
+      { "swissGerman": "November", "german": "November", "english": "November", "spanish": "noviembre" },
+      { "swissGerman": "Dezember", "german": "Dezember", "english": "December", "spanish": "diciembre" }
+    ]
+  },
+  {
+    "id": "swiss-culture",
+    "topicId": "practical-swiss-life",
+    "title": "Swiss Culture & Swiss-Specific Words",
+    "words": [
+      { "swissGerman": "Fasnacht", "german": "Karneval / Fasching", "english": "carnival / mardi gras", "spanish": "carnaval" },
+      { "swissGerman": "Bundeshuus", "german": "Bundeshaus", "english": "Federal Parliament building", "spanish": "Parlamento Federal" },
+      { "swissGerman": "Abstimmig", "german": "Abstimmung", "english": "vote / referendum", "spanish": "votación / referéndum" },
+      { "swissGerman": "Initiativ", "german": "Initiative", "english": "citizens' initiative", "spanish": "iniciativa ciudadana" },
+      { "swissGerman": "Güsel / Abfall", "german": "Müll / Abfall", "english": "rubbish / trash", "spanish": "basura" },
+      { "swissGerman": "Güselsack", "german": "Müllsack", "english": "rubbish bag (official)", "spanish": "bolsa de basura (oficial)" },
+      { "swissGerman": "Sammelstell", "german": "Sammelstelle", "english": "recycling drop-off point", "spanish": "punto de recogida" },
+      { "swissGerman": "PET-Fläsche", "german": "PET-Flasche", "english": "PET bottle", "spanish": "botella de PET" },
+      { "swissGerman": "1. August", "german": "Nationalfeiertag", "english": "National Day (1st August)", "spanish": "Fiesta Nacional (1 de agosto)" },
+      { "swissGerman": "Landsgemeind", "german": "Landsgemeinde", "english": "open-air cantonal assembly", "spanish": "asamblea cantonal al aire libre" },
+      { "swissGerman": "Kanton", "german": "Kanton", "english": "canton (Swiss federal state)", "spanish": "cantón (estado federal suizo)" },
+      { "swissGerman": "Gemeinderat", "german": "Gemeinderat", "english": "municipal council", "spanish": "concejo municipal" }
+    ]
+  },
+  {
+    "id": "school-education",
+    "topicId": "family-school",
+    "title": "School & Education",
+    "words": [
+      { "swissGerman": "Schuel", "german": "Schule", "english": "school", "spanish": "escuela" },
+      { "swissGerman": "Lehrperson / Lehrer", "german": "Lehrer/in", "english": "teacher", "spanish": "profesor/a" },
+      { "swissGerman": "Schüeler", "german": "Schüler/in", "english": "pupil / student", "spanish": "alumno/a" },
+      { "swissGerman": "Hausufgabe", "german": "Hausaufgaben", "english": "homework", "spanish": "deberes" },
+      { "swissGerman": "Schulzuugnis", "german": "Zeugnis", "english": "school report", "spanish": "boletín de notas" },
+      { "swissGerman": "Primarschuel", "german": "Grundschule", "english": "primary school", "spanish": "escuela primaria" },
+      { "swissGerman": "Sekundarschuel", "german": "Sekundarschule", "english": "secondary school", "spanish": "escuela secundaria" },
+      { "swissGerman": "Gymnasium", "german": "Gymnasium", "english": "grammar school / high school", "spanish": "instituto / bachillerato" },
+      { "swissGerman": "Berufslehr", "german": "Berufsausbildung", "english": "vocational training / apprenticeship", "spanish": "formación profesional" },
+      { "swissGerman": "Maturität / Matura", "german": "Abitur", "english": "university entrance exam", "spanish": "selectividad / bachillerato" },
+      { "swissGerman": "Kita / Krippe", "german": "Kindertagesstätte", "english": "daycare / nursery", "spanish": "guardería" },
+      { "swissGerman": "Pauseplatz", "german": "Schulhof", "english": "school yard", "spanish": "patio del colegio" }
+    ]
+  },
+  {
+    "id": "social-small-talk",
+    "topicId": "everyday-basics",
+    "title": "Social & Small Talk",
+    "words": [
+      { "swissGerman": "Erzähl!", "german": "Erzähl mal!", "english": "Tell me about it!", "spanish": "¡Cuéntame!" },
+      { "swissGerman": "Stimmt!", "german": "Stimmt!", "english": "That's right! / Correct!", "spanish": "¡Exacto! / ¡Correcto!" },
+      { "swissGerman": "Nöd wahr?", "german": "Nicht wahr?", "english": "Right? / Isn't it?", "spanish": "¿Verdad?" },
+      { "swissGerman": "Echt?", "german": "Wirklich?", "english": "Really?", "spanish": "¿En serio?" },
+      { "swissGerman": "Ohhh, coool!", "german": "Oh, toll!", "english": "Oh, cool!", "spanish": "¡Oh, qué guay!" },
+      { "swissGerman": "Was meinsch?", "german": "Was meinst du?", "english": "What do you think?", "spanish": "¿Qué opinas?" },
+      { "swissGerman": "I weiss nöd", "german": "Ich weiß nicht", "english": "I don't know", "spanish": "No sé" },
+      { "swissGerman": "Klar!", "german": "Klar! / Natürlich!", "english": "Of course! / Sure!", "spanish": "¡Claro!" },
+      { "swissGerman": "Gern!", "german": "Gerne!", "english": "With pleasure! / Gladly!", "spanish": "¡Con mucho gusto!" },
+      { "swissGerman": "Waisch", "german": "Weißt du", "english": "You know (filler)", "spanish": "¿Sabes?" }
     ]
   }
 ]

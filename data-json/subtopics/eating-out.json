@@ -518,6 +518,132 @@
           "english": "ready"
         }
       ]
+    },
+    {
+      "id": "eating-out-6",
+      "level": "intermediate",
+      "title": "A full dinner out with friends",
+      "situation": "You and two friends are at a Swiss restaurant for dinner, from ordering drinks to dessert.",
+      "lines": [
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Grüezi mitenand! Händ Sie scho gwählt oder bruchid Sie no es Moment?",
+          "german": "Guten Abend zusammen! Haben Sie schon gewählt oder brauchen Sie noch einen Moment?",
+          "english": "Good evening everyone! Have you already chosen or do you need a moment?",
+          "spanish": "¡Buenas noches a todos! ¿Ya han elegido o necesitan un momento?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Mir bruchid no zwei Minute, merci.",
+          "german": "Wir brauchen noch zwei Minuten, danke.",
+          "english": "We need two more minutes, thank you.",
+          "spanish": "Necesitamos dos minutos más, gracias."
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Natürli! Darf ich Ihne zwüschezit öppis zum Trinke bringe?",
+          "german": "Natürlich! Darf ich Ihnen zwischenzeitlich etwas zum Trinken bringen?",
+          "english": "Of course! Can I bring you something to drink in the meantime?",
+          "spanish": "¡Claro! ¿Puedo traerles algo de beber mientras tanto?"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Ich nimm es Wasser stell bitte. Und ihr?",
+          "german": "Ich nehme ein stilles Wasser bitte. Und ihr?",
+          "english": "I'll have a still water please. And you guys?",
+          "spanish": "Tomaré un agua sin gas por favor. ¿Y vosotros?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Für mich en Hauswii, rot. Und für dich?",
+          "german": "Für mich einen Hauswein, rot. Und für dich?",
+          "english": "For me a house wine, red. And for you?",
+          "spanish": "Para mí un vino de la casa, tinto. ¿Y para ti?"
+        },
+        {
+          "speaker": "Other friend",
+          "swissGerman": "Ich hätt gern en Appenzeller. Isches en lokalä?",
+          "german": "Ich hätte gern einen Appenzeller. Ist das ein lokales Bier?",
+          "english": "I'd like an Appenzeller. Is that a local beer?",
+          "spanish": "Me gustaría un Appenzeller. ¿Es una cerveza local?"
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Ja, genau! Aus em Kanton Appenzell. Very good choise! Und zum Ässe?",
+          "german": "Ja, genau! Aus dem Kanton Appenzell. Sehr gute Wahl! Und zum Essen?",
+          "english": "Yes, exactly! From the canton of Appenzell. Very good choice! And to eat?",
+          "spanish": "¡Sí, exacto! Del cantón de Appenzell. ¡Muy buena elección! ¿Y para comer?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ich nimm das Züri-Gschnätzlets mit Röschti. Mir händ ghört, das isch hie dr Spezialität.",
+          "german": "Ich nehme das Zürcher Geschnetzelte mit Rösti. Wir haben gehört, das ist hier die Spezialität.",
+          "english": "I'll have the Züri-Gschnätzlets with rösti. We heard that's the specialty here.",
+          "spanish": "Tomaré el Züri-Gschnätzlets con rösti. Hemos oído que es la especialidad aquí."
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Absolut! Das mached mir täglich frisch. En hervorragendi Wahl!",
+          "german": "Absolut! Das machen wir täglich frisch. Eine hervorragende Wahl!",
+          "english": "Absolutely! We make it fresh daily. An excellent choice!",
+          "spanish": "¡Absolutamente! Lo hacemos fresco a diario. ¡Una elección excelente!"
+        },
+        {
+          "speaker": "Friend",
+          "swissGerman": "Und ich nimm das Fondue für zwöi — wenn mir das zäme tailed?",
+          "german": "Und ich nehme das Fondue für zwei — wenn wir das zusammen teilen?",
+          "english": "And I'll take the fondue for two — if we share it together?",
+          "spanish": "Y yo tomo la fondue para dos — ¿si la compartimos juntos?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Super Idee! Und zum Schluss nomol d'Charte bitte für es Dessert.",
+          "german": "Super Idee! Und zum Schluss nochmal die Karte bitte für ein Dessert.",
+          "english": "Great idea! And at the end the menu again please for a dessert.",
+          "spanish": "¡Gran idea! Y al final la carta de nuevo por favor para un postre."
+        },
+        {
+          "speaker": "Waiter",
+          "swissGerman": "Gern! Ich bring alles so schnäll wie möglich. En guete Appetit wünsch ich Ihne!",
+          "german": "Gern! Ich bringe alles so schnell wie möglich. Einen guten Appetit wünsche ich Ihnen!",
+          "english": "Gladly! I'll bring everything as soon as possible. I wish you a good appetite!",
+          "spanish": "¡Con mucho gusto! Les traeré todo lo antes posible. ¡Que aproveche!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Züri-Gschnätzlets",
+          "german": "Zürcher Geschnetzelte",
+          "explanation": "Signature Swiss dish from Zurich — strips of veal in cream sauce, served with rösti."
+        },
+        {
+          "swissGerman": "Hauswii",
+          "german": "Hauswein",
+          "explanation": "House wine — 'wii' = 'wein', short vowel shift."
+        },
+        {
+          "swissGerman": "Mir händ ghört",
+          "german": "Wir haben gehört",
+          "explanation": "'mir' = 'wir', 'händ' = 'haben', 'ghört' = 'gehört'. All three Swiss patterns in one phrase."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Händ Sie scho gwählt?",
+          "german": "Haben Sie schon gewählt?",
+          "english": "Have you already chosen?"
+        },
+        {
+          "swissGerman": "Ich nimm...",
+          "german": "Ich nehme...",
+          "english": "I'll have..."
+        },
+        {
+          "swissGerman": "Züri-Gschnätzlets",
+          "german": "Zürcher Geschnetzelte",
+          "english": "Zürich-style veal in cream sauce"
+        }
+      ]
     }
   ]
 }

@@ -503,6 +503,132 @@
           "english": "We'll bring you something back"
         }
       ]
+    },
+    {
+      "id": "small-talk-neighbors-6",
+      "level": "intermediate",
+      "title": "Extended chat in the stairwell",
+      "situation": "You bump into your neighbor in the stairwell and end up having a longer conversation.",
+      "lines": [
+        {
+          "speaker": "Neighbor",
+          "swissGerman": "Oh, da bisch ja au! Ich ha di scho länger nöd gsee. Alles guet bi dir?",
+          "german": "Oh, da bist du ja auch! Ich habe dich schon länger nicht gesehen. Alles gut bei dir?",
+          "english": "Oh, there you are too! I haven't seen you in a while. Is everything okay with you?",
+          "spanish": "¡Oh, también estás aquí! Hace tiempo que no te veía. ¿Todo bien contigo?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ja, mir gaats guet! Ich ha viel zschäft gha die letschte Wuche. Du?",
+          "german": "Ja, mir geht's gut! Ich hatte die letzten Wochen viel zu tun. Und du?",
+          "english": "Yes, I'm well! I've had a lot on the last few weeks. You?",
+          "spanish": "¡Sí, estoy bien! He tenido mucho trabajo estas últimas semanas. ¿Tú?"
+        },
+        {
+          "speaker": "Neighbor",
+          "swissGerman": "Mir au! Mir händ grad renoviert — de ganz Wuche no Lärm gha. Sori däfür!",
+          "german": "Uns auch! Wir haben gerade renoviert — die ganze Woche Lärm gehabt. Tut mir leid dafür!",
+          "english": "Us too! We've just been renovating — had noise all week. Sorry about that!",
+          "spanish": "¡También nosotros! Hemos estado renovando — tuvimos ruido toda la semana. ¡Perdona por eso!"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Kei Problem! Ich ha's nöd mal ghört — ich bi so früh as de Büro. Was händ ihr gmacht?",
+          "german": "Kein Problem! Ich habe es gar nicht gehört — ich bin so früh ins Büro. Was habt ihr gemacht?",
+          "english": "No problem! I didn't even notice — I'm in the office so early. What did you do?",
+          "spanish": "¡No hay problema! Ni siquiera lo noté — estoy tan temprano en la oficina. ¿Qué habéis hecho?"
+        },
+        {
+          "speaker": "Neighbor",
+          "swissGerman": "Mir händ d'Chuchi neu gmacht. Endlich! Si isch jetzt viel grösser.",
+          "german": "Wir haben die Küche neu gemacht. Endlich! Sie ist jetzt viel größer.",
+          "english": "We redid the kitchen. Finally! It's much bigger now.",
+          "spanish": "Hemos rehecho la cocina. ¡Por fin! Ahora es mucho más grande."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Wow, das klingt toll! Seit wänn wohned ir eigentlich scho im Huus?",
+          "german": "Wow, das klingt toll! Seit wann wohnt ihr eigentlich schon im Haus?",
+          "english": "Wow, that sounds great! How long have you actually been living in the building?",
+          "spanish": "¡Vaya, eso suena genial! ¿Desde cuándo vivís en el edificio en realidad?"
+        },
+        {
+          "speaker": "Neighbor",
+          "swissGerman": "Scho drüzäh Jahr! D'Ziit verflügt. Und du — bisch scho lang da?",
+          "german": "Schon dreizehn Jahre! Die Zeit vergeht. Und du — bist du schon lange da?",
+          "english": "Already thirteen years! Time flies. And you — have you been here long?",
+          "spanish": "¡Ya trece años! El tiempo pasa volando. ¿Y tú, llevas mucho tiempo aquí?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Ersch sit zwei Jahr. Ich bi neue — aber ich gfalls mir sehr guet da.",
+          "german": "Erst seit zwei Jahren. Ich bin neu — aber es gefällt mir sehr gut hier.",
+          "english": "Only for two years. I'm a newcomer — but I really like it here.",
+          "spanish": "Solo dos años. Soy nuevo/a — pero me gusta mucho aquí."
+        },
+        {
+          "speaker": "Neighbor",
+          "swissGerman": "Schön! Und hesch scho d'Umgebig chenn glehrt? Es git cooli Beizli im Dorf.",
+          "german": "Schön! Und hast du schon die Umgebung kennengelernt? Es gibt coole Restaurants im Dorf.",
+          "english": "Nice! And have you already got to know the area? There are cool restaurants in the village.",
+          "spanish": "¡Qué bien! ¿Y ya conoces los alrededores? Hay restaurantes chulos en el pueblo."
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "No nöd wirkli. Du muesch mir Tipps geh! Am beschte bi me Kafi.",
+          "german": "Noch nicht wirklich. Du musst mir Tipps geben! Am besten bei einem Kaffee.",
+          "english": "Not really yet. You have to give me tips! Best over a coffee.",
+          "spanish": "Todavía no realmente. ¡Tienes que darme consejos! Lo mejor es tomando un café."
+        },
+        {
+          "speaker": "Neighbor",
+          "swissGerman": "Super Idee! Cha ich di am Samschtig iiladed? I de Morge?",
+          "german": "Super Idee! Kann ich dich am Samstag einladen? Am Morgen?",
+          "english": "Great idea! Can I invite you on Saturday? In the morning?",
+          "spanish": "¡Gran idea! ¿Puedo invitarte el sábado? ¿Por la mañana?"
+        },
+        {
+          "speaker": "You",
+          "swissGerman": "Sehr gern! Ich bring es Stück Kuche mit. Bis dann, ade!",
+          "german": "Sehr gerne! Ich bringe ein Stück Kuchen mit. Bis dann, tschüss!",
+          "english": "I'd love to! I'll bring a slice of cake. See you then, bye!",
+          "spanish": "¡Con mucho gusto! Llevaré un trozo de tarta. ¡Hasta entonces, adiós!"
+        }
+      ],
+      "differences": [
+        {
+          "swissGerman": "Beizli",
+          "german": "Restaurant / Kneipe",
+          "explanation": "'Beizli' — diminutive of 'Beiz', the Swiss word for a cozy local restaurant or pub."
+        },
+        {
+          "swissGerman": "drüzäh",
+          "german": "dreizehn",
+          "explanation": "Number 13. 'drü' = 'drei', 'zäh' = 'zehn'. Swiss number pronunciation."
+        },
+        {
+          "swissGerman": "Ich gfalls mir sehr guet",
+          "german": "Es gefällt mir sehr gut",
+          "explanation": "Swiss German often contracts 'es gefällt mir' → 'ich gfalls mir' in casual speech."
+        }
+      ],
+      "keyPhrases": [
+        {
+          "swissGerman": "Ich ha di scho länger nöd gsee",
+          "german": "Ich habe dich länger nicht gesehen",
+          "english": "I haven't seen you in a while"
+        },
+        {
+          "swissGerman": "d'Ziit verflügt",
+          "german": "die Zeit vergeht",
+          "english": "time flies"
+        },
+        {
+          "swissGerman": "Beizli",
+          "german": "Restaurant/Kneipe",
+          "english": "local restaurant / pub"
+        }
+      ]
     }
   ]
 }
