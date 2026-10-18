@@ -1,5 +1,5 @@
 import { Link, useLocation, useNavigate } from "react-router-dom";
-import { Home, MessageSquare, Sparkles, BookOpen, LogOut, User } from "lucide-react";
+import { Home, MessageSquare, Sparkles, BookOpen, LogOut, User, Mountain } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { useAuth } from "@/contexts/AuthContext";
 
@@ -7,14 +7,15 @@ const Navigation = () => {
   const location = useLocation();
   const navigate = useNavigate();
   const { user, logout } = useAuth();
-  
-  const handleLogout = () => {
-    logout();
-    navigate('/auth');
+
+  const handleLogout = async () => {
+    await logout();
+    navigate('/');
   };
-  
+
   const navItems = [
     { path: "/", label: "Home", icon: Home },
+    { path: "/learn", label: "Learn", icon: Mountain },
     { path: "/topics", label: "Topics", icon: MessageSquare },
     { path: "/patterns", label: "Patterns", icon: Sparkles },
     { path: "/vocabulary", label: "Vocabulary", icon: BookOpen },
@@ -59,11 +60,11 @@ const Navigation = () => {
               <>
                 <div className="hidden md:flex items-center gap-2 text-sm text-muted-foreground">
                   <User className="w-4 h-4" />
-                  <span>{user.displayName}</span>
+                  <span>{user.display_name || user.email}</span>
                 </div>
-                <Button 
-                  variant="ghost" 
-                  size="sm" 
+                <Button
+                  variant="ghost"
+                  size="sm"
                   onClick={handleLogout}
                   className="gap-2"
                 >
@@ -71,7 +72,11 @@ const Navigation = () => {
                   <span className="hidden md:inline">Logout</span>
                 </Button>
               </>
-            ) : null}
+            ) : (
+              <Link to="/auth">
+                <Button size="sm" className="gradient-hero">Sign in</Button>
+              </Link>
+            )}
           </div>
 
           <div className="md:hidden flex items-center space-x-1 overflow-x-auto">

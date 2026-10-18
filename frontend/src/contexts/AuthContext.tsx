@@ -1,72 +1,72 @@
-import React, { createContext, useContext, useState } from 'react';
-
-interface User {
-  id: string;
-  email: string;
-  displayName: string;
-  createdAt: string;
-}
+import React, { createContext, useContext, useEffect, useState, useCallback } from "react";
+import { authApi, type AuthUser } from "@/lib/api";
 
 interface AuthContextType {
-  user: User | null;
-  login: (email: string, password: string) => Promise<boolean>;
-  signup: (email: string, password: string, displayName: string) => Promise<boolean>;
-  logout: () => void;
+  user: AuthUser | null;
   isLoading: boolean;
+  requestMagicLink: (email: string) => Promise<void>;
+  consumeToken: (token: string) => Promise<AuthUser>;
+  logout: () => Promise<void>;
+  refreshUser: () => Promise<void>;
 }
 
 const AuthContext = createContext<AuthContextType | undefined>(undefined);
 
-const loadCurrentUser = (): User | null => {
-  const storedUser = localStorage.getItem('currentUser');
-  return storedUser ? JSON.parse(storedUser) : null;
-};
+/**
+ * Real magic-link authentication. No passwords and no credentials are stored in
+ * localStorage; the session lives in Secure HttpOnly cookies managed by the API.
+ * Any legacy prototype keys from the old localStorage auth are cleared on load.
+ */
+function clearLegacyKeys() {
+  const legacy = ["users", "currentUser"];
+  Object.keys(localStorage).forEach((k) => {
+    if (legacy.includes(k) || k.startsWith("progress_") || k.startsWith("quizResults_")) {
+      localStorage.removeItem(k);
+    }
+  });
+}
 
 export const AuthProvider = ({ children }: { children: React.ReactNode }) => {
-  const [user, setUser] = useState<User | null>(() => loadCurrentUser());
-  const isLoading = false;
+  const [user, setUser] = useState<AuthUser | null>(null);
+  const [isLoading, setIsLoading] = useState(true);
 
-  const signup = async (email: string, password: string, displayName: string): Promise<boolean> => {
-    const users = JSON.parse(localStorage.getItem('users') || '{}');
-    
-    if (users[email]) {
-      return false; // User already exists
+  const refreshUser = useCallback(async () => {
+    try {
+      const me = await authApi.me();
+      setUser(me);
+    } catch {
+      setUser(null);
     }
+  }, []);
 
-    const newUser: User = {
-      id: crypto.randomUUID(),
-      email,
-      displayName,
-      createdAt: new Date().toISOString(),
-    };
+  useEffect(() => {
+    clearLegacyKeys();
+    (async () => {
+      await refreshUser();
+      setIsLoading(false);
+    })();
+  }, [refreshUser]);
 
-    users[email] = { ...newUser, password };
-    localStorage.setItem('users', JSON.stringify(users));
-    localStorage.setItem('currentUser', JSON.stringify(newUser));
-    setUser(newUser);
-    return true;
-  };
+  const requestMagicLink = useCallback(async (email: string) => {
+    await authApi.requestMagicLink(email);
+  }, []);
 
-  const login = async (email: string, password: string): Promise<boolean> => {
-    const users = JSON.parse(localStorage.getItem('users') || '{}');
-    const user = users[email];
+  const consumeToken = useCallback(async (token: string) => {
+    const result = await authApi.consume(token);
+    setUser(result.user);
+    return result.user;
+  }, []);
 
-    if (user && user.password === password) {
-      const { password: _, ...userWithoutPassword } = user;
-      localStorage.setItem('currentUser', JSON.stringify(userWithoutPassword));
-      setUser(userWithoutPassword);
-      return true;
+  const logout = useCallback(async () => {
+    try {
+      await authApi.logout();
+    } finally {
+      setUser(null);
     }
-    return false;
-  };
-
-  const logout = () => {
-    localStorage.removeItem('currentUser');
-    setUser(null);
-  };
+  }, []);
 
   return (
-    <AuthContext.Provider value={{ user, login, signup, logout, isLoading }}>
+    <AuthContext.Provider value={{ user, isLoading, requestMagicLink, consumeToken, logout, refreshUser }}>
       {children}
     </AuthContext.Provider>
   );
@@ -75,7 +75,7 @@ export const AuthProvider = ({ children }: { children: React.ReactNode }) => {
 export const useAuth = () => {
   const context = useContext(AuthContext);
   if (!context) {
-    throw new Error('useAuth must be used within AuthProvider');
+    throw new Error("useAuth must be used within AuthProvider");
   }
   return context;
 };

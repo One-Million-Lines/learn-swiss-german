@@ -8,6 +8,7 @@ import { Badge } from "@/components/ui/badge";
 import { Skeleton } from "@/components/ui/skeleton";
 import { Toggle } from "@/components/ui/toggle";
 import { api, type Subtopic } from "@/lib/api";
+import TurnAudioButton from "@/components/TurnAudioButton";
 
 const SubtopicPage = () => {
   const { subtopicId } = useParams<{ subtopicId: string }>();
@@ -154,7 +155,10 @@ const SubtopicPage = () => {
                           ? "bg-primary text-primary-foreground rounded-br-md"
                           : "bg-background rounded-bl-md shadow-sm"
                       }`}>
-                        <p className="font-semibold">{line.swissGerman}</p>
+                        <div className="flex items-center gap-2">
+                          <p className="font-semibold flex-1">{line.swissGerman}</p>
+                          <TurnAudioButton itemId={dialogue.itemId} revision={dialogue.revision} turnId={line.turnId} />
+                        </div>
                         <p className={`text-sm mt-1 ${isYou ? "text-primary-foreground/70" : "text-muted-foreground"}`}>
                           {line.german}
                         </p>

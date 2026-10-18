@@ -1,60 +1,33 @@
-import uvicorn
-from fastapi import FastAPI
-from fastapi.middleware.cors import CORSMiddleware
-from api_shared import vtlog, package_name, config
-from api_content import router as content_router
+"""SwissSpeak API entry point.
+
+Runs the HTTP API (app.main:app). An in-process audio worker starts with the
+app for local development (set RUN_INPROCESS_WORKER=0 to disable); in production
+run `python -m scripts.worker` as a separate process.
+"""
 import signal
 import sys
-import os
+
+import uvicorn
+
+from app.config import get_settings
 
 
-app = FastAPI(
-    title="Grüezi API",
-    description="Swiss German learning platform API",
-    version="0.1.0",
-    docs_url="/docs",
-    redoc_url=None
-)
+def main() -> None:
+    settings = get_settings()
 
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=[
-        "http://localhost:5306",
-        "http://127.0.0.1:5306",
-        "onemillionlines.com",
-        "www.onemillionlines.com",
-        "https://onemillionlines.com",
-        "https://www.onemillionlines.com",
-    ],
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
+    def exit_handler(sig_num, frame):
+        sys.exit()
 
-app.include_router(content_router)
-
-
-@app.get("/")
-async def root():
-    return {"service": package_name, "status": "running"}
-
-
-@app.get("/health")
-async def health():
-    return {"status": "ok"}
-
-
-def exit_handler(sig_num, frame):
-    vtlog.info("Stopping application: {0}".format(package_name))
-    sys.exit()
-
-
-if __name__ == "__main__":
     signal.signal(signal.SIGTERM, exit_handler)
     signal.signal(signal.SIGINT, exit_handler)
 
-    port = int(config.get("APP_PORT", "5206"))
-    host = config.get("APP_HOST", "0.0.0.0")
+    uvicorn.run(
+        "app.main:app",
+        host=settings.app_host,
+        port=settings.app_port,
+        log_level="info",
+    )
 
-    vtlog.info("Starting Grüezi API", port=port, host=host)
-    uvicorn.run(app, port=port, host=host, log_level="info")
+
+if __name__ == "__main__":
+    main()
